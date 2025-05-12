@@ -5,4 +5,6 @@
 <p>Děláno pomocí chatka deepseeku a spol.</p>
 <p>Případné nápady na zlepšení oceníme</p>
 <p>Made with <a href="https://github.com/StepikHybl">StepikHybl</a></p>
+
+
 ![image](https://github.com/user-attachments/assets/740a5781-599e-4263-b4fb-344f7e7c8e6e)
