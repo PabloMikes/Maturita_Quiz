@@ -6,5 +6,6 @@
 <p>Případné nápady na zlepšení oceníme</p>
 <p>Made with <a href="https://github.com/StepikHybl">StepikHybl</a></p>
 
+<p>Chatko in question:</p>
 
-![image](https://github.com/user-attachments/assets/740a5781-599e-4263-b4fb-344f7e7c8e6e)
+![image](https://github.com/user-attachments/assets/04d5d98f-8a3f-4840-9155-ea6fb49ec269)
