@@ -5,9 +5,9 @@ let selectedTopics = [];
 
 // Načtení otázek z JSON podle kategorie
 async function loadCategory(category) {
-  const res = await fetch('questions.json');
-  const data = await res.json();
-  questions = data[category];
+  const file = category === 'site' ? 'questions-site.json' : 'questions-java.json';
+  const res = await fetch(file);
+  questions = await res.json();
   correctCount = 0;
   totalCount = questions.length;
   document.getElementById('result').classList.add('hidden');
@@ -23,7 +23,7 @@ async function loadCategory(category) {
 }
 
 // Zobrazí výběr témat pro Sítě
-function startSelectedTopicsQuiz() {
+function showTopicSelection() {
   document.getElementById('topic-checkboxes').classList.remove('hidden');
   document.getElementById('start-selected-btn').classList.remove('hidden');
   
@@ -180,6 +180,8 @@ function shuffleArray(array) {
     [array[i], array[j]] = [array[j], array[i]];
   }
 }
+
+// Zbytek kódu (particles, space cats atd.) zůstává stejný
 
 // Interaktivní částicový systém
 const particlesContainer = document.querySelector('.particles');
