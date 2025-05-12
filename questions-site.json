@@ -1,552 +1,2719 @@
 [
+  {
+    "topic": "1. Vrstvové modely a základní dělení sítí",
+    "question": "Proč používáme vrstvové modely?",
+    "options": [
+      "Abychom zjednodušili hardware",
+      "Abychom rozdělili komunikaci na jednodušší podproblémy",
+      "Abychom zvýšili rychlost přenosu",
+      "Abychom eliminovali potřebu protokolů"
+    ],
+    "answer": "Abychom rozdělili komunikaci na jednodušší podproblémy"
+  },
+  {
+    "topic": "1. Vrstvové modely a základní dělení sítí",
+    "question": "Kolik vrstev má model ISO/OSI?",
+    "options": [
+      "4",
+      "5",
+      "7",
+      "9"
+    ],
+    "answer": "7"
+  },
+  {
+    "topic": "1. Vrstvové modely a základní dělení sítí",
+    "question": "Která vrstva modelu ISO/OSI zajišťuje fyzický přenos bitů?",
+    "options": [
+      "Linková vrstva",
+      "Síťová vrstva",
+      "Fyzická vrstva",
+      "Transportní vrstva"
+    ],
+    "answer": "Fyzická vrstva"
+  },
+  {
+    "topic": "1. Vrstvové modely a základní dělení sítí",
+    "question": "Co je hlavním úkolem linkové vrstvy?",
+    "options": [
+      "Směrování paketů",
+      "Přenos rámců mezi sousedními uzly",
+      "Šifrování dat",
+      "Segmentace dat"
+    ],
+    "answer": "Přenos rámců mezi sousedními uzly"
+  },
+  {
+    "topic": "1. Vrstvové modely a základní dělení sítí",
+    "question": "Který protokol na linkové vrstvě mapuje IP adresy na MAC adresy?",
+    "options": [
+      "ICMP",
+      "ARP",
+      "TCP",
+      "UDP"
+    ],
+    "answer": "ARP"
+  },
+  {
+    "topic": "1. Vrstvové modely a základní dělení sítí",
+    "question": "Co je hlavním úkolem síťové vrstvy?",
+    "options": [
+      "Přenos rámců",
+      "Směrování paketů přes mezilehlé uzly",
+      "Synchronizace dialogu",
+      "Transformace dat"
+    ],
+    "answer": "Směrování paketů přes mezilehlé uzly"
+  },
+  {
+    "topic": "1. Vrstvové modely a základní dělení sítí",
+    "question": "Který protokol transportní vrstvy je spojově orientovaný?",
+    "options": [
+      "UDP",
+      "ICMP",
+      "TCP",
+      "IP"
+    ],
+    "answer": "TCP"
+  },
+  {
+    "topic": "1. Vrstvové modely a základní dělení sítí",
+    "question": "Která vrstva modelu TCP/IP odpovídá fyzické a linkové vrstvě ISO/OSI?",
+    "options": [
+      "Aplikační vrstva",
+      "Transportní vrstva",
+      "Síťová vrstva",
+      "Vrstva síťového rozhraní"
+    ],
+    "answer": "Vrstva síťového rozhraní"
+  },
+  {
+    "topic": "1. Vrstvové modely a základní dělení sítí",
+    "question": "Jak se nazývá osobní síť podle rozlehlosti?",
+    "options": [
+      "LAN",
+      "MAN",
+      "WAN",
+      "PAN"
+    ],
+    "answer": "PAN"
+  },
+  {
+    "topic": "1. Vrstvové modely a základní dělení sítí",
+    "question": "Která topologie sítě je nejčastěji používána díky snadné rozšiřitelnosti?",
+    "options": [
+      "Sběrnicová",
+      "Hvězdicová",
+      "Kruhová",
+      "Stromová"
+    ],
+    "answer": "Hvězdicová"
+  },
+  {
+    "topic": "2. Strukturovaná kabeláž",
+    "question": "Co je strukturovaná kabeláž?",
+    "options": [
+      "Systém pro přenos pouze analogových signálů",
+      "Systém pro propojení uživatelů v síti pomocí metalických a optických prvků",
+      "Software pro správu sítí",
+      "Bezdrátová technologie"
+    ],
+    "answer": "Systém pro propojení uživatelů v síti pomocí metalických a optických prvků"
+  },
+  {
+    "topic": "2. Strukturovaná kabeláž",
+    "question": "Co je součástí strukturované kabeláže?",
+    "options": [
+      "Patch panely",
+      "Wi-Fi routery",
+      "Antény",
+      "Bluetooth adaptéry"
+    ],
+    "answer": "Patch panely"
+  },
+  {
+    "topic": "2. Strukturovaná kabeláž",
+    "question": "Co je hlavním cílem plánování strukturované kabeláže?",
+    "options": [
+      "Minimalizace počtu přípojných bodů",
+      "Zajistit škálovatelnost pro budoucí potřeby",
+      "Použití nejlevnějšího vybavení",
+      "Zamezit používání optických kabelů"
+    ],
+    "answer": "Zajistit škálovatelnost pro budoucí potřeby"
+  },
+  {
+    "topic": "2. Strukturovaná kabeláž",
+    "question": "Který typ kabelu patří mezi symetrická vedení?",
+    "options": [
+      "Koaxiální kabel",
+      "Kroucená dvojlinka",
+      "Optické vlákno",
+      "Napájecí kabel"
+    ],
+    "answer": "Kroucená dvojlinka"
+  },
+  {
+    "topic": "2. Strukturovaná kabeláž",
+    "question": "Proč je kroucená dvojlinka kroucená?",
+    "options": [
+      "Aby byla pružnější",
+      "Aby se snížilo elektromagnetické rušení",
+      "Aby se zvýšila rychlost přenosu",
+      "Aby byla levnější"
+    ],
+    "answer": "Aby se snížilo elektromagnetické rušení"
+  },
+  {
+    "topic": "2. Strukturovaná kabeláž",
+    "question": "Která kategorie UTP kabelu podporuje rychlost 10 Gbps?",
+    "options": [
+      "CAT5",
+      "CAT5e",
+      "CAT6a",
+      "CAT3"
+    ],
+    "answer": "CAT6a"
+  },
+  {
+    "topic": "2. Strukturovaná kabeláž",
+    "question": "Co je PoE (Power over Ethernet)?",
+    "options": [
+      "Technologie pro bezdrátový přenos energie",
+      "Napájení zařízení přes datový kabel",
+      "Šifrovací protokol",
+      "Metoda pro kompresi dat"
+    ],
+    "answer": "Napájení zařízení přes datový kabel"
+  },
+  {
+    "topic": "2. Strukturovaná kabeláž",
+    "question": "Který standard se používá pro seřazení vodičů v RJ45 konektoru?",
+    "options": [
+      "TIA-568-B",
+      "IEEE 802.3",
+      "ISO 27001",
+      "WPA2"
+    ],
+    "answer": "TIA-568-B"
+  },
+  {
+    "topic": "2. Strukturovaná kabeláž",
+    "question": "Co je jádrem optického vlákna?",
+    "options": [
+      "Vnější obal",
+      "Střed, kterým se přenášejí světelné signály",
+      "Plastová vrstva",
+      "Stínění"
+    ],
+    "answer": "Střed, kterým se přenášejí světelné signály"
+  },
+  {
+    "topic": "2. Strukturovaná kabeláž",
+    "question": "Který typ optického vlákna je vhodný pro delší vzdálenosti?",
+    "options": [
+      "Multi-mode",
+      "Single-mode",
+      "Gradient-index",
+      "Step-index"
+    ],
+    "answer": "Single-mode"
+  },
+  {
+    "topic": "3. Ethernet",
+    "question": "Které vrstvy pokrývá Ethernet v modelu ISO/OSI?",
+    "options": [
+      "Síťová a transportní",
+      "Fyzická a linková",
+      "Prezentační a aplikační",
+      "Relační a transportní"
+    ],
+    "answer": "Fyzická a linková"
+  },
+  {
+    "topic": "3. Ethernet",
+    "question": "Co je účelem preambule v ethernetovém rámci?",
+    "options": [
+      "Kontrola chyb",
+      "Synchronizace hodin příjemce",
+      "Určení cílové adresy",
+      "Komprese dat"
+    ],
+    "answer": "Synchronizace hodin příjemce"
+  },
+  {
+    "topic": "3. Ethernet",
+    "question": "Jaká je délka MAC adresy?",
+    "options": [
+      "32 bitů",
+      "48 bitů",
+      "64 bitů",
+      "128 bitů"
+    ],
+    "answer": "48 bitů"
+  },
+  {
+    "topic": "3. Ethernet",
+    "question": "Co je SFD v ethernetovém rámci?",
+    "options": [
+      "Cílová adresa",
+      "Oddělovač začátku rámce",
+      "Kontrolní součet",
+      "Typ protokolu"
+    ],
+    "answer": "Oddělovač začátku rámce"
+  },
+  {
+    "topic": "3. Ethernet",
+    "question": "Co znamená zkratka CSMA/CD?",
+    "options": [
+      "Carrier Sense Multiple Access/Collision Detection",
+      "Collision Sense Media Access/Control Detection",
+      "Carrier Sense Media Access/Collision Defense",
+      "Control Sense Multiple Access/Collision Detection"
+    ],
+    "answer": "Carrier Sense Multiple Access/Collision Detection"
+  },
+  {
+    "topic": "3. Ethernet",
+    "question": "Který standard Ethernetu používá kroucenou dvojlinku s rychlostí 10 Mbps?",
+    "options": [
+      "10BASE5",
+      "10BASE-T",
+      "100BASE-FX",
+      "1000BASE-T"
+    ],
+    "answer": "10BASE-T"
+  },
+  {
+    "topic": "3. Ethernet",
+    "question": "Co je úkolem protokolu ARP?",
+    "options": [
+      "Přenos dat mezi uzly",
+      "Mapování IP adres na MAC adresy",
+      "Šifrování komunikace",
+      "Synchronizace času"
+    ],
+    "answer": "Mapování IP adres na MAC adresy"
+  },
+  {
+    "topic": "3. Ethernet",
+    "question": "Jaký je rozdíl mezi hubem a switchem?",
+    "options": [
+      "Hub posílá data pouze žadateli, switch všem",
+      "Switch posílá data pouze žadateli, hub všem",
+      "Hub je rychlejší než switch",
+      "Switch je levnější než hub"
+    ],
+    "answer": "Switch posílá data pouze žadateli, hub všem"
+  },
+  {
+    "topic": "3. Ethernet",
+    "question": "Která metoda switche zkoumá celý rámec před odesláním?",
+    "options": [
+      "Cut-through",
+      "Store and forward",
+      "Fragment free",
+      "Adaptive switching"
+    ],
+    "answer": "Store and forward"
+  },
+  {
+    "topic": "3. Ethernet",
+    "question": "Jaká je maximální rychlost nejnovějšího standardu Ethernetu?",
+    "options": [
+      "100 Mbps",
+      "1 Gbps",
+      "400 Gbps",
+      "10 Gbps"
+    ],
+    "answer": "400 Gbps"
+  },
+  {
+    "topic": "4. Bezdrátový přenos",
+    "question": "Co je hlavní výhodou bezdrátového přenosu?",
+    "options": [
+      "Vyšší rychlost než kabelový přenos",
+      "Nepotřeba kabelů",
+      "Absolutní bezpečnost",
+      "Neomezený dosah"
+    ],
+    "answer": "Nepotřeba kabelů"
+  },
+  {
+    "topic": "4. Bezdrátový přenos",
+    "question": "Který standard definuje Wi-Fi?",
+    "options": [
+      "IEEE 802.3",
+      "IEEE 802.11",
+      "IEEE 802.15.1",
+      "IEEE 802.1X"
+    ],
+    "answer": "IEEE 802.11"
+  },
+  {
+    "topic": "4. Bezdrátový přenos",
+    "question": "Jaké frekvenční pásmo používá Bluetooth?",
+    "options": [
+      "5 GHz",
+      "2.4 GHz",
+      "3.5 GHz",
+      "60 GHz"
+    ],
+    "answer": "2.4 GHz"
+  },
+  {
+    "topic": "4. Bezdrátový přenos",
+    "question": "Co je vlnová délka?",
+    "options": [
+      "Rychlost šíření signálu",
+      "Vzdálenost mezi dvěma nejbližšími body vlnění",
+      "Počet kmitů za sekundu",
+      "Šířka pásma"
+    ],
+    "answer": "Vzdálenost mezi dvěma nejbližšími body vlnění"
+  },
+  {
+    "topic": "4. Bezdrátový přenos",
+    "question": "Které pásmo Wi-Fi má větší dosah?",
+    "options": [
+      "5 GHz",
+      "2.4 GHz",
+      "60 GHz",
+      "3.5 GHz"
+    ],
+    "answer": "2.4 GHz"
+  },
+  {
+    "topic": "4. Bezdrátový přenos",
+    "question": "Co je Fresnelova zóna?",
+    "options": [
+      "Oblast kolem antény bez rušení",
+      "Rotační elipsoid kolem spojnice antén",
+      "Frekvenční pásmo Wi-Fi",
+      "Šifrovací metoda"
+    ],
+    "answer": "Rotační elipsoid kolem spojnice antén"
+  },
+  {
+    "topic": "4. Bezdrátový přenos",
+    "question": "Co znamená CSMA/CA?",
+    "options": [
+      "Collision Sense Multiple Access/Control Avoidance",
+      "Carrier Sense Multiple Access/Collision Avoidance",
+      "Carrier Sense Media Access/Control Avoidance",
+      "Collision Sense Media Access/Collision Avoidance"
+    ],
+    "answer": "Carrier Sense Multiple Access/Collision Avoidance"
+  },
+  {
+    "topic": "4. Bezdrátový přenos",
+    "question": "Který šifrovací protokol je nejnovější pro Wi-Fi?",
+    "options": [
+      "WEP",
+      "WPA",
+      "WPA2",
+      "WPA3"
+    ],
+    "answer": "WPA3"
+  },
+  {
+    "topic": "4. Bezdrátový přenos",
+    "question": "Co je Infrastructure mód Wi-Fi sítě?",
+    "options": [
+      "Přímá komunikace mezi klienty",
+      "Síť s centrálním přístupovým bodem",
+      "Síť bez šifrování",
+      "Ad-hoc komunikace"
+    ],
+    "answer": "Síť s centrálním přístupovým bodem"
+  },
+  {
+    "topic": "4. Bezdrátový přenos",
+    "question": "Co je RTS/CTS?",
+    "options": [
+      "Metoda pro detekci kolizí",
+      "Požadavek a povolení pro vysílání",
+      "Šifrovací protokol",
+      "Synchronizace času"
+    ],
+    "answer": "Požadavek a povolení pro vysílání"
+  },
+  {
+    "topic": "5. Síťová vrstva",
+    "question": "Co je hlavním úkolem síťové vrstvy?",
+    "options": [
+      "Přenos rámců",
+      "Směrování paketů",
+      "Šifrování dat",
+      "Synchronizace dialogu"
+    ],
+    "answer": "Směrování paketů"
+  },
+  {
+    "topic": "5. Síťová vrstva",
+    "question": "Který protokol je základním protokolem síťové vrstvy?",
+    "options": [
+      "TCP",
+      "IP",
+      "UDP",
+      "FTP"
+    ],
+    "answer": "IP"
+  },
+  {
+    "topic": "5. Síťová vrstva",
+    "question": "Co je PDU síťové vrstvy?",
+    "options": [
+      "Segment",
+      "Rámec",
+      "Paket",
+      "Bit"
+    ],
+    "answer": "Paket"
+  },
+  {
+    "topic": "5. Síťová vrstva",
+    "question": "Jaká je délka hlavičky IPv4 bez dat?",
+    "options": [
+      "20 bajtů",
+      "40 bajtů",
+      "16 bajtů",
+      "32 bajtů"
+    ],
+    "answer": "20 bajtů"
+  },
+  {
+    "topic": "5. Síťová vrstva",
+    "question": "Co znamená TTL v IPv4 hlavičce?",
+    "options": [
+      "Typ protokolu",
+      "Čas života paketu",
+      "Kontrolní součet",
+      "Cílová adresa"
+    ],
+    "answer": "Čas života paketu"
+  },
+  {
+    "topic": "5. Síťová vrstva",
+    "question": "Jaká je délka adresy v IPv6?",
+    "options": [
+      "32 bitů",
+      "64 bity",
+      "128 bitů",
+      "48 bitů"
+    ],
+    "answer": "128 bitů"
+  },
+  {
+    "topic": "5. Síťová vrstva",
+    "question": "Co je CIDR?",
+    "options": [
+      "Šifrovací metoda",
+      "Způsob zápisu velikosti sítě",
+      "Protokol pro směrování",
+      "Typ kabelu"
+    ],
+    "answer": "Způsob zápisu velikosti sítě"
+  },
+  {
+    "topic": "5. Síťová vrstva",
+    "question": "Které zařízení primárně pracuje na síťové vrstvě?",
+    "options": [
+      "Hub",
+      "Switch",
+      "Router",
+      "Bridge"
+    ],
+    "answer": "Router"
+  },
+  {
+    "topic": "5. Síťová vrstva",
+    "question": "Co je úkolem protokolu ICMP?",
+    "options": [
+      "Mapování MAC adres",
+      "Zasílání zpráv o chybách",
+      "Přenos dat",
+      "Šifrování komunikace"
+    ],
+    "answer": "Zasílání zpráv o chybách"
+  },
+  {
+    "topic": "5. Síťová vrstva",
+    "question": "Co je směrování?",
+    "options": [
+      "Přenos rámců mezi sousedními uzly",
+      "Hledání cesty od odesílatele k příjemci",
+      "Komprese dat",
+      "Synchronizace času"
+    ],
+    "answer": "Hledání cesty od odesílatele k příjemci"
+  },
+  {
+    "topic": "6. Kyberbezpečnost – kybernetické útoky",
+    "question": "Co je cílem DoS útoku?",
+    "options": [
+      "Získání přihlašovacích údajů",
+      "Omezení nebo vyřazení služby",
+      "Šifrování dat",
+      "Změna topologie sítě"
+    ],
+    "answer": "Omezení nebo vyřazení služby"
+  },
+  {
+    "topic": "6. Kyberbezpečnost – kybernetické útoky",
+    "question": "Co je Switch spoofing?",
+    "options": [
+      "Útok na Wi-Fi síť",
+      "Útočník předstírá, že je switch",
+      "Zneužití e-mailové komunikace",
+      "Lámání hesel"
+    ],
+    "answer": "Útočník předstírá, že je switch"
+  },
+  {
+    "topic": "6. Kyberbezpečnost – kybernetické útoky",
+    "question": "Co je Deauthentication útok?",
+    "options": [
+      "Opakované odpojování uživatele od Wi-Fi",
+      "Zneužití SQL databáze",
+      "Získání MAC adresy",
+      "Komprese dat"
+    ],
+    "answer": "Opakované odpojování uživatele od Wi-Fi"
+  },
+  {
+    "topic": "6. Kyberbezpečnost – kybernetické útoky",
+    "question": "Co je MITM útok?",
+    "options": [
+      "Útok na fyzickou vrstvu",
+      "Naslouchání komunikace mezi serverem a klientem",
+      "Zneužití e-mailu",
+      "Zahltit server požadavky"
+    ],
+    "answer": "Naslouchání komunikace mezi serverem a klientem"
+  },
+  {
+    "topic": "6. Kyberbezpečnost – kybernetické útoky",
+    "question": "Co je Phishing?",
+    "options": [
+      "Útok na SQL databázi",
+      "Vydávání se za autoritu k získání údajů",
+      "Útok na Wi-Fi přístupový bod",
+      "Lámání hesel"
+    ],
+    "answer": "Vydávání se za autoritu k získání údajů"
+  },
+  {
+    "topic": "6. Kyberbezpečnost – kybernetické útoky",
+    "question": "Co je SQL injection?",
+    "options": [
+      "Zneužití špatně zabezpečené aplikace k manipulaci s databází",
+      "Útok na e-mailovou komunikaci",
+      "Zahltit server požadavky",
+      "Mapování MAC adres"
+    ],
+    "answer": "Zneužití špatně zabezpečené aplikace k manipulaci s databází"
+  },
+  {
+    "topic": "6. Kyberbezpečnost – kybernetické útoky",
+    "question": "Co je Smurf attack?",
+    "options": [
+      "Útok na Wi-Fi síť",
+      "Využití broadcastu se spoofingem adresy",
+      "Lámání hesel",
+      "Útok na SQL databázi"
+    ],
+    "answer": "Využití broadcastu se spoofingem adresy"
+  },
+  {
+    "topic": "6. Kyberbezpečnost – kybernetické útoky",
+    "question": "Co je DNS amplification?",
+    "options": [
+      "Zneužití špatně nakonfigurovaného DNS serveru",
+      "Útok na fyzickou vrstvu",
+      "Získání přihlašovacích údajů",
+      "Komprese dat"
+    ],
+    "answer": "Zneužití špatně nakonfigurovaného DNS serveru"
+  },
+  {
+    "topic": "6. Kyberbezpečnost – kybernetické útoky",
+    "question": "Co je cílem Probe request flooding?",
+    "options": [
+      "Získání MAC adresy",
+      "Zahlcení přístupového bodu dotazy",
+      "Šifrování komunikace",
+      "Změna topologie sítě"
+    ],
+    "answer": "Zahlcení přístupového bodu dotazy"
+  },
+  {
+    "topic": "6. Kyberbezpečnost – kybernetické útoky",
+    "question": "Co je KRACK útok?",
+    "options": [
+      "Zneužití SQL databáze",
+      "Útok na autentizaci klienta při handshake",
+      "Útok na e-mailovou komunikaci",
+      "Zahltit server požadavky"
+    ],
+    "answer": "Útok na autentizaci klienta při handshake"
+  },
+  {
+    "topic": "7. Směrování – směrovací protokol RIP",
+    "question": "Ke kterému typu protokolů patří RIP?",
+    "options": [
+      "Link state",
+      "Distance vector",
+      "Hybridní",
+      "Path vector"
+    ],
+    "answer": "Distance vector"
+  },
+  {
+    "topic": "7. Směrování – směrovací protokol RIP",
+    "question": "Jaký je maximální počet hopů u RIP?",
+    "options": [
+      "10",
+      "15",
+      "20",
+      "25"
+    ],
+    "answer": "15"
+  },
+  {
+    "topic": "7. Směrování – směrovací protokol RIP",
+    "question": "Co dělá router s RIP po zapojení do sítě?",
+    "options": [
+      "Pošle broadcast s daty",
+      "Pošle request na routovací tabulky",
+      "Zahájí šifrování",
+      "Změní topologii sítě"
+    ],
+    "answer": "Pošle request na routovací tabulky"
+  },
+  {
+    "topic": "7. Směrování – směrovací protokol RIP",
+    "question": "Jak často RIP aktualizuje routovací tabulky?",
+    "options": [
+      "Každých 10 sekund",
+      "Každých 30 sekund",
+      "Každých 60 sekund",
+      "Každých 120 sekund"
+    ],
+    "answer": "Každých 30 sekund"
+  },
+  {
+    "topic": "7. Směrování – směrovací protokol RIP",
+    "question": "Co je Invalid Timer u RIP?",
+    "options": [
+      "Čas pro odeslání dat",
+      "Čas, po kterém je záznam označen jako neplatný",
+      "Čas pro šifrování",
+      "Čas pro změnu topologie"
+    ],
+    "answer": "Čas, po kterém je záznam označen jako neplatný"
+  },
+  {
+    "topic": "7. Směrování – směrovací protokol RIP",
+    "question": "Co je Split Horizon?",
+    "options": [
+      "Technika pro šifrování dat",
+      "Zákaz posílání informací o cestě zpět na zdroj",
+      "Metoda pro kompresi dat",
+      "Technika pro synchronizaci času"
+    ],
+    "answer": "Zákaz posílání informací o cestě zpět na zdroj"
+  },
+  {
+    "topic": "7. Směrování – směrovací protokol RIP",
+    "question": "Co je Reverse Cache Poison?",
+    "options": [
+      "Záměrná propagace cesty s metrikou 16",
+      "Technika pro změnu topologie",
+      "Metoda pro šifrování dat",
+      "Způsob mapování adres"
+    ],
+    "answer": "Záměrná propagace cesty s metrikou 16"
+  },
+  {
+    "topic": "7. Směrování – směrovací protokol RIP",
+    "question": "Která verze RIP podporuje VLSM?",
+    "options": [
+      "RIPv1",
+      "RIPv2",
+      "RIPng",
+      "Žádná"
+    ],
+    "answer": "RIPv2"
+  },
+  {
+    "topic": "7. Směrování – směrovací protokol RIP",
+    "question": "Co je Triggered Update?",
+    "options": [
+      "Pravidelná aktualizace tabulek",
+      "Okamžitá aktualizace při změně topologie",
+      "Šifrovací metoda",
+      "Synchronizace času"
+    ],
+    "answer": "Okamžitá aktualizace při změně topologie"
+  },
+  {
+    "topic": "7. Směrování – směrovací protokol RIP",
+    "question": "Jaký port používá RIP?",
+    "options": [
+      "80",
+      "443",
+      "520",
+      "8080"
+    ],
+    "answer": "520"
+  },
+  {
+    "topic": "8. Směrování – směrovací protokoly OSPF a BGP",
+    "question": "Ke kterému typu protokolů patří OSPF?",
+    "options": [
+      "Distance vector",
+      "Link state",
+      "Path vector",
+      "Hybridní"
+    ],
+    "answer": "Link state"
+  },
+  {
+    "topic": "8. Směrování – směrovací protokoly OSPF a BGP",
+    "question": "Jaký algoritmus používá OSPF pro výpočet cest?",
+    "options": [
+      "Bellman-Ford",
+      "Dijkstra",
+      "Kruskal",
+      "Prim"
+    ],
+    "answer": "Dijkstra"
+  },
+  {
+    "topic": "8. Směrování – směrovací protokoly OSPF a BGP",
+    "question": "Co je metrikou v OSPF?",
+    "options": [
+      "Počet hopů",
+      "Cost (vypočítaný z šířky pásma)",
+      "Latence",
+      "Ztráta paketů"
+    ],
+    "answer": "Cost (vypočítaný z šířky pásma)"
+  },
+  {
+    "topic": "8. Směrování – směrovací protokoly OSPF a BGP",
+    "question": "Co je Backbone Area v OSPF?",
+    "options": [
+      "Oblast pro malé sítě",
+      "Páteřní oblast spojující ostatní oblasti",
+      "Oblast bez směrovačů",
+      "Oblast pro šifrování"
+    ],
+    "answer": "Páteřní oblast spojující ostatní oblasti"
+  },
+  {
+    "topic": "8. Směrování – směrovací protokoly OSPF a BGP",
+    "question": "Který typ routeru spojuje OSPF doménu s jiným AS?",
+    "options": [
+      "DR",
+      "BDR",
+      "ABR",
+      "ASBR"
+    ],
+    "answer": "ASBR"
+  },
+  {
+    "topic": "8. Směrování – směrovací protokoly OSPF a BGP",
+    "question": "Kde se používá protokol BGP?",
+    "options": [
+      "V lokálních sítích",
+      "Mezi autonomními systémy",
+      "V osobních sítích",
+      "V bezdrátových sítích"
+    ],
+    "answer": "Mezi autonomními systémy"
+  },
+  {
+    "topic": "8. Směrování – směrovací protokoly OSPF a BGP",
+    "question": "Co je BGP speaker?",
+    "options": [
+      "Router s BGP protokolem",
+      "Server pro šifrování",
+      "Zařízení pro kompresi dat",
+      "Switch pro směrování"
+    ],
+    "answer": "Router s BGP protokolem"
+  },
+  {
+    "topic": "8. Směrování – směrovací protokoly OSPF a BGP",
+    "question": "Jak často BGP posílá keepalive zprávy?",
+    "options": [
+      "Každých 10 sekund",
+      "Každých 30 sekund",
+      "Každých 60 sekund",
+      "Každých 120 sekund"
+    ],
+    "answer": "Každých 60 sekund"
+  },
+  {
+    "topic": "8. Směrování – směrovací protokoly OSPF a BGP",
+    "question": "Co je LSA v OSPF?",
+    "options": [
+      "Šifrovací metoda",
+      "Informace o topologii sítě",
+      "Mapování adres",
+      "Synchronizace času"
+    ],
+    "answer": "Informace o topologii sítě"
+  },
+  {
+    "topic": "8. Směrování – směrovací protokoly OSPF a BGP",
+    "question": "Co je Totally Stubby Area v OSPF?",
+    "options": [
+      "Oblast bez defaultní cesty",
+      "Oblast s omezenými cestami mimo oblast",
+      "Oblast pro malé sítě",
+      "Oblast bez směrovačů"
+    ],
+    "answer": "Oblast s omezenými cestami mimo oblast"
+  },
+  {
+    "topic": "9. Transportní vrstva",
+    "question": "Co je hlavním úkolem transportní vrstvy?",
+    "options": [
+      "Směrování paketů",
+      "Zajištění spolehlivosti přenosu",
+      "Fyzický přenos bitů",
+      "Šifrování dat"
+    ],
+    "answer": "Zajištění spolehlivosti přenosu"
+  },
+  {
+    "topic": "9. Transportní vrstva",
+    "question": "Který protokol transportní vrstvy je nespojový?",
+    "options": [
+      "TCP",
+      "UDP",
+      "IP",
+      "ICMP"
+    ],
+    "answer": "UDP"
+  },
+  {
+    "topic": "9. Transportní vrstva",
+    "question": "Co je port v transportní vrstvě?",
+    "options": [
+      "Fyzické rozhraní",
+      "16-bitové číslo pro identifikaci aplikace",
+      "Šifrovací klíč",
+      "Adresa routeru"
+    ],
+    "answer": "16-bitové číslo pro identifikaci aplikace"
+  },
+  {
+    "topic": "9. Transportní vrstva",
+    "question": "Jaký je rozsah čísel portů?",
+    "options": [
+      "1–1023",
+      "1–65535",
+      "1024–49151",
+      "49152–65535"
+    ],
+    "answer": "1–65535"
+  },
+  {
+    "topic": "9. Transportní vrstva",
+    "question": "Co je PDU transportní vrstvy pro TCP?",
+    "options": [
+      "Paket",
+      "Rámec",
+      "Segment",
+      "Bit"
+    ],
+    "answer": "Segment"
+  },
+  {
+    "topic": "9. Transportní vrstva",
+    "question": "Co je třícestný handshake v TCP?",
+    "options": [
+      "Ukončení spojení",
+      "Navázání spojení",
+      "Komprese dat",
+      "Šifrování komunikace"
+    ],
+    "answer": "Navázání spojení"
+  },
+  {
+    "topic": "9. Transportní vrstva",
+    "question": "Který příznak TCP žádá o navázání spojení?",
+    "options": [
+      "ACK",
+      "FIN",
+      "SYN",
+      "RST"
+    ],
+    "answer": "SYN"
+  },
+  {
+    "topic": "9. Transportní vrstva",
+    "question": "Co je výhodou UDP oproti TCP?",
+    "options": [
+      "Spolehlivost",
+      "Rychlost",
+      "Šifrování",
+      "Komprese dat"
+    ],
+    "answer": "Rychlost"
+  },
+  {
+    "topic": "9. Transportní vrstva",
+    "question": "Který protokol používá DNS?",
+    "options": [
+      "TCP pouze",
+      "UDP pouze",
+      "TCP i UDP",
+      "ICMP"
+    ],
+    "answer": "TCP i UDP"
+  },
+  {
+    "topic": "9. Transportní vrstva",
+    "question": "Co znamená full-duplex v TCP?",
+    "options": [
+      "Pouze odesílání dat",
+      "Současné odesílání a příjem dat",
+      "Pouze příjem dat",
+      "Komprese dat"
+    ],
+    "answer": "Současné odesílání a příjem dat"
+  },
+  {
+    "topic": "10. Windows Server",
+    "question": "Co je HAL ve Windows Serveru?",
+    "options": [
+      "Grafické rozhraní",
+      "Vrstva pro spolupráci s hardwarem",
+      "Síťový protokol",
+      "Šifrovací metoda"
+    ],
+    "answer": "Vrstva pro spolupráci s hardwarem"
+  },
+  {
+    "topic": "10. Windows Server",
+    "question": "Co je role ve Windows Serveru?",
+    "options": [
+      "Sada nástrojů pro správu",
+      "Komplexní služba pro uživatele",
+      "Proces na pozadí",
+      "Grafické rozhraní"
+    ],
+    "answer": "Komplexní služba pro uživatele"
+  },
+  {
+    "topic": "10. Windows Server",
+    "question": "Co je třeba zvážit před instalací Windows Serveru?",
+    "options": [
+      "Počet připojených uživatelů",
+      "Barvu serveru",
+      "Typ antény",
+      "Rychlost Wi-Fi"
+    ],
+    "answer": "Počet připojených uživatelů"
+  },
+  {
+    "topic": "10. Windows Server",
+    "question": "Která edice Windows Serveru je nejlevnější?",
+    "options": [
+      "Standard",
+      "Datacenter",
+      "Essentials",
+      "Hyper-V"
+    ],
+    "answer": "Essentials"
+  },
+  {
+    "topic": "10. Windows Server",
+    "question": "Co je výhodou textového režimu Windows Serveru?",
+    "options": [
+      "Vyšší rychlost sítě",
+      "Menší spotřeba systémových prostředků",
+      "Lepší grafické rozhraní",
+      "Vyšší bezpečnost"
+    ],
+    "answer": "Menší spotřeba systémových prostředků"
+  },
+  {
+    "topic": "10. Windows Server",
+    "question": "Co je Server Manager?",
+    "options": [
+      "Nástroj pro instalaci rolí a funkcí",
+      "Šifrovací software",
+      "Síťový protokol",
+      "Hardware pro servery"
+    ],
+    "answer": "Nástroj pro instalaci rolí a funkcí"
+  },
+  {
+    "topic": "10. Windows Server",
+    "question": "Co je funkce ve Windows Serveru?",
+    "options": [
+      "Komplexní služba",
+      "Sada nástrojů pro správu",
+      "Proces na pozadí",
+      "Grafické rozhraní"
+    ],
+    "answer": "Sada nástrojů pro správu"
+  },
+  {
+    "topic": "10. Windows Server",
+    "question": "Která role umožňuje dynamické přidělování IP adres?",
+    "options": [
+      "DNS",
+      "DHCP",
+      "IIS",
+      "AD"
+    ],
+    "answer": "DHCP"
+  },
+  {
+    "topic": "10. Windows Server",
+    "question": "Co je třeba nastavit při instalaci DHCP serveru?",
+    "options": [
+      "Pevnou IP adresu serveru",
+      "Wi-Fi kanál",
+      "Šifrovací klíč",
+      "Vlnovou délku"
+    ],
+    "answer": "Pevnou IP adresu serveru"
+  },
+  {
+    "topic": "10. Windows Server",
+    "question": "Co je RSAT?",
+    "options": [
+      "Vzdálené ovládání serveru",
+      "Šifrovací protokol",
+      "Síťový kabel",
+      "Grafické rozhraní"
+    ],
+    "answer": "Vzdálené ovládání serveru"
+  },
+  {
+    "topic": "11. Autentifikace a důvěra v systémech AD",
+    "question": "Který protokol je prioritně používán v Active Directory pro autentifikaci?",
+    "options": [
+      "NTLM",
+      "Kerberos",
+      "LDAP",
+      "ICMP"
+    ],
+    "answer": "Kerberos"
+  },
+  {
+    "topic": "11. Autentifikace a důvěra v systémech AD",
+    "question": "Co je podmínkou pro fungování Single Sign-On (SSO) v AD?",
+    "options": [
+      "Vytvoření vztahu důvěry mezi stanicí a doménou",
+      "Použití symetrického šifrování",
+      "Zakázání Kerberos protokolu",
+      "Lokální uložení hesel"
+    ],
+    "answer": "Vytvoření vztahu důvěry mezi stanicí a doménou"
+  },
+  {
+    "topic": "11. Autentifikace a důvěra v systémech AD",
+    "question": "Co zajišťuje Windows Vault?",
+    "options": [
+      "Šifrování síťové komunikace",
+      "Uložení přihlašovacích údajů pro služby bez AD ověření",
+      "Správu doménových řadičů",
+      "Synchronizaci času"
+    ],
+    "answer": "Uložení přihlašovacích údajů pro služby bez AD ověření"
+  },
+  {
+    "topic": "11. Autentifikace a důvěra v systémech AD",
+    "question": "Proč je Kerberos závislý na synchronizaci času?",
+    "options": [
+      "Tickety mají krátkou životnost",
+      "Hesla se pravidelně mění",
+      "Šifrování vyžaduje časové razítko",
+      "Doménové řadiče komunikují v reálném čase"
+    ],
+    "answer": "Tickety mají krátkou životnost"
+  },
+  {
+    "topic": "11. Autentifikace a důvěra v systémech AD",
+    "question": "Co je TGT v protokolu Kerberos?",
+    "options": [
+      "Šifrovací klíč pro server",
+      "Ticket Granting Ticket pro komunikaci s TGS",
+      "Databáze hesel",
+      "Autentikátor pro klienta"
+    ],
+    "answer": "Ticket Granting Ticket pro komunikaci s TGS"
+  },
+  {
+    "topic": "11. Autentifikace a důvěra v systémech AD",
+    "question": "Která složka Kerberos zajišťuje funkce AS a TGS?",
+    "options": [
+      "KDC (Key Distribution Center)",
+      "SS (Servisní středisko)",
+      "PDC (Primary Domain Controller)",
+      "SAM (Security Account Manager)"
+    ],
+    "answer": "KDC (Key Distribution Center)"
+  },
+  {
+    "topic": "11. Autentifikace a důvěra v systémech AD",
+    "question": "Co se stane, pokud klient zadá špatné heslo při autentifikaci Kerberos?",
+    "options": [
+      "Komunikace pokračuje bez ověření",
+      "Proces ověření skončí při dešifrování Klient/TGS session key",
+      "Server odešle nový ticket",
+      "Heslo se automaticky resetuje"
+    ],
+    "answer": "Proces ověření skončí při dešifrování Klient/TGS session key"
+  },
+  {
+    "topic": "12. Active Directory",
+    "question": "Co je Active Directory?",
+    "options": [
+      "Protokol pro přenos dat",
+      "Řešení pro správu uživatelů a zařízení v síti",
+      "Systém pro šifrování komunikace",
+      "Nástroj pro konfiguraci DNS"
+    ],
+    "answer": "Řešení pro správu uživatelů a zařízení v síti"
+  },
+  {
+    "topic": "12. Active Directory",
+    "question": "Jaký protokol je základem Active Directory?",
+    "options": [
+      "HTTP",
+      "LDAP",
+      "SMTP",
+      "ICMP"
+    ],
+    "answer": "LDAP"
+  },
+  {
+    "topic": "12. Active Directory",
+    "question": "Co je nejvyšší logickou jednotkou v Active Directory?",
+    "options": [
+      "Organizační jednotka",
+      "Doménový les",
+      "Doménový řadič",
+      "Site"
+    ],
+    "answer": "Doménový les"
+  },
+  {
+    "topic": "12. Active Directory",
+    "question": "Který výchozí kontejner obsahuje doménové řadiče?",
+    "options": [
+      "Users",
+      "Computers",
+      "Domain Controllers",
+      "Builtin"
+    ],
+    "answer": "Domain Controllers"
+  },
+  {
+    "topic": "12. Active Directory",
+    "question": "Co spravuje Schema Master v AD?",
+    "options": [
+      "Přidělování IP adres",
+      "Celé schéma Active Directory",
+      "Vztahy důvěry mezi doménami",
+      "Synchronizaci času"
+    ],
+    "answer": "Celé schéma Active Directory"
+  },
+  {
+    "topic": "12. Active Directory",
+    "question": "Který typ skupiny slouží k doručování zpráv?",
+    "options": [
+      "Zabezpečovací",
+      "Distribuční",
+      "Univerzální",
+      "Místní doménová"
+    ],
+    "answer": "Distribuční"
+  },
+  {
+    "topic": "12. Active Directory",
+    "question": "Co jsou zděděná oprávnění v AD?",
+    "options": [
+      "Oprávnění nastavená manuálně",
+      "Oprávnění převzatá z rodičovského objektu",
+      "Oprávnění pro doménové řadiče",
+      "Oprávnění pro šifrování"
+    ],
+    "answer": "Oprávnění převzatá z rodičovského objektu"
+  },
+  {
+    "topic": "12. Active Directory",
+    "question": "Jak lze zakázat zděděná oprávnění?",
+    "options": [
+      "Properties > Security > Advanced > Disable Inheritance",
+      "Group Policy Management > Enforce",
+      "Active Directory Users and Computers > Delete",
+      "Server Manager > Remove Role"
+    ],
+    "answer": "Properties > Security > Advanced > Disable Inheritance"
+  },
+  {
+    "topic": "12. Active Directory",
+    "question": "Co je cestovní profil uživatele?",
+    "options": [
+      "Profil uložený na lokálním počítači",
+      "Profil dostupný na všech počítačích v doméně",
+      "Profil pro šifrování dat",
+      "Profil pro správu hesel"
+    ],
+    "answer": "Profil dostupný na všech počítačích v doméně"
+  },
+  {
+    "topic": "12. Active Directory",
+    "question": "Kde se ukládají skripty pro přiřazení uživatelům v AD?",
+    "options": [
+      "C:\\Windows\\SYSVOL\\sysvol\\doména\\scripts",
+      "C:\\users\\appdata\\credentials",
+      "%windir%\\system32\\config",
+      "C:\\Windows\\Policies"
+    ],
+    "answer": "C:\\Windows\\SYSVOL\\sysvol\\doména\\scripts"
+  },
+  {
+    "topic": "13. DNS – Windows",
+    "question": "K čemu slouží DNS server?",
+    "options": [
+      "Přidělování IP adres",
+      "Překlad doménových jmen na IP adresy",
+      "Šifrování komunikace",
+      "Správa uživatelských účtů"
+    ],
+    "answer": "Překlad doménových jmen na IP adresy"
+  },
+  {
+    "topic": "13. DNS – Windows",
+    "question": "Kolik je logických kořenových serverů DNS?",
+    "options": [
+      "7",
+      "13",
+      "20",
+      "100"
+    ],
+    "answer": "13"
+  },
+  {
+    "topic": "13. DNS – Windows",
+    "question": "Který protokol používá DNS pro dotazy mezi serverem a uživatelem?",
+    "options": [
+      "TCP port 53",
+      "UDP port 53",
+      "HTTP port 80",
+      "ICMP port 1"
+    ],
+    "answer": "UDP port 53"
+  },
+  {
+    "topic": "13. DNS – Windows",
+    "question": "Co obsahuje dopředná zóna DNS?",
+    "options": [
+      "Překlad IP adres na doménová jména",
+      "Překlad doménových jmen na IP adresy",
+      "Šifrovací klíče",
+      "Synchronizační data"
+    ],
+    "answer": "Překlad doménových jmen na IP adresy"
+  },
+  {
+    "topic": "13. DNS – Windows",
+    "question": "Který DNS záznam slouží pro překlad IP adres na doménová jména?",
+    "options": [
+      "A",
+      "MX",
+      "PTR",
+      "CNAME"
+    ],
+    "answer": "PTR"
+  },
+  {
+    "topic": "13. DNS – Windows",
+    "question": "Co je SOA záznam v DNS?",
+    "options": [
+      "Záznam o e-mailovém serveru",
+      "Začátek zóny s informacemi o serveru a správci",
+      "Alias pro jiný záznam",
+      "Záznam o šifrovacím klíči"
+    ],
+    "answer": "Začátek zóny s informacemi o serveru a správci"
+  },
+  {
+    "topic": "13. DNS – Windows",
+    "question": "Co je účelem rekurzivního vyhledávání v DNS?",
+    "options": [
+      "Šifrování dotazů",
+      "Procházení DNS stromu k nalezení odpovědi",
+      "Přidělování IP adres",
+      "Správa hesel"
+    ],
+    "answer": "Procházení DNS stromu k nalezení odpovědi"
+  },
+  {
+    "topic": "13. DNS – Windows",
+    "question": "Co je autoritativní DNS server?",
+    "options": [
+      "Server, který ukládá dotazy do cache",
+      "Server, který obsluhuje konkrétní část DNS stromu",
+      "Server pro šifrování komunikace",
+      "Server pro správu domén"
+    ],
+    "answer": "Server, který obsluhuje konkrétní část DNS stromu"
+  },
+  {
+    "topic": "13. DNS – Windows",
+    "question": "Co je Zone Transfer v DNS?",
+    "options": [
+      "Přenos dat mezi primárním a sekundárním serverem",
+      "Šifrování DNS dotazů",
+      "Přidělování IP adres",
+      "Synchronizace času"
+    ],
+    "answer": "Přenos dat mezi primárním a sekundárním serverem"
+  },
+  {
+    "topic": "13. DNS – Windows",
+    "question": "Který nástroj slouží k získávání informací z DNS stromu?",
+    "options": [
+      "ping",
+      "nslookup",
+      "tracert",
+      "ipconfig"
+    ],
+    "answer": "nslookup"
+  },
+  {
+    "topic": "14. DHCP – Windows",
+    "question": "Co je hlavním úkolem DHCP serveru?",
+    "options": [
+      "Překlad doménových jmen",
+      "Přidělování IP adres a síťových parametrů",
+      "Šifrování komunikace",
+      "Správa uživatelských účtů"
+    ],
+    "answer": "Přidělování IP adres a síťových parametrů"
+  },
+  {
+    "topic": "14. DHCP – Windows",
+    "question": "Co je DORA v procesu DHCP?",
+    "options": [
+      "Šifrovací algoritmus",
+      "Discover, Offer, Request, Acknowledge",
+      "Směrovací protokol",
+      "Konfigurace DNS zóny"
+    ],
+    "answer": "Discover, Offer, Request, Acknowledge"
+  },
+  {
+    "topic": "14. DHCP – Windows",
+    "question": "Jaký typ zprávy vysílá klient jako první v procesu DHCP?",
+    "options": [
+      "DHCPREQUEST",
+      "DHCPDISCOVER",
+      "DHCPOFFER",
+      "DHCPACK"
+    ],
+    "answer": "DHCPDISCOVER"
+  },
+  {
+    "topic": "14. DHCP – Windows",
+    "question": "Co je obor adres v DHCP?",
+    "options": [
+      "Rozsah adres přidělovaných klientům",
+      "Seznam šifrovacích klíčů",
+      "Databáze hesel",
+      "Konfigurace DNS serveru"
+    ],
+    "answer": "Rozsah adres přidělovaných klientům"
+  },
+  {
+    "topic": "14. DHCP – Windows",
+    "question": "K čemu slouží rezervace v DHCP?",
+    "options": [
+      "Přidělení stejné IP adresy konkrétní MAC adrese",
+      "Šifrování komunikace",
+      "Zákaz přidělování adres",
+      "Správa doménových řadičů"
+    ],
+    "answer": "Přidělení stejné IP adresy konkrétní MAC adrese"
+  },
+  {
+    "topic": "14. DHCP – Windows",
+    "question": "Co znamená zpráva DHCPNAK?",
+    "options": [
+      "Potvrzení přidělení adresy",
+      "Zamítnutí požadavku klienta",
+      "Nabídka IP adresy",
+      "Uvolnění adresy klientem"
+    ],
+    "answer": "Zamítnutí požadavku klienta"
+  },
+  {
+    "topic": "14. DHCP – Windows",
+    "question": "Kdy klient obnovuje zapůjčenou IP adresu?",
+    "options": [
+      "Po restartu serveru",
+      "V polovině doby zápůjčky",
+      "Po každém přihlášení",
+      "Po vypršení TTL"
+    ],
+    "answer": "V polovině doby zápůjčky"
+  },
+  {
+    "topic": "14. DHCP – Windows",
+    "question": "Co je DHCP relay?",
+    "options": [
+      "Šifrovací protokol",
+      "Předávání DHCP zpráv mezi podsítěmi",
+      "Konfigurace DNS zóny",
+      "Správa hesel"
+    ],
+    "answer": "Předávání DHCP zpráv mezi podsítěmi"
+  },
+  {
+    "topic": "14. DHCP – Windows",
+    "question": "Co je Superscope v DHCP?",
+    "options": [
+      "Šifrovací klíč",
+      "Logické seskupení více oborů adres",
+      "Databáze uživatelů",
+      "Konfigurace firewallu"
+    ],
+    "answer": "Logické seskupení více oborů adres"
+  },
+  {
+    "topic": "14. DHCP – Windows",
+    "question": "Která zpráva klienta informuje server, že adresu již nepotřebuje?",
+    "options": [
+      "DHCPREQUEST",
+      "DHCPRELEASE",
+      "DHCPDISCOVER",
+      "DHCPINFORM"
+    ],
+    "answer": "DHCPRELEASE"
+  },
+  {
+    "topic": "15. Politiky GPO",
+    "question": "Co jsou GPO (Group Policy Objects)?",
+    "options": [
+      "Nástroje pro šifrování dat",
+      "Politiky pro hromadnou správu nastavení v AD",
+      "Protokoly pro přenos dat",
+      "Konfigurace DNS serveru"
+    ],
+    "answer": "Politiky pro hromadnou správu nastavení v AD"
+  },
+  {
+    "topic": "15. Politiky GPO",
+    "question": "Kde jsou GPO uloženy?",
+    "options": [
+      "C:\\Windows\\SYSVOL\\sysvol\\domena.local\\Policies",
+      "%windir%\\system32\\config",
+      "C:\\users\\appdata\\credentials",
+      "HKEY_LOCAL_MACHINE\\SAM"
+    ],
+    "answer": "C:\\Windows\\SYSVOL\\sysvol\\domena.local\\Policies"
+  },
+  {
+    "topic": "15. Politiky GPO",
+    "question": "Co je Default Domain Policy?",
+    "options": [
+      "Výchozí politika pro doménové řadiče",
+      "Výchozí politika pro celou AD doménu",
+      "Politika pro šifrování dat",
+      "Politika pro DNS servery"
+    ],
+    "answer": "Výchozí politika pro celou AD doménu"
+  },
+  {
+    "topic": "15. Politiky GPO",
+    "question": "Který nástroj slouží ke správě GPO?",
+    "options": [
+      "Server Manager",
+      "Group Policy Management",
+      "Active Directory Users and Computers",
+      "DNS Manager"
+    ],
+    "answer": "Group Policy Management"
+  },
+  {
+    "topic": "15. Politiky GPO",
+    "question": "Na které objekty se mohou GPO vázat?",
+    "options": [
+      "Uživatele a počítače",
+      "Domény, organizační jednotky a site",
+      "Skupiny a tiskárny",
+      "Certifikáty a klíče"
+    ],
+    "answer": "Domény, organizační jednotky a site"
+  },
+  {
+    "topic": "15. Politiky GPO",
+    "question": "V jakém pořadí se GPO vyhodnocují?",
+    "options": [
+      "Od nejvyšší priority k nejnižší",
+      "Od nejnižší priority k nejvyšší",
+      "Náhodně",
+      "Podle názvu politiky"
+    ],
+    "answer": "Od nejnižší priority k nejvyšší"
+  },
+  {
+    "topic": "15. Politiky GPO",
+    "question": "Co znamená nastavení „Enforced“ u GPO?",
+    "options": [
+      "Politika je vypnuta",
+      "Politika je nepřepisovatelná zděděnými politikami",
+      "Politika se aplikuje pouze na uživatele",
+      "Politika se aplikuje pouze na počítače"
+    ],
+    "answer": "Politika je nepřepisovatelná zděděnými politikami"
+  },
+  {
+    "topic": "15. Politiky GPO",
+    "question": "Kdy se aplikují politiky pro počítač?",
+    "options": [
+      "Bez ohledu na přihlášeného uživatele",
+      "Pouze při přihlášení uživatele",
+      "Pouze při restartu domény",
+      "Pouze při změně hesla"
+    ],
+    "answer": "Bez ohledu na přihlášeného uživatele"
+  },
+  {
+    "topic": "15. Politiky GPO",
+    "question": "Co je WMI Filtering u GPO?",
+    "options": [
+      "Šifrování politik",
+      "Filtrování politik podle specifických vlastností zařízení",
+      "Správa DNS zón",
+      "Přidělování IP adres"
+    ],
+    "answer": "Filtrování politik podle specifických vlastností zařízení"
+  },
+  {
+    "topic": "15. Politiky GPO",
+    "question": "Jak lze vynutit okamžitou aplikaci GPO?",
+    "options": [
+      "gpupdate /force",
+      "ipconfig /renew",
+      "net stop dhcp",
+      "nslookup"
+    ],
+    "answer": "gpupdate /force"
+  },
+  {
+    "topic": "16. Exchange Server",
+    "question": "Co je hlavní funkcí MS Exchange Serveru?",
+    "options": [
+      "Správa DNS záznamů",
+      "Provoz e-mailů, kalendářů a úkolů",
+      "Šifrování síťové komunikace",
+      "Přidělování IP adres"
+    ],
+    "answer": "Provoz e-mailů, kalendářů a úkolů"
+  },
+  {
+    "topic": "16. Exchange Server",
+    "question": "Který operační systém je minimálním požadavkem pro Exchange Server 2013?",
+    "options": [
+      "Windows XP",
+      "Windows Server 2008 R2",
+      "Windows 7",
+      "Windows Server 2003"
+    ],
+    "answer": "Windows Server 2008 R2"
+  },
+  {
+    "topic": "16. Exchange Server",
+    "question": "Která role Exchange Serveru spravuje e-mailové schránky?",
+    "options": [
+      "Client Access Role",
+      "Mailbox Role",
+      "DNS Role",
+      "DHCP Role"
+    ],
+    "answer": "Mailbox Role"
+  },
+  {
+    "topic": "16. Exchange Server",
+    "question": "Jaký protokol používají klienti pro přístup k Exchange přes mobilní zařízení?",
+    "options": [
+      "HTTP",
+      "Exchange Active Sync",
+      "ICMP",
+      "LDAP"
+    ],
+    "answer": "Exchange Active Sync"
+  },
+  {
+    "topic": "16. Exchange Server",
+    "question": "Co je Outlook Web Access?",
+    "options": [
+      "Desktopová aplikace",
+      "Webový mailový klient pro Exchange",
+      "Šifrovací protokol",
+      "Nástroj pro správu DNS"
+    ],
+    "answer": "Webový mailový klient pro Exchange"
+  },
+  {
+    "topic": "16. Exchange Server",
+    "question": "Který protokol je technicky lepší pro přístup k e-mailům díky stahování záhlaví?",
+    "options": [
+      "POP3",
+      "IMAP4",
+      "SMTP",
+      "HTTP"
+    ],
+    "answer": "IMAP4"
+  },
+  {
+    "topic": "16. Exchange Server",
+    "question": "Co je SMTP relay?",
+    "options": [
+      "Předávání pošty k dalšímu SMTP serveru",
+      "Šifrování e-mailů",
+      "Správa DNS záznamů",
+      "Přidělování IP adres"
+    ],
+    "answer": "Předávání pošty k dalšímu SMTP serveru"
+  },
+  {
+    "topic": "16. Exchange Server",
+    "question": "Který port používá IMAP4 pro zabezpečenou komunikaci?",
+    "options": [
+      "110",
+      "143",
+      "993",
+      "995"
+    ],
+    "answer": "993"
+  },
+  {
+    "topic": "16. Exchange Server",
+    "question": "Co je MAPI u Exchange Serveru?",
+    "options": [
+      "Protokol pro šifrování",
+      "Protokol pro komunikaci s MS Outlook",
+      "Nástroj pro správu DNS",
+      "Metoda pro přidělování adres"
+    ],
+    "answer": "Protokol pro komunikaci s MS Outlook"
+  },
+  {
+    "topic": "16. Exchange Server",
+    "question": "Proč by server neměl být nakonfigurován jako open relay?",
+    "options": [
+      "Zvyšuje latenci sítě",
+      "Umožňuje zneužití k posílání pošty kýmkoliv",
+      "Zpomaluje šifrování",
+      "Brání synchronizaci času"
+    ],
+    "answer": "Umožňuje zneužití k posílání pošty kýmkoliv"
+  },
+  {
+    "topic": "17. IIS",
+    "question": "Co je IIS (Internet Information Services)?",
+    "options": [
+      "Systém pro správu e-mailů",
+      "Webová služba pro Windows Server",
+      "Protokol pro šifrování",
+      "Nástroj pro správu DNS"
+    ],
+    "answer": "Webová služba pro Windows Server"
+  },
+  {
+    "topic": "17. IIS",
+    "question": "Jaký typ stránek podporuje IIS?",
+    "options": [
+      "Pouze statické",
+      "Statické i dynamické",
+      "Pouze dynamické",
+      "Pouze šifrované"
+    ],
+    "answer": "Statické i dynamické"
+  },
+  {
+    "topic": "17. IIS",
+    "question": "Který port používá HTTPS?",
+    "options": [
+      "80",
+      "443",
+      "110",
+      "995"
+    ],
+    "answer": "443"
+  },
+  {
+    "topic": "17. IIS",
+    "question": "Co je HTTP/2?",
+    "options": [
+      "Protokol pro šifrování",
+      "Verze HTTP umožňující více požadavků v jednom spojení",
+      "Nástroj pro správu DNS",
+      "Metoda pro přidělování adres"
+    ],
+    "answer": "Verze HTTP umožňující více požadavků v jednom spojení"
+  },
+  {
+    "topic": "17. IIS",
+    "question": "Která HTTP metoda slouží k nahrání souboru na server?",
+    "options": [
+      "GET",
+      "POST",
+      "PUT",
+      "DELETE"
+    ],
+    "answer": "PUT"
+  },
+  {
+    "topic": "17. IIS",
+    "question": "Co znamená HTTP stavový kód 404?",
+    "options": [
+      "Úspěšné vyřízení požadavku",
+      "Chyba na straně serveru",
+      "Stránka nenalezena",
+      "Přesměrování"
+    ],
+    "answer": "Stránka nenalezena"
+  },
+  {
+    "topic": "17. IIS",
+    "question": "Co jsou cookies v HTTP?",
+    "options": [
+      "Šifrovací klíče",
+      "Malé soubory pro uchovávání stavů",
+      "DNS záznamy",
+      "IP adresy"
+    ],
+    "answer": "Malé soubory pro uchovávání stavů"
+  },
+  {
+    "topic": "17. IIS",
+    "question": "Který protokol je bezpečnější pro šifrované přenosy?",
+    "options": [
+      "SSL",
+      "TLS",
+      "HTTP",
+      "ICMP"
+    ],
+    "answer": "TLS"
+  },
+  {
+    "topic": "17. IIS",
+    "question": "Co je MIME v HTTP?",
+    "options": [
+      "Šifrovací algoritmus",
+      "Rozšíření pro převod binárních souborů do textu",
+      "Protokol pro e-maily",
+      "Nástroj pro správu DNS"
+    ],
+    "answer": "Rozšíření pro převod binárních souborů do textu"
+  },
+  {
+    "topic": "17. IIS",
+    "question": "Jak se instaluje IIS na Windows Serveru?",
+    "options": [
+      "Add Roles and Features > Web Server (IIS)",
+      "Group Policy Management > Enforce",
+      "Server Manager > DNS Role",
+      "Active Directory Users and Computers"
+    ],
+    "answer": "Add Roles and Features > Web Server (IIS)"
+  },
+  {
+    "topic": "18. Konfigurace síťových rozhraní",
+    "question": "Kde je uložen konfigurační soubor síťových rozhraní v Linuxu?",
+    "options": [
+      "/etc/hosts",
+      "/etc/network/interfaces",
+      "/etc/resolv.conf",
+      "/etc/sysctl.conf"
+    ],
+    "answer": "/etc/network/interfaces"
+  },
+  {
+    "topic": "18. Konfigurace síťových rozhraní",
+    "question": "Co je výchozí směr v routovací tabulce?",
+    "options": [
+      "Adresa 0.0.0.0",
+      "Adresa 255.255.255.255",
+      "Adresa 127.0.0.1",
+      "Adresa 192.168.0.1"
+    ],
+    "answer": "Adresa 0.0.0.0"
+  },
+  {
+    "topic": "18. Konfigurace síťových rozhraní",
+    "question": "Který soubor definuje prioritu mezi DNS a hosts?",
+    "options": [
+      "/etc/hosts",
+      "/etc/resolv.conf",
+      "/etc/nsswitch.conf",
+      "/etc/network/interfaces"
+    ],
+    "answer": "/etc/nsswitch.conf"
+  },
+  {
+    "topic": "18. Konfigurace síťových rozhraní",
+    "question": "Který nástroj zobrazí routovací tabulku v Linuxu?",
+    "options": [
+      "ip route",
+      "ping",
+      "ifconfig",
+      "nslookup"
+    ],
+    "answer": "ip route"
+  },
+  {
+    "topic": "18. Konfigurace síťových rozhraní",
+    "question": "Co znamená příkaz „ifdown“ v Linuxu?",
+    "options": [
+      "Zapnutí síťového rozhraní",
+      "Vypnutí síťového rozhraní",
+      "Obnovení IP adresy",
+      "Test připojení"
+    ],
+    "answer": "Vypnutí síťového rozhraní"
+  },
+  {
+    "topic": "18. Konfigurace síťových rozhraní",
+    "question": "Jak povolit routování na Linuxovém routeru?",
+    "options": [
+      "Odkomentovat net.ipv4.ip_forward=1 v /etc/sysctl.conf",
+      "Nastavit adresu v /etc/hosts",
+      "Spustit příkaz ifup",
+      "Vytvořit DNS zónu"
+    ],
+    "answer": "Odkomentovat net.ipv4.ip_forward=1 v /etc/sysctl.conf"
+  },
+  {
+    "topic": "18. Konfigurace síťových rozhraní",
+    "question": "Který nástroj slouží k diagnostice cesty paketů v Linuxu?",
+    "options": [
+      "ping",
+      "traceroute",
+      "ipconfig",
+      "nslookup"
+    ],
+    "answer": "traceroute"
+  },
+  {
+    "topic": "18. Konfigurace síťových rozhraní",
+    "question": "Co znamená „allow-hotplug“ v /etc/network/interfaces?",
+    "options": [
+      "Automatické spuštění při zapojení kabelu",
+      "Šifrování komunikace",
+      "Přidělení statické adresy",
+      "Vypnutí rozhraní"
+    ],
+    "answer": "Automatické spuštění při zapojení kabelu"
+  },
+  {
+    "topic": "18. Konfigurace síťových rozhraní",
+    "question": "Jak nastavit trvalý směr na PC1 pro síť 192.168.0.0/24?",
+    "options": [
+      "post-up ip route add 192.168.0.0/24 via 10.0.0.1 dev eth0",
+      "route add -net 10.0.0.0 netmask 255.255.255.0",
+      "ip addr add 192.168.0.1",
+      "ping 192.168.0.1"
+    ],
+    "answer": "post-up ip route add 192.168.0.0/24 via 10.0.0.1 dev eth0"
+  },
+  {
+    "topic": "18. Konfigurace síťových rozhraní",
+    "question": "Který soubor obsahuje adresy DNS serverů v Linuxu?",
+    "options": [
+      "/etc/hosts",
+      "/etc/resolv.conf",
+      "/etc/nsswitch.conf",
+      "/etc/sysctl.conf"
+    ],
+    "answer": "/etc/resolv.conf"
+  },
+  {
+    "topic": "19. DHCP server – Linux",
+    "question": "Co je hlavním úkolem DHCP serveru v Linuxu?",
+    "options": [
+      "Překlad doménových jmen",
+      "Přidělování IP adres a síťových parametrů",
+      "Šifrování komunikace",
+      "Správa uživatelských účtů"
+    ],
+    "answer": "Přidělování IP adres a síťových parametrů"
+  },
+  {
+    "topic": "19. DHCP server – Linux",
+    "question": "Jaký je první krok komunikace klienta s DHCP serverem?",
+    "options": [
+      "DHCPREQUEST",
+      "DHCPDISCOVER",
+      "DHCPOFFER",
+      "DHCPACK"
+    ],
+    "answer": "DHCPDISCOVER"
+  },
+  {
+    "topic": "19. DHCP server – Linux",
+    "question": "Co je DHCP relay?",
+    "options": [
+      "Šifrovací protokol",
+      "Předávání DHCP zpráv mezi podsítěmi",
+      "Konfigurace DNS zóny",
+      "Správa hesel"
+    ],
+    "answer": "Předávání DHCP zpráv mezi podsítěmi"
+  },
+  {
+    "topic": "19. DHCP server – Linux",
+    "question": "Kde jsou uloženy informace o zapůjčených adresách v Linuxu?",
+    "options": [
+      "/var/lib/dhcp/dhcpd.leases",
+      "/etc/hosts",
+      "/etc/resolv.conf",
+      "/etc/samba/smb.conf"
+    ],
+    "answer": "/var/lib/dhcp/dhcpd.leases"
+  },
+  {
+    "topic": "19. DHCP server – Linux",
+    "question": "Co znamená zpráva DHCPDECLINE od klienta?",
+    "options": [
+      "Adresa je již přidělena jinému zařízení",
+      "Klient nepotřebuje adresu",
+      "Potvrzení přidělení adresy",
+      "Žádost o novou adresu"
+    ],
+    "answer": "Adresa je již přidělena jinému zařízení"
+  },
+  {
+    "topic": "19. DHCP server – Linux",
+    "question": "Jaký protokol používá DHCP pro komunikaci?",
+    "options": [
+      "TCP",
+      "UDP",
+      "HTTP",
+      "ICMP"
+    ],
+    "answer": "UDP"
+  },
+  {
+    "topic": "19. DHCP server – Linux",
+    "question": "Co je účelem rezervace v DHCP?",
+    "options": [
+      "Zákaz přidělování adres",
+      "Přidělení stejné IP adresy konkrétní MAC adrese",
+      "Šifrování komunikace",
+      "Správa DNS zón"
+    ],
+    "answer": "Přidělení stejné IP adresy konkrétní MAC adrese"
+  },
+  {
+    "topic": "19. DHCP server – Linux",
+    "question": "Která zpráva potvrzuje přidělení IP adresy klientovi?",
+    "options": [
+      "DHCPDISCOVER",
+      "DHCPOFFER",
+      "DHCPACK",
+      "DHCPNAK"
+    ],
+    "answer": "DHCPACK"
+  },
+  {
+    "topic": "19. DHCP server – Linux",
+    "question": "Co je autoritativní DHCP server?",
+    "options": [
+      "Server, který automaticky zamítá neznámé klienty",
+      "Server pro šifrování dat",
+      "Server pro správu DNS",
+      "Server pro synchronizaci času"
+    ],
+    "answer": "Server, který automaticky zamítá neznámé klienty"
+  },
+  {
+    "topic": "19. DHCP server – Linux",
+    "question": "Kde jsou uloženy logy DHCP serveru v Linuxu?",
+    "options": [
+      "/var/log/syslog",
+      "/etc/hosts",
+      "/etc/resolv.conf",
+      "/var/lib/dhcp/dhcpd.leases"
+    ],
+    "answer": "/var/log/syslog"
+  },
+  {
+    "topic": "20. DNS server – Linux",
+    "question": "Co je hlavním úkolem DNS serveru?",
+    "options": [
+      "Přidělování IP adres",
+      "Překlad doménových jmen na IP adresy",
+      "Šifrování komunikace",
+      "Správa uživatelských účtů"
+    ],
+    "answer": "Překlad doménových jmen na IP adresy"
+  },
+  {
+    "topic": "20. DNS server – Linux",
+    "question": "Který software se běžně používá pro DNS server v Linuxu?",
+    "options": [
+      "Apache",
+      "BIND",
+      "Samba",
+      "Exim"
+    ],
+    "answer": "BIND"
+  },
+  {
+    "topic": "20. DNS server – Linux",
+    "question": "Co je dopředná zóna v DNS?",
+    "options": [
+      "Překlad IP adres na doménová jména",
+      "Překlad doménových jmen na IP adresy",
+      "Šifrovací klíč",
+      "Synchronizační data"
+    ],
+    "answer": "Překlad doménových jmen na IP adresy"
+  },
+  {
+    "topic": "20. DNS server – Linux",
+    "question": "Který záznam mapuje IP adresu na doménové jméno?",
+    "options": [
+      "A",
+      "MX",
+      "PTR",
+      "CNAME"
+    ],
+    "answer": "PTR"
+  },
+  {
+    "topic": "20. DNS server – Linux",
+    "question": "Co je nejvyšší doména pro zpětné vyhledávání IPv4?",
+    "options": [
+      ".local",
+      "in-addr.arpa",
+      "ip6.arpa",
+      ".com"
+    ],
+    "answer": "in-addr.arpa"
+  },
+  {
+    "topic": "20. DNS server – Linux",
+    "question": "Co je rekurzivní DNS server?",
+    "options": [
+      "Server ukládající dotazy do cache pro klienty",
+      "Server obsluhující konkrétní zónu",
+      "Server pro šifrování komunikace",
+      "Server pro přidělování adres"
+    ],
+    "answer": "Server ukládající dotazy do cache pro klienty"
+  },
+  {
+    "topic": "20. DNS server – Linux",
+    "question": "Co obsahuje MX záznam?",
+    "options": [
+      "Informace o e-mailovém serveru a jeho prioritu",
+      "Alias pro jiný záznam",
+      "IP adresu serveru",
+      "Šifrovací klíč"
+    ],
+    "answer": "Informace o e-mailovém serveru a jeho prioritu"
+  },
+  {
+    "topic": "20. DNS server – Linux",
+    "question": "Který nástroj slouží k testování DNS záznamů?",
+    "options": [
+      "ping",
+      "dig",
+      "traceroute",
+      "ifconfig"
+    ],
+    "answer": "dig"
+  },
+  {
+    "topic": "20. DNS server – Linux",
+    "question": "Co je NS záznam?",
+    "options": [
+      "Záznam o autoritativním jmenném serveru",
+      "Záznam o e-mailovém serveru",
+      "Záznam o šifrovacím klíči",
+      "Záznam o IP adrese"
+    ],
+    "answer": "Záznam o autoritativním jmenném serveru"
+  },
+  {
+    "topic": "20. DNS server – Linux",
+    "question": "Co je účelem zónového souboru?",
+    "options": [
+      "Šifrování komunikace",
+      "Uložení DNS záznamů pro konkrétní zónu",
+      "Přidělování IP adres",
+      "Správa hesel"
+    ],
+    "answer": "Uložení DNS záznamů pro konkrétní zónu"
+  },
+  {
+    "topic": "21. Nftables",
+    "question": "Co je hlavní výhodou Nftables oproti iptables?",
+    "options": [
+      "Podpora šifrování",
+      "Rychlejší zpracování pravidel a flexibilní tabulky",
+      "Správa DNS záznamů",
+      "Přidělování IP adres"
+    ],
+    "answer": "Rychlejší zpracování pravidel a flexibilní tabulky"
+  },
+  {
+    "topic": "21. Nftables",
+    "question": "Který typ firewallu hodnotí stav komunikace?",
+    "options": [
+      "Nestavový",
+      "Stavový",
+      "Aplikační",
+      "Packetový"
+    ],
+    "answer": "Stavový"
+  },
+  {
+    "topic": "21. Nftables",
+    "question": "Co je NAT v kontextu Nftables?",
+    "options": [
+      "Šifrovací protokol",
+      "Překlad síťových adres",
+      "Správa DNS záznamů",
+      "Synchronizace času"
+    ],
+    "answer": "Překlad síťových adres"
+  },
+  {
+    "topic": "21. Nftables",
+    "question": "Který hook zpracovává packety vstupující do systému?",
+    "options": [
+      "output",
+      "prerouting",
+      "postrouting",
+      "forward"
+    ],
+    "answer": "prerouting"
+  },
+  {
+    "topic": "21. Nftables",
+    "question": "Co je výchozí politikou řetězce v Nftables?",
+    "options": [
+      "accept",
+      "drop",
+      "continue",
+      "reject"
+    ],
+    "answer": "accept"
+  },
+  {
+    "topic": "21. Nftables",
+    "question": "Která akce v Nftables zapisuje událost do logu?",
+    "options": [
+      "drop",
+      "log",
+      "accept",
+      "jump"
+    ],
+    "answer": "log"
+  },
+  {
+    "topic": "21. Nftables",
+    "question": "Co je PAT v Nftables?",
+    "options": [
+      "Překlad portů pro UDP/TCP komunikaci",
+      "Šifrovací algoritmus",
+      "Správa hesel",
+      "Konfigurace DNS zóny"
+    ],
+    "answer": "Překlad portů pro UDP/TCP komunikaci"
+  },
+  {
+    "topic": "21. Nftables",
+    "question": "Který příkaz vytvoří novou tabulku v Nftables?",
+    "options": [
+      "add",
+      "delete",
+      "list",
+      "flush"
+    ],
+    "answer": "add"
+  },
+  {
+    "topic": "21. Nftables",
+    "question": "Co znamená direktiva „ct state“ v pravidle Nftables?",
+    "options": [
+      "Zdrojová adresa",
+      "Stav komunikace (např. established, new)",
+      "Cílový port",
+      "Vstupní rozhraní"
+    ],
+    "answer": "Stav komunikace (např. established, new)"
+  },
+  {
+    "topic": "21. Nftables",
+    "question": "Který typ NAT umožňuje překlad 1:N?",
+    "options": [
+      "Symetrický",
+      "Trichtýřový",
+      "Omezený",
+      "Statický"
+    ],
+    "answer": "Trichtýřový"
+  },
     {
-      "topic": "1. Vrstvové modely",
-      "question": "Proč používáme vrstvové modely v sítích?",
+      "topic": "22. Samba",
+      "question": "Co je hlavním účelem Samba serveru?",
       "options": [
-        "Aby se zvýšila rychlost přenosu dat",
-        "Aby se rozdělily problémy na jednodušší podproblémy",
-        "Aby se snížily náklady na hardware",
-        "Aby se zjednodušilo šifrování dat"
+        "Správa DNS záznamů",
+        "Sdílení souborů a tiskáren mezi Windows a Linux",
+        "Provoz webových stránek",
+        "Šifrování komunikace"
       ],
-      "answer": "Aby se rozdělily problémy na jednodušší podproblémy"
+      "answer": "Sdílení souborů a tiskáren mezi Windows a Linux"
     },
     {
-      "topic": "1. Vrstvové modely",
-      "question": "Kolik vrstev má model TCP/IP ve srovnání s modelem ISO/OSI?",
+      "topic": "22. Samba",
+      "question": "Který protokol Samba využívá pro sdílení?",
       "options": [
-        "4 vrstvy oproti 7 vrstvám",
-        "7 vrstev oproti 4 vrstvám",
-        "5 vrstev oproti 6 vrstvám",
-        "3 vrstvy oproti 8 vrstvám"
+        "HTTP",
+        "SMB/CIFS",
+        "IMAP",
+        "ICMP"
       ],
-      "answer": "4 vrstvy oproti 7 vrstvám"
+      "answer": "SMB/CIFS"
     },
     {
-      "topic": "1. Vrstvové modely",
-      "question": "Co je hlavním úkolem fyzické vrstvy v modelu ISO/OSI?",
+      "topic": "22. Samba",
+      "question": "Který démon Samby spravuje jmenné služby?",
       "options": [
-        "Směrování dat v síti",
-        "Fyzický přenos bitů",
-        "Šifrování dat",
-        "Synchronizace aplikací"
+        "smbd",
+        "nmbd",
+        "winbindd",
+        "testparm"
       ],
-      "answer": "Fyzický přenos bitů"
+      "answer": "nmbd"
     },
     {
-      "topic": "1. Vrstvové modely",
-      "question": "Který protokol na linkové vrstvě pomáhá mapovat IP adresy na MAC adresy?",
+      "topic": "22. Samba",
+      "question": "Kde je uložen hlavní konfigurační soubor Samby?",
       "options": [
-        "ICMP",
-        "TCP",
-        "ARP",
-        "UDP"
+        "/etc/samba/smb.conf",
+        "/var/lib/samba/passdb.tdb",
+        "/etc/hosts",
+        "/etc/resolv.conf"
       ],
-      "answer": "ARP"
+      "answer": "/etc/samba/smb.conf"
     },
     {
-      "topic": "1. Vrstvové modely",
-      "question": "Co zajišťuje transportní vrstva v modelu ISO/OSI?",
+      "topic": "22. Samba",
+      "question": "Co je role „Standalone server“ v Sambě?",
       "options": [
-        "Fyzické adresování",
-        "Přenos dat mezi koncovými uzly",
-        "Směrování přes mezilehlé uzly",
-        "Kompresi dat"
+        "Primární doménový kontrolér",
+        "Samostatný server bez domény",
+        "Člen Active Directory",
+        "Záložní doménový kontrolér"
       ],
-      "answer": "Přenos dat mezi koncovými uzly"
+      "answer": "Samostatný server bez domény"
     },
     {
-      "topic": "2. Typy sítí",
-      "question": "Co je charakteristické pro síť typu LAN?",
+      "topic": "22. Samba",
+      "question": "Který nástroj testuje syntaxi konfiguračního souboru Samby?",
       "options": [
-        "Propojuje sítě přes hranice regionu",
-        "Je určena pro osobní zařízení jako sluchátka",
-        "Je malá síť, např. v domácnosti",
-        "Pokryvá celá města"
+        "smbclient",
+        "testparm",
+        "smbpasswd",
+        "pdbedit"
       ],
-      "answer": "Je malá síť, např. v domácnosti"
+      "answer": "testparm"
     },
     {
-      "topic": "2. Typy sítí",
-      "question": "Který rozsah IP adres je typický pro privátní sítě?",
+      "topic": "22. Samba",
+      "question": "Co znamená sekce [homes] v smb.conf?",
       "options": [
-        "169.254.1.0 – 169.254.255.255",
-        "192.168.0.0 – 192.168.255.255",
-        "172.32.0.0 – 172.63.255.255",
-        "10.255.0.0 – 10.255.255.255"
+        "Sdílení tiskáren",
+        "Automatické sdílení domovských složek uživatelů",
+        "Konfigurace DNS",
+        "Šifrování komunikace"
       ],
-      "answer": "192.168.0.0 – 192.168.255.255"
+      "answer": "Automatické sdílení domovských složek uživatelů"
     },
     {
-      "topic": "2. Typy sítí",
-      "question": "Co je výhodou hvězdicové topologie sítě?",
+      "topic": "22. Samba",
+      "question": "Který příkaz přidá uživatele do Samby?",
       "options": [
-        "Vyžaduje méně kabeláže",
-        "Snadné rozšíření a izolace poruch",
-        "Vysoká odolnost proti kolizím",
-        "Vhodná pro dočasné sítě"
+        "smbpasswd -a",
+        "useradd -s",
+        "testparm",
+        "smbstatus"
       ],
-      "answer": "Snadné rozšíření a izolace poruch"
+      "answer": "smbpasswd -a"
     },
     {
-      "topic": "2. Typy sítí",
-      "question": "Co charakterizuje síť typu Peer-to-Peer?",
+      "topic": "22. Samba",
+      "question": "Co je NetBIOS v kontextu Samby?",
       "options": [
-        "Klienti komunikují přes server",
-        "Kapacita klesá s rostoucím počtem uživatelů",
-        "Klienti komunikují přímo mezi sebou",
-        "Vyžaduje centrální správu"
+        "Šifrovací protokol",
+        "Služba pro rozpoznávání jmen v síti",
+        "Webový server",
+        "DNS záznam"
       ],
-      "answer": "Klienti komunikují přímo mezi sebou"
+      "answer": "Služba pro rozpoznávání jmen v síti"
     },
     {
-      "topic": "2. Typy sítí",
-      "question": "Co je typické pro síť typu WAN?",
+      "topic": "22. Samba",
+      "question": "Který příkaz vypíše seznam uživatelů Samby?",
       "options": [
-        "Propojuje osobní zařízení jako Bluetooth",
-        "Pokrývá malou oblast, např. domácnost",
-        "Propojuje sítě přes regiony nebo města",
-        "Je omezena na jedno město"
+        "smbclient -L",
+        "pdbedit -L",
+        "testparm",
+        "smbstatus"
       ],
-      "answer": "Propojuje sítě přes regiony nebo města"
+      "answer": "pdbedit -L"
     },
     {
-      "topic": "3. Kabeláž",
-      "question": "Co je hlavním cílem strukturované kabeláže?",
+      "topic": "23. Web server Apache",
+      "question": "Co je hlavním účelem Apache serveru?",
       "options": [
-        "Snížení latence sítě",
-        "Propojení uživatelů v síti s dlouhou životností",
-        "Zvýšení bezpečnosti přenosu",
-        "Zjednodušení bezdrátového přenosu"
+        "Správa e-mailů",
+        "Provoz webových stránek",
+        "Přidělování IP adres",
+        "Šifrování komunikace"
       ],
-      "answer": "Propojení uživatelů v síti s dlouhou životností"
+      "answer": "Provoz webových stránek"
     },
     {
-      "topic": "3. Kabeláž",
-      "question": "Co je součástí horizontální kabeláže?",
+      "topic": "23. Web server Apache",
+      "question": "Který soubor obsahuje bezpečnostní nastavení Apache?",
       "options": [
-        "Spojení mezi podlažími budovy",
-        "Spojení mezi zásuvkami a patch panelem",
-        "Propojení routerů v síti",
-        "Optické kabely mezi městy"
+        "/etc/apache2/apache2.conf",
+        "/etc/apache2/conf-available/security.conf",
+        "/etc/apache2/ssl.conf",
+        "/etc/hosts"
       ],
-      "answer": "Spojení mezi zásuvkami a patch panelem"
+      "answer": "/etc/apache2/conf-available/security.conf"
     },
     {
-      "topic": "3. Kabeláž",
-      "question": "Proč se u kroucené dvojlinky používá kroucení vodičů?",
+      "topic": "23. Web server Apache",
+      "question": "Co nastavuje parametr ServerTokens na „Prod“?",
       "options": [
-        "Pro zvýšení rychlosti přenosu",
-        "Pro snížení elektromagnetického rušení",
-        "Pro zjednodušení instalace",
-        "Pro kompatibilitu s optickými vlákny"
+        "Zobrazuje plné informace o serveru",
+        "Skrývá podrobnosti o verzi serveru",
+        "Šifruje komunikaci",
+        "Nastavuje DNS zónu"
       ],
-      "answer": "Pro snížení elektromagnetického rušení"
+      "answer": "Skrývá podrobnosti o verzi serveru"
     },
     {
-      "topic": "3. Kabeláž",
-      "question": "Která kategorie UTP kabelu podporuje rychlost 10 Gbps?",
+      "topic": "23. Web server Apache",
+      "question": "Který příkaz povolí SSL modul v Apache?",
       "options": [
-        "CAT5e",
-        "CAT6a",
-        "CAT3",
-        "CAT4"
+        "a2enmod ssl",
+        "a2ensite default-ssl",
+        "systemctl restart apache2",
+        "nano ssl.conf"
       ],
-      "answer": "CAT6a"
+      "answer": "a2enmod ssl"
     },
     {
-      "topic": "3. Kabeláž",
-      "question": "Co je PoE (Power over Ethernet)?",
+      "topic": "23. Web server Apache",
+      "question": "Kde je výchozí kořenový adresář webu v Apache?",
       "options": [
-        "Technologie pro šifrování dat",
-        "Napájení zařízení přes datový kabel",
-        "Metoda pro kompresi dat",
-        "Protokol pro směrování"
+        "/var/www",
+        "/etc/apache2",
+        "/usr/share",
+        "/home/shares"
       ],
-      "answer": "Napájení zařízení přes datový kabel"
+      "answer": "/var/www"
     },
     {
-      "topic": "4. Bezdrátové sítě",
-      "question": "Co je výhodou bezdrátového přenosu oproti kabelovému?",
+      "topic": "23. Web server Apache",
+      "question": "Co nastavuje LimitRequestBody v Apache?",
       "options": [
-        "Vyšší rychlost přenosu",
-        "Nepotřeba kabelů a nižší náklady",
-        "Vyšší bezpečnost přenosu",
-        "Odolnost vůči rušení"
+        "Maximální velikost požadavku",
+        "Počet povolených připojení",
+        "Časový limit spojení",
+        "Šifrovací klíč"
       ],
-      "answer": "Nepotřeba kabelů a nižší náklady"
+      "answer": "Maximální velikost požadavku"
     },
     {
-      "topic": "4. Bezdrátové sítě",
-      "question": "Které frekvenční pásmo Wi-Fi má větší dosah?",
+      "topic": "23. Web server Apache",
+      "question": "Který soubor konfiguruje SSL v Apache?",
       "options": [
-        "5 GHz",
-        "2,4 GHz",
-        "3,5 GHz",
-        "6 GHz"
+        "/etc/apache2/ssl.conf",
+        "/etc/apache2/security.conf",
+        "/etc/apache2/apache2.conf",
+        "/etc/hosts"
       ],
-      "answer": "2,4 GHz"
+      "answer": "/etc/apache2/ssl.conf"
     },
     {
-      "topic": "4. Bezdrátové sítě",
-      "question": "Co je Fresnelova zóna v bezdrátovém přenosu?",
+      "topic": "23. Web server Apache",
+      "question": "Co je účelem příkazu „chown -R www-data:www-data /var/www“?",
       "options": [
-        "Oblast pro šifrování signálu",
-        "Prostor pro volné šíření elektromagnetických vln",
-        "Zóna pro připojení více zařízení",
-        "Pásmo pro vysokorychlostní přenos"
+        "Šifrování webových stránek",
+        "Nastavení vlastníka adresáře pro Apache",
+        "Konfigurace DNS zóny",
+        "Správa hesel"
       ],
-      "answer": "Prostor pro volné šíření elektromagnetických vln"
+      "answer": "Nastavení vlastníka adresáře pro Apache"
     },
     {
-      "topic": "4. Bezdrátové sítě",
-      "question": "Který standard šifrování je nejnovější pro Wi-Fi sítě?",
+      "topic": "23. Web server Apache",
+      "question": "Který protokol je používán pro nezabezpečený přenos v Apache?",
       "options": [
-        "WEP",
-        "WPA",
-        "WPA2",
-        "WPA3"
+        "HTTPS",
+        "HTTP",
+        "IMAP",
+        "SMTP"
       ],
-      "answer": "WPA3"
+      "answer": "HTTP"
     },
     {
-      "topic": "4. Bezdrátové sítě",
-      "question": "Co je CSMA/CA v bezdrátových sítích?",
+      "topic": "23. Web server Apache",
+      "question": "Co vytvoří příkaz „openssl req -new -x509“?",
       "options": [
-        "Metoda detekce kolizí",
-        "Protokol pro šifrování dat",
-        "Metoda vyhýbání se kolizím",
-        "Technologie pro směrování"
+        "DNS záznam",
+        "SSL certifikát a klíč",
+        "Konfigurační soubor",
+        "Uživatelský účet"
       ],
-      "answer": "Metoda vyhýbání se kolizím"
+      "answer": "SSL certifikát a klíč"
     },
     {
-      "topic": "5. IP adresy",
-      "question": "Co je IPv6 adresa?",
+      "topic": "24. Mailový server",
+      "question": "Co je hlavním účelem mailového serveru?",
       "options": [
-        "128-bitová adresa",
-        "32-bitová adresa",
-        "48-bitová adresa",
-        "64-bitová adresa"
+        "Přidělování IP adres",
+        "Správa a přenos elektronické pošty",
+        "Provoz webových stránek",
+        "Šifrování komunikace"
       ],
-      "answer": "128-bitová adresa"
+      "answer": "Správa a přenos elektronické pošty"
     },
     {
-      "topic": "5. IP adresy",
-      "question": "Co je subnet maska?",
+      "topic": "24. Mailový server",
+      "question": "Který balík zajišťuje SMTP služby v Linuxu?",
       "options": [
-        "Identifikuje síťovou část IP adresy",
-        "Šifruje IP adresu",
-        "Přiřazuje MAC adresu",
-        "Určuje směrování mezi sítěmi"
+        "Dovecot",
+        "Exim4",
+        "Squirrelmail",
+        "Apache"
       ],
-      "answer": "Identifikuje síťovou část IP adresy"
+      "answer": "Exim4"
     },
     {
-      "topic": "5. IP adresy",
-      "question": "Co je DHCP?",
+      "topic": "24. Mailový server",
+      "question": "Který protokol slouží pro odesílání e-mailů?",
       "options": [
-        "Protokol pro automatické přiřazování IP adres",
-        "Metoda šifrování dat",
-        "Typ bezdrátového připojení",
-        "Způsob směrování paketů"
+        "IMAP4",
+        "POP3",
+        "SMTP",
+        "HTTP"
       ],
-      "answer": "Protokol pro automatické přiřazování IP adres"
+      "answer": "SMTP"
     },
     {
-      "topic": "5. IP adresy",
-      "question": "Co je NAT?",
+      "topic": "24. Mailový server",
+      "question": "Co je úkolem balíku Dovecot?",
       "options": [
-        "Překlad síťových adres",
-        "Typ kabelového připojení",
-        "Metoda komprese dat",
-        "Protokol pro přenos souborů"
+        "Odesílání e-mailů",
+        "Přístup k poštovním schránkám přes IMAP/POP3",
+        "Provoz webových stránek",
+        "Přidělování IP adres"
       ],
-      "answer": "Překlad síťových adres"
+      "answer": "Přístup k poštovním schránkám přes IMAP/POP3"
     },
     {
-      "topic": "5. IP adresy",
-      "question": "Co je DNS?",
+      "topic": "24. Mailový server",
+      "question": "Který port používá POP3 pro zabezpečenou komunikaci?",
       "options": [
-        "Systém pro překlad doménových jmen na IP adresy",
-        "Typ bezdrátové sítě",
-        "Metoda šifrování",
-        "Protokol pro přenos hlasu"
+        "110",
+        "143",
+        "993",
+        "995"
       ],
-      "answer": "Systém pro překlad doménových jmen na IP adresy"
+      "answer": "995"
     },
     {
-      "topic": "6. Směrování",
-      "question": "Co je router?",
+      "topic": "24. Mailový server",
+      "question": "Co je Squirrelmail?",
       "options": [
-        "Zařízení propojující sítě",
-        "Typ kabelu",
-        "Server pro ukládání dat",
-        "Bezdrátový adaptér"
+        "Šifrovací protokol",
+        "Webový mailový klient",
+        "DNS server",
+        "DHCP server"
       ],
-      "answer": "Zařízení propojující sítě"
+      "answer": "Webový mailový klient"
     },
     {
-      "topic": "6. Směrování",
-      "question": "Co je routing table?",
+      "topic": "24. Mailový server",
+      "question": "Který soubor konfiguruje Exim4 v Linuxu?",
       "options": [
-        "Tabulka s pravidly pro směrování paketů",
-        "Seznam připojených zařízení",
-        "Historie přenosů",
-        "Konfigurace firewallu"
+        "/etc/exim4/exim4.conf.template",
+        "/etc/dovecot/10-auth.conf",
+        "/etc/apache2/ssl.conf",
+        "/etc/samba/smb.conf"
       ],
-      "answer": "Tabulka s pravidly pro směrování paketů"
+      "answer": "/etc/exim4/exim4.conf.template"
     },
     {
-      "topic": "6. Směrování",
-      "question": "Co je default gateway?",
+      "topic": "24. Mailový server",
+      "question": "Co je SpamAssassin?",
       "options": [
-        "Výchozí brána pro komunikaci mimo lokální síť",
-        "Typ kabelového připojení",
-        "Server pro ověřování uživatelů",
-        "Metoda šifrování"
+        "Nástroj pro detekci spamu",
+        "Šifrovací algoritmus",
+        "Webový server",
+        "DNS záznam"
       ],
-      "answer": "Výchozí brána pro komunikaci mimo lokální síť"
+      "answer": "Nástroj pro detekci spamu"
     },
     {
-      "topic": "6. Směrování",
-      "question": "Co je statické směrování?",
+      "topic": "24. Mailový server",
+      "question": "Který příkaz aktualizuje konfiguraci Exim4?",
       "options": [
-        "Ručně konfigurované směrovací cesty",
-        "Automatické hledání nejlepší cesty",
-        "Metoda pro šifrování přenosu",
-        "Typ bezdrátového připojení"
+        "update-exim4.conf",
+        "systemctl restart exim4",
+        "a2enmod ssl",
+        "testparm"
       ],
-      "answer": "Ručně konfigurované směrovací cesty"
+      "answer": "update-exim4.conf"
     },
     {
-      "topic": "6. Směrování",
-      "question": "Co je dynamické směrování?",
+      "topic": "24. Mailový server",
+      "question": "Co je nutné nastavit pro funkčnost Squirrelmail?",
       "options": [
-        "Automatická aktualizace směrovacích tabulek",
-        "Ruční konfigurace cest",
-        "Metoda pro filtrování paketů",
-        "Typ kabeláže"
+        "Doménu a složky pro data a přílohy",
+        "Šifrovací klíč",
+        "DNS zónu",
+        "DHCP obor"
       ],
-      "answer": "Automatická aktualizace směrovacích tabulek"
+      "answer": "Doménu a složky pro data a přílohy"
     },
     {
-      "topic": "7. Bezpečnost sítí",
-      "question": "Co je firewall?",
+      "topic": "25. Zabezpečení dat, základy šifrování",
+      "question": "Co je symetrické šifrování?",
       "options": [
-        "Systém pro kontrolu a filtrování síťového provozu",
-        "Typ kabelového připojení",
-        "Server pro ukládání dat",
-        "Bezdrátový adaptér"
+        "Použití veřejného a soukromého klíče",
+        "Použití stejného klíče pro šifrování i dešifrování",
+        "Jednosměrná operace",
+        "Překlad IP adres"
       ],
-      "answer": "Systém pro kontrolu a filtrování síťového provozu"
+      "answer": "Použití stejného klíče pro šifrování i dešifrování"
     },
     {
-      "topic": "7. Bezpečnost sítí",
-      "question": "Co je VPN?",
+      "topic": "25. Zabezpečení dat, základy šifrování",
+      "question": "Který algoritmus je příkladem symetrického šifrování?",
       "options": [
-        "Virtuální privátní síť pro zabezpečené připojení",
-        "Typ kabelu",
-        "Server pro sdílení souborů",
-        "Metoda pro zrychlení přenosu"
+        "RSA",
+        "AES",
+        "MD5",
+        "SHA"
       ],
-      "answer": "Virtuální privátní síť pro zabezpečené připojení"
+      "answer": "AES"
     },
     {
-      "topic": "7. Bezpečnost sítí",
-      "question": "Co je DoS útok?",
+      "topic": "25. Zabezpečení dat, základy šifrování",
+      "question": "Co je veřejný klíč v asymetrickém šifrování?",
       "options": [
-        "Pokus o zahlcení služby nebo sítě",
-        "Krádež dat",
-        "Infikování viry",
-        "Neoprávněný přístup"
+        "Klíč pro dešifrování dat",
+        "Klíč předávaný protistraně pro šifrování",
+        "Klíč pro hashování",
+        "Klíč pro synchronizaci času"
       ],
-      "answer": "Pokus o zahlcení služby nebo sítě"
+      "answer": "Klíč předávaný protistraně pro šifrování"
     },
     {
-      "topic": "7. Bezpečnost sítí",
-      "question": "Co je SSL/TLS?",
+      "topic": "25. Zabezpečení dat, základy šifrování",
+      "question": "Co je hash?",
       "options": [
-        "Protokoly pro šifrovanou komunikaci",
-        "Typ bezdrátové sítě",
-        "Metoda komprese dat",
-        "Protokol pro přenos hlasu"
+        "Obousměrné šifrování",
+        "Jednosměrná operace vytvářející otisk dat",
+        "Překlad doménových jmen",
+        "Přidělování IP adres"
       ],
-      "answer": "Protokoly pro šifrovanou komunikaci"
+      "answer": "Jednosměrná operace vytvářející otisk dat"
     },
     {
-      "topic": "7. Bezpečnost sítí",
-      "question": "Co je port scanning?",
+      "topic": "25. Zabezpečení dat, základy šifrování",
+      "question": "Který algoritmus hashování je považován za zastaralý?",
       "options": [
-        "Metoda pro zjišťování otevřených portů",
-        "Typ útoku na hesla",
-        "Šifrování komunikace",
-        "Filtrování paketů"
+        "SHA",
+        "MD5",
+        "AES",
+        "RSA"
       ],
-      "answer": "Metoda pro zjišťování otevřených portů"
+      "answer": "MD5"
     },
     {
-      "topic": "8. Protokoly",
-      "question": "Co je HTTP?",
+      "topic": "25. Zabezpečení dat, základy šifrování",
+      "question": "Co je účelem elektronického podpisu?",
       "options": [
-        "Protokol pro přenos webových stránek",
-        "Typ šifrování",
-        "Metoda komprese",
-        "Protokol pro e-mail"
+        "Přidělování IP adres",
+        "Ověření identity odesílatele a neporušenosti zprávy",
+        "Šifrování DNS dotazů",
+        "Správa hesel"
       ],
-      "answer": "Protokol pro přenos webových stránek"
+      "answer": "Ověření identity odesílatele a neporušenosti zprávy"
     },
     {
-      "topic": "8. Protokoly",
-      "question": "Co je FTP?",
+      "topic": "25. Zabezpečení dat, základy šifrování",
+      "question": "Který protokol zajišťuje šifrovaný přenos na webu?",
       "options": [
-        "Protokol pro přenos souborů",
-        "Typ bezdrátové sítě",
-        "Metoda šifrování",
-        "Protokol pro hlasovou komunikaci"
+        "HTTP",
+        "TLS",
+        "SMTP",
+        "ICMP"
       ],
-      "answer": "Protokol pro přenos souborů"
+      "answer": "TLS"
     },
     {
-      "topic": "8. Protokoly",
-      "question": "Co je SMTP?",
+      "topic": "25. Zabezpečení dat, základy šifrování",
+      "question": "Co je S/MIME?",
       "options": [
-        "Protokol pro odesílání e-mailů",
-        "Typ kabelového připojení",
-        "Metoda komprese",
-        "Protokol pro přenos webových stránek"
+        "Protokol pro šifrování e-mailů a elektronický podpis",
+        "Nástroj pro správu DNS",
+        "Šifrovací algoritmus",
+        "Webový server"
       ],
-      "answer": "Protokol pro odesílání e-mailů"
+      "answer": "Protokol pro šifrování e-mailů a elektronický podpis"
     },
     {
-      "topic": "8. Protokoly",
-      "question": "Co je ICMP?",
+      "topic": "25. Zabezpečení dat, základy šifrování",
+      "question": "Co je první zprávou v handshake protokolu TLS?",
       "options": [
-        "Protokol pro diagnostiku sítě",
-        "Typ šifrování",
-        "Metoda pro přenos souborů",
-        "Protokol pro hlasovou komunikaci"
+        "Server Hello",
+        "Client Hello",
+        "Change Cipher Specs",
+        "Server Finished"
       ],
-      "answer": "Protokol pro diagnostiku sítě"
+      "answer": "Client Hello"
     },
     {
-      "topic": "8. Protokoly",
-      "question": "Co je UDP?",
+      "topic": "25. Zabezpečení dat, základy šifrování",
+      "question": "Co zajišťuje kořenový certifikát?",
       "options": [
-        "Protokol bez spojení a záruky doručení",
-        "Typ kabelového připojení",
-        "Metoda šifrování",
-        "Protokol pro přenos webových stránek"
+        "Přidělování IP adres",
+        "Ověření certifikátů nižší úrovně",
+        "Šifrování hesel",
+        "Správa DNS zón"
       ],
-      "answer": "Protokol bez spojení a záruky doručení"
-    },
-    {
-      "topic": "9. Cloudové služby",
-      "question": "Co je IaaS?",
-      "options": [
-        "Poskytování infrastruktury jako služby",
-        "Typ kabelového připojení",
-        "Metoda šifrování",
-        "Protokol pro přenos souborů"
-      ],
-      "answer": "Poskytování infrastruktury jako služby"
-    },
-    {
-      "topic": "9. Cloudové služby",
-      "question": "Co je SaaS?",
-      "options": [
-        "Poskytování software jako služby",
-        "Typ bezdrátové sítě",
-        "Metoda komprese",
-        "Protokol pro hlasovou komunikaci"
-      ],
-      "answer": "Poskytování software jako služby"
-    },
-    {
-      "topic": "9. Cloudové služby",
-      "question": "Co je PaaS?",
-      "options": [
-        "Poskytování platformy jako služby",
-        "Typ kabelového připojení",
-        "Metoda šifrování",
-        "Protokol pro přenos webových stránek"
-      ],
-      "answer": "Poskytování platformy jako služby"
-    },
-    {
-      "topic": "9. Cloudové služby",
-      "question": "Co je hybridní cloud?",
-      "options": [
-        "Kombinace veřejného a privátního cloudu",
-        "Typ šifrování",
-        "Metoda komprese",
-        "Protokol pro přenos souborů"
-      ],
-      "answer": "Kombinace veřejného a privátního cloudu"
-    },
-    {
-      "topic": "9. Cloudové služby",
-      "question": "Co je privátní cloud?",
-      "options": [
-        "Cloudová infrastruktura pro jednu organizaci",
-        "Typ bezdrátové sítě",
-        "Metoda šifrování",
-        "Protokol pro hlasovou komunikaci"
-      ],
-      "answer": "Cloudová infrastruktura pro jednu organizaci"
-    },
-    {
-      "topic": "10. Virtualizace",
-      "question": "Co je hypervisor?",
-      "options": [
-        "Software pro vytváření a správu virtuálních strojů",
-        "Typ kabelového připojení",
-        "Metoda komprese",
-        "Protokol pro přenos souborů"
-      ],
-      "answer": "Software pro vytváření a správu virtuálních strojů"
-    },
-    {
-      "topic": "10. Virtualizace",
-      "question": "Co je Type 1 hypervisor?",
-      "options": [
-        "Hypervisor běžící přímo na hardware",
-        "Hypervisor běžící na hostitelském OS",
-        "Typ virtualizace sítě",
-        "Metoda šifrování"
-      ],
-      "answer": "Hypervisor běžící přímo na hardware"
-    },
-    {
-      "topic": "10. Virtualizace",
-      "question": "Co je Type 2 hypervisor?",
-      "options": [
-        "Hypervisor běžící na hostitelském OS",
-        "Hypervisor běžící přímo na hardware",
-        "Typ virtualizace sítě",
-        "Metoda komprese"
-      ],
-      "answer": "Hypervisor běžící na hostitelském OS"
-    },
-    {
-      "topic": "10. Virtualizace",
-      "question": "Co je kontejnerizace?",
-      "options": [
-        "Metoda virtualizace na úrovni OS",
-        "Typ kabelového připojení",
-        "Metoda šifrování",
-        "Protokol pro přenos souborů"
-      ],
-      "answer": "Metoda virtualizace na úrovni OS"
-    },
-    {
-      "topic": "10. Virtualizace",
-      "question": "Co je Docker?",
-      "options": [
-        "Platforma pro kontejnerizaci aplikací",
-        "Typ hypervisoru",
-        "Metoda komprese",
-        "Protokol pro hlasovou komunikaci"
-      ],
-      "answer": "Platforma pro kontejnerizaci aplikací"
+      "answer": "Ověření certifikátů nižší úrovně"
     }
 ]
