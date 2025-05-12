@@ -1,0 +1,406 @@
+{
+  "site": [
+    {
+      "question": "Proč používáme vrstvové modely v sítích?",
+      "options": [
+        "Aby se zvýšila rychlost přenosu dat",
+        "Aby se rozdělily problémy na jednodušší podproblémy",
+        "Aby se snížily náklady na hardware",
+        "Aby se zjednodušilo šifrování dat"
+      ],
+      "answer": "Aby se rozdělily problémy na jednodušší podproblémy"
+    },
+    {
+      "question": "Kolik vrstev má model TCP/IP ve srovnání s modelem ISO/OSI?",
+      "options": [
+        "4 vrstvy oproti 7 vrstvám",
+        "7 vrstev oproti 4 vrstvám",
+        "5 vrstev oproti 6 vrstvám",
+        "3 vrstvy oproti 8 vrstvám"
+      ],
+      "answer": "4 vrstvy oproti 7 vrstvám"
+    },
+    {
+      "question": "Co je hlavním úkolem fyzické vrstvy v modelu ISO/OSI?",
+      "options": [
+        "Směrování dat v síti",
+        "Fyzický přenos bitů",
+        "Šifrování dat",
+        "Synchronizace aplikací"
+      ],
+      "answer": "Fyzický přenos bitů"
+    },
+    {
+      "question": "Který protokol na linkové vrstvě pomáhá mapovat IP adresy na MAC adresy?",
+      "options": [
+        "ICMP",
+        "TCP",
+        "ARP",
+        "UDP"
+      ],
+      "answer": "ARP"
+    },
+    {
+      "question": "Co zajišťuje transportní vrstva v modelu ISO/OSI?",
+      "options": [
+        "Fyzické adresování",
+        "Přenos dat mezi koncovými uzly",
+        "Směrování přes mezilehlé uzly",
+        "Kompresi dat"
+      ],
+      "answer": "Přenos dat mezi koncovými uzly"
+    },
+    {
+      "question": "Co je charakteristické pro síť typu LAN?",
+      "options": [
+        "Propojuje sítě přes hranice regionu",
+        "Je určena pro osobní zařízení jako sluchátka",
+        "Je malá síť, např. v domácnosti",
+        "Pokryvá celá města"
+      ],
+      "answer": "Je malá síť, např. v domácnosti"
+    },
+    {
+      "question": "Který rozsah IP adres je typický pro privátní sítě?",
+      "options": [
+        "169.254.1.0 – 169.254.255.255",
+        "192.168.0.0 – 192.168.255.255",
+        "172.32.0.0 – 172.63.255.255",
+        "10.255.0.0 – 10.255.255.255"
+      ],
+      "answer": "192.168.0.0 – 192.168.255.255"
+    },
+    {
+      "question": "Co je výhodou hvězdicové topologie sítě?",
+      "options": [
+        "Vyžaduje méně kabeláže",
+        "Snadné rozšíření a izolace poruch",
+        "Vysoká odolnost proti kolizím",
+        "Vhodná pro dočasné sítě"
+      ],
+      "answer": "Snadné rozšíření a izolace poruch"
+    },
+    {
+      "question": "Co charakterizuje síť typu Peer-to-Peer?",
+      "options": [
+        "Klienti komunikují přes server",
+        "Kapacita klesá s rostoucím počtem uživatelů",
+        "Klienti komunikují přímo mezi sebou",
+        "Vyžaduje centrální správu"
+      ],
+      "answer": "Klienti komunikují přímo mezi sebou"
+    },
+    {
+      "question": "Co je typické pro síť typu WAN?",
+      "options": [
+        "Propojuje osobní zařízení jako Bluetooth",
+        "Pokrývá malou oblast, např. domácnost",
+        "Propojuje sítě přes regiony nebo města",
+        "Je omezena na jedno město"
+      ],
+      "answer": "Propojuje sítě přes regiony nebo města"
+    },
+    {
+      "question": "Co je hlavním cílem strukturované kabeláže?",
+      "options": [
+        "Snížení latence sítě",
+        "Propojení uživatelů v síti s dlouhou životností",
+        "Zvýšení bezpečnosti přenosu",
+        "Zjednodušení bezdrátového přenosu"
+      ],
+      "answer": "Propojení uživatelů v síti s dlouhou životností"
+    },
+    {
+      "question": "Co je součástí horizontální kabeláže?",
+      "options": [
+        "Spojení mezi podlažími budovy",
+        "Spojení mezi zásuvkami a patch panelem",
+        "Propojení routerů v síti",
+        "Optické kabely mezi městy"
+      ],
+      "answer": "Spojení mezi zásuvkami a patch panelem"
+    },
+    {
+      "question": "Proč se u kroucené dvojlinky používá kroucení vodičů?",
+      "options": [
+        "Pro zvýšení rychlosti přenosu",
+        "Pro snížení elektromagnetického rušení",
+        "Pro zjednodušení instalace",
+        "Pro kompatibilitu s optickými vlákny"
+      ],
+      "answer": "Pro snížení elektromagnetického rušení"
+    },
+    {
+      "question": "Která kategorie UTP kabelu podporuje rychlost 10 Gbps?",
+      "options": [
+        "CAT5e",
+        "CAT6a",
+        "CAT3",
+        "CAT4"
+      ],
+      "answer": "CAT6a"
+    },
+    {
+      "question": "Co je PoE (Power over Ethernet)?",
+      "options": [
+        "Technologie pro šifrování dat",
+        "Napájení zařízení přes datový kabel",
+        "Metoda pro kompresi dat",
+        "Protokol pro směrování"
+      ],
+      "answer": "Napájení zařízení přes datový kabel"
+    },
+    {
+      "question": "Co je výhodou bezdrátového přenosu oproti kabelovému?",
+      "options": [
+        "Vyšší rychlost přenosu",
+        "Nepotřeba kabelů a nižší náklady",
+        "Vyšší bezpečnost přenosu",
+        "Odolnost vůči rušení"
+      ],
+      "answer": "Nepotřeba kabelů a nižší náklady"
+    },
+    {
+      "question": "Které frekvenční pásmo Wi-Fi má větší dosah?",
+      "options": [
+        "5 GHz",
+        "2,4 GHz",
+        "3,5 GHz",
+        "6 GHz"
+      ],
+      "answer": "2,4 GHz"
+    },
+    {
+      "question": "Co je Fresnelova zóna v bezdrátovém přenosu?",
+      "options": [
+        "Oblast pro šifrování signálu",
+        "Prostor pro volné šíření elektromagnetických vln",
+        "Zóna pro připojení více zařízení",
+        "Pásmo pro vysokorychlostní přenos"
+      ],
+      "answer": "Prostor pro volné šíření elektromagnetických vln"
+    },
+    {
+      "question": "Který standard šifrování je nejnovější pro Wi-Fi sítě?",
+      "options": [
+        "WEP",
+        "WPA",
+        "WPA2",
+        "WPA3"
+      ],
+      "answer": "WPA3"
+    },
+    {
+      "question": "Co je CSMA/CA v bezdrátových sítích?",
+      "options": [
+        "Metoda detekce kolizí",
+        "Protokol pro šifrování dat",
+        "Metoda vyhýbání se kolizím",
+        "Technologie pro směrování"
+      ],
+      "answer": "Metoda vyhýbání se kolizím"
+    }
+  ],
+  "java": [
+    {
+      "question": "Co znamená vlastnost 'konečnost' algoritmu?",
+      "options": [
+        "Algoritmus má více výstupů",
+        "Algoritmus musí skončit v definovaném čase",
+        "Algoritmus je napsán v přirozeném jazyce",
+        "Algoritmus musí být efektivní"
+      ],
+      "answer": "Algoritmus musí skončit v definovaném čase"
+    },
+    {
+      "question": "Který způsob zápisu algoritmu je neformální a čitelný pro člověka?",
+      "options": [
+        "Programovací jazyk",
+        "Pseudokód",
+        "Vývojový diagram",
+        "Strojový kód"
+      ],
+      "answer": "Pseudokód"
+    },
+    {
+      "question": "Co znamená hromadnost algoritmu?",
+      "options": [
+        "Algoritmus řeší pouze jeden konkrétní problém",
+        "Algoritmus má více vstupů než výstupů",
+        "Algoritmus řeší škálu podobných problémů",
+        "Algoritmus je napsán v programovacím jazyce"
+      ],
+      "answer": "Algoritmus řeší škálu podobných problémů"
+    },
+    {
+      "question": "Jaký je příklad pseudokódu?",
+      "options": [
+        "int main() { return 0; }",
+        "Najdi maximum v poli čísel",
+        "define factorial(n): f := 1",
+        "Obdélník s textem 'vstup'"
+      ],
+      "answer": "define factorial(n): f := 1"
+    },
+    {
+      "question": "Co je charakteristické pro efektivitu algoritmu?",
+      "options": [
+        "Má pouze jeden vstup",
+        "Je co možná nejrychlejší a šetří zdroje",
+        "Je specifický pro jeden problém",
+        "Nepotřebuje výstup"
+      ],
+      "answer": "Je co možná nejrychlejší a šetří zdroje"
+    },
+    {
+      "question": "Co charakterizuje vyšší programovací jazyky?",
+      "options": [
+        "Jsou blíže strojovému kódu",
+        "Jsou nezávislé na hardware",
+        "Jsou vždy interpretované",
+        "Nepodporují objektové programování"
+      ],
+      "answer": "Jsou nezávislé na hardware"
+    },
+    {
+      "question": "Který jazyk je příkladem kompilovaného jazyka?",
+      "options": [
+        "JavaScript",
+        "PHP",
+        "C++",
+        "Python"
+      ],
+      "answer": "C++"
+    },
+    {
+      "question": "Jaká je nevýhoda interpretovaných jazyků?",
+      "options": [
+        "Vyšší výkon díky překladu",
+        "Publikují zdrojový kód",
+        "Nutnost kompilace pro každou platformu",
+        "Omezená podpora pro webový vývoj"
+      ],
+      "answer": "Publikují zdrojový kód"
+    },
+    {
+      "question": "Co je výhodou kompilovaných jazyků?",
+      "options": [
+        "Lepší přenositelnost mezi systémy",
+        "Vyšší výkon díky překladu do strojového kódu",
+        "Automatická správa paměti",
+        "Rychlejší vývoj aplikací"
+      ],
+      "answer": "Vyšší výkon díky překladu do strojového kódu"
+    },
+    {
+      "question": "Který jazyk je příkladem interpretovaného jazyka?",
+      "options": [
+        "C#",
+        "JavaScript",
+        "Java",
+        "C++"
+      ],
+      "answer": "JavaScript"
+    },
+    {
+      "question": "Co je JVM v kontextu Javy?",
+      "options": [
+        "Nástroj pro vývoj Java aplikací",
+        "Virtuální stroj pro běh Java bytecode",
+        "Prostředí pro testování Java kódu",
+        "Knihovna pro webový vývoj"
+      ],
+      "answer": "Virtuální stroj pro běh Java bytecode"
+    },
+    {
+      "question": "Co obsahuje JRE?",
+      "options": [
+        "Nástroje pro vývoj a kompilátor",
+        "JVM a základní knihovny",
+        "Debugger a profiler",
+        "Knihovny pro webové aplikace"
+      ],
+      "answer": "JVM a základní knihovny"
+    },
+    {
+      "question": "Jakou roli hraje JIT v JVM?",
+      "options": [
+        "Kompiluje zdrojový kód do bytecode",
+        "Překládá bytecode do nativního kódu za běhu",
+        "Spravuje paměť aplikace",
+        "Testuje Java aplikace"
+      ],
+      "answer": "Překládá bytecode do nativního kódu za běhu"
+    },
+    {
+      "question": "Co zajišťuje platformovou nezávislost Javy?",
+      "options": [
+        "JDK",
+        "JRE",
+        "JVM",
+        "JIT"
+      ],
+      "answer": "JVM"
+    },
+    {
+      "question": "Jak se v Javě vypisuje do konzole?",
+      "options": [
+        "console.log('Hello')",
+        "System.out.println('Hello')",
+        "print('Hello')",
+        "write('Hello')"
+      ],
+      "answer": "System.out.println('Hello')"
+    },
+    {
+      "question": "Jak se v JavaScriptu deklaruje proměnná?",
+      "options": [
+        "int age = 30;",
+        "let age = 30;",
+        "final age = 30;",
+        "static age = 30;"
+      ],
+      "answer": "let age = 30;"
+    },
+    {
+      "question": "Co je charakteristické pro Java jako programovací jazyk?",
+      "options": [
+        "Je primárně určen pro webový vývoj",
+        "Kompiluje se do bytecode a běží na JVM",
+        "Je čistě interpretovaný",
+        "Nepodporuje objektové programování"
+      ],
+      "answer": "Kompiluje se do bytecode a běží na JVM"
+    },
+    {
+      "question": "Co je přetypování v Javě?",
+      "options": [
+        "Automatický převod proměnných",
+        "Explicitní převod mezi typy, např. (int) 3.14",
+        "Převod textu na číslo",
+        "Změna názvu proměnné"
+      ],
+      "answer": "Explicitní převod mezi typy, např. (int) 3.14"
+    },
+    {
+      "question": "Kde se ukládají globální proměnné v paměti?",
+      "options": [
+        "Stack",
+        "Heap",
+        "Registr",
+        "Cache"
+      ],
+      "answer": "Heap"
+    },
+    {
+      "question": "Co je nevýhodou stack paměti?",
+      "options": [
+        "Pomalý přístup",
+        "Omezená velikost",
+        "Potřeba garbage collectoru",
+        "Fragmentace paměti"
+      ],
+      "answer": "Omezená velikost"
+    }
+  ]
+}

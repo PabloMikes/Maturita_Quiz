@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Epic test</title>
+  <link rel="stylesheet" href="style.css" />
+  <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700&family=Roboto:wght@300;400;500&display=swap" rel="stylesheet">
+</head>
+<body>
+  <div class="cyber-container">
+    <div class="neon-header">
+      <h1><span class="neon-text">MATURITA</span> QUIZ</h1>
+      <div class="neon-line"></div>
+    </div>
+    
+    <div id="category-select" class="cyber-buttons">
+      <button onclick="loadCategory('site')" class="cyber-button">
+        <span class="cyber-button-content">SÍTĚ</span>
+        <span class="cyber-button-glitch"></span>
+      </button>
+      <button onclick="loadCategory('java')" class="cyber-button">
+        <span class="cyber-button-content">JAVA</span>
+        <span class="cyber-button-glitch"></span>
+      </button>
+    </div>
+    
+    <div id="quiz" class="cyber-grid"></div>
+    
+    <div id="result" class="cyber-result hidden">
+      <div class="result-container">
+        <div class="result-digits"></div>
+        <div class="result-text"></div>
+      </div>
+    </div>
+  </div>
+  
+  <div class="cyber-bg-effects">
+    <div class="grid-lines"></div>
+    <div class="particles"></div>
+  </div>
+  
+  <script src="script.js"></script>
+</body>
+</html>
