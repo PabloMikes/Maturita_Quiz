@@ -25,6 +25,26 @@
       </button>
     </div>
     
+    <div id="topic-selection" class="hidden">
+      <h2>Vyberte možnost testu:</h2>
+      <div class="cyber-buttons">
+        <button onclick="startSelectedTopicsQuiz()" class="cyber-button">
+          <span class="cyber-button-content">VYBRAT TÉMATA</span>
+          <span class="cyber-button-glitch"></span>
+        </button>
+        <button onclick="startFinalSiteTest()" class="cyber-button">
+          <span class="cyber-button-content">FINÁLNÍ TEST</span>
+          <span class="cyber-button-glitch"></span>
+        </button>
+      </div>
+      
+      <div id="topic-checkboxes" class="topic-grid hidden"></div>
+      <button id="start-selected-btn" onclick="startQuizWithSelectedTopics()" class="cyber-button hidden">
+        <span class="cyber-button-content">SPUSTIT TEST</span>
+        <span class="cyber-button-glitch"></span>
+      </button>
+    </div>
+    
     <div id="quiz" class="cyber-grid"></div>
     
     <div id="result" class="cyber-result hidden">

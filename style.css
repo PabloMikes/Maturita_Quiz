@@ -381,3 +381,93 @@ body {
   0% { opacity: 1; transform: scale(1); }
   100% { opacity: 0; transform: scale(0); }
 }
+
+/* Přidejte tyto styly k existujícímu CSS */
+
+.topic-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  gap: 1rem;
+  margin: 2rem 0;
+}
+
+.topic-item {
+  display: flex;
+  align-items: center;
+  padding: 0.5rem;
+  background: rgba(255, 255, 255, 0.05);
+  border-radius: 4px;
+}
+
+.topic-item input[type="checkbox"] {
+  margin-right: 0.5rem;
+  accent-color: var(--primary);
+}
+
+.topic-item label {
+  cursor: pointer;
+  font-size: 0.9rem;
+}
+
+/* Add this to your style.css file */
+h2 {
+  font-family: 'Orbitron', sans-serif;
+  color: var(--primary);
+  text-shadow: 
+    0 0 5px var(--primary),
+    0 0 10px var(--primary),
+    0 0 20px var(--primary);
+  letter-spacing: 2px;
+  margin: 1.5rem auto;
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  width: 100%;
+  padding: 0 20px;
+}
+
+h2::before, h2::after {
+  content: '';
+  flex: 1;
+  height: 3px;
+  background: linear-gradient(
+    90deg, 
+    transparent, 
+    var(--primary), 
+    transparent
+  );
+  box-shadow: 0 0 5px var(--primary);
+  margin: 0 15px;
+  max-width: 100px;
+}
+
+/* Animation for the h2 */
+@keyframes h2-flicker {
+  0%, 19%, 21%, 23%, 25%, 54%, 56%, 100% {
+    text-shadow: 
+      0 0 5px var(--primary),
+      0 0 10px var(--primary),
+      0 0 20px var(--primary);
+  }
+  20%, 24%, 55% {
+    text-shadow: none;
+  }
+}
+
+h2 {
+  animation: h2-flicker 3s infinite alternate;
+}
+
+/* Responsive adjustments */
+@media screen and (max-width: 768px) {
+  h2 {
+    padding: 0 10px;
+    font-size: 1.2rem;
+  }
+  h2::before, h2::after {
+    margin: 0 8px;
+    max-width: 50px;
+  }
+}

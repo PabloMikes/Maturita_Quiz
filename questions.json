@@ -1,6 +1,7 @@
 {
   "site": [
     {
+      "topic": "1. Vrstvové modely",
       "question": "Proč používáme vrstvové modely v sítích?",
       "options": [
         "Aby se zvýšila rychlost přenosu dat",
@@ -11,6 +12,7 @@
       "answer": "Aby se rozdělily problémy na jednodušší podproblémy"
     },
     {
+      "topic": "1. Vrstvové modely",
       "question": "Kolik vrstev má model TCP/IP ve srovnání s modelem ISO/OSI?",
       "options": [
         "4 vrstvy oproti 7 vrstvám",
@@ -21,6 +23,7 @@
       "answer": "4 vrstvy oproti 7 vrstvám"
     },
     {
+      "topic": "1. Vrstvové modely",
       "question": "Co je hlavním úkolem fyzické vrstvy v modelu ISO/OSI?",
       "options": [
         "Směrování dat v síti",
@@ -31,6 +34,7 @@
       "answer": "Fyzický přenos bitů"
     },
     {
+      "topic": "1. Vrstvové modely",
       "question": "Který protokol na linkové vrstvě pomáhá mapovat IP adresy na MAC adresy?",
       "options": [
         "ICMP",
@@ -41,6 +45,7 @@
       "answer": "ARP"
     },
     {
+      "topic": "1. Vrstvové modely",
       "question": "Co zajišťuje transportní vrstva v modelu ISO/OSI?",
       "options": [
         "Fyzické adresování",
@@ -51,6 +56,7 @@
       "answer": "Přenos dat mezi koncovými uzly"
     },
     {
+      "topic": "2. Typy sítí",
       "question": "Co je charakteristické pro síť typu LAN?",
       "options": [
         "Propojuje sítě přes hranice regionu",
@@ -61,6 +67,7 @@
       "answer": "Je malá síť, např. v domácnosti"
     },
     {
+      "topic": "2. Typy sítí",
       "question": "Který rozsah IP adres je typický pro privátní sítě?",
       "options": [
         "169.254.1.0 – 169.254.255.255",
@@ -71,6 +78,7 @@
       "answer": "192.168.0.0 – 192.168.255.255"
     },
     {
+      "topic": "2. Typy sítí",
       "question": "Co je výhodou hvězdicové topologie sítě?",
       "options": [
         "Vyžaduje méně kabeláže",
@@ -81,6 +89,7 @@
       "answer": "Snadné rozšíření a izolace poruch"
     },
     {
+      "topic": "2. Typy sítí",
       "question": "Co charakterizuje síť typu Peer-to-Peer?",
       "options": [
         "Klienti komunikují přes server",
@@ -91,6 +100,7 @@
       "answer": "Klienti komunikují přímo mezi sebou"
     },
     {
+      "topic": "2. Typy sítí",
       "question": "Co je typické pro síť typu WAN?",
       "options": [
         "Propojuje osobní zařízení jako Bluetooth",
@@ -101,6 +111,7 @@
       "answer": "Propojuje sítě přes regiony nebo města"
     },
     {
+      "topic": "3. Kabeláž",
       "question": "Co je hlavním cílem strukturované kabeláže?",
       "options": [
         "Snížení latence sítě",
@@ -111,6 +122,7 @@
       "answer": "Propojení uživatelů v síti s dlouhou životností"
     },
     {
+      "topic": "3. Kabeláž",
       "question": "Co je součástí horizontální kabeláže?",
       "options": [
         "Spojení mezi podlažími budovy",
@@ -121,6 +133,7 @@
       "answer": "Spojení mezi zásuvkami a patch panelem"
     },
     {
+      "topic": "3. Kabeláž",
       "question": "Proč se u kroucené dvojlinky používá kroucení vodičů?",
       "options": [
         "Pro zvýšení rychlosti přenosu",
@@ -131,6 +144,7 @@
       "answer": "Pro snížení elektromagnetického rušení"
     },
     {
+      "topic": "3. Kabeláž",
       "question": "Která kategorie UTP kabelu podporuje rychlost 10 Gbps?",
       "options": [
         "CAT5e",
@@ -141,6 +155,7 @@
       "answer": "CAT6a"
     },
     {
+      "topic": "3. Kabeláž",
       "question": "Co je PoE (Power over Ethernet)?",
       "options": [
         "Technologie pro šifrování dat",
@@ -151,6 +166,7 @@
       "answer": "Napájení zařízení přes datový kabel"
     },
     {
+      "topic": "4. Bezdrátové sítě",
       "question": "Co je výhodou bezdrátového přenosu oproti kabelovému?",
       "options": [
         "Vyšší rychlost přenosu",
@@ -161,6 +177,7 @@
       "answer": "Nepotřeba kabelů a nižší náklady"
     },
     {
+      "topic": "4. Bezdrátové sítě",
       "question": "Které frekvenční pásmo Wi-Fi má větší dosah?",
       "options": [
         "5 GHz",
@@ -171,6 +188,7 @@
       "answer": "2,4 GHz"
     },
     {
+      "topic": "4. Bezdrátové sítě",
       "question": "Co je Fresnelova zóna v bezdrátovém přenosu?",
       "options": [
         "Oblast pro šifrování signálu",
@@ -181,6 +199,7 @@
       "answer": "Prostor pro volné šíření elektromagnetických vln"
     },
     {
+      "topic": "4. Bezdrátové sítě",
       "question": "Který standard šifrování je nejnovější pro Wi-Fi sítě?",
       "options": [
         "WEP",
@@ -191,6 +210,7 @@
       "answer": "WPA3"
     },
     {
+      "topic": "4. Bezdrátové sítě",
       "question": "Co je CSMA/CA v bezdrátových sítích?",
       "options": [
         "Metoda detekce kolizí",
@@ -199,6 +219,336 @@
         "Technologie pro směrování"
       ],
       "answer": "Metoda vyhýbání se kolizím"
+    },
+    {
+      "topic": "5. IP adresy",
+      "question": "Co je IPv6 adresa?",
+      "options": [
+        "128-bitová adresa",
+        "32-bitová adresa",
+        "48-bitová adresa",
+        "64-bitová adresa"
+      ],
+      "answer": "128-bitová adresa"
+    },
+    {
+      "topic": "5. IP adresy",
+      "question": "Co je subnet maska?",
+      "options": [
+        "Identifikuje síťovou část IP adresy",
+        "Šifruje IP adresu",
+        "Přiřazuje MAC adresu",
+        "Určuje směrování mezi sítěmi"
+      ],
+      "answer": "Identifikuje síťovou část IP adresy"
+    },
+    {
+      "topic": "5. IP adresy",
+      "question": "Co je DHCP?",
+      "options": [
+        "Protokol pro automatické přiřazování IP adres",
+        "Metoda šifrování dat",
+        "Typ bezdrátového připojení",
+        "Způsob směrování paketů"
+      ],
+      "answer": "Protokol pro automatické přiřazování IP adres"
+    },
+    {
+      "topic": "5. IP adresy",
+      "question": "Co je NAT?",
+      "options": [
+        "Překlad síťových adres",
+        "Typ kabelového připojení",
+        "Metoda komprese dat",
+        "Protokol pro přenos souborů"
+      ],
+      "answer": "Překlad síťových adres"
+    },
+    {
+      "topic": "5. IP adresy",
+      "question": "Co je DNS?",
+      "options": [
+        "Systém pro překlad doménových jmen na IP adresy",
+        "Typ bezdrátové sítě",
+        "Metoda šifrování",
+        "Protokol pro přenos hlasu"
+      ],
+      "answer": "Systém pro překlad doménových jmen na IP adresy"
+    },
+    {
+      "topic": "6. Směrování",
+      "question": "Co je router?",
+      "options": [
+        "Zařízení propojující sítě",
+        "Typ kabelu",
+        "Server pro ukládání dat",
+        "Bezdrátový adaptér"
+      ],
+      "answer": "Zařízení propojující sítě"
+    },
+    {
+      "topic": "6. Směrování",
+      "question": "Co je routing table?",
+      "options": [
+        "Tabulka s pravidly pro směrování paketů",
+        "Seznam připojených zařízení",
+        "Historie přenosů",
+        "Konfigurace firewallu"
+      ],
+      "answer": "Tabulka s pravidly pro směrování paketů"
+    },
+    {
+      "topic": "6. Směrování",
+      "question": "Co je default gateway?",
+      "options": [
+        "Výchozí brána pro komunikaci mimo lokální síť",
+        "Typ kabelového připojení",
+        "Server pro ověřování uživatelů",
+        "Metoda šifrování"
+      ],
+      "answer": "Výchozí brána pro komunikaci mimo lokální síť"
+    },
+    {
+      "topic": "6. Směrování",
+      "question": "Co je statické směrování?",
+      "options": [
+        "Ručně konfigurované směrovací cesty",
+        "Automatické hledání nejlepší cesty",
+        "Metoda pro šifrování přenosu",
+        "Typ bezdrátového připojení"
+      ],
+      "answer": "Ručně konfigurované směrovací cesty"
+    },
+    {
+      "topic": "6. Směrování",
+      "question": "Co je dynamické směrování?",
+      "options": [
+        "Automatická aktualizace směrovacích tabulek",
+        "Ruční konfigurace cest",
+        "Metoda pro filtrování paketů",
+        "Typ kabeláže"
+      ],
+      "answer": "Automatická aktualizace směrovacích tabulek"
+    },
+    {
+      "topic": "7. Bezpečnost sítí",
+      "question": "Co je firewall?",
+      "options": [
+        "Systém pro kontrolu a filtrování síťového provozu",
+        "Typ kabelového připojení",
+        "Server pro ukládání dat",
+        "Bezdrátový adaptér"
+      ],
+      "answer": "Systém pro kontrolu a filtrování síťového provozu"
+    },
+    {
+      "topic": "7. Bezpečnost sítí",
+      "question": "Co je VPN?",
+      "options": [
+        "Virtuální privátní síť pro zabezpečené připojení",
+        "Typ kabelu",
+        "Server pro sdílení souborů",
+        "Metoda pro zrychlení přenosu"
+      ],
+      "answer": "Virtuální privátní síť pro zabezpečené připojení"
+    },
+    {
+      "topic": "7. Bezpečnost sítí",
+      "question": "Co je DoS útok?",
+      "options": [
+        "Pokus o zahlcení služby nebo sítě",
+        "Krádež dat",
+        "Infikování viry",
+        "Neoprávněný přístup"
+      ],
+      "answer": "Pokus o zahlcení služby nebo sítě"
+    },
+    {
+      "topic": "7. Bezpečnost sítí",
+      "question": "Co je SSL/TLS?",
+      "options": [
+        "Protokoly pro šifrovanou komunikaci",
+        "Typ bezdrátové sítě",
+        "Metoda komprese dat",
+        "Protokol pro přenos hlasu"
+      ],
+      "answer": "Protokoly pro šifrovanou komunikaci"
+    },
+    {
+      "topic": "7. Bezpečnost sítí",
+      "question": "Co je port scanning?",
+      "options": [
+        "Metoda pro zjišťování otevřených portů",
+        "Typ útoku na hesla",
+        "Šifrování komunikace",
+        "Filtrování paketů"
+      ],
+      "answer": "Metoda pro zjišťování otevřených portů"
+    },
+    {
+      "topic": "8. Protokoly",
+      "question": "Co je HTTP?",
+      "options": [
+        "Protokol pro přenos webových stránek",
+        "Typ šifrování",
+        "Metoda komprese",
+        "Protokol pro e-mail"
+      ],
+      "answer": "Protokol pro přenos webových stránek"
+    },
+    {
+      "topic": "8. Protokoly",
+      "question": "Co je FTP?",
+      "options": [
+        "Protokol pro přenos souborů",
+        "Typ bezdrátové sítě",
+        "Metoda šifrování",
+        "Protokol pro hlasovou komunikaci"
+      ],
+      "answer": "Protokol pro přenos souborů"
+    },
+    {
+      "topic": "8. Protokoly",
+      "question": "Co je SMTP?",
+      "options": [
+        "Protokol pro odesílání e-mailů",
+        "Typ kabelového připojení",
+        "Metoda komprese",
+        "Protokol pro přenos webových stránek"
+      ],
+      "answer": "Protokol pro odesílání e-mailů"
+    },
+    {
+      "topic": "8. Protokoly",
+      "question": "Co je ICMP?",
+      "options": [
+        "Protokol pro diagnostiku sítě",
+        "Typ šifrování",
+        "Metoda pro přenos souborů",
+        "Protokol pro hlasovou komunikaci"
+      ],
+      "answer": "Protokol pro diagnostiku sítě"
+    },
+    {
+      "topic": "8. Protokoly",
+      "question": "Co je UDP?",
+      "options": [
+        "Protokol bez spojení a záruky doručení",
+        "Typ kabelového připojení",
+        "Metoda šifrování",
+        "Protokol pro přenos webových stránek"
+      ],
+      "answer": "Protokol bez spojení a záruky doručení"
+    },
+    {
+      "topic": "9. Cloudové služby",
+      "question": "Co je IaaS?",
+      "options": [
+        "Poskytování infrastruktury jako služby",
+        "Typ kabelového připojení",
+        "Metoda šifrování",
+        "Protokol pro přenos souborů"
+      ],
+      "answer": "Poskytování infrastruktury jako služby"
+    },
+    {
+      "topic": "9. Cloudové služby",
+      "question": "Co je SaaS?",
+      "options": [
+        "Poskytování software jako služby",
+        "Typ bezdrátové sítě",
+        "Metoda komprese",
+        "Protokol pro hlasovou komunikaci"
+      ],
+      "answer": "Poskytování software jako služby"
+    },
+    {
+      "topic": "9. Cloudové služby",
+      "question": "Co je PaaS?",
+      "options": [
+        "Poskytování platformy jako služby",
+        "Typ kabelového připojení",
+        "Metoda šifrování",
+        "Protokol pro přenos webových stránek"
+      ],
+      "answer": "Poskytování platformy jako služby"
+    },
+    {
+      "topic": "9. Cloudové služby",
+      "question": "Co je hybridní cloud?",
+      "options": [
+        "Kombinace veřejného a privátního cloudu",
+        "Typ šifrování",
+        "Metoda komprese",
+        "Protokol pro přenos souborů"
+      ],
+      "answer": "Kombinace veřejného a privátního cloudu"
+    },
+    {
+      "topic": "9. Cloudové služby",
+      "question": "Co je privátní cloud?",
+      "options": [
+        "Cloudová infrastruktura pro jednu organizaci",
+        "Typ bezdrátové sítě",
+        "Metoda šifrování",
+        "Protokol pro hlasovou komunikaci"
+      ],
+      "answer": "Cloudová infrastruktura pro jednu organizaci"
+    },
+    {
+      "topic": "10. Virtualizace",
+      "question": "Co je hypervisor?",
+      "options": [
+        "Software pro vytváření a správu virtuálních strojů",
+        "Typ kabelového připojení",
+        "Metoda komprese",
+        "Protokol pro přenos souborů"
+      ],
+      "answer": "Software pro vytváření a správu virtuálních strojů"
+    },
+    {
+      "topic": "10. Virtualizace",
+      "question": "Co je Type 1 hypervisor?",
+      "options": [
+        "Hypervisor běžící přímo na hardware",
+        "Hypervisor běžící na hostitelském OS",
+        "Typ virtualizace sítě",
+        "Metoda šifrování"
+      ],
+      "answer": "Hypervisor běžící přímo na hardware"
+    },
+    {
+      "topic": "10. Virtualizace",
+      "question": "Co je Type 2 hypervisor?",
+      "options": [
+        "Hypervisor běžící na hostitelském OS",
+        "Hypervisor běžící přímo na hardware",
+        "Typ virtualizace sítě",
+        "Metoda komprese"
+      ],
+      "answer": "Hypervisor běžící na hostitelském OS"
+    },
+    {
+      "topic": "10. Virtualizace",
+      "question": "Co je kontejnerizace?",
+      "options": [
+        "Metoda virtualizace na úrovni OS",
+        "Typ kabelového připojení",
+        "Metoda šifrování",
+        "Protokol pro přenos souborů"
+      ],
+      "answer": "Metoda virtualizace na úrovni OS"
+    },
+    {
+      "topic": "10. Virtualizace",
+      "question": "Co je Docker?",
+      "options": [
+        "Platforma pro kontejnerizaci aplikací",
+        "Typ hypervisoru",
+        "Metoda komprese",
+        "Protokol pro hlasovou komunikaci"
+      ],
+      "answer": "Platforma pro kontejnerizaci aplikací"
     }
   ],
   "java": [

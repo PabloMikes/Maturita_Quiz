@@ -1,6 +1,7 @@
 let questions = [];
 let correctCount = 0;
 let totalCount = 0;
+let selectedTopics = [];
 
 // Načtení otázek z JSON podle kategorie
 async function loadCategory(category) {
@@ -10,6 +11,96 @@ async function loadCategory(category) {
   correctCount = 0;
   totalCount = questions.length;
   document.getElementById('result').classList.add('hidden');
+  
+  if (category === 'java') {
+    // Pro Javu rovnou spustíme test
+    renderQuestions();
+  } else {
+    // Pro Sítě ukážeme výběr možností
+    document.getElementById('category-select').classList.add('hidden');
+    document.getElementById('topic-selection').classList.remove('hidden');
+  }
+}
+
+// Zobrazí výběr témat pro Sítě
+function startSelectedTopicsQuiz() {
+  document.getElementById('topic-checkboxes').classList.remove('hidden');
+  document.getElementById('start-selected-btn').classList.remove('hidden');
+  
+  const topicCheckboxes = document.getElementById('topic-checkboxes');
+  topicCheckboxes.innerHTML = '';
+  
+  // Vytvoření checkboxů pro každé téma
+  const topics = [...new Set(questions.map(q => q.topic))];
+  topics.forEach(topic => {
+    const container = document.createElement('div');
+    container.classList.add('topic-item');
+    
+    const checkbox = document.createElement('input');
+    checkbox.type = 'checkbox';
+    checkbox.id = `topic-${topic}`;
+    checkbox.value = topic;
+    checkbox.checked = true;
+    
+    const label = document.createElement('label');
+    label.htmlFor = `topic-${topic}`;
+    label.textContent = topic;
+    
+    container.appendChild(checkbox);
+    container.appendChild(label);
+    topicCheckboxes.appendChild(container);
+  });
+}
+
+// Spustí test s vybranými tématy
+function startQuizWithSelectedTopics() {
+  const checkboxes = document.querySelectorAll('#topic-checkboxes input[type="checkbox"]:checked');
+  selectedTopics = Array.from(checkboxes).map(cb => cb.value);
+  
+  if (selectedTopics.length === 0) {
+    alert('Vyberte alespoň jedno téma!');
+    return;
+  }
+  
+  // Filtrovat otázky podle vybraných témat
+  const filteredQuestions = questions.filter(q => selectedTopics.includes(q.topic));
+  
+  // Pro každé téma vybrat náhodně 5 otázek
+  const questionsPerTopic = 5;
+  const selectedQuestions = [];
+  
+  selectedTopics.forEach(topic => {
+    const topicQuestions = filteredQuestions.filter(q => q.topic === topic);
+    const shuffled = [...topicQuestions].sort(() => 0.5 - Math.random());
+    selectedQuestions.push(...shuffled.slice(0, questionsPerTopic));
+  });
+  
+  startQuiz(selectedQuestions);
+}
+
+// Spustí finální test pro Sítě - 5 otázek z každého tématu
+function startFinalSiteTest() {
+  const questionsPerTopic = 5;
+  const selectedQuestions = [];
+  
+  // Projít všechna témata v SÍTĚ
+  const topics = [...new Set(questions.map(q => q.topic))];
+  topics.forEach(topic => {
+    const topicQuestions = questions.filter(q => q.topic === topic);
+    const shuffled = [...topicQuestions].sort(() => 0.5 - Math.random());
+    selectedQuestions.push(...shuffled.slice(0, questionsPerTopic));
+  });
+  
+  startQuiz(selectedQuestions);
+}
+
+// Spustí quiz s vybranými otázkami
+function startQuiz(selectedQuestions) {
+  questions = selectedQuestions;
+  correctCount = 0;
+  totalCount = questions.length;
+  document.getElementById('result').classList.add('hidden');
+  document.getElementById('topic-selection').classList.add('hidden');
   renderQuestions();
 }
 
@@ -17,6 +108,7 @@ async function loadCategory(category) {
 function renderQuestions() {
   const quiz = document.getElementById('quiz');
   quiz.innerHTML = '';
+  document.getElementById('category-select').classList.add('hidden');
 
   questions.forEach((question, index) => {
     const questionDiv = document.createElement('div');
