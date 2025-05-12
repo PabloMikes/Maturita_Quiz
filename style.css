@@ -25,6 +25,7 @@ body {
   min-height: 100vh;
   overflow-x: hidden;
   position: relative;
+  user-select: none;
 }
 
 .cyber-container {
@@ -458,7 +459,7 @@ h2::before, h2::after {
 
 h2 {
   animation: h2-flicker 3s infinite alternate;
-  
+
 }
 
 /* Responsive adjustments */
@@ -471,4 +472,17 @@ h2 {
     margin: 0 8px;
     max-width: 50px;
   }
+}
+
+.neon-header {
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.neon-header:hover {
+  transform: scale(1.02);
+}
+
+.neon-header:active {
+  transform: scale(0.98);
 }

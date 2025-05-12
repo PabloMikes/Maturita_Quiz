@@ -323,3 +323,23 @@ setInterval(() => {
     createSpaceCat();
   }
 }, 1000);
+
+// ... (all your existing functions remain the same)
+
+// Reset to main menu
+function resetToMainMenu() {
+  // Reset všeho na výchozí stav
+  document.getElementById('category-select').classList.remove('hidden');
+  document.getElementById('topic-selection').classList.add('hidden');
+  document.getElementById('quiz').innerHTML = '';
+  document.getElementById('result').classList.add('hidden');
+  
+  // Zajistíme, že tlačítko "SPUSTIT TEST" je viditelné
+  document.getElementById('start-selected-btn').classList.remove('hidden');
+  
+  // Reset počítadel
+  correctCount = 0;
+  totalCount = 0;
+}
+
+// ... (rest of your existing code)
