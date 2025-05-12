@@ -473,3 +473,16 @@ h2 {
     max-width: 50px;
   }
 }
+
+.neon-header {
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.neon-header:hover {
+  transform: scale(1.02);
+}
+
+.neon-header:active {
+  transform: scale(0.98);
+}
