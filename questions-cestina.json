@@ -1,3 +1,552 @@
 [
-    
+    {
+      "topic": "1. Molière",
+      "question": "V jakém století působil Molière jako dramatik a herec?",
+      "options": [
+        "16. století",
+        "17. století",
+        "18. století",
+        "19. století"
+      ],
+      "answer": "17. století"
+    },
+    {
+      "topic": "1. Molière",
+      "question": "Jaké bylo Molièrovo pravé jméno?",
+      "options": [
+        "Jean-Baptiste Poquelin",
+        "Pierre Corneille",
+        "François Rabelais",
+        "Jean Racine"
+      ],
+      "answer": "Jean-Baptiste Poquelin"
+    },
+    {
+      "topic": "1. Molière",
+      "question": "Který žánr dominuje v Molièrově tvorbě?",
+      "options": [
+        "Tragédie",
+        "Komedie",
+        "Epos",
+        "Lyrická poezie"
+      ],
+      "answer": "Komedie"
+    },
+    {
+      "topic": "1. Molière",
+      "question": "Co bylo charakteristické pro Molièrovy komedie?",
+      "options": [
+        "Romantické příběhy",
+        "Satira společenských neřestí",
+        "Historické eposy",
+        "Náboženská témata"
+      ],
+      "answer": "Satira společenských neřestí"
+    },
+    {
+      "topic": "1. Molière",
+      "question": "Které Molièrovo dílo bylo kritizováno za zesměšňování náboženské pokrytectví?",
+      "options": [
+        "Don Juan",
+        "Tartuffe",
+        "Lakomec",
+        "Zdravý nemocný"
+      ],
+      "answer": "Tartuffe"
+    },
+    {
+      "topic": "2. Lakomec",
+      "question": "Jak se jmenuje hlavní postava v Molièrově *Lakomci*?",
+      "options": [
+        "Harpagon",
+        "Cleante",
+        "Valère",
+        "Frosine"
+      ],
+      "answer": "Harpagon"
+    },
+    {
+      "topic": "2. Lakomec",
+      "question": "Co je hlavním motivem *Lakomce*?",
+      "options": [
+        "Láska a romantika",
+        "Chamtivost a lakota",
+        "Cestování a dobrodružství",
+        "Náboženská víra"
+      ],
+      "answer": "Chamtivost a lakota"
+    },
+    {
+      "topic": "2. Lakomec",
+      "question": "Jaký je žánr *Lakomce*?",
+      "options": [
+        "Tragédie",
+        "Komedie",
+        "Drama",
+        "Satirický román"
+      ],
+      "answer": "Komedie"
+    },
+    {
+      "topic": "2. Lakomec",
+      "question": "Co Harpagon v *Lakomci* ukrývá a považuje za svůj největší poklad?",
+      "options": [
+        "Vzácnou knihu",
+        "Truhlu s penězi",
+        "Rodinný šperk",
+        "Zbraň"
+      ],
+      "answer": "Truhlu s penězi"
+    },
+    {
+      "topic": "2. Lakomec",
+      "question": "Jaký konflikt je ústřední v *Lakomci*?",
+      "options": [
+        "Boj o politickou moc",
+        "Konflikt mezi lakotou a láskou",
+        "Spor o dědictví",
+        "Náboženský rozkol"
+      ],
+      "answer": "Konflikt mezi lakotou a láskou"
+    },
+    {
+      "topic": "3. Nikolaj Gogol",
+      "question": "V jaké zemi se narodil Nikolaj Gogol?",
+      "options": [
+        "Rusko",
+        "Ukrajina",
+        "Polsko",
+        "Francie"
+      ],
+      "answer": "Ukrajina"
+    },
+    {
+      "topic": "3. Nikolaj Gogol",
+      "question": "Který literární směr je spojen s Gogolovou tvorbou?",
+      "options": [
+        "Romantismus",
+        "Realismus",
+        "Symbolismus",
+        "Klasicismus"
+      ],
+      "answer": "Realismus"
+    },
+    {
+      "topic": "3. Nikolaj Gogol",
+      "question": "Jaké téma často dominuje v Gogolových dílech?",
+      "options": [
+        "Láska a romantika",
+        "Kritika byrokracie a společnosti",
+        "Vědecký pokrok",
+        "Historické události"
+      ],
+      "answer": "Kritika byrokracie a společnosti"
+    },
+    {
+      "topic": "3. Nikolaj Gogol",
+      "question": "Které Gogolovo dílo je sbírkou povídek inspirovaných ukrajinským folklórem?",
+      "options": [
+        "Mrtvé duše",
+        "Večery na samotě u Dikaňky",
+        "Revizor",
+        "Plášť"
+      ],
+      "answer": "Večery na samotě u Dikaňky"
+    },
+    {
+      "topic": "3. Nikolaj Gogol",
+      "question": "Co bylo charakteristické pro Gogolův styl psaní?",
+      "options": [
+        "Suchý vědecký styl",
+        "Satira a ironie",
+        "Lyrická poezie",
+        "Abstraktní symbolika"
+      ],
+      "answer": "Satira a ironie"
+    },
+    {
+      "topic": "4. Revizor",
+      "question": "Co je hlavním tématem Gogolova *Revizora*?",
+      "options": [
+        "Korupce a byrokracie",
+        "Láska a rodina",
+        "Válka a hrdinství",
+        "Náboženská víra"
+      ],
+      "answer": "Korupce a byrokracie"
+    },
+    {
+      "topic": "4. Revizor",
+      "question": "Jaká je hlavní zápletka *Revizora*?",
+      "options": [
+        "Spor o dědictví",
+        "Záměna identity úředníka",
+        "Cesta za pokladem",
+        "Náboženský konflikt"
+      ],
+      "answer": "Záměna identity úředníka"
+    },
+    {
+      "topic": "4. Revizor",
+      "question": "Jak se jmenuje hlavní postava, která je mylně považována za revizora?",
+      "options": [
+        "Chlestakov",
+        "Starosta",
+        "Osip",
+        "Anna"
+      ],
+      "answer": "Chlestakov"
+    },
+    {
+      "topic": "4. Revizor",
+      "question": "Jaký je žánr *Revizora*?",
+      "options": [
+        "Tragédie",
+        "Satirická komedie",
+        "Román",
+        "Epos"
+      ],
+      "answer": "Satirická komedie"
+    },
+    {
+      "topic": "4. Revizor",
+      "question": "Co odhaluje závěr *Revizora*?",
+      "options": [
+        "Příchod skutečného revizora",
+        "Záchranu města",
+        "Smrt hlavní postavy",
+        "Svatbu Chlestakova"
+      ],
+      "answer": "Příchod skutečného revizora"
+    },
+    {
+      "topic": "5. Karel Čapek",
+      "question": "Který termín zavedl Karel Čapek ve svém díle *R.U.R.*?",
+      "options": [
+        "Kybernetika",
+        "Robot",
+        "Internet",
+        "Klonování"
+      ],
+      "answer": "Robot"
+    },
+    {
+      "topic": "5. Karel Čapek",
+      "question": "V jakém literárním směru tvořil Karel Čapek?",
+      "options": [
+        "Romantismus",
+        "Modernismus",
+        "Symbolismus",
+        "Surrealismus"
+      ],
+      "answer": "Modernismus"
+    },
+    {
+      "topic": "5. Karel Čapek",
+      "question": "Které téma často zkoumal Čapek ve svých dílech?",
+      "options": [
+        "Romantická láska",
+        "Zneužití vědy a moci",
+        "Středověké legendy",
+        "Příroda a ekologie"
+      ],
+      "answer": "Zneužití vědy a moci"
+    },
+    {
+      "topic": "5. Karel Čapek",
+      "question": "Které Čapkovo dílo je sbírkou detektivních povídek?",
+      "options": [
+        "Válka s mloky",
+        "Dobný občan",
+        "Krakatit",
+        "R.U.R."
+      ],
+      "answer": "Dobný občan"
+    },
+    {
+      "topic": "5. Karel Čapek",
+      "question": "Co bylo Čapkovo povolání kromě spisovatele?",
+      "options": [
+        "Lékař",
+        "Novinář",
+        "Inženýr",
+        "Učitel"
+      ],
+      "answer": "Novinář"
+    },
+    {
+      "topic": "6. Bílá nemoc",
+      "question": "Co je ústředním tématem Čapkovy *Bílé nemoci*?",
+      "options": [
+        "Láska a oběť",
+        "Totalita a morálka",
+        "Válka a hrdinství",
+        "Příroda a ekologie"
+      ],
+      "answer": "Totalita a morálka"
+    },
+    {
+      "topic": "6. Bílá nemoc",
+      "question": "Jaká fiktivní nemoc hraje klíčovou roli v *Bílé nemoci*?",
+      "options": [
+        "Černá smrt",
+        "Bílá nemoc",
+        "Červená horečka",
+        "Modrý mor"
+      ],
+      "answer": "Bílá nemoc"
+    },
+    {
+      "topic": "6. Bílá nemoc",
+      "question": "Kdo je hlavní postavou, která objeví lék na nemoc v *Bílé nemoci*?",
+      "options": [
+        "Dr. Galén",
+        "Maršál",
+        "Baron Krüg",
+        "Profesor Sigelius"
+      ],
+      "answer": "Dr. Galén"
+    },
+    {
+      "topic": "6. Bílá nemoc",
+      "question": "Jaký je žánr *Bílé nemoci*?",
+      "options": [
+        "Komedie",
+        "Drama",
+        "Satira",
+        "Román"
+      ],
+      "answer": "Drama"
+    },
+    {
+      "topic": "6. Bílá nemoc",
+      "question": "Co symbolizuje nemoc v *Bílé nemoci*?",
+      "options": [
+        "Lásku a oběť",
+        "Morální úpadek a diktaturu",
+        "Technologický pokrok",
+        "Přírodní katastrofu"
+      ],
+      "answer": "Morální úpadek a diktaturu"
+    },
+    {
+      "topic": "7. Viktor Dyk",
+      "question": "Který literární směr reprezentuje Viktor Dyk?",
+      "options": [
+        "Realismus",
+        "Symbolismus",
+        "Romantismus",
+        "Naturalismus"
+      ],
+      "answer": "Symbolismus"
+    },
+    {
+      "topic": "7. Viktor Dyk",
+      "question": "Které Dykovo dílo je známou básní inspirovanou českým folklórem?",
+      "options": [
+        "Polednice",
+        "Krysař",
+        "Zmrzlinář",
+        "Lehké kroky"
+      ],
+      "answer": "Polednice"
+    },
+    {
+      "topic": "7. Viktor Dyk",
+      "question": "Co bylo Dykovo povolání kromě spisovatele?",
+      "options": [
+        "Lékař",
+        "Právník",
+        "Inženýr",
+        "Učitel"
+      ],
+      "answer": "Právník"
+    },
+    {
+      "topic": "7. Viktor Dyk",
+      "question": "Které téma je časté v Dykově tvorbě?",
+      "options": [
+        "Vědecký pokrok",
+        "Touha po svobodě a spravedlnosti",
+        "Romantická láska",
+        "Válka a hrdinství"
+      ],
+      "answer": "Touha po svobodě a spravedlnosti"
+    },
+    {
+      "topic": "7. Viktor Dyk",
+      "question": "Které Dykovo dílo je satirickou povídkou o české společnosti?",
+      "options": [
+        "Krysař",
+        "Zmrzlinář",
+        "Lehké kroky",
+        "Polednice"
+      ],
+      "answer": "Zmrzlinář"
+    },
+    {
+      "topic": "8. Krysař",
+      "question": "Co je ústředním motivem Dykova *Krysaře*?",
+      "options": [
+        "Láska a oběť",
+        "Pomsta a svoboda",
+        "Válka a hrdinství",
+        "Náboženská víra"
+      ],
+      "answer": "Pomsta a svoboda"
+    },
+    {
+      "topic": "8. Krysař",
+      "question": "Jaký je žánr *Krysaře*?",
+      "options": [
+        "Báseň",
+        "Novela",
+        "Drama",
+        "Epos"
+      ],
+      "answer": "Novela"
+    },
+    {
+      "topic": "8. Krysař",
+      "question": "Kdo je hlavní postavou *Krysaře*?",
+      "options": [
+        "Krysař",
+        "Agnes",
+        "Sepp Jörgen",
+        "Měšťan"
+      ],
+      "answer": "Krysař"
+    },
+    {
+      "topic": "8. Krysař",
+      "question": "Co symbolizuje Krysařovo hraní na píšťalu?",
+      "options": [
+        "Lásku a harmonii",
+        "Sílu umění a pomsty",
+        "Náboženskou víru",
+        "Vědecký pokrok"
+      ],
+      "answer": "Sílu umění a pomsty"
+    },
+    {
+      "topic": "8. Krysař",
+      "question": "Jaký je závěr *Krysaře*?",
+      "options": [
+        "Krysař zachrání město",
+        "Krysař odvede děti z města",
+        "Krysař se ožení s Agnes",
+        "Město porazí Krysaře"
+      ],
+      "answer": "Krysař odvede děti z města"
+    },
+    {
+      "topic": "9. Bohumil Hrabal",
+      "question": "Co je charakteristické pro Hrabalův literární styl?",
+      "options": [
+        "Suchý vědecký styl",
+        "Poetická nadsázka a humor",
+        "Abstraktní symbolika",
+        "Historická přesnost"
+      ],
+      "answer": "Poetická nadsázka a humor"
+    },
+    {
+      "topic": "9. Bohumil Hrabal",
+      "question": "Které Hrabalovo dílo je inspirováno jeho zážitky z pivnice?",
+      "options": [
+        "Pábitelé",
+        "Ostře sledované vlaky",
+        "Příliš hlučná samota",
+        "Postřižiny"
+      ],
+      "answer": "Pábitelé"
+    },
+    {
+      "topic": "9. Bohumil Hrabal",
+      "question": "V jakém století Hrabal tvořil?",
+      "options": [
+        "19. století",
+        "20. století",
+        "18. století",
+        "17. století"
+      ],
+      "answer": "20. století"
+    },
+    {
+      "topic": "9. Bohumil Hrabal",
+      "question": "Které téma je časté v Hrabalově tvorbě?",
+      "options": [
+        "Vědecký pokrok",
+        "Každodenní život a lidská odolnost",
+        "Náboženská víra",
+        "Středověké legendy"
+      ],
+      "answer": "Každodenní život a lidská odolnost"
+    },
+    {
+      "topic": "9. Bohumil Hrabal",
+      "question": "Co bylo Hrabalovo povolání před literární kariérou?",
+      "options": [
+        "Učitel",
+        "Právník",
+        "Dělník a úředník",
+        "Lékař"
+      ],
+      "answer": "Dělník a úředník"
+    },
+    {
+      "topic": "10. Ostře sledované vlaky",
+      "question": "V jakém historickém období se odehrává *Ostře sledované vlaky*?",
+      "options": [
+        "První světová válka",
+        "Druhá světová válka",
+        "Studená válka",
+        "Meziválečné období"
+      ],
+      "answer": "Druhá světová válka"
+    },
+    {
+      "topic": "10. Ostře sledované vlaky",
+      "question": "Kdo je hlavní postavou *Ostře sledovaných vlaků*?",
+      "options": [
+        "Miloš Hrma",
+        "Václav Neckář",
+        "Hubička",
+        "Viktoria Freie"
+      ],
+      "answer": "Miloš Hrma"
+    },
+    {
+      "topic": "10. Ostře sledované vlaky",
+      "question": "Jaký je žánr *Ostře sledovaných vlaků*?",
+      "options": [
+        "Tragédie",
+        "Komedie s tragickými prvky",
+        "Sci-fi",
+        "Historický román"
+      ],
+      "answer": "Komedie s tragickými prvky"
+    },
+    {
+      "topic": "10. Ostře sledované vlaky",
+      "question": "Co je hlavním motivem *Ostře sledovaných vlaků*?",
+      "options": [
+        "Láska a dospívání v čase války",
+        "Vědecký pokrok",
+        "Náboženská víra",
+        "Politická satira"
+      ],
+      "answer": "Láska a dospívání v čase války"
+    },
+    {
+      "topic": "10. Ostře sledované vlaky",
+      "question": "Jaký je závěr *Ostře sledovaných vlaků*?",
+      "options": [
+        "Miloš se ožení a žije šťastně",
+        "Miloš zemře při sabotáži vlaku",
+        "Miloš opustí železnici",
+        "Miloš se stane hrdinou města"
+      ],
+      "answer": "Miloš zemře při sabotáži vlaku"
+    }
 ]
