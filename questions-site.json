@@ -1181,11 +1181,11 @@
       "question": "Co je backbone area v OSPF?",
       "options": [
         "Oblast pro malé sítě",
-        "Páteřní oblast spojující ostatní oblasti",
+        "Hlavní oblast spojující ostatní oblasti",
         "Oblast bez směrovačů",
         "Oblast pro Wi-Fi"
       ],
-      "answer": "Páteřní oblast spojující ostatní oblasti"
+      "answer": "Hlavní oblast spojující ostatní oblasti"
     },
     {
       "topic": "8. Směrování – směrovací protokoly OSPF a BGP",
