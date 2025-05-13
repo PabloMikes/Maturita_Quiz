@@ -43,18 +43,6 @@ function startQuizWithSelectedTopics() {
   }
   
   const selectedTopics = Array.from(selectedButtons).map(btn => btn.dataset.topic);
-<<<<<<< HEAD
-  const questionsPerTopic = 10;
-  const selectedQuestions = [];
-  
-  selectedTopics.forEach(topic => {
-    const topicQuestions = questions.filter(q => q.topic === topic);
-    // Vezme buď 10 otázek nebo všechny dostupné, pokud jich je méně než 10
-    const count = Math.min(questionsPerTopic, topicQuestions.length);
-    const shuffled = [...topicQuestions].sort(() => 0.5 - Math.random());
-    selectedQuestions.push(...shuffled.slice(0, count));
-  });
-=======
   let selectedQuestions = [];
   
   if (currentCategory === 'site') {
@@ -69,25 +57,11 @@ function startQuizWithSelectedTopics() {
     // Pro JAVU: všechny otázky z vybraných témat
     selectedQuestions = questions.filter(q => selectedTopics.includes(q.topic));
   }
->>>>>>> 1626926358906fc5497e6d829e1425ae30a0fee1
   
   startQuiz(selectedQuestions);
 }
 
 function startFinalTest() {
-<<<<<<< HEAD
-  const questionsPerTopic = 10;
-  const selectedQuestions = [];
-  
-  const topics = [...new Set(questions.map(q => q.topic))];
-  topics.forEach(topic => {
-    const topicQuestions = questions.filter(q => q.topic === topic);
-    // Vezme buď 10 otázek nebo všechny dostupné, pokud jich je méně než 10
-    const count = Math.min(questionsPerTopic, topicQuestions.length);
-    const shuffled = [...topicQuestions].sort(() => 0.5 - Math.random());
-    selectedQuestions.push(...shuffled.slice(0, count));
-  });
-=======
   let selectedQuestions = [];
   
   if (currentCategory === 'site') {
@@ -103,7 +77,6 @@ function startFinalTest() {
     // Pro JAVU: všechny otázky
     selectedQuestions = [...questions];
   }
->>>>>>> 1626926358906fc5497e6d829e1425ae30a0fee1
   
   startQuiz(selectedQuestions);
 }
