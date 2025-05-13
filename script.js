@@ -13,7 +13,6 @@ async function loadCategory(category) {
   totalCount = questions.length;
   document.getElementById('result').classList.add('hidden');
   
-  // Show topic selection for both categories
   document.getElementById('category-select').classList.add('hidden');
   document.getElementById('topic-selection').classList.remove('hidden');
   showTopicSelection();
@@ -44,37 +43,39 @@ function startQuizWithSelectedTopics() {
   }
   
   const selectedTopics = Array.from(selectedButtons).map(btn => btn.dataset.topic);
-  const questionsPerTopic = 5;
+  const questionsPerTopic = 10;
   const selectedQuestions = [];
   
   selectedTopics.forEach(topic => {
     const topicQuestions = questions.filter(q => q.topic === topic);
+    // Vezme buď 10 otázek nebo všechny dostupné, pokud jich je méně než 10
+    const count = Math.min(questionsPerTopic, topicQuestions.length);
     const shuffled = [...topicQuestions].sort(() => 0.5 - Math.random());
-    selectedQuestions.push(...shuffled.slice(0, questionsPerTopic));
+    selectedQuestions.push(...shuffled.slice(0, count));
   });
   
   startQuiz(selectedQuestions);
 }
 
 function startFinalTest() {
-  const questionsPerTopic = 5;
+  const questionsPerTopic = 10;
   const selectedQuestions = [];
   
   const topics = [...new Set(questions.map(q => q.topic))];
   topics.forEach(topic => {
     const topicQuestions = questions.filter(q => q.topic === topic);
+    // Vezme buď 10 otázek nebo všechny dostupné, pokud jich je méně než 10
+    const count = Math.min(questionsPerTopic, topicQuestions.length);
     const shuffled = [...topicQuestions].sort(() => 0.5 - Math.random());
-    selectedQuestions.push(...shuffled.slice(0, questionsPerTopic));
+    selectedQuestions.push(...shuffled.slice(0, count));
   });
   
   startQuiz(selectedQuestions);
 }
 
-// ... (keep all other existing functions the same)
-
-// Spustí quiz s vybranými otázkami
 function startQuiz(selectedQuestions) {
-  questions = selectedQuestions;
+  // Dále zamíchá celý výběr otázek, aby nebyly seřazené po tématech
+  questions = [...selectedQuestions].sort(() => 0.5 - Math.random());
   correctCount = 0;
   totalCount = questions.length;
   document.getElementById('result').classList.add('hidden');
@@ -82,7 +83,7 @@ function startQuiz(selectedQuestions) {
   renderQuestions();
 }
 
-// Vykreslení otázek do kvízu
+
 function renderQuestions() {
   const quiz = document.getElementById('quiz');
   quiz.innerHTML = '';
@@ -111,7 +112,6 @@ function renderQuestions() {
   });
 }
 
-// Zpracování odpovědi uživatele
 function handleAnswer(selectedButton, question, selectedOption, container) {
   const buttons = container.querySelectorAll('button');
   buttons.forEach(btn => btn.disabled = true);
@@ -133,7 +133,6 @@ function handleAnswer(selectedButton, question, selectedOption, container) {
   showResult();
 }
 
-// Zobrazení výsledků kvízu
 function showResult() {
   const result = document.getElementById('result');
   result.classList.remove('hidden');
@@ -150,11 +149,9 @@ function showResult() {
     resultDigits.classList.remove('animate-glow');
   }, 1000);
   
-  // Show certificate button
   document.getElementById('certificate-btn').classList.remove('hidden');
 }
 
-// Náhodné zamíchání pole odpovědí
 function shuffleArray(array) {
   for (let i = array.length - 1; i > 0; i--) {
     const j = Math.floor(Math.random() * (i + 1));
@@ -162,7 +159,6 @@ function shuffleArray(array) {
   }
 }
 
-// Reset na hlavní menu
 function resetToMainMenu() {
   document.getElementById('category-select').classList.remove('hidden');
   document.getElementById('topic-selection').classList.add('hidden');
@@ -173,7 +169,6 @@ function resetToMainMenu() {
   totalCount = 0;
 }
 
-// Certificate functions
 function promptForCertificate() {
   const name = prompt("Zadejte své jméno pro certifikát:", "Jan Novák");
   if (name) {
@@ -202,12 +197,7 @@ function generateCertificate(name) {
   document.getElementById('certificate-btn').classList.add('hidden');
 }
 
-// ... (zbytek původního kódu s částicemi a efekty)
-
-
-// Zbytek kódu (particles, space cats atd.) zůstává stejný
-
-// Interaktivní částicový systém
+// Particle system and space cats effects
 const particlesContainer = document.querySelector('.particles');
 const maxCats = 5;
 let cats = [];
@@ -244,21 +234,18 @@ function createParticle(x, y) {
   updateParticle();
 }
 
-// Reakce na pohyb myši
 document.addEventListener('mousemove', (e) => {
   if (Math.random() < 0.1) {
     createParticle(e.clientX, e.clientY);
   }
 });
 
-// Reakce na kliknutí
 document.addEventListener('click', (e) => {
   for (let i = 0; i < 10; i++) {
     createParticle(e.clientX, e.clientY);
   }
 });
 
-// Funkce pro vytvoření vesmírné kočky
 function createSpaceCat() {
   if (cats.length >= maxCats) return;
 
@@ -301,7 +288,6 @@ function createSpaceCat() {
   });
 }
 
-// Funkce pro vytvoření exploze
 function createExplosion(x, y) {
   const colors = ['var(--primary)', 'var(--secondary)', 'var(--tertiary)', 'var(--correct)'];
   for (let i = 0; i < 20; i++) {
@@ -341,11 +327,8 @@ function createExplosion(x, y) {
   }
 }
 
-// Periodické vytváření koček
 setInterval(() => {
   if (Math.random() < 0.3) {
     createSpaceCat();
   }
 }, 1000);
-
-// ... (all your existing functions remain the same)
