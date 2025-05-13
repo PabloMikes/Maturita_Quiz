@@ -199,17 +199,6 @@
     },
     {
       "topic": "4. Paměť",
-      "question": "Kde se ukládají globální proměnné v paměti?",
-      "options": [
-        "Stack",
-        "Heap",
-        "Registr",
-        "Cache"
-      ],
-      "answer": "Heap"
-    },
-    {
-      "topic": "4. Paměť",
       "question": "Co je nevýhodou stack paměti?",
       "options": [
         "Pomalý přístup",
