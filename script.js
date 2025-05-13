@@ -13,64 +13,46 @@ async function loadCategory(category) {
   document.getElementById('result').classList.add('hidden');
   
   if (category === 'java') {
-    // Pro Javu rovnou spustíme test
     renderQuestions();
   } else {
-    // Pro Sítě ukážeme výběr možností
     document.getElementById('category-select').classList.add('hidden');
     document.getElementById('topic-selection').classList.remove('hidden');
+    showTopicSelection(); // Toto bylo chybějící
   }
 }
 
 // Zobrazí výběr témat pro Sítě
 function showTopicSelection() {
-  document.getElementById('topic-checkboxes').classList.remove('hidden');
-  document.getElementById('start-selected-btn').classList.remove('hidden');
+  const topicButtons = document.getElementById('topic-buttons');
+  topicButtons.innerHTML = '';
   
-  const topicCheckboxes = document.getElementById('topic-checkboxes');
-  topicCheckboxes.innerHTML = '';
-  
-  // Vytvoření checkboxů pro každé téma
   const topics = [...new Set(questions.map(q => q.topic))];
   topics.forEach(topic => {
-    const container = document.createElement('div');
-    container.classList.add('topic-item');
-    
-    const checkbox = document.createElement('input');
-    checkbox.type = 'checkbox';
-    checkbox.id = `topic-${topic}`;
-    checkbox.value = topic;
-    checkbox.checked = true;
-    
-    const label = document.createElement('label');
-    label.htmlFor = `topic-${topic}`;
-    label.textContent = topic;
-    
-    container.appendChild(checkbox);
-    container.appendChild(label);
-    topicCheckboxes.appendChild(container);
+    const button = document.createElement('button');
+    button.className = 'topic-btn selected';
+    button.textContent = topic;
+    button.dataset.topic = topic;
+    button.addEventListener('click', function() {
+      this.classList.toggle('selected');
+    });
+    topicButtons.appendChild(button);
   });
 }
 
 // Spustí test s vybranými tématy
 function startQuizWithSelectedTopics() {
-  const checkboxes = document.querySelectorAll('#topic-checkboxes input[type="checkbox"]:checked');
-  selectedTopics = Array.from(checkboxes).map(cb => cb.value);
-  
-  if (selectedTopics.length === 0) {
+  const selectedButtons = document.querySelectorAll('.topic-btn.selected');
+  if (selectedButtons.length === 0) {
     alert('Vyberte alespoň jedno téma!');
     return;
   }
   
-  // Filtrovat otázky podle vybraných témat
-  const filteredQuestions = questions.filter(q => selectedTopics.includes(q.topic));
-  
-  // Pro každé téma vybrat náhodně 5 otázek
+  const selectedTopics = Array.from(selectedButtons).map(btn => btn.dataset.topic);
   const questionsPerTopic = 5;
   const selectedQuestions = [];
   
   selectedTopics.forEach(topic => {
-    const topicQuestions = filteredQuestions.filter(q => q.topic === topic);
+    const topicQuestions = questions.filter(q => q.topic === topic);
     const shuffled = [...topicQuestions].sort(() => 0.5 - Math.random());
     selectedQuestions.push(...shuffled.slice(0, questionsPerTopic));
   });
@@ -83,7 +65,6 @@ function startFinalSiteTest() {
   const questionsPerTopic = 5;
   const selectedQuestions = [];
   
-  // Projít všechna témata v SÍTĚ
   const topics = [...new Set(questions.map(q => q.topic))];
   topics.forEach(topic => {
     const topicQuestions = questions.filter(q => q.topic === topic);
@@ -171,6 +152,9 @@ function showResult() {
   setTimeout(() => {
     resultDigits.classList.remove('animate-glow');
   }, 1000);
+  
+  // Show certificate button
+  document.getElementById('certificate-btn').classList.remove('hidden');
 }
 
 // Náhodné zamíchání pole odpovědí
@@ -180,6 +164,49 @@ function shuffleArray(array) {
     [array[i], array[j]] = [array[j], array[i]];
   }
 }
+
+// Reset na hlavní menu
+function resetToMainMenu() {
+  document.getElementById('category-select').classList.remove('hidden');
+  document.getElementById('topic-selection').classList.add('hidden');
+  document.getElementById('quiz').innerHTML = '';
+  document.getElementById('result').classList.add('hidden');
+  document.getElementById('certificate-btn').classList.add('hidden');
+  correctCount = 0;
+  totalCount = 0;
+}
+
+// Certificate functions
+function promptForCertificate() {
+  const name = prompt("Zadejte své jméno pro certifikát:", "Jan Novák");
+  if (name) {
+    generateCertificate(name);
+  }
+}
+
+function generateCertificate(name) {
+  const percent = ((correctCount / totalCount) * 100).toFixed(1);
+  const certificateHTML = `
+    <div class="certificate">
+      <div class="certificate-border">
+        <h1>Certifikát o úspěšném absolvování</h1>
+        <div class="certificate-body">
+          <p>Uživatel <strong>${name}</strong> úspěšně dokončil test s výsledkem:</p>
+          <div class="certificate-score">${correctCount}/${totalCount} (${percent}%)</div>
+          <p>Datum: ${new Date().toLocaleDateString('cs-CZ')}</p>
+          <div class="certificate-stamp"></div>
+        </div>
+      </div>
+    </div>
+  `;
+
+  document.getElementById('quiz').innerHTML = certificateHTML;
+  document.getElementById('result').classList.add('hidden');
+  document.getElementById('certificate-btn').classList.add('hidden');
+}
+
+// ... (zbytek původního kódu s částicemi a efekty)
+
 
 // Zbytek kódu (particles, space cats atd.) zůstává stejný
 
@@ -325,48 +352,3 @@ setInterval(() => {
 }, 1000);
 
 // ... (all your existing functions remain the same)
-
-// Reset to main menu
-function resetToMainMenu() {
-  // Reset všeho na výchozí stav
-  document.getElementById('category-select').classList.remove('hidden');
-  document.getElementById('topic-selection').classList.add('hidden');
-  document.getElementById('quiz').innerHTML = '';
-  document.getElementById('result').classList.add('hidden');
-  
-  // Zajistíme, že tlačítko "SPUSTIT TEST" je viditelné
-  document.getElementById('start-selected-btn').classList.remove('hidden');
-  
-  // Reset počítadel
-  correctCount = 0;
-  totalCount = 0;
-}
-
-
-function promptForCertificate() {
-  const name = prompt("Zadejte své jméno pro certifikát:", "Jan Novák");
-  if (name) {
-    generateCertificate(name);
-  }
-}
-
-function generateCertificate(name) {
-  const percent = ((correctCount / totalCount) * 100).toFixed(1);
-  const certificateContent = `
-    <div class="certificate">
-      <div class="certificate-border">
-        <h1>Certifikát o úspěšném absolvování</h1>
-        <div class="certificate-body">
-          <p>Uživatel <strong>${name}</strong> úspěšně dokončil test s výsledkem:</p>
-          <div class="certificate-score">${correctCount}/${totalCount} (${percent}%)</div>
-          <p>Datum: ${new Date().toLocaleDateString('cs-CZ')}</p>
-          <div class="certificate-stamp"></div>
-        </div>
-      </div>
-    </div>
-  `;
-
-  // Skryjeme výsledek a zobrazíme certifikát
-  document.getElementById('result').classList.add('hidden');
-  document.getElementById('quiz').innerHTML = certificateContent;
-}

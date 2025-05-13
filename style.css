@@ -566,3 +566,59 @@ h2 {
     display: none;
   }
 }
+
+/* Topic selection buttons */
+.topic-buttons-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  gap: 15px;
+  margin: 25px 0;
+}
+
+.topic-btn {
+  border: none;
+  padding: 15px;
+  border-radius: 5px;
+  font-family: 'Orbitron', sans-serif;
+  font-size: 1rem;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  position: relative;
+  overflow: hidden;
+  background: rgba(255, 255, 255, 0.1);
+  color: var(--text-light);
+  border: 1px solid var(--primary);
+}
+
+.topic-btn:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 5px 15px rgba(0, 255, 255, 0.3);
+}
+
+.topic-btn.selected {
+  background: var(--primary);
+  color: var(--bg-dark);
+  font-weight: bold;
+  box-shadow: 0 0 15px var(--primary);
+}
+
+.topic-btn::after {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(
+    45deg,
+    transparent,
+    rgba(255, 255, 255, 0.1),
+    transparent
+  );
+  transform: translateX(-100%);
+  transition: transform 0.3s ease;
+}
+
+.topic-btn:hover::after {
+  transform: translateX(100%);
+}
