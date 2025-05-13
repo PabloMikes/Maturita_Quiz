@@ -9,5 +9,3 @@
 <p>Chatko in question:</p>
 
 ![image](https://github.com/user-attachments/assets/04d5d98f-8a3f-4840-9155-ea6fb49ec269)
-
-[![Visits Badge](https://badges.pufler.dev/visits/PabloMikes/Maturita_Quiz)](https://badges.pufler.dev)
