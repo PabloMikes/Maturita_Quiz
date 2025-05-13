@@ -1,5 +1,6 @@
 [
-   {
+    {
+      "topic": "1. Algoritmy",
       "question": "Co znamená vlastnost 'konečnost' algoritmu?",
       "options": [
         "Algoritmus má více výstupů",
@@ -10,6 +11,7 @@
       "answer": "Algoritmus musí skončit v definovaném čase"
     },
     {
+      "topic": "1. Algoritmy",
       "question": "Který způsob zápisu algoritmu je neformální a čitelný pro člověka?",
       "options": [
         "Programovací jazyk",
@@ -20,6 +22,7 @@
       "answer": "Pseudokód"
     },
     {
+      "topic": "1. Algoritmy",
       "question": "Co znamená hromadnost algoritmu?",
       "options": [
         "Algoritmus řeší pouze jeden konkrétní problém",
@@ -30,6 +33,7 @@
       "answer": "Algoritmus řeší škálu podobných problémů"
     },
     {
+      "topic": "1. Algoritmy",
       "question": "Jaký je příklad pseudokódu?",
       "options": [
         "int main() { return 0; }",
@@ -40,6 +44,7 @@
       "answer": "define factorial(n): f := 1"
     },
     {
+      "topic": "1. Algoritmy",
       "question": "Co je charakteristické pro efektivitu algoritmu?",
       "options": [
         "Má pouze jeden vstup",
@@ -50,6 +55,7 @@
       "answer": "Je co možná nejrychlejší a šetří zdroje"
     },
     {
+      "topic": "2. Programovací jazyky",
       "question": "Co charakterizuje vyšší programovací jazyky?",
       "options": [
         "Jsou blíže strojovému kódu",
@@ -60,6 +66,7 @@
       "answer": "Jsou nezávislé na hardware"
     },
     {
+      "topic": "2. Programovací jazyky",
       "question": "Který jazyk je příkladem kompilovaného jazyka?",
       "options": [
         "JavaScript",
@@ -70,6 +77,7 @@
       "answer": "C++"
     },
     {
+      "topic": "2. Programovací jazyky",
       "question": "Jaká je nevýhoda interpretovaných jazyků?",
       "options": [
         "Vyšší výkon díky překladu",
@@ -80,6 +88,7 @@
       "answer": "Publikují zdrojový kód"
     },
     {
+      "topic": "2. Programovací jazyky",
       "question": "Co je výhodou kompilovaných jazyků?",
       "options": [
         "Lepší přenositelnost mezi systémy",
@@ -90,6 +99,7 @@
       "answer": "Vyšší výkon díky překladu do strojového kódu"
     },
     {
+      "topic": "2. Programovací jazyky",
       "question": "Který jazyk je příkladem interpretovaného jazyka?",
       "options": [
         "C#",
@@ -100,6 +110,7 @@
       "answer": "JavaScript"
     },
     {
+      "topic": "3. Java",
       "question": "Co je JVM v kontextu Javy?",
       "options": [
         "Nástroj pro vývoj Java aplikací",
@@ -110,6 +121,7 @@
       "answer": "Virtuální stroj pro běh Java bytecode"
     },
     {
+      "topic": "3. Java",
       "question": "Co obsahuje JRE?",
       "options": [
         "Nástroje pro vývoj a kompilátor",
@@ -120,6 +132,7 @@
       "answer": "JVM a základní knihovny"
     },
     {
+      "topic": "3. Java",
       "question": "Jakou roli hraje JIT v JVM?",
       "options": [
         "Kompiluje zdrojový kód do bytecode",
@@ -130,6 +143,7 @@
       "answer": "Překládá bytecode do nativního kódu za běhu"
     },
     {
+      "topic": "3. Java",
       "question": "Co zajišťuje platformovou nezávislost Javy?",
       "options": [
         "JDK",
@@ -140,6 +154,7 @@
       "answer": "JVM"
     },
     {
+      "topic": "3. Java",
       "question": "Jak se v Javě vypisuje do konzole?",
       "options": [
         "console.log('Hello')",
@@ -150,6 +165,7 @@
       "answer": "System.out.println('Hello')"
     },
     {
+      "topic": "3. Java",
       "question": "Jak se v JavaScriptu deklaruje proměnná?",
       "options": [
         "int age = 30;",
@@ -160,6 +176,7 @@
       "answer": "let age = 30;"
     },
     {
+      "topic": "3. Java",
       "question": "Co je charakteristické pro Java jako programovací jazyk?",
       "options": [
         "Je primárně určen pro webový vývoj",
@@ -170,6 +187,7 @@
       "answer": "Kompiluje se do bytecode a běží na JVM"
     },
     {
+      "topic": "3. Java",
       "question": "Co je přetypování v Javě?",
       "options": [
         "Automatický převod proměnných",
@@ -180,6 +198,7 @@
       "answer": "Explicitní převod mezi typy, např. (int) 3.14"
     },
     {
+      "topic": "4. Paměť",
       "question": "Kde se ukládají globální proměnné v paměti?",
       "options": [
         "Stack",
@@ -190,6 +209,7 @@
       "answer": "Heap"
     },
     {
+      "topic": "4. Paměť",
       "question": "Co je nevýhodou stack paměti?",
       "options": [
         "Pomalý přístup",
@@ -198,5 +218,225 @@
         "Fragmentace paměti"
       ],
       "answer": "Omezená velikost"
-    } 
+    },
+    {
+      "topic": "5. Operátory",
+      "question": "Který operátor vrací zbytek po dělení dvou čísel?",
+      "options": [
+        "+",
+        "-",
+        "%",
+        "/"
+      ],
+      "answer": "%"
+    },
+    {
+      "topic": "5. Operátory",
+      "question": "Co vrací relační operátor '<=' při porovnání dvou hodnot?",
+      "options": [
+        "Celé číslo",
+        "Boolean hodnotu",
+        "Řetězec",
+        "Desetinné číslo"
+      ],
+      "answer": "Boolean hodnotu"
+    },
+    {
+      "topic": "5. Operátory",
+      "question": "Který logický operátor vrací pravdu, pokud je alespoň jedna podmínka pravdivá?",
+      "options": [
+        "&&",
+        "||",
+        "!",
+        "&"
+      ],
+      "answer": "||"
+    },
+    {
+      "topic": "5. Operátory",
+      "question": "Co dělá přiřazovací operátor '+=' v operaci 'a += b'?",
+      "options": [
+        "Přičte b k a a výsledek přiřadí do a",
+        "Odečte b od a a výsledek přiřadí do a",
+        "Vynásobí a a b a výsledek přiřadí do a",
+        "Vydělí a hodnotou b a výsledek přiřadí do a"
+      ],
+      "answer": "Přičte b k a a výsledek přiřadí do a"
+    },
+    {
+      "topic": "5. Operátory",
+      "question": "Co vrací ternární operátor v kódu 'let result = (score >= 60) ? \"Pass\" : \"Fail\";'?",
+      "options": [
+        "Vrací číslo score",
+        "Vrací řetězec \"Pass\" nebo \"Fail\" podle podmínky",
+        "Vrací boolean hodnotu",
+        "Vrací součet score a 60"
+      ],
+      "answer": "Vrací řetězec \"Pass\" nebo \"Fail\" podle podmínky"
+    },
+    {
+      "topic": "6. Podmíněné větvení",
+      "question": "Co je účelem podmíněného větvení?",
+      "options": [
+        "Opakování bloku kódu",
+        "Vykonání různých částí kódu podle podmínky",
+        "Uložení více hodnot do proměnné",
+        "Třídění dat"
+      ],
+      "answer": "Vykonání různých částí kódu podle podmínky"
+    },
+    {
+      "topic": "6. Podmíněné větvení",
+      "question": "Který příkaz je vhodný pro výběr z více hodnot na základě jednoho výrazu?",
+      "options": [
+        "if",
+        "switch",
+        "for",
+        "while"
+      ],
+      "answer": "switch"
+    },
+    {
+      "topic": "6. Podmíněné větvení",
+      "question": "Co je výhodou nového zápisu switch oproti starému?",
+      "options": [
+        "Nepotřebuje klíčové slovo break",
+        "Je pomalejší",
+        "Nepodporuje default",
+        "Vyžaduje více paměti"
+      ],
+      "answer": "Nepotřebuje klíčové slovo break"
+    },
+    {
+      "topic": "6. Podmíněné větvení",
+      "question": "Co dělá ternární operátor v kódu 'String message = liche ? \"Číslo je liché\" : \"Číslo je sudé\";'?",
+      "options": [
+        "Vrací číslo",
+        "Vrací řetězec podle boolean hodnoty liche",
+        "Spustí cyklus",
+        "Porovná dvě čísla"
+      ],
+      "answer": "Vrací řetězec podle boolean hodnoty liche"
+    },
+    {
+      "topic": "6. Podmíněné větvení",
+      "question": "Který příkaz je součástí podmíněného větvení?",
+      "options": [
+        "for",
+        "else",
+        "break",
+        "continue"
+      ],
+      "answer": "else"
+    },
+    {
+      "topic": "7. Cykly",
+      "question": "Který cyklus je nejvhodnější, když je počet opakování znám?",
+      "options": [
+        "while",
+        "do-while",
+        "for",
+        "switch"
+      ],
+      "answer": "for"
+    },
+    {
+      "topic": "7. Cykly",
+      "question": "Co zaručuje cyklus do-while?",
+      "options": [
+        "Alespoň jedno provedení bloku kódu",
+        "Žádné provedení bloku kódu",
+        "Přeskočení první iterace",
+        "Okamžité ukončení cyklu"
+      ],
+      "answer": "Alespoň jedno provedení bloku kódu"
+    },
+    {
+      "topic": "7. Cykly",
+      "question": "Co dělá příkaz 'continue' v cyklu?",
+      "options": [
+        "Okamžitě ukončí cyklus",
+        "Přeskočí aktuální iteraci a pokračuje další",
+        "Vypíše hodnotu",
+        "Spustí nový cyklus"
+      ],
+      "answer": "Přeskočí aktuální iteraci a pokračuje další"
+    },
+    {
+      "topic": "7. Cykly",
+      "question": "Který cyklus kontroluje podmínku před provedením bloku kódu?",
+      "options": [
+        "for",
+        "do-while",
+        "while",
+        "foreach"
+      ],
+      "answer": "while"
+    },
+    {
+      "topic": "7. Cykly",
+      "question": "K čemu slouží příkaz 'break' v cyklu?",
+      "options": [
+        "Přeskočí aktuální iteraci",
+        "Okamžitě ukončí cyklus",
+        "Znovu spustí cyklus",
+        "Vytvoří novou podmínku"
+      ],
+      "answer": "Okamžitě ukončí cyklus"
+    },
+    {
+      "topic": "8. Pole",
+      "question": "Co je účelem pole v programování?",
+      "options": [
+        "Uchovávání jedné hodnoty",
+        "Uchovávání více hodnot v jedné proměnné",
+        "Opakování bloku kódu",
+        "Porovnávání hodnot"
+      ],
+      "answer": "Uchovávání více hodnot v jedné proměnné"
+    },
+    {
+      "topic": "8. Pole",
+      "question": "Jaký je první index v poli?",
+      "options": [
+        "1",
+        "0",
+        "-1",
+        "2"
+      ],
+      "answer": "0"
+    },
+    {
+      "topic": "8. Pole",
+      "question": "Jak se zjistí délka pole v Javě?",
+      "options": [
+        ".size()",
+        ".length",
+        ".count()",
+        ".getLength()"
+      ],
+      "answer": ".length"
+    },
+    {
+      "topic": "8. Pole",
+      "question": "Který cyklus je nejčastěji používán pro procházení pole bez indexu?",
+      "options": [
+        "for",
+        "while",
+        "do-while",
+        "foreach"
+      ],
+      "answer": "foreach"
+    },
+    {
+      "topic": "8. Pole",
+      "question": "Co vrací příkaz 'System.out.println(words[1][0])' pro dvourozměrné pole 'String[][] words = {{\"word1\", \"word2\"}, {\"word4\", \"word5\"}}'?",
+      "options": [
+        "word1",
+        "word2",
+        "word4",
+        "word5"
+      ],
+      "answer": "word4"
+    }
 ]
