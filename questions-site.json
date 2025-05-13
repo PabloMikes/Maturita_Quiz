@@ -630,12 +630,12 @@
     "topic": "6. Kyberbezpečnost – kybernetické útoky",
     "question": "Co je DNS amplification?",
     "options": [
-      "Zneužití špatně nakonfigurovaného DNS serveru",
+      "Zneužití špatně nakonfigurovaného serveru",
       "Útok na fyzickou vrstvu",
       "Získání přihlašovacích údajů",
       "Komprese dat"
     ],
-    "answer": "Zneužití špatně nakonfigurovaného DNS serveru"
+    "answer": "Zneužití špatně nakonfigurovaného serveru"
   },
   {
     "topic": "6. Kyberbezpečnost – kybernetické útoky",
