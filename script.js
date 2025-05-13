@@ -342,4 +342,31 @@ function resetToMainMenu() {
   totalCount = 0;
 }
 
-// ... (rest of your existing code)
+
+function promptForCertificate() {
+  const name = prompt("Zadejte své jméno pro certifikát:", "Jan Novák");
+  if (name) {
+    generateCertificate(name);
+  }
+}
+
+function generateCertificate(name) {
+  const percent = ((correctCount / totalCount) * 100).toFixed(1);
+  const certificateContent = `
+    <div class="certificate">
+      <div class="certificate-border">
+        <h1>Certifikát o úspěšném absolvování</h1>
+        <div class="certificate-body">
+          <p>Uživatel <strong>${name}</strong> úspěšně dokončil test s výsledkem:</p>
+          <div class="certificate-score">${correctCount}/${totalCount} (${percent}%)</div>
+          <p>Datum: ${new Date().toLocaleDateString('cs-CZ')}</p>
+          <div class="certificate-stamp"></div>
+        </div>
+      </div>
+    </div>
+  `;
+
+  // Skryjeme výsledek a zobrazíme certifikát
+  document.getElementById('result').classList.add('hidden');
+  document.getElementById('quiz').innerHTML = certificateContent;
+}
