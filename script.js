@@ -17,7 +17,7 @@ async function loadCategory(category) {
   } else {
     document.getElementById('category-select').classList.add('hidden');
     document.getElementById('topic-selection').classList.remove('hidden');
-    showTopicSelection(); // Toto bylo chybějící
+    showTopicSelection(); 
   }
 }
 
