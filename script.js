@@ -2,9 +2,10 @@ let questions = [];
 let correctCount = 0;
 let totalCount = 0;
 let selectedTopics = [];
+let currentCategory = '';
 
-// Načtení otázek z JSON podle kategorie
 async function loadCategory(category) {
+  currentCategory = category;
   const file = category === 'site' ? 'questions-site.json' : 'questions-java.json';
   const res = await fetch(file);
   questions = await res.json();
@@ -12,16 +13,12 @@ async function loadCategory(category) {
   totalCount = questions.length;
   document.getElementById('result').classList.add('hidden');
   
-  if (category === 'java') {
-    renderQuestions();
-  } else {
-    document.getElementById('category-select').classList.add('hidden');
-    document.getElementById('topic-selection').classList.remove('hidden');
-    showTopicSelection(); 
-  }
+  // Show topic selection for both categories
+  document.getElementById('category-select').classList.add('hidden');
+  document.getElementById('topic-selection').classList.remove('hidden');
+  showTopicSelection();
 }
 
-// Zobrazí výběr témat pro Sítě
 function showTopicSelection() {
   const topicButtons = document.getElementById('topic-buttons');
   topicButtons.innerHTML = '';
@@ -39,7 +36,6 @@ function showTopicSelection() {
   });
 }
 
-// Spustí test s vybranými tématy
 function startQuizWithSelectedTopics() {
   const selectedButtons = document.querySelectorAll('.topic-btn.selected');
   if (selectedButtons.length === 0) {
@@ -60,8 +56,7 @@ function startQuizWithSelectedTopics() {
   startQuiz(selectedQuestions);
 }
 
-// Spustí finální test pro Sítě - 5 otázek z každého tématu
-function startFinalSiteTest() {
+function startFinalTest() {
   const questionsPerTopic = 5;
   const selectedQuestions = [];
   
@@ -74,6 +69,8 @@ function startFinalSiteTest() {
   
   startQuiz(selectedQuestions);
 }
+
+// ... (keep all other existing functions the same)
 
 // Spustí quiz s vybranými otázkami
 function startQuiz(selectedQuestions) {
