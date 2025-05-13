@@ -43,6 +43,7 @@ function startQuizWithSelectedTopics() {
   }
   
   const selectedTopics = Array.from(selectedButtons).map(btn => btn.dataset.topic);
+<<<<<<< HEAD
   const questionsPerTopic = 10;
   const selectedQuestions = [];
   
@@ -53,11 +54,28 @@ function startQuizWithSelectedTopics() {
     const shuffled = [...topicQuestions].sort(() => 0.5 - Math.random());
     selectedQuestions.push(...shuffled.slice(0, count));
   });
+=======
+  let selectedQuestions = [];
+  
+  if (currentCategory === 'site') {
+    // Pro SÍTĚ: 10 otázek z každého vybraného tématu
+    const questionsPerTopic = 10;
+    selectedTopics.forEach(topic => {
+      const topicQuestions = questions.filter(q => q.topic === topic);
+      const shuffled = [...topicQuestions].sort(() => 0.5 - Math.random());
+      selectedQuestions.push(...shuffled.slice(0, questionsPerTopic));
+    });
+  } else {
+    // Pro JAVU: všechny otázky z vybraných témat
+    selectedQuestions = questions.filter(q => selectedTopics.includes(q.topic));
+  }
+>>>>>>> 1626926358906fc5497e6d829e1425ae30a0fee1
   
   startQuiz(selectedQuestions);
 }
 
 function startFinalTest() {
+<<<<<<< HEAD
   const questionsPerTopic = 10;
   const selectedQuestions = [];
   
@@ -69,6 +87,23 @@ function startFinalTest() {
     const shuffled = [...topicQuestions].sort(() => 0.5 - Math.random());
     selectedQuestions.push(...shuffled.slice(0, count));
   });
+=======
+  let selectedQuestions = [];
+  
+  if (currentCategory === 'site') {
+    // Pro SÍTĚ: 10 otázek z každého tématu
+    const questionsPerTopic = 10;
+    const topics = [...new Set(questions.map(q => q.topic))];
+    topics.forEach(topic => {
+      const topicQuestions = questions.filter(q => q.topic === topic);
+      const shuffled = [...topicQuestions].sort(() => 0.5 - Math.random());
+      selectedQuestions.push(...shuffled.slice(0, questionsPerTopic));
+    });
+  } else {
+    // Pro JAVU: všechny otázky
+    selectedQuestions = [...questions];
+  }
+>>>>>>> 1626926358906fc5497e6d829e1425ae30a0fee1
   
   startQuiz(selectedQuestions);
 }
