@@ -2,6 +2,7 @@
 <h2>Testovačka znalostí k maturitě</h2>
 <p>*Java test</p>
 <p>*Sítě test</p>
+<p>*Čeština(vybrané) test</p>
 <p>Děláno pomocí chatka deepseeku a spol.</p>
 <p>Případné nápady na zlepšení oceníme</p>
 <p>Made with <a href="https://github.com/StepikHybl">StepikHybl</a></p>
