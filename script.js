@@ -4,20 +4,6 @@ let totalCount = 0;
 let selectedTopics = [];
 let currentCategory = '';
 
-async function loadCategory(category) {
-  currentCategory = category;
-  const file = category === 'site' ? 'questions-site.json' : 'questions-java.json';
-  const res = await fetch(file);
-  questions = await res.json();
-  correctCount = 0;
-  totalCount = questions.length;
-  document.getElementById('result').classList.add('hidden');
-  
-  document.getElementById('category-select').classList.add('hidden');
-  document.getElementById('topic-selection').classList.remove('hidden');
-  showTopicSelection();
-}
-
 function showTopicSelection() {
   const topicButtons = document.getElementById('topic-buttons');
   topicButtons.innerHTML = '';
@@ -34,6 +20,23 @@ function showTopicSelection() {
     topicButtons.appendChild(button);
   });
 }
+async function loadCategory(category) {
+  currentCategory = category;
+  const file = 
+    category === 'site' ? 'questions-site.json' :
+    category === 'java' ? 'questions-java.json' :
+    'questions-cestina.json';
+    
+  const res = await fetch(file);
+  questions = await res.json();
+  correctCount = 0;
+  totalCount = questions.length;
+  document.getElementById('result').classList.add('hidden');
+  
+  document.getElementById('category-select').classList.add('hidden');
+  document.getElementById('topic-selection').classList.remove('hidden');
+  showTopicSelection();
+}
 
 function startQuizWithSelectedTopics() {
   const selectedButtons = document.querySelectorAll('.topic-btn.selected');
@@ -46,7 +49,7 @@ function startQuizWithSelectedTopics() {
   let selectedQuestions = [];
   
   if (currentCategory === 'site') {
-    // Pro SÍTĚ: 10 otázek z každého vybraného tématu
+    // Pro SÍTĚ: 10 otázek z každého tématu
     const questionsPerTopic = 10;
     selectedTopics.forEach(topic => {
       const topicQuestions = questions.filter(q => q.topic === topic);
@@ -54,7 +57,7 @@ function startQuizWithSelectedTopics() {
       selectedQuestions.push(...shuffled.slice(0, questionsPerTopic));
     });
   } else {
-    // Pro JAVU: všechny otázky z vybraných témat
+    // Pro JAVU a ČEŠTINU: všechny otázky z vybraných témat
     selectedQuestions = questions.filter(q => selectedTopics.includes(q.topic));
   }
   
@@ -74,7 +77,7 @@ function startFinalTest() {
       selectedQuestions.push(...shuffled.slice(0, questionsPerTopic));
     });
   } else {
-    // Pro JAVU: všechny otázky
+    // Pro JAVU a ČEŠTINU: všechny otázky
     selectedQuestions = [...questions];
   }
   

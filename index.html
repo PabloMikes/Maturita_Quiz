@@ -9,64 +9,76 @@
       href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700&family=Roboto:wght@300;400;500&display=swap"
       rel="stylesheet"
     />
-    <link rel="shortcut icon" href="img/favicon-32x32.png" type="image/x-icon">
+    <link
+      rel="shortcut icon"
+      href="img/favicon-32x32.png"
+      type="image/x-icon"
+    />
   </head>
   <body>
-  <div class="cyber-container">
-    <div class="neon-header" onclick="resetToMainMenu()">
-      <h1><span class="neon-text">MATURITA</span> QUIZ</h1>
-      <div class="neon-line"></div>
-    </div>
-    
-    <div id="category-select" class="cyber-buttons">
-      <button onclick="loadCategory('site')" class="cyber-button">
-        <span class="cyber-button-content">SÍTĚ</span>
-        <span class="cyber-button-glitch"></span>
-      </button>
-      <button onclick="loadCategory('java')" class="cyber-button">
-        <span class="cyber-button-content">JAVA</span>
-        <span class="cyber-button-glitch"></span>
-      </button>
-    </div>
-    
-    <div id="topic-selection" class="hidden">
-      <h2>Vyberte témata:</h2>
-      <div id="topic-buttons" class="topic-buttons-grid"></div>
-      
-      <div class="cyber-buttons">
-        <button onclick="startQuizWithSelectedTopics()" class="cyber-button">
-          <span class="cyber-button-content">SPUSTIT TÉMATA</span>
+    <div class="cyber-container">
+      <div class="neon-header" onclick="resetToMainMenu()">
+        <h1><span class="neon-text">MATURITA</span> QUIZ</h1>
+        <div class="neon-line"></div>
+      </div>
+
+      <div id="category-select" class="cyber-buttons">
+        <button onclick="loadCategory('site')" class="cyber-button">
+          <span class="cyber-button-content">SÍTĚ</span>
           <span class="cyber-button-glitch"></span>
         </button>
-        <button onclick="startFinalTest()" class="cyber-button">
-          <span class="cyber-button-content">FINÁLNÍ TEST</span>
+        <button onclick="loadCategory('java')" class="cyber-button">
+          <span class="cyber-button-content">JAVA</span>
+          <span class="cyber-button-glitch"></span>
+        </button>
+        <button onclick="loadCategory('cestina')" class="cyber-button">
+          <span class="cyber-button-content">ČEŠTINA</span>
           <span class="cyber-button-glitch"></span>
         </button>
       </div>
-    </div>
-    
-    <div id="quiz" class="cyber-grid"></div>
-    
-    <div id="result" class="cyber-result hidden">
-      <div class="result-container">
-        <div class="result-digits"></div>
-        <div class="result-text"></div>
-            <button id="certificate-btn" onclick="promptForCertificate()" class="cyber-button hidden" style="margin-top: 10px; margin-bottom: 20px;">
-      <span class="cyber-button-content">CERTIFIKÁT</span>
-      <span class="cyber-button-glitch"></span>
-    </button>
+
+      <div id="topic-selection" class="hidden">
+        <h2>Vyberte témata:</h2>
+        <div id="topic-buttons" class="topic-buttons-grid"></div>
+
+        <div class="cyber-buttons">
+          <button onclick="startQuizWithSelectedTopics()" class="cyber-button">
+            <span class="cyber-button-content">SPUSTIT TÉMATA</span>
+            <span class="cyber-button-glitch"></span>
+          </button>
+          <button onclick="startFinalTest()" class="cyber-button">
+            <span class="cyber-button-content">FINÁLNÍ TEST</span>
+            <span class="cyber-button-glitch"></span>
+          </button>
+        </div>
       </div>
+
+      <div id="quiz" class="cyber-grid"></div>
+
+      <div id="result" class="cyber-result hidden">
+        <div class="result-container">
+          <div class="result-digits"></div>
+          <div class="result-text"></div>
+          <button
+            id="certificate-btn"
+            onclick="promptForCertificate()"
+            class="cyber-button hidden"
+            style="margin-top: 10px; margin-bottom: 20px"
+          >
+            <span class="cyber-button-content">CERTIFIKÁT</span>
+            <span class="cyber-button-glitch"></span>
+          </button>
+        </div>
+      </div>
+
+      <div id="certificate-display" class="hidden"></div>
     </div>
-    
-    
-    <div id="certificate-display" class="hidden"></div>
-  </div>
-  
-  <div class="cyber-bg-effects">
-    <div class="grid-lines"></div>
-    <div class="particles"></div>
-  </div>
-  
-  <script src="script.js"></script>
-</body>
+
+    <div class="cyber-bg-effects">
+      <div class="grid-lines"></div>
+      <div class="particles"></div>
+    </div>
+
+    <script src="script.js"></script>
+  </body>
 </html>
