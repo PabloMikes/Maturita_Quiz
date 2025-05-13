@@ -9,4 +9,4 @@
 <p>Chatko in question:</p>
 
 ![image](https://github.com/user-attachments/assets/04d5d98f-8a3f-4840-9155-ea6fb49ec269)
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/PabloMikes/Maturita_Quiz)
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=PabloMikes.Maturita_Quiz)
