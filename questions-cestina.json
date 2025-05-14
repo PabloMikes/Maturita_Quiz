@@ -1,3302 +1,1832 @@
 [
     {
       "topic": "Cid – Pierre Corneille",
-      "question": "Jaký je hlavní konflikt mezi Rodriguem a Chimène?",
-      "options": [
-        "Spor o dědictví",
-        "Láska versus čest",
-        "Politická rivalita",
-        "Náboženské rozdíly"
-      ],
+      "question": "Cid: Jaký je hlavní konflikt mezi Rodriguem a Chimène?",
+      "options": ["Spor o dědictví, Láska versus čest, Politická rivalita, Náboženské rozdíly"],
       "answer": "Láska versus čest"
     },
     {
       "topic": "Cid – Pierre Corneille",
-      "question": "Která hodnota je pro Rodriga nejdůležitější?",
-      "options": [
-        "Láska",
-        "Povinnost",
-        "Bohatství",
-        "Sláva"
-      ],
+      "question": "Cid: Která hodnota je pro Rodriga nejdůležitější?",
+      "options": ["Láska, Povinnost, Bohatství, Sláva"],
       "answer": "Povinnost"
     },
     {
       "topic": "Cid – Pierre Corneille",
-      "question": "Proč je Cid považován za hrdinu?",
-      "options": [
-        "Pro své bohatství",
-        "Pro svou odvahu a čest",
-        "Pro svou lásku k Chimène",
-        "Pro svou politickou moc"
-      ],
+      "question": "Cid: Proč je Cid považován za hrdinu?",
+      "options": ["Pro své bohatství, Pro svou odvahu a čest, Pro svou lásku k Chimène, Pro svou politickou moc"],
       "answer": "Pro svou odvahu a čest"
     },
     {
       "topic": "Cid – Pierre Corneille",
-      "question": "Jaký význam má téma pomsty v dramatu?",
-      "options": [
-        "Je oslavováno",
-        "Je kritizováno",
-        "Je ignorováno",
-        "Je vedlejší"
-      ],
+      "question": "Cid: Jaký význam má téma pomsty v dramatu?",
+      "options": ["Je oslavováno, Je kritizováno, Je ignorováno, Je vedlejší"],
       "answer": "Je kritizováno"
     },
     {
       "topic": "Cid – Pierre Corneille",
-      "question": "Co způsobí souboj mezi Rodrigem a otcem Chimène?",
-      "options": [
-        "Usmíření rodin",
-        "Hlavní konflikt",
-        "Královský zákaz",
-        "Rodrigovu smrt"
-      ],
+      "question": "Cid: Co způsobí souboj mezi Rodrigem a otcem Chimène?",
+      "options": ["Usmíření rodin, Hlavní konflikt, Královský zákaz, Rodrigovu smrt"],
       "answer": "Hlavní konflikt"
     },
     {
       "topic": "Cid – Pierre Corneille",
-      "question": "Jak se vyvíjí vztah Rodriga a Chimène?",
-      "options": [
-        "Od nenávisti k lásce",
-        "Od lásky k nenávisti",
-        "Zůstává stejný",
-        "Od lásky k usmíření"
-      ],
+      "question": "Cid: Jak se vyvíjí vztah Rodriga a Chimène?",
+      "options": ["Od nenávisti k lásce, Od lásky k nenávisti, Zůstává stejný, Od lásky k usmíření"],
       "answer": "Od lásky k usmíření"
     },
     {
       "topic": "Cid – Pierre Corneille",
-      "question": "Jaký je význam královského zásahu?",
-      "options": [
-        "Rozhoduje o válce",
-        "Řeší konflikt postav",
-        "Zvyšuje napětí",
-        "Podporuje pomstu"
-      ],
+      "question": "Cid: Jaký je význam královského zásahu?",
+      "options": ["Rozhoduje o válce, Řeší konflikt postav, Zvyšuje napětí, Podporuje pomstu"],
       "answer": "Řeší konflikt postav"
     },
     {
       "topic": "Cid – Pierre Corneille",
-      "question": "Který literární směr reprezentuje Cid?",
-      "options": [
-        "Romantismus",
-        "Klasicismus",
-        "Realismus",
-        "Baroko"
-      ],
+      "question": "Cid: Který literární směr reprezentuje Cid?",
+      "options": ["Romantismus, Klasicismus, Realismus, Baroko"],
       "answer": "Klasicismus"
     },
     {
       "topic": "Cid – Pierre Corneille",
-      "question": "Co je ústředním motivem dramatu?",
-      "options": [
-        "Láska a povinnost",
-        "Bohatství a moc",
-        "Válka a mír",
-        "Náboženství"
-      ],
+      "question": "Cid: Co je ústředním motivem dramatu?",
+      "options": ["Láska a povinnost, Bohatství a moc, Válka a mír, Náboženství"],
       "answer": "Láska a povinnost"
     },
     {
       "topic": "Cid – Pierre Corneille",
-      "question": "Jak Corneille využívá dialogy?",
-      "options": [
-        "K popisu přírody",
-        "K vyjádření emocí",
-        "K politické satiře",
-        "K historickým faktům"
-      ],
+      "question": "Cid: Jak Corneille využívá dialogy?",
+      "options": ["K popisu přírody, K vyjádření emocí, K politické satiře, K historickým faktům"],
       "answer": "K vyjádření emocí"
     },
     {
       "topic": "Cid – Pierre Corneille",
-      "question": "Jaký historický kontext ovlivňuje příběh?",
-      "options": [
-        "Francouzská revoluce",
-        "Reconquista",
-        "Stoletá válka",
-        "Renesance"
-      ],
+      "question": "Cid: Jaký historický kontext ovlivňuje příběh?",
+      "options": ["Francouzská revoluce, Reconquista, Stoletá válka, Renesance"],
       "answer": "Reconquista"
     },
     {
       "topic": "Cid – Pierre Corneille",
-      "question": "Jaké morální otázky Rodrigovo jednání vyvolává?",
-      "options": [
-        "Právo na pomstu",
-        "Věrnost králi",
-        "Láska k rodině",
-        "Náboženská víra"
-      ],
+      "question": "Cid: Jaké morální otázky Rodrigovo jednání vyvolává?",
+      "options": ["Právo na pomstu, Věrnost králi, Láska k rodině, Náboženská víra"],
       "answer": "Právo na pomstu"
     },
     {
       "topic": "Cid – Pierre Corneille",
-      "question": "Jaká je role Chimène v dramatu?",
-      "options": [
-        "Vedlejší postava",
-        "Hlavní hrdinka",
-        "Antagonista",
-        "Rádce krále"
-      ],
+      "question": "Cid: Jaká je role Chimène v dramatu?",
+      "options": ["Vedlejší postava, Hlavní hrdinka, Antagonista, Rádce krále"],
       "answer": "Hlavní hrdinka"
     },
     {
       "topic": "Cid – Pierre Corneille",
-      "question": "Co představuje závěrečné usmíření?",
-      "options": [
-        "Vítězství lásky",
-        "Porážku Rodriga",
-        "Královskou porážku",
-        "Pomstu Chimène"
-      ],
+      "question": "Cid: Co představuje závěrečné usmíření?",
+      "options": ["Vítězství lásky, Porážku Rodriga, Královskou porážku, Pomstu Chimène"],
       "answer": "Vítězství lásky"
     },
     {
       "topic": "Cid – Pierre Corneille",
-      "question": "Jak Cid odráží hodnoty 17. století?",
-      "options": [
-        "Revoluční myšlenky",
-        "Čest a povinnost",
-        "Individualismus",
-        "Náboženský fanatismus"
-      ],
+      "question": "Cid: Jak Cid odráží hodnoty 17. století?",
+      "options": ["Revoluční myšlenky, Čest a povinnost, Individualismus, Náboženský fanatismus"],
       "answer": "Čest a povinnost"
     },
     {
       "topic": "Malý princ – Antoine de Saint-Exupéry",
-      "question": "Co motivuje Malého prince k cestě mezi planetami?",
-      "options": [
-        "Hledání bohatství",
-        "Zkoumání světa",
-        "Útěk před nebezpečím",
-        "Návrat domů"
-      ],
+      "question": "Malý princ: Co motivuje Malého prince k cestě mezi planetami?",
+      "options": ["Hledání bohatství, Zkoumání světa, Útěk před nebezpečím, Návrat domů"],
       "answer": "Zkoumání světa"
     },
     {
       "topic": "Malý princ – Antoine de Saint-Exupéry",
-      "question": "Co symbolizuje růže v příběhu?",
-      "options": [
-        "Přátelství",
-        "Lásku",
-        "Bohatství",
-        "Moc"
-      ],
+      "question": "Malý princ: Co symbolizuje růže v příběhu?",
+      "options": ["Přátelství, Lásku, Bohatství, Moc"],
       "answer": "Lásku"
     },
     {
       "topic": "Malý princ – Antoine de Saint-Exupéry",
-      "question": "Co učí Malého prince setkání s liškou?",
-      "options": [
-        "Ochočení a odpovědnost",
-        "Boj o přežití",
-        "Hledání bohatství",
-        "Nezávislost"
-      ],
+      "question": "Malý princ: Co učí Malého prince setkání s liškou?",
+      "options": ["Ochočení a odpovědnost, Boj o přežití, Hledání bohatství, Nezávislost"],
       "answer": "Ochočení a odpovědnost"
     },
     {
       "topic": "Malý princ – Antoine de Saint-Exupéry",
-      "question": "Proč je důležité „ochočit“ někoho?",
-      "options": [
-        "Vytváří bohatství",
-        "Buduje vztahy",
-        "Zajišťuje moc",
-        "Zabraňuje osamělosti"
-      ],
+      "question": "Malý princ: Proč je důležité „ochočit“ někoho?",
+      "options": ["Vytváří bohatství, Buduje vztahy, Zajišťuje moc, Zabraňuje osamělosti"],
       "answer": "Buduje vztahy"
     },
     {
       "topic": "Malý princ – Antoine de Saint-Exupéry",
-      "question": "Co kritizuje postava Pijanova?",
-      "options": [
-        "Dospělé chování",
-        "Dětskou naivitu",
-        "Vládní systém",
-        "Náboženství"
-      ],
+      "question": "Malý princ: Co kritizuje postava Pijanova?",
+      "options": ["Dospělé chování, Dětskou naivitu, Vládní systém, Náboženství"],
       "answer": "Dospělé chování"
     },
     {
       "topic": "Malý princ – Antoine de Saint-Exupéry",
-      "question": "Co reprezentují Baobaby?",
-      "options": [
-        "Přátele",
-        "Problémy",
-        "Poklady",
-        "Cíle"
-      ],
+      "question": "Malý princ: Co reprezentují Baobaby?",
+      "options": ["Přátele, Problémy, Poklady, Cíle"],
       "answer": "Problémy"
     },
     {
       "topic": "Malý princ – Antoine de Saint-Exupéry",
-      "question": "Co znamená „Důležité je očima nevidět, ale srdcem“?",
-      "options": [
-        "Soustředit se na vzhled",
-        "Vnímat city",
-        "Ignorovat realitu",
-        "Hledat bohatství"
-      ],
+      "question": "Malý princ: Co znamená „Důležité je očima nevidět, ale srdcem“?",
+      "options": ["Soustředit se na vzhled, Vnímat city, Ignorovat realitu, Hledat bohatství"],
       "answer": "Vnímat city"
     },
     {
       "topic": "Malý princ – Antoine de Saint-Exupéry",
-      "question": "Jak se liší pohled Malého prince od dospělých?",
-      "options": [
-        "Je materialistický",
-        "Je naivní a čistý",
-        "Je cynický",
-        "Je politický"
-      ],
+      "question": "Malý princ: Jak se liší pohled Malého prince od dospělých?",
+      "options": ["Je materialistický, Je naivní a čistý, Je cynický, Je politický"],
       "answer": "Je naivní a čistý"
     },
     {
       "topic": "Malý princ – Antoine de Saint-Exupéry",
-      "question": "Jaký význam má poušť v příběhu?",
-      "options": [
-        "Místo osamělosti",
-        "Místo bohatství",
-        "Místo války",
-        "Místo zábavy"
-      ],
+      "question": "Malý princ: Jaký význam má poušť v příběhu?",
+      "options": ["Místo osamělosti, Místo bohatství, Místo války, Místo zábavy"],
       "answer": "Místo osamělosti"
     },
     {
       "topic": "Malý princ – Antoine de Saint-Exupéry",
-      "question": "Proč se Malý princ vrací na svou planetu?",
-      "options": [
-        "Kvůli bohatství",
-        "Kvůli růži",
-        "Kvůli slávě",
-        "Kvůli dobrodružství"
-      ],
+      "question": "Malý princ: Proč se Malý princ vrací na svou planetu?",
+      "options": ["Kvůli bohatství, Kvůli růži, Kvůli slávě, Kvůli dobrodružství"],
       "answer": "Kvůli růži"
     },
     {
       "topic": "Malý princ – Antoine de Saint-Exupéry",
-      "question": "Jaké filozofické otázky kniha zkoumá?",
-      "options": [
-        "Válka a mír",
-        "Život a smrt",
-        "Věda a technika",
-        "Politika"
-      ],
+      "question": "Malý princ: Jaké filozofické otázky kniha zkoumá?",
+      "options": ["Válka a mír, Život a smrt, Věda a technika, Politika"],
       "answer": "Život a smrt"
     },
     {
       "topic": "Malý princ – Antoine de Saint-Exupéry",
-      "question": "Jak autor využívá jednoduchý jazyk?",
-      "options": [
-        "K popisu přírody",
-        "K hlubokým myšlenkám",
-        "K politické satiře",
-        "K historickým faktům"
-      ],
+      "question": "Malý princ: Jak autor využívá jednoduchý jazyk?",
+      "options": ["K popisu přírody, K hlubokým myšlenkám, K politické satiře, K historickým faktům"],
       "answer": "K hlubokým myšlenkám"
     },
     {
       "topic": "Malý princ – Antoine de Saint-Exupéry",
-      "question": "Co představuje Hadík v závěru?",
-      "options": [
-        "Přítel",
-        "Smrt",
-        "Nepřítel",
-        "Průvodce"
-      ],
+      "question": "Malý princ: Co představuje Hadík v závěru?",
+      "options": ["Přítel, Smrt, Nepřítel, Průvodce"],
       "answer": "Smrt"
     },
     {
       "topic": "Malý princ – Antoine de Saint-Exupéry",
-      "question": "Jak kniha odráží autorovy zkušenosti?",
-      "options": [
-        "Jako politik",
-        "Jako letec",
-        "Jako vědec",
-        "Jako obchodník"
-      ],
+      "question": "Malý princ: Jak kniha odráží autorovy zkušenosti?",
+      "options": ["Jako politik, Jako letec, Jako vědec, Jako obchodník"],
       "answer": "Jako letec"
     },
     {
       "topic": "Malý princ – Antoine de Saint-Exupéry",
-      "question": "Co učí setkání s Králem?",
-      "options": [
-        "Smysl moci",
-        "Hledání bohatství",
-        "Význam přátelství",
-        "Umění války"
-      ],
+      "question": "Malý princ: Co učí setkání s Králem?",
+      "options": ["Smysl moci, Hledání bohatství, Význam přátelství, Umění války"],
       "answer": "Smysl moci"
     },
     {
       "topic": "Zločin a trest – Fjodor Michajlovič Dostojevskij",
-      "question": "Co motivuje Raskolnikova k vraždě lichvářky?",
-      "options": [
-        "Finanční zoufalství",
-        "Touha po slávě",
-        "Láska k Soně",
-        "Politická revoluce"
-      ],
+      "question": "Zločin a trest: Co motivuje Raskolnikova k vraždě lichvářky?",
+      "options": ["Finanční zoufalství, Touha po slávě, Láska k Soně, Politická revoluce"],
       "answer": "Finanční zoufalství"
     },
     {
       "topic": "Zločin a trest – Fjodor Michajlovič Dostojevskij",
-      "question": "Co je Raskolnikova teorie o zločinu?",
-      "options": [
-        "Všichni mají právo na zločin",
-        "Výjimeční lidé mohou zločin páchat",
-        "Zločin je vždy trestán",
-        "Zločin je nemorální"
-      ],
+      "question": "Zločin a trest: Co je Raskolnikova teorie o zločinu?",
+      "options": ["Všichni mají právo na zločin, Výjimeční lidé mohou zločin páchat, Zločin je vždy trestán, Zločin je nemorální"],
       "answer": "Výjimeční lidé mohou zločin páchat"
     },
     {
       "topic": "Zločin a trest – Fjodor Michajlovič Dostojevskij",
-      "question": "Jak se projevuje Raskolnikova psychická nestabilita?",
-      "options": [
-        "Radostí z bohatství",
-        "Nemocí a úzkostí",
-        "Touhou po moci",
-        "Láskou k Soně"
-      ],
+      "question": "Zločin a trest: Jak se projevuje Raskolnikova psychická nestabilita?",
+      "options": ["Radostí z bohatství, Nemocí a úzkostí, Touhou po moci, Láskou k Soně"],
       "answer": "Nemocí a úzkostí"
     },
     {
       "topic": "Zločin a trest – Fjodor Michajlovič Dostojevskij",
-      "question": "Jaký je význam postavy Marmeladova?",
-      "options": [
-        "Ukázat chudobu",
-        "Podpořit Raskolnikova",
-        "Kritizovat vládu",
-        "Představit Soniu"
-      ],
+      "question": "Zločin a trest: Jaký je význam postavy Marmeladova?",
+      "options": ["Ukázat chudobu, Podpořit Raskolnikova, Kritizovat vládu, Představit Soniu"],
       "answer": "Ukázat chudobu"
     },
     {
       "topic": "Zločin a trest – Fjodor Michajlovič Dostojevskij",
-      "question": "Proč Raskolnikov neschvaluje nápadníky Duně?",
-      "options": [
-        "Jsou bohatí",
-        "Jsou nemorální",
-        "Jsou příliš staří",
-        "Jsou revolucionáři"
-      ],
+      "question": "Zločin a trest: Proč Raskolnikov neschvaluje nápadníky Duně?",
+      "options": ["Jsou bohatí, Jsou nemorální, Jsou příliš staří, Jsou revolucionáři"],
       "answer": "Jsou nemorální"
     },
     {
       "topic": "Zločin a trest – Fjodor Michajlovič Dostojevskij",
-      "question": "Jak Razumichin pomáhá Raskolnikovovi?",
-      "options": [
-        "Dává mu peníze",
-        "Stará se o něj",
-        "Pomáhá s vraždou",
-        "Hledá mu práci"
-      ],
+      "question": "Zločin a trest: Jak Razumichin pomáhá Raskolnikovovi?",
+      "options": ["Dává mu peníze, Stará se o něj, Pomáhá s vraždou, Hledá mu práci"],
       "answer": "Stará se o něj"
     },
     {
       "topic": "Zločin a trest – Fjodor Michajlovič Dostojevskij",
-      "question": "Co způsobí setkání s policií?",
-      "options": [
-        "Raskolnikov omdlí",
-        "Raskolnikov se přizná",
-        "Raskolnikov uteče",
-        "Raskolnikov je zatčen"
-      ],
+      "question": "Zločin a trest: Co způsobí setkání s policií?",
+      "options": ["Raskolnikov omdlí, Raskolnikov se přizná, Raskolnikov uteče, Raskolnikov je zatčen"],
       "answer": "Raskolnikov omdlí"
     },
     {
       "topic": "Zločin a trest – Fjodor Michajlovič Dostojevskij",
-      "question": "Jaké je hlavní téma knihy?",
-      "options": [
-        "Láska a vášeň",
-        "Vina a trest",
-        "Válka a mír",
-        "Bohatství a moc"
-      ],
+      "question": "Zločin a trest: Jaké je hlavní téma knihy?",
+      "options": ["Láska a vášeň, Vina a trest, Válka a mír, Bohatství a moc"],
       "answer": "Vina a trest"
     },
     {
       "topic": "Zločin a trest – Fjodor Michajlovič Dostojevskij",
-      "question": "Jaká je role Soni v příběhu?",
-      "options": [
-        "Raskolnikova láska",
-        "Cesta k vykoupení",
-        "Politická aktivistka",
-        "Nepřítel Raskolnikova"
-      ],
+      "question": "Zločin a trest: Jaká je role Soni v příběhu?",
+      "options": ["Raskolnikova láska, Cesta k vykoupení, Politická aktivistka, Nepřítel Raskolnikova"],
       "answer": "Cesta k vykoupení"
     },
     {
       "topic": "Zločin a trest – Fjodor Michajlovič Dostojevskij",
-      "question": "Jaké sociální problémy kniha zkoumá?",
-      "options": [
-        "Chudoba a nerovnost",
-        "Válka a konflikty",
-        "Náboženský fanatismus",
-        "Technologický pokrok"
-      ],
+      "question": "Zločin a trest: Jaké sociální problémy kniha zkoumá?",
+      "options": ["Chudoba a nerovnost, Válka a konflikty, Náboženský fanatismus, Technologický pokrok"],
       "answer": "Chudoba a nerovnost"
     },
     {
       "topic": "Zločin a trest – Fjodor Michajlovič Dostojevskij",
-      "question": "Proč je Lizaveta zabita?",
-      "options": [
-        "Je svědkem vraždy",
-        "Je Raskolnikova láska",
-        "Je bohatá",
-        "Je nepřítel"
-      ],
+      "question": "Zločin a trest: Proč je Lizaveta zabita?",
+      "options": ["Je svědkem vraždy, Je Raskolnikova láska, Je bohatá, Je nepřítel"],
       "answer": "Je svědkem vraždy"
     },
     {
       "topic": "Zločin a trest – Fjodor Michajlovič Dostojevskij",
-      "question": "Jaký je význam křesťanských motivů?",
-      "options": [
-        "Podpora revoluce",
-        "Cesta k vykoupení",
-        "Kritika církve",
-        "Historický kontext"
-      ],
+      "question": "Zločin a trest: Jaký je význam křesťanských motivů?",
+      "options": ["Podpora revoluce, Cesta k vykoupení, Kritika církve, Historický kontext"],
       "answer": "Cesta k vykoupení"
     },
     {
       "topic": "Zločin a trest – Fjodor Michajlovič Dostojevskij",
-      "question": "Co naznačuje závěr knihy?",
-      "options": [
-        "Raskolnikovův pád",
-        "Raskolnikovovo vykoupení",
-        "Raskolnikovův útěk",
-        "Raskolnikovova smrt"
-      ],
+      "question": "Zločin a trest: Co naznačuje závěr knihy?",
+      "options": ["Raskolnikovův pád, Raskolnikovovo vykoupení, Raskolnikovův útěk, Raskolnikovova smrt"],
       "answer": "Raskolnikovovo vykoupení"
     },
     {
       "topic": "Zločin a trest – Fjodor Michajlovič Dostojevskij",
-      "question": "Jak se vyvíjí Raskolnikova teorie?",
-      "options": [
-        "Zůstává stejná",
-        "Je zpochybněna",
-        "Je potvrzena",
-        "Je zapomenuta"
-      ],
+      "question": "Zločin a trest: Jak se vyvíjí Raskolnikova teorie?",
+      "options": ["Zůstává stejná, Je zpochybněna, Je potvrzena, Je zapomenuta"],
       "answer": "Je zpochybněna"
     },
     {
       "topic": "Zločin a trest – Fjodor Michajlovič Dostojevskij",
-      "question": "Jaký je význam Petrohradu v knize?",
-      "options": [
-        "Romantické prostředí",
-        "Sociální kritika",
-        "Politické centrum",
-        "Náboženské místo"
-      ],
+      "question": "Zločin a trest: Jaký je význam Petrohradu v knize?",
+      "options": ["Romantické prostředí, Sociální kritika, Politické centrum, Náboženské místo"],
       "answer": "Sociální kritika"
     },
     {
       "topic": "Paní Bovaryová – Gustave Flaubert",
-      "question": "Proč je Emma nespokojená s manželstvím?",
-      "options": [
-        "Chybí jí romantika",
-        "Chybí jí bohatství",
-        "Chybí jí moc",
-        "Chybí jí vzdělání"
-      ],
+      "question": "Paní Bovaryová: Proč je Emma nespokojená s manželstvím?",
+      "options": ["Chybí jí romantika, Chybí jí bohatství, Chybí jí moc, Chybí jí vzdělání"],
       "answer": "Chybí jí romantika"
     },
     {
       "topic": "Paní Bovaryová – Gustave Flaubert",
-      "question": "Co Emma hledá v milostných aférách?",
-      "options": [
-        "Bohatství",
-        "Romantiku",
-        "Moc",
-        "Slávu"
-      ],
+      "question": "Paní Bovaryová: Co Emma hledá v milostných aférách?",
+      "options": ["Bohatství, Romantiku, Moc, Slávu"],
       "answer": "Romantiku"
     },
     {
       "topic": "Paní Bovaryová – Gustave Flaubert",
-      "question": "Jak Charles kontrastuje s Emminými ideály?",
-      "options": [
-        "Je bohatý",
-        "Je prostý",
-        "Je romantický",
-        "Je mocný"
-      ],
+      "question": "Paní Bovaryová: Jak Charles kontrastuje s Emminými ideály?",
+      "options": ["Je bohatý, Je prostý, Je romantický, Je mocný"],
       "answer": "Je prostý"
     },
     {
       "topic": "Paní Bovaryová – Gustave Flaubert",
-      "question": "Jaké sociální kritiky Flaubert zkoumá?",
-      "options": [
-        "Buržoazní společnost",
-        "Feudalismus",
-        "Náboženství",
-        "Válka"
-      ],
+      "question": "Paní Bovaryová: Jaké sociální kritiky Flaubert zkoumá?",
+      "options": ["Buržoazní společnost, Feudalismus, Náboženství, Válka"],
       "answer": "Buržoazní společnost"
     },
     {
       "topic": "Paní Bovaryová – Gustave Flaubert",
-      "question": "Jaký je význam Emmyných dluhů?",
-      "options": [
-        "Cesta k bohatství",
-        "Příčina tragédie",
-        "Zdroj moci",
-        "Vedlejší problém"
-      ],
+      "question": "Paní Bovaryová: Jaký je význam Emmyných dluhů?",
+      "options": ["Cesta k bohatství, Příčina tragédie, Zdroj moci, Vedlejší problém"],
       "answer": "Příčina tragédie"
     },
     {
       "topic": "Paní Bovaryová – Gustave Flaubert",
-      "question": "Proč Emma touží po luxusu?",
-      "options": [
-        "Chce být královnou",
-        "Sní o ideálním životě",
-        "Chce pomoci Charlesovi",
-        "Chce být slavná"
-      ],
+      "question": "Paní Bovaryová: Proč Emma touží po luxusu?",
+      "options": ["Chce být královnou, Sní o ideálním životě, Chce pomoci Charlesovi, Chce být slavná"],
       "answer": "Sní o ideálním životě"
     },
     {
       "topic": "Paní Bovaryová – Gustave Flaubert",
-      "question": "Jaký styl Flaubert používá?",
-      "options": [
-        "Romantismus",
-        "Realismus",
-        "Klasicismus",
-        "Baroko"
-      ],
+      "question": "Paní Bovaryová: Jaký styl Flaubert používá?",
+      "options": ["Romantismus, Realismus, Klasicismus, Baroko"],
       "answer": "Realismus"
     },
     {
       "topic": "Paní Bovaryová – Gustave Flaubert",
-      "question": "Co ovlivňuje Emmyny sny?",
-      "options": [
-        "Romantické romány",
-        "Náboženské knihy",
-        "Vědecké studie",
-        "Politické spisy"
-      ],
+      "question": "Paní Bovaryová: Co ovlivňuje Emmyny sny?",
+      "options": ["Romantické romány, Náboženské knihy, Vědecké studie, Politické spisy"],
       "answer": "Romantické romány"
     },
     {
       "topic": "Paní Bovaryová – Gustave Flaubert",
-      "question": "Jak se projevuje Emmyna nestabilita?",
-      "options": [
-        "Radostí z lásky",
-        "Depresemi",
-        "Touhou po moci",
-        "Náboženskou vírou"
-      ],
+      "question": "Paní Bovaryová: Jak se projevuje Emmyna nestabilita?",
+      "options": ["Radostí z lásky, Depresemi, Touhou po moci, Náboženskou vírou"],
       "answer": "Depresemi"
     },
     {
       "topic": "Paní Bovaryová – Gustave Flaubert",
-      "question": "Jaká je role Rodolpha?",
-      "options": [
-        "Emmin manžel",
-        "Emmin milenec",
-        "Emmin nepřítel",
-        "Emmin rádce"
-      ],
+      "question": "Paní Bovaryová: Jaká je role Rodolpha?",
+      "options": ["Emmin manžel, Emmin milenec, Emmin nepřítel, Emmin rádce"],
       "answer": "Emmin milenec"
     },
     {
       "topic": "Paní Bovaryová – Gustave Flaubert",
-      "question": "Jak kniha zkoumá ženskou emancipaci?",
-      "options": [
-        "Oslavuje ji",
-        "Kritizuje ji",
-        "Ignoruje ji",
-        "Zkoumá její limity"
-      ],
+      "question": "Paní Bovaryová: Jak kniha zkoumá ženskou emancipaci?",
+      "options": ["Oslavuje ji, Kritizuje ji, Ignoruje ji, Zkoumá její limity"],
       "answer": "Zkoumá její limity"
     },
     {
       "topic": "Paní Bovaryová – Gustave Flaubert",
-      "question": "Proč Emma volí tragický konec?",
-      "options": [
-        "Kvůli lásce",
-        "Kvůli zoufalství",
-        "Kvůli slávě",
-        "Kvůli moci"
-      ],
+      "question": "Paní Bovaryová: Proč Emma volí tragický konec?",
+      "options": ["Kvůli lásce, Kvůli zoufalství, Kvůli slávě, Kvůli moci"],
       "answer": "Kvůli zoufalství"
     },
     {
       "topic": "Paní Bovaryová – Gustave Flaubert",
-      "question": "Jaký je význam venkovského prostředí?",
-      "options": [
-        "Kontrast s Emminými sny",
-        "Romantické místo",
-        "Politické centrum",
-        "Náboženské místo"
-      ],
+      "question": "Paní Bovaryová: Jaký je význam venkovského prostředí?",
+      "options": ["Kontrast s Emminými sny, Romantické místo, Politické centrum, Náboženské místo"],
       "answer": "Kontrast s Emminými sny"
     },
     {
       "topic": "Paní Bovaryová – Gustave Flaubert",
-      "question": "Co Flaubert kritizuje?",
-      "options": [
-        "Vládu",
-        "Buržoazii",
-        "Církev",
-        "Armádu"
-      ],
+      "question": "Paní Bovaryová: Co Flaubert kritizuje?",
+      "options": ["Vládu, Buržoazii, Církev, Armádu"],
       "answer": "Buržoazii"
     },
     {
       "topic": "Paní Bovaryová – Gustave Flaubert",
-      "question": "Jaký je význam Emmyných čtenářských návyků?",
-      "options": [
-        "Formují její sny",
-        "Pomáhají Charlesovi",
-        "Kritizují společnost",
-        "Učí ji vědu"
-      ],
+      "question": "Paní Bovaryová: Jaký je význam Emmyných čtenářských návyků?",
+      "options": ["Formují její sny, Pomáhají Charlesovi, Kritizují společnost, Učí ji vědu"],
       "answer": "Formují její sny"
     },
     {
       "topic": "Čekání na Godota – Samuel Beckett",
-      "question": "Kdo je Godot?",
-      "options": [
-        "Neznámá postava",
-        "Král",
-        "Přítel Vladimíra",
-        "Nepřítel"
-      ],
+      "question": "Čekání na Godota: Kdo je Godot?",
+      "options": ["Neznámá postava, Král, Přítel Vladimíra, Nepřítel"],
       "answer": "Neznámá postava"
     },
     {
       "topic": "Čekání na Godota – Samuel Beckett",
-      "question": "Co symbolizuje strom v hře?",
-      "options": [
-        "Naději a smrt",
-        "Bohatství",
-        "Lásku",
-        "Moc"
-      ],
+      "question": "Čekání na Godota: Co symbolizuje strom v hře?",
+      "options": ["Naději a smrt, Bohatství, Lásku, Moc"],
       "answer": "Naději a smrt"
     },
     {
       "topic": "Čekání na Godota – Samuel Beckett",
-      "question": "Jaký je vztah Vladimíra a Estragona?",
-      "options": [
-        "Nepřátelé",
-        "Přátelé",
-        "Bratři",
-        "Cizinci"
-      ],
+      "question": "Čekání na Godota: Jaký je vztah Vladimíra a Estragona?",
+      "options": ["Nepřátelé, Přátelé, Bratři, Cizinci"],
       "answer": "Přátelé"
     },
     {
       "topic": "Čekání na Godota – Samuel Beckett",
-      "question": "Co symbolizuje Lucky?",
-      "options": [
-        "Svobodu",
-        "Utrpení",
-        "Bohatství",
-        "Moc"
-      ],
+      "question": "Čekání na Godota: Co symbolizuje Lucky?",
+      "options": ["Svobodu, Utrpení, Bohatství, Moc"],
       "answer": "Utrpení"
     },
     {
       "topic": "Čekání na Godota – Samuel Beckett",
-      "question": "Jak Pozzo zachází s Luckym?",
-      "options": [
-        "Jako s přítelem",
-        "Jako se zvířetem",
-        "Jako s králem",
-        "Jako s bratrem"
-      ],
+      "question": "Čekání na Godota: Jak Pozzo zachází s Luckym?",
+      "options": ["Jako s přítelem, Jako se zvířetem, Jako s králem, Jako s bratrem"],
       "answer": "Jako se zvířetem"
     },
     {
       "topic": "Čekání na Godota – Samuel Beckett",
-      "question": "Proč postavy zvažují oběšení?",
-      "options": [
-        "Kvůli nudě",
-        "Kvůli zoufalství",
-        "Kvůli lásce",
-        "Kvůli bohatství"
-      ],
+      "question": "Čekání na Godota: Proč postavy zvažují oběšení?",
+      "options": ["Kvůli nudě, Kvůli zoufalství, Kvůli lásce, Kvůli bohatství"],
       "answer": "Kvůli zoufalství"
     },
     {
       "topic": "Čekání na Godota – Samuel Beckett",
-      "question": "Co zdůrazňuje struktura dvou dějství?",
-      "options": [
-        "Opakování",
-        "Vývoj",
-        "Konflikt",
-        "Usmíření"
-      ],
+      "question": "Čekání na Godota: Co zdůrazňuje struktura dvou dějství?",
+      "options": ["Opakování, Vývoj, Konflikt, Usmíření"],
       "answer": "Opakování"
     },
     {
       "topic": "Čekání na Godota – Samuel Beckett",
-      "question": "Jaké je hlavní téma hry?",
-      "options": [
-        "Láska",
-        "Absurdita",
-        "Válka",
-        "Bohatství"
-      ],
+      "question": "Čekání na Godota: Jaké je hlavní téma hry?",
+      "options": ["Láska, Absurdita, Válka, Bohatství"],
       "answer": "Absurdita"
     },
     {
       "topic": "Čekání na Godota – Samuel Beckett",
-      "question": "Jaký je význam dialogů o evangelistech?",
-      "options": [
-        "Kritizují náboženství",
-        "Ukracují čas",
-        "Podporují víru",
-        "Představují Godota"
-      ],
+      "question": "Čekání na Godota: Jaký je význam dialogů o evangelistech?",
+      "options": ["Kritizují náboženství, Ukracují čas, Podporují víru, Představují Godota"],
       "answer": "Ukracují čas"
     },
     {
       "topic": "Čekání na Godota – Samuel Beckett",
-      "question": "Proč si postavy nejsou jisté, zda je sobota?",
-      "options": [
-        "Ztrácejí čas",
-        "Jsou líné",
-        "Jsou bohaté",
-        "Jsou věřící"
-      ],
+      "question": "Čekání na Godota: Proč si postavy nejsou jisté, zda je sobota?",
+      "options": ["Ztrácejí čas, Jsou líné, Jsou bohaté, Jsou věřící"],
       "answer": "Ztrácejí čas"
     },
     {
       "topic": "Čekání na Godota – Samuel Beckett",
-      "question": "Co představuje jídlo v hře?",
-      "options": [
-        "Přežití",
-        "Bohatství",
-        "Lásku",
-        "Moc"
-      ],
+      "question": "Čekání na Godota: Co představuje jídlo v hře?",
+      "options": ["Přežití, Bohatství, Lásku, Moc"],
       "answer": "Přežití"
     },
     {
       "topic": "Čekání na Godota – Samuel Beckett",
-      "question": "Jak hra odráží existencialismus?",
-      "options": [
-        "Hledáním smyslu",
-        "Oslavou bohatství",
-        "Kritikou vlády",
-        "Podporou víry"
-      ],
+      "question": "Čekání na Godota: Jak hra odráží existencialismus?",
+      "options": ["Hledáním smyslu, Oslavou bohatství, Kritikou vlády, Podporou víry"],
       "answer": "Hledáním smyslu"
     },
     {
       "topic": "Čekání na Godota – Samuel Beckett",
-      "question": "Co znamená absence Godota?",
-      "options": [
-        "Ztrátu naděje",
-        "Vítězství",
-        "Lásku",
-        "Bohatství"
-      ],
+      "question": "Čekání na Godota: Co znamená absence Godota?",
+      "options": ["Ztrátu naděje, Vítězství, Lásku, Bohatství"],
       "answer": "Ztrátu naděje"
     },
     {
       "topic": "Čekání na Godota – Samuel Beckett",
-      "question": "Jak Beckett využívá humor?",
-      "options": [
-        "K oslavě života",
-        "K vyjádření tragédie",
-        "K politické satiře",
-        "K náboženské kritice"
-      ],
+      "question": "Čekání na Godota: Jak Beckett využívá humor?",
+      "options": ["K oslavě života, K vyjádření tragédie, K politické satiře, K náboženské kritice"],
       "answer": "K vyjádření tragédie"
     },
     {
       "topic": "Čekání na Godota – Samuel Beckett",
-      "question": "Co hra zkoumá ohledně času?",
-      "options": [
-        "Jeho rychlost",
-        "Jeho zbytečnost",
-        "Jeho hodnotu",
-        "Jeho konec"
-      ],
+      "question": "Čekání na Godota: Co hra zkoumá ohledně času?",
+      "options": ["Jeho rychlost, Jeho zbytečnost, Jeho hodnotu, Jeho konec"],
       "answer": "Jeho zbytečnost"
     },
-        {
+    {
       "topic": "Krysař – Viktor Dyk",
-      "question": "Proč Krysař přichází do města Hammeln?",
-      "options": [
-        "Hledat lásku",
-        "Vyhánět krysy",
-        "Založit rodinu",
-        "Ukrást poklad"
-      ],
+      "question": "Krysař: Proč Krysař přichází do města Hammeln?",
+      "options": ["Hledat lásku, Vyhánět krysy, Založit rodinu, Ukrást poklad"],
       "answer": "Vyhánět krysy"
     },
     {
       "topic": "Krysař – Viktor Dyk",
-      "question": "Co způsobí, že měšťané odmítnou Krysaři zaplatit?",
-      "options": [
-        "Jeho láska k Agnes",
-        "Jeho podvod",
-        "Jejich lakota",
-        "Jeho odjezd"
-      ],
+      "question": "Krysař: Co způsobí, že měšťané odmítnou Krysaři zaplatit?",
+      "options": ["Jeho láska k Agnes, Jeho podvod, Jejich lakota, Jeho odjezd"],
       "answer": "Jejich lakota"
     },
     {
       "topic": "Krysař – Viktor Dyk",
-      "question": "Kdo je Agnes v příběhu?",
-      "options": [
-        "Krysařova sestra",
-        "Krysařova milá",
-        "Městská konšelka",
-        "Rybářova dcera"
-      ],
+      "question": "Krysař: Kdo je Agnes v příběhu?",
+      "options": ["Krysařova sestra, Krysařova milá, Městská konšelka, Rybářova dcera"],
       "answer": "Krysařova milá"
     },
     {
       "topic": "Krysař – Viktor Dyk",
-      "question": "Co se stane s Agnes po návratu Kristiána?",
-      "options": [
-        "Skočí do propasti",
-        "Odejde s Krysařem",
-        "Vezme si Kristiána",
-        "Stane se královnou"
-      ],
+      "question": "Krysař: Co se stane s Agnes po návratu Kristiána?",
+      "options": ["Skočí do propasti, Odejde s Krysařem, Vezme si Kristiána, Stane se královnou"],
       "answer": "Skočí do propasti"
     },
     {
       "topic": "Krysař – Viktor Dyk",
-      "question": "Jak Krysař potrestá měšťany?",
-      "options": [
-        "Ukradne jejich peníze",
-        "Spálí město",
-        "Přiláká je píšťalou",
-        "Zavolá vojsko"
-      ],
+      "question": "Krysař: Jak Krysař potrestá měšťany?",
+      "options": ["Ukradne jejich peníze, Spálí město, Přiláká je píšťalou, Zavolá vojsko"],
       "answer": "Přiláká je píšťalou"
     },
     {
       "topic": "Krysař – Viktor Dyk",
-      "question": "Kdo jediný přežije Krysařovu pomstu?",
-      "options": [
-        "Agnes",
-        "Kristián",
-        "Sepp Jörgen",
-        "Městský konšel"
-      ],
+      "question": "Krysař: Kdo jediný přežije Krysařovu pomstu?",
+      "options": ["Agnes, Kristián, Sepp Jörgen, Městský konšel"],
       "answer": "Sepp Jörgen"
     },
     {
       "topic": "Krysař – Viktor Dyk",
-      "question": "Proč na Seppa Jörgena nepůsobí píšťala?",
-      "options": [
-        "Slyší pláč dítěte",
-        "Je hluchý",
-        "Je mimo město",
-        "Má kouzlo"
-      ],
+      "question": "Krysař: Proč na Seppa Jörgena nepůsobí píšťala?",
+      "options": ["Slyší pláč dítěte, Je hluchý, Je mimo město, Má kouzlo"],
       "answer": "Slyší pláč dítěte"
     },
     {
       "topic": "Krysař – Viktor Dyk",
-      "question": "Jaké je hlavní téma novely?",
-      "options": [
-        "Bohatství a moc",
-        "Láska a smysl života",
-        "Válka a mír",
-        "Náboženství"
-      ],
+      "question": "Krysař: Jaké je hlavní téma novely?",
+      "options": ["Bohatství a moc, Láska a smysl života, Válka a mír, Náboženství"],
       "answer": "Láska a smysl života"
     },
     {
       "topic": "Krysař – Viktor Dyk",
-      "question": "Jaký literární žánr představuje Krysař?",
-      "options": [
-        "Drama",
-        "Novela",
-        "Báseň",
-        "Komedie"
-      ],
+      "question": "Krysař: Jaký literární žánr představuje Krysař?",
+      "options": ["Drama, Novela, Báseň, Komedie"],
       "answer": "Novela"
     },
     {
       "topic": "Krysař – Viktor Dyk",
-      "question": "Co kritizuje Dyk v příběhu?",
-      "options": [
-        "Měšťanskou morálku",
-        "Královskou moc",
-        "Náboženskou víru",
-        "Vojenskou strategii"
-      ],
+      "question": "Krysař: Co kritizuje Dyk v příběhu?",
+      "options": ["Měšťanskou morálku, Královskou moc, Náboženskou víru, Vojenskou strategii"],
       "answer": "Měšťanskou morálku"
     },
     {
       "topic": "Krysař – Viktor Dyk",
-      "question": "Jaký jazykový prostředek Dyk často používá?",
-      "options": [
-        "Personifikace",
-        "Rým",
-        "Alegorie",
-        "Eufemismus"
-      ],
+      "question": "Krysař: Jaký jazykový prostředek Dyk často používá?",
+      "options": ["Personifikace, Rým, Alegorie, Eufemismus"],
       "answer": "Personifikace"
     },
     {
       "topic": "Krysař – Viktor Dyk",
-      "question": "Kde se příběh odehrává?",
-      "options": [
-        "Paříž",
-        "Hammeln",
-        "Petrohrad",
-        "Praha"
-      ],
+      "question": "Krysař: Kde se příběh odehrává?",
+      "options": ["Paříž, Hammeln, Petrohrad, Praha"],
       "answer": "Hammeln"
     },
     {
       "topic": "Krysař – Viktor Dyk",
-      "question": "Co symbolizuje píšťala v příběhu?",
-      "options": [
-        "Lásku",
-        "Pomstu",
-        "Bohatství",
-        "Moc"
-      ],
+      "question": "Krysař: Co symbolizuje píšťala v příběhu?",
+      "options": ["Lásku, Pomstu, Bohatství, Moc"],
       "answer": "Pomstu"
     },
     {
       "topic": "Krysař – Viktor Dyk",
-      "question": "Jaký je časový rámec příběhu?",
-      "options": [
-        "Středověk",
-        "19. století",
-        "Renesance",
-        "20. století"
-      ],
+      "question": "Krysař: Jaký je časový rámec příběhu?",
+      "options": ["Středověk, 19. století, Renesance, 20. století"],
       "answer": "Středověk"
     },
     {
       "topic": "Krysař – Viktor Dyk",
-      "question": "Jak ovlivnil Dykovu tvorbu Masaryk?",
-      "options": [
-        "Učil ho práva",
-        "Pomohl mu s odchodem",
-        "Psal s ním novely",
-        "Financoval jeho díla"
-      ],
+      "question": "Krysař: Jak ovlivnil Dykovu tvorbu Masaryk?",
+      "options": ["Učil ho práva, Pomohl mu s odchodem, Psal s ním novely, Financoval jeho díla"],
       "answer": "Pomohl mu s odchodem"
     },
     {
       "topic": "Lakomec – Molière",
-      "question": "Kdo je hlavní postavou Lakomce?",
-      "options": [
-        "Kleant",
-        "Harpagon",
-        "Valér",
-        "Anselm"
-      ],
+      "question": "Lakomec: Kdo je hlavní postavou Lakomce?",
+      "options": ["Kleant, Harpagon, Valér, Anselm"],
       "answer": "Harpagon"
     },
     {
       "topic": "Lakomec – Molière",
-      "question": "Co chce Harpagon s Marianou?",
-      "options": [
-        "Vzít si ji",
-        "Provdat ji za Valéra",
-        "Zaměstnat ji",
-        "Vyhnat ji"
-      ],
+      "question": "Lakomec: Co chce Harpagon s Marianou?",
+      "options": ["Vzít si ji, Provdat ji za Valéra, Zaměstnat ji, Vyhnat ji"],
       "answer": "Vzít si ji"
     },
     {
       "topic": "Lakomec – Molière",
-      "question": "Kdo je lichvářem v příběhu?",
-      "options": [
-        "Čipera",
-        "Harpagon",
-        "Anselm",
-        "Kleant"
-      ],
+      "question": "Lakomec: Kdo je lichvářem v příběhu?",
+      "options": ["Čipera, Harpagon, Anselm, Kleant"],
       "answer": "Harpagon"
     },
     {
       "topic": "Lakomec – Molière",
-      "question": "Co udělá Čipera s Harpagonovou pokladnicí?",
-      "options": [
-        "Schová ji",
-        "Ukradne ji",
-        "Prodej ji",
-        "Rozdá ji"
-      ],
+      "question": "Lakomec: Co udělá Čipera s Harpagonovou pokladnicí?",
+      "options": ["Schová ji, Ukradne ji, Prodej ji, Rozdá ji"],
       "answer": "Schová ji"
     },
     {
       "topic": "Lakomec – Molière",
-      "question": "Kdo je otcem Valéra a Mariany?",
-      "options": [
-        "Harpagon",
-        "Anselm",
-        "Čipera",
-        "Kleant"
-      ],
+      "question": "Lakomec: Kdo je otcem Valéra a Mariany?",
+      "options": ["Harpagon, Anselm, Čipera, Kleant"],
       "answer": "Anselm"
     },
     {
       "topic": "Lakomec – Molière",
-      "question": "Jaké je hlavní téma hry?",
-      "options": [
-        "Láska",
-        "Peníze",
-        "Pomsta",
-        "Vlast"
-      ],
+      "question": "Lakomec: Jaké je hlavní téma hry?",
+      "options": ["Láska, Peníze, Pomsta, Vlast"],
       "answer": "Peníze"
     },
     {
       "topic": "Lakomec – Molière",
-      "question": "Jaký literární žánr je Lakomec?",
-      "options": [
-        "Tragédie",
-        "Komedie",
-        "Epos",
-        "Novela"
-      ],
+      "question": "Lakomec: Jaký literární žánr je Lakomec?",
+      "options": ["Tragédie, Komedie, Epos, Novela"],
       "answer": "Komedie"
     },
     {
       "topic": "Lakomec – Molière",
-      "question": "Co Molière kritizuje v hře?",
-      "options": [
-        "Lakotu",
-        "Náboženství",
-        "Válku",
-        "Politiku"
-      ],
+      "question": "Lakomec: Co Molière kritizuje v hře?",
+      "options": ["Lakotu, Náboženství, Válku, Politiku"],
       "answer": "Lakotu"
     },
     {
       "topic": "Lakomec – Molière",
-      "question": "Kde se hra odehrává?",
-      "options": [
-        "Paříž",
-        "Londýn",
-        "Řím",
-        "Moskva"
-      ],
+      "question": "Lakomec: Kde se hra odehrává?",
+      "options": ["Paříž, Londýn, Řím, Moskva"],
       "answer": "Paříž"
     },
     {
       "topic": "Lakomec – Molière",
-      "question": "Jaký jazykový prostředek Molière používá?",
-      "options": [
-        "Sarkasmus",
-        "Rým",
-        "Alegorie",
-        "Eufemismus"
-      ],
+      "question": "Lakomec: Jaký jazykový prostředek Molière používá?",
+      "options": ["Sarkasmus, Rým, Alegorie, Eufemismus"],
       "answer": "Sarkasmus"
     },
     {
       "topic": "Lakomec – Molière",
-      "question": "Co je epizeuxis v hře?",
-      "options": [
-        "Opakování slova",
-        "Zjemnění výrazu",
-        "Přímá řeč",
-        "Personifikace"
-      ],
+      "question": "Lakomec: Co je epizeuxis v hře?",
+      "options": ["Opakování slova, Zjemnění výrazu, Přímá řeč, Personifikace"],
       "answer": "Opakování slova"
     },
     {
       "topic": "Lakomec – Molière",
-      "question": "Kdo je Eliška v příběhu?",
-      "options": [
-        "Harpagonova dcera",
-        "Harpagonova žena",
-        "Harpagonova služka",
-        "Harpagonova sestra"
-      ],
+      "question": "Lakomec: Kdo je Eliška v příběhu?",
+      "options": ["Harpagonova dcera, Harpagonova žena, Harpagonova služka, Harpagonova sestra"],
       "answer": "Harpagonova dcera"
     },
     {
       "topic": "Lakomec – Molière",
-      "question": "Jak končí hra?",
-      "options": [
-        "Harpagon zchudne",
-        "Svatby dvou párů",
-        "Harpagon uteče",
-        "Harpagon zemře"
-      ],
+      "question": "Lakomec: Jak končí hra?",
+      "options": ["Harpagon zchudne, Svatby dvou párů, Harpagon uteče, Harpagon zemře"],
       "answer": "Svatby dvou párů"
     },
     {
       "topic": "Lakomec – Molière",
-      "question": "Co symbolizuje pokladnice?",
-      "options": [
-        "Lásku",
-        "Lakotu",
-        "Moc",
-        "Svobodu"
-      ],
+      "question": "Lakomec: Co symbolizuje pokladnice?",
+      "options": ["Lásku, Lakotu, Moc, Svobodu"],
       "answer": "Lakotu"
     },
     {
       "topic": "Lakomec – Molière",
-      "question": "Jaký je časový rámec hry?",
-      "options": [
-        "17. století",
-        "18. století",
-        "19. století",
-        "20. století"
-      ],
+      "question": "Lakomec: Jaký je časový rámec hry?",
+      "options": ["17. století, 18. století, 19. století, 20. století"],
       "answer": "17. století"
     },
     {
       "topic": "Revizor – Nikolaj Vasiljevič Gogol",
-      "question": "Kdo je považován za revizora?",
-      "options": [
-        "Hejtman",
-        "Chlestakov",
-        "Osip",
-        "Poštmistr"
-      ],
+      "question": "Revizor: Kdo je považován za revizora?",
+      "options": ["Hejtman, Chlestakov, Osip, Poštmistr"],
       "answer": "Chlestakov"
     },
     {
       "topic": "Revizor – Nikolaj Vasiljevič Gogol",
-      "question": "Proč se měšťané bojí revizora?",
-      "options": [
-        "Berou úplatky",
-        "Chystají revoluci",
-        "Nemají peníze",
-        "Jsou nemocní"
-      ],
+      "question": "Revizor: Proč se měšťané bojí revizora?",
+      "options": ["Berou úplatky, Chystají revoluci, Nemají peníze, Jsou nemocní"],
       "answer": "Berou úplatky"
     },
     {
       "topic": "Revizor – Nikolaj Vasiljevič Gogol",
-      "question": "Co Chlestakov dělá, když pochopí omyl?",
-      "options": [
-        "Uteče",
-        "Využije situace",
-        "Přizná se",
-        "Zavolá stráže"
-      ],
+      "question": "Revizor: Co Chlestakov dělá, když pochopí omyl?",
+      "options": ["Uteče, Využije situace, Přizná se, Zavolá stráže"],
       "answer": "Využije situace"
     },
     {
       "topic": "Revizor – Nikolaj Vasiljevič Gogol",
-      "question": "Kdo odhalí Chlestakovův podvod?",
-      "options": [
-        "Hejtman",
-        "Poštmistr",
-        "Osip",
-        "Strážnik"
-      ],
+      "question": "Revizor: Kdo odhalí Chlestakovův podvod?",
+      "options": ["Hejtman, Poštmistr, Osip, Strážnik"],
       "answer": "Poštmistr"
     },
     {
       "topic": "Revizor – Nikolaj Vasiljevič Gogol",
-      "question": "Jaké je hlavní téma hry?",
-      "options": [
-        "Láska",
-        "Korupce",
-        "Válka",
-        "Náboženství"
-      ],
+      "question": "Revizor: Jaké je hlavní téma hry?",
+      "options": ["Láska, Korupce, Válka, Náboženství"],
       "answer": "Korupce"
     },
     {
       "topic": "Revizor – Nikolaj Vasiljevič Gogol",
-      "question": "Kde se hra odehrává?",
-      "options": [
-        "Petrohrad",
-        "Malé ruské město",
-        "Moskva",
-        "Kyjev"
-      ],
+      "question": "Revizor: Kde se hra odehrává?",
+      "options": ["Petrohrad, Malé ruské město, Moskva, Kyjev"],
       "answer": "Malé ruské město"
     },
     {
       "topic": "Revizor – Nikolaj Vasiljevič Gogol",
-      "question": "Jaký literární žánr je Revizor?",
-      "options": [
-        "Tragédie",
-        "Komedie",
-        "Epos",
-        "Novela"
-      ],
+      "question": "Revizor: Jaký literární žánr je Revizor?",
+      "options": ["Tragédie, Komedie, Epos, Novela"],
       "answer": "Komedie"
     },
     {
       "topic": "Revizor – Nikolaj Vasiljevič Gogol",
-      "question": "Co Gogol kritizuje v hře?",
-      "options": [
-        "Byrokracii",
-        "Náboženství",
-        "Vojsko",
-        "Umění"
-      ],
+      "question": "Revizor: Co Gogol kritizuje v hře?",
+      "options": ["Byrokracii, Náboženství, Vojsko, Umění"],
       "answer": "Byrokracii"
     },
     {
       "topic": "Revizor – Nikolaj Vasiljevič Gogol",
-      "question": "Kdo je Osip v příběhu?",
-      "options": [
-        "Hejtman",
-        "Chlestakovův sluha",
-        "Poštmistr",
-        "Statkář"
-      ],
+      "question": "Revizor: Kdo je Osip v příběhu?",
+      "options": ["Hejtman, Chlestakovův sluha, Poštmistr, Statkář"],
       "answer": "Chlestakovův sluha"
     },
     {
       "topic": "Revizor – Nikolaj Vasiljevič Gogol",
-      "question": "Co Chlestakov tvrdí o sobě?",
-      "options": [
-        "Je spisovatel",
-        "Je král",
-        "Je voják",
-        "Je lékař"
-      ],
+      "question": "Revizor: Co Chlestakov tvrdí o sobě?",
+      "options": ["Je spisovatel, Je král, Je voják, Je lékař"],
       "answer": "Je spisovatel"
     },
     {
       "topic": "Revizor – Nikolaj Vasiljevič Gogol",
-      "question": "Jaký jazykový prostředek Gogol používá?",
-      "options": [
-        "Hyperbola",
-        "Rým",
-        "Alegorie",
-        "Eufemismus"
-      ],
+      "question": "Revizor: Jaký jazykový prostředek Gogol používá?",
+      "options": ["Hyperbola, Rým, Alegorie, Eufemismus"],
       "answer": "Hyperbola"
     },
     {
       "topic": "Revizor – Nikolaj Vasiljevič Gogol",
-      "question": "Co se stane na konci hry?",
-      "options": [
-        "Přijede skutečný revizor",
-        "Chlestakov se vrátí",
-        "Hejtman zemře",
-        "Město zbohatne"
-      ],
+      "question": "Revizor: Co se stane na konci hry?",
+      "options": ["Přijede skutečný revizor, Chlestakov se vrátí, Hejtman zemře, Město zbohatne"],
       "answer": "Přijede skutečný revizor"
     },
     {
       "topic": "Revizor – Nikolaj Vasiljevič Gogol",
-      "question": "Jaký je časový rámec hry?",
-      "options": [
-        "18. století",
-        "19. století",
-        "20. století",
-        "17. století"
-      ],
+      "question": "Revizor: Jaký je časový rámec hry?",
+      "options": ["18. století, 19. století, 20. století, 17. století"],
       "answer": "19. století"
     },
     {
       "topic": "Revizor – Nikolaj Vasiljevič Gogol",
-      "question": "Kdo inspiruje Gogola?",
-      "options": [
-        "Puškin",
-        "Dostojevskij",
-        "Čechov",
-        "Tolstoj"
-      ],
+      "question": "Revizor: Kdo inspiruje Gogola?",
+      "options": ["Puškin, Dostojevskij, Čechov, Tolstoj"],
       "answer": "Puškin"
     },
     {
       "topic": "Revizor – Nikolaj Vasiljevič Gogol",
-      "question": "Co symbolizuje Chlestakovův podvod?",
-      "options": [
-        "Lásku",
-        "Korupci",
-        "Odpor",
-        "Moc"
-      ],
+      "question": "Revizor: Co symbolizuje Chlestakovův podvod?",
+      "options": ["Lásku, Korupci, Odpor, Moc"],
       "answer": "Korupci"
     },
     {
       "topic": "Bílá nemoc – Karel Čapek",
-      "question": "Co je bílá nemoc?",
-      "options": [
-        "Chřipka",
-        "Malomocenství",
-        "Rakovina",
-        "Cholera"
-      ],
+      "question": "Bílá nemoc: Co je bílá nemoc?",
+      "options": ["Chřipka, Malomocenství, Rakovina, Cholera"],
       "answer": "Malomocenství"
     },
     {
       "topic": "Bílá nemoc – Karel Čapek",
-      "question": "Koho postihuje bílá nemoc?",
-      "options": [
-        "Děti",
-        "Starší nad 40 let",
-        "Muže",
-        "Ženy"
-      ],
+      "question": "Bílá nemoc: Koho postihuje bílá nemoc?",
+      "options": ["Děti, Starší nad 40 let, Muže, Ženy"],
       "answer": "Starší nad 40 let"
     },
     {
       "topic": "Bílá nemoc – Karel Čapek",
-      "question": "Kdo objeví lék na bílou nemoc?",
-      "options": [
-        "Sigelius",
-        "Galén",
-        "Novinář",
-        "Asistent"
-      ],
+      "question": "Bílá nemoc: Kdo objeví lék na bílou nemoc?",
+      "options": ["Sigelius, Galén, Novinář, Asistent"],
       "answer": "Galén"
     },
     {
       "topic": "Bílá nemoc – Karel Čapek",
-      "question": "Proč Sigelius zpočátku Galénovi nevěří?",
-      "options": [
-        "Jeho nízké vzdělání",
-        "Jeho neznámý původ",
-        "Jeho chování",
-        "Jeho bohatství"
-      ],
+      "question": "Bílá nemoc: Proč Sigelius zpočátku Galénovi nevěří?",
+      "options": ["Jeho nízké vzdělání, Jeho neznámý původ, Jeho chování, Jeho bohatství"],
       "answer": "Jeho neznámý původ"
     },
     {
       "topic": "Bílá nemoc – Karel Čapek",
-      "question": "Co Galén odmítne léčit?",
-      "options": [
-        "Chudé pacienty",
-        "Sigeliova pacienta",
-        "Děti",
-        "Vojáky"
-      ],
+      "question": "Bílá nemoc: Co Galén odmítne léčit?",
+      "options": ["Chudé pacienty, Sigeliova pacienta, Děti, Vojáky"],
       "answer": "Sigeliova pacienta"
     },
     {
       "topic": "Bílá nemoc – Karel Čapek",
-      "question": "Jaké je hlavní téma hry?",
-      "options": [
-        "Láska",
-        "Morálka a válka",
-        "Bohatství",
-        "Umění"
-      ],
+      "question": "Bílá nemoc: Jaké je hlavní téma hry?",
+      "options": ["Láska, Morálka a válka, Bohatství, Umění"],
       "answer": "Morálka a válka"
     },
     {
       "topic": "Bílá nemoc – Karel Čapek",
-      "question": "Jaký literární žánr je Bílá nemoc?",
-      "options": [
-        "Komedie",
-        "Drama",
-        "Epos",
-        "Novela"
-      ],
+      "question": "Bílá nemoc: Jaký literární žánr je Bílá nemoc?",
+      "options": ["Komedie, Drama, Epos, Novela"],
       "answer": "Drama"
     },
     {
       "topic": "Bílá nemoc – Karel Čapek",
-      "question": "Co Čapek kritizuje v hře?",
-      "options": [
-        "Totalitu",
-        "Náboženství",
-        "Umění",
-        "Vědu"
-      ],
+      "question": "Bílá nemoc: Co Čapek kritizuje v hře?",
+      "options": ["Totalitu, Náboženství, Umění, Vědu"],
       "answer": "Totalitu"
     },
     {
       "topic": "Bílá nemoc – Karel Čapek",
-      "question": "Kde se hra odehrává?",
-      "options": [
-        "Nemocnice",
-        "Hrad",
-        "Město",
-        "Les"
-      ],
+      "question": "Bílá nemoc: Kde se hra odehrává?",
+      "options": ["Nemocnice, Hrad, Město, Les"],
       "answer": "Nemocnice"
     },
     {
       "topic": "Bílá nemoc – Karel Čapek",
-      "question": "Co symbolizuje bílá nemoc?",
-      "options": [
-        "Lásku",
-        "Strach z války",
-        "Bohatství",
-        "Smrt"
-      ],
+      "question": "Bílá nemoc: Co symbolizuje bílá nemoc?",
+      "options": ["Lásku, Strach z války, Bohatství, Smrt"],
       "answer": "Strach z války"
     },
     {
       "topic": "Bílá nemoc – Karel Čapek",
-      "question": "Jaký je časový rámec hry?",
-      "options": [
-        "19. století",
-        "20. století",
-        "18. století",
-        "17. století"
-      ],
+      "question": "Bílá nemoc: Jaký je časový rámec hry?",
+      "options": ["19. století, 20. století, 18. století, 17. století"],
       "answer": "20. století"
     },
     {
       "topic": "Bílá nemoc – Karel Čapek",
-      "question": "Kdo je Sigelius v příběhu?",
-      "options": [
-        "Lékař",
-        "Dvorní rada",
-        "Novinář",
-        "Pacient"
-      ],
+      "question": "Bílá nemoc: Kdo je Sigelius v příběhu?",
+      "options": ["Lékař, Dvorní rada, Novinář, Pacient"],
       "answer": "Dvorní rada"
     },
     {
       "topic": "Bílá nemoc – Karel Čapek",
-      "question": "Co asistent nabídne Sigeliovu pacientovi?",
-      "options": [
-        "Falešnou léčbu",
-        "Pravý lék",
-        "Operaci",
-        "Očkování"
-      ],
+      "question": "Bílá nemoc: Co asistent nabídne Sigeliovu pacientovi?",
+      "options": ["Falešnou léčbu, Pravý lék, Operaci, Očkování"],
       "answer": "Falešnou léčbu"
     },
     {
       "topic": "Bílá nemoc – Karel Čapek",
-      "question": "Jaký jazykový prostředek Čapek používá?",
-      "options": [
-        "Alegorie",
-        "Rým",
-        "Eufemismus",
-        "Hyperbola"
-      ],
+      "question": "Bílá nemoc: Jaký jazykový prostředek Čapek používá?",
+      "options": ["Alegorie, Rým, Eufemismus, Hyperbola"],
       "answer": "Alegorie"
     },
     {
       "topic": "Bílá nemoc – Karel Čapek",
-      "question": "Co ovlivňuje Čapkovu tvorbu?",
-      "options": [
-        "První světová válka",
-        "Druhá světová válka",
-        "Francouzská revoluce",
-        "Ruské revoluce"
-      ],
+      "question": "Bílá nemoc: Co ovlivňuje Čapkovu tvorbu?",
+      "options": ["První světová válka, Druhá světová válka, Francouzská revoluce, Ruské revoluce"],
       "answer": "Druhá světová válka"
     },
     {
       "topic": "Ostře sledované vlaky – Bohumil Hrabal",
-      "question": "Kdo je hlavní postavou knihy?",
-      "options": [
-        "Miloš Hrma",
-        "Hubička",
-        "Viktorka",
-        "Ladislav"
-      ],
+      "question": "Ostře sledované vlaky: Kdo je hlavní postavou knihy?",
+      "options": ["Miloš Hrma, Hubička, Viktorka, Ladislav"],
       "answer": "Miloš Hrma"
     },
     {
       "topic": "Ostře sledované vlaky – Bohumil Hrabal",
-      "question": "Co je Milošovým povoláním?",
-      "options": [
-        "Voják",
-        "Výpravčí",
-        "Lékař",
-        "Učitel"
-      ],
+      "question": "Ostře sledované vlaky: Co je Milošovým povoláním?",
+      "options": ["Voják, Výpravčí, Lékař, Učitel"],
       "answer": "Výpravčí"
     },
     {
       "topic": "Ostře sledované vlaky – Bohumil Hrabal",
-      "question": "Jaký je hlavní konflikt Miloše?",
-      "options": [
-        "Láska a odboj",
-        "Bohatství",
-        "Politika",
-        "Náboženství"
-      ],
+      "question": "Ostře sledované vlaky: Jaký je hlavní konflikt Miloše?",
+      "options": ["Láska a odboj, Bohatství, Politika, Náboženství"],
       "answer": "Láska a odboj"
     },
     {
       "topic": "Ostře sledované vlaky – Bohumil Hrabal",
-      "question": "Kdo je Viktorka v příběhu?",
-      "options": [
-        "Milošova milá",
-        "Milošova sestra",
-        "Německá vojačka",
-        "Milošova matka"
-      ],
+      "question": "Ostře sledované vlaky: Kdo je Viktorka v příběhu?",
+      "options": ["Milošova milá, Milošova sestra, Německá vojačka, Milošova matka"],
       "answer": "Milošova milá"
     },
     {
       "topic": "Ostře sledované vlaky – Bohumil Hrabal",
-      "question": "Co Miloš plánuje proti Němcům?",
-      "options": [
-        "Sábotáž vlaku",
-        "Útěk",
-        "Diplomacie",
-        "Vraždu"
-      ],
+      "question": "Ostře sledované vlaky: Co Miloš plánuje proti Němcům?",
+      "options": ["Sábotáž vlaku, Útěk, Diplomacie, Vraždu"],
       "answer": "Sábotáž vlaku"
     },
     {
       "topic": "Ostře sledované vlaky – Bohumil Hrabal",
-      "question": "Jaký osobní problém trápí Miloše?",
-      "options": [
-        "Strach z války",
-        "Neschopnost v lásce",
-        "Chudoba",
-        "Nemoc"
-      ],
+      "question": "Ostře sledované vlaky: Jaký osobní problém trápí Miloše?",
+      "options": ["Strach z války, Neschopnost v lásce, Chudoba, Nemoc"],
       "answer": "Neschopnost v lásce"
     },
     {
       "topic": "Ostře sledované vlaky – Bohumil Hrabal",
-      "question": "Co inspiruje Miloše k odboji?",
-      "options": [
-        "Láska k Viktorce",
-        "Hubičkovo chování",
-        "Německá krutost",
-        "Rodinná tradice"
-      ],
+      "question": "Ostře sledované vlaky: Co inspiruje Miloše k odboji?",
+      "options": ["Láska k Viktorce, Hubičkovo chování, Německá krutost, Rodinná tradice"],
       "answer": "Hubičkovo chování"
     },
     {
       "topic": "Ostře sledované vlaky – Bohumil Hrabal",
-      "question": "Jaký je význam postavy Máši?",
-      "options": [
-        "Milošova láska",
-        "Milošova nepřítelkyně",
-        "Německá špionka",
-        "Milošova šéfka"
-      ],
+      "question": "Ostře sledované vlaky: Jaký je význam postavy Máši?",
+      "options": ["Milošova láska, Milošova nepřítelkyně, Německá špionka, Milošova šéfka"],
       "answer": "Milošova láska"
     },
     {
       "topic": "Ostře sledované vlaky – Bohumil Hrabal",
-      "question": "Co symbolizuje Milošův pokus o sebevraždu?",
-      "options": [
-        "Zbabelost",
-        "Zoufalství",
-        "Hrdinství",
-        "Nenávist"
-      ],
+      "question": "Ostře sledované vlaky: Co symbolizuje Milošův pokus o sebevraždu?",
+      "options": ["Zbabelost, Zoufalství, Hrdinství, Nenávist"],
       "answer": "Zoufalství"
     },
     {
       "topic": "Ostře sledované vlaky – Bohumil Hrabal",
-      "question": "Jak Hrabal kombinuje humor a tragédii?",
-      "options": [
-        "Přeháněním válečných scén",
-        "Ironií v běžných situacích",
-        "Romantickými dialogy",
-        "Náboženskými motivy"
-      ],
+      "question": "Ostře sledované vlaky: Jak Hrabal kombinuje humor a tragédii?",
+      "options": ["Přeháněním válečných scén, Ironií v běžných situacích, Romantickými dialogy, Náboženskými motivy"],
       "answer": "Ironií v běžných situacích"
     },
     {
       "topic": "Ostře sledované vlaky – Bohumil Hrabal",
-      "question": "Co je role přednosty stanice?",
-      "options": [
-        "Milošův rádce",
-        "Komická postava",
-        "Německý kolaborant",
-        "Hlavní hrdina"
-      ],
+      "question": "Ostře sledované vlaky: Co je role přednosty stanice?",
+      "options": ["Milošův rádce, Komická postava, Německý kolaborant, Hlavní hrdina"],
       "answer": "Komická postava"
     },
     {
       "topic": "Ostře sledované vlaky – Bohumil Hrabal",
-      "question": "Jaký význam má nádraží v příběhu?",
-      "options": [
-        "Místo lásky",
-        "Symbol okupace",
-        "Místo odpočinku",
-        "Symbol bohatství"
-      ],
+      "question": "Ostře sledované vlaky: Jaký význam má nádraží v příběhu?",
+      "options": ["Místo lásky, Symbol okupace, Místo odpočinku, Symbol bohatství"],
       "answer": "Symbol okupace"
     },
     {
       "topic": "Ostře sledované vlaky – Bohumil Hrabal",
-      "question": "Jaký literární směr Hrabal reprezentuje?",
-      "options": [
-        "Romantismus",
-        "Realismus",
-        "Modernismus",
-        "Klasicismus"
-      ],
+      "question": "Ostře sledované vlaky: Jaký literární směr Hrabal reprezentuje?",
+      "options": ["Romantismus, Realismus, Modernismus, Klasicismus"],
       "answer": "Modernismus"
     },
     {
       "topic": "Ostře sledované vlaky – Bohumil Hrabal",
-      "question": "Co ovlivňuje Milošovo rozhodnutí sabotovat vlak?",
-      "options": [
-        "Touha po slávě",
-        "Ztráta Máši",
-        "Národní hrdost",
-        "Strach z trestu"
-      ],
+      "question": "Ostře sledované vlaky: Co ovlivňuje Milošovo rozhodnutí sabotovat vlak?",
+      "options": ["Touha po slávě, Ztráta Máši, Národní hrdost, Strach z trestu"],
       "answer": "Národní hrdost"
     },
     {
       "topic": "Ostře sledované vlaky – Bohumil Hrabal",
-      "question": "Jaký je tón závěru knihy?",
-      "options": [
-        "Optimistický",
-        "Tragický",
-        "Humorný",
-        "Romantický"
-      ],
+      "question": "Ostře sledované vlaky: Jaký je tón závěru knihy?",
+      "options": ["Optimistický, Tragický, Humorný, Romantický"],
       "answer": "Tragický"
     },
     {
       "topic": "Romeo, Julie a tma – Jan Otčenášek",
-      "question": "Kde se Pavel poprvé setká s Ester?",
-      "options": [
-        "V krejčovské dílně",
-        "V parku na lavičce",
-        "V terezínském transportu",
-        "V činžovním domě"
-      ],
+      "question": "Romeo, Julie a tma: Kde se Pavel poprvé setká s Ester?",
+      "options": ["V krejčovské dílně, V parku na lavičce, V terezínském transportu, V činžovním domě"],
       "answer": "V parku na lavičce"
     },
     {
       "topic": "Romeo, Julie a tma – Jan Otčenášek",
-      "question": "Proč Ester nenastoupí do terezínského transportu?",
-      "options": [
-        "Chce se přidat k odboji",
-        "Nemá odvahu",
-        "Je nemocná",
-        "Pavel ji přesvědčí"
-      ],
+      "question": "Romeo, Julie a tma: Proč Ester nenastoupí do terezínského transportu?",
+      "options": ["Chce se přidat k odboji, Nemá odvahu, Je nemocná, Pavel ji přesvědčí"],
       "answer": "Nemá odvahu"
     },
     {
       "topic": "Romeo, Julie a tma – Jan Otčenášek",
-      "question": "Kde Pavel ukrývá Ester?",
-      "options": [
-        "V podkroví svého domu",
-        "V otcově krejčovské dílně",
-        "V parku",
-        "V sousedním domě"
-      ],
+      "question": "Romeo, Julie a tma: Kde Pavel ukrývá Ester?",
+      "options": ["V podkroví svého domu, V otcově krejčovské dílně, V parku, V sousedním domě"],
       "answer": "V otcově krejčovské dílně"
     },
     {
       "topic": "Romeo, Julie a tma – Jan Otčenášek",
-      "question": "Co dělá Pavelův otec, když zjistí, že Pavel nosí jídlo Ester?",
-      "options": [
-        "Zakáže mu to",
-        "Přidá jídlo",
-        "Udá Ester",
-        "Ignoruje to"
-      ],
+      "question": "Romeo, Julie a tma: Co dělá Pavelův otec, když zjistí, že Pavel nosí jídlo Ester?",
+      "options": ["Zakáže mu to, Přidá jídlo, Udá Ester, Ignoruje to"],
       "answer": "Přidá jídlo"
     },
     {
       "topic": "Romeo, Julie a tma – Jan Otčenášek",
-      "question": "Kdo odhalí, že Pavel ukrývá Ester?",
-      "options": [
-        "Pavlova matka",
-        "Udavač Rejsek",
-        "Německá hlídka",
-        "Sousedi"
-      ],
+      "question": "Romeo, Julie a tma: Kdo odhalí, že Pavel ukrývá Ester?",
+      "options": ["Pavlova matka, Udavač Rejsek, Německá hlídka, Sousedi"],
       "answer": "Udavač Rejsek"
     },
     {
       "topic": "Romeo, Julie a tma – Jan Otčenášek",
-      "question": "Proč Ester utíká z úkrytu?",
-      "options": [
-        "Chce se vzdát Němcům",
-        "Bojí se o Pavlův život",
-        "Hledá rodinu",
-        "Není tam jídlo"
-      ],
+      "question": "Romeo, Julie a tma: Proč Ester utíká z úkrytu?",
+      "options": ["Chce se vzdát Němcům, Bojí se o Pavlův život, Hledá rodinu, Není tam jídlo"],
       "answer": "Bojí se o Pavlův život"
     },
     {
       "topic": "Romeo, Julie a tma – Jan Otčenášek",
-      "question": "Jaký je osud Ester na konci příběhu?",
-      "options": [
-        "Je zachráněna",
-        "Je zastřelena hlídkou",
-        "Odjíždí do Terezína",
-        "Zůstane v úkrytu"
-      ],
+      "question": "Romeo, Julie a tma: Jaký je osud Ester na konci příběhu?",
+      "options": ["Je zachráněna, Je zastřelena hlídkou, Odjíždí do Terezína, Zůstane v úkrytu"],
       "answer": "Je zastřelena hlídkou"
     },
     {
       "topic": "Romeo, Julie a tma – Jan Otčenášek",
-      "question": "Jaké je hlavní téma novely?",
-      "options": [
-        "Válečná strategie",
-        "Tragická láska",
-        "Sociální nerovnost",
-        "Náboženská víra"
-      ],
+      "question": "Romeo, Julie a tma: Jaké je hlavní téma novely?",
+      "options": ["Válečná strategie, Tragická láska, Sociální nerovnost, Náboženská víra"],
       "answer": "Tragická láska"
     },
     {
       "topic": "Romeo, Julie a tma – Jan Otčenášek",
-      "question": "Kde se příběh odehrává?",
-      "options": [
-        "Brno",
-        "Praha",
-        "Plzeň",
-        "Ostrava"
-      ],
+      "question": "Romeo, Julie a tma: Kde se příběh odehrává?",
+      "options": ["Brno, Praha, Plzeň, Ostrava"],
       "answer": "Praha"
     },
     {
       "topic": "Romeo, Julie a tma – Jan Otčenášek",
-      "question": "Jaký literární žánr představuje novela?",
-      "options": [
-        "Komedie",
-        "Novela",
-        "Drama",
-        "Epos"
-      ],
+      "question": "Romeo, Julie a tma: Jaký literární žánr představuje novela?",
+      "options": ["Komedie, Novela, Drama, Epos"],
       "answer": "Novela"
     },
     {
       "topic": "Romeo, Julie a tma – Jan Otčenášek",
-      "question": "Jaký motiv je v příběhu klíčový?",
-      "options": [
-        "Obětování",
-        "Bohatství",
-        "Pomsta",
-        "Cestování"
-      ],
+      "question": "Romeo, Julie a tma: Jaký motiv je v příběhu klíčový?",
+      "options": ["Obětování, Bohatství, Pomsta, Cestování"],
       "answer": "Obětování"
     },
     {
       "topic": "Romeo, Julie a tma – Jan Otčenášek",
-      "question": "Jaký je časový rámec příběhu?",
-      "options": [
-        "1942",
-        "1938",
-        "1945",
-        "1939"
-      ],
+      "question": "Romeo, Julie a tma: Jaký je časový rámec příběhu?",
+      "options": ["1942, 1938, 1945, 1939"],
       "answer": "1942"
     },
     {
       "topic": "Romeo, Julie a tma – Jan Otčenášek",
-      "question": "Jaký jazykový prostředek Otčenášek často používá?",
-      "options": [
-        "Ironie",
-        "Symbolismus",
-        "Hyperbola",
-        "Rým"
-      ],
+      "question": "Romeo, Julie a tma: Jaký jazykový prostředek Otčenášek často používá?",
+      "options": ["Ironie, Symbolismus, Hyperbola, Rým"],
       "answer": "Symbolismus"
     },
     {
       "topic": "Romeo, Julie a tma – Jan Otčenášek",
-      "question": "Co symbolizuje tma v názvu knihy?",
-      "options": [
-        "Lásku",
-        "Okupaci",
-        "Náboženství",
-        "Moc"
-      ],
+      "question": "Romeo, Julie a tma: Co symbolizuje tma v názvu knihy?",
+      "options": ["Lásku, Okupaci, Náboženství, Moc"],
       "answer": "Okupaci"
     },
     {
       "topic": "Romeo, Julie a tma – Jan Otčenášek",
-      "question": "Jaká je kompoziční výstavba příběhu?",
-      "options": [
-        "Nelineární",
-        "Chronologická",
-        "Epizodická",
-        "Cyklická"
-      ],
+      "question": "Romeo, Julie a tma: Jaká je kompoziční výstavba příběhu?",
+      "options": ["Nelineární, Chronologická, Epizodická, Cyklická"],
       "answer": "Chronologická"
     },
     {
       "topic": "Miláček – Guy de Maupassant",
-      "question": "Kdo je hlavní postavou románu?",
-      "options": [
-        "Georges Duroy",
-        "Charles Forestier",
-        "Madeleine",
-        "Clotilde"
-      ],
+      "question": "Miláček: Kdo je hlavní postavou románu?",
+      "options": ["Georges Duroy, Charles Forestier, Madeleine, Clotilde"],
       "answer": "Georges Duroy"
     },
     {
       "topic": "Miláček – Guy de Maupassant",
-      "question": "Jaké je povolání Georgese Duroye na začátku příběhu?",
-      "options": [
-        "Novinář",
-        "Úředník",
-        "Voják",
-        "Učitel"
-      ],
+      "question": "Miláček: Jaké je povolání Georgese Duroye na začátku příběhu?",
+      "options": ["Novinář, Úředník, Voják, Učitel"],
       "answer": "Úředník"
     },
     {
       "topic": "Miláček – Guy de Maupassant",
-      "question": "Co pomáhá Georgesovi stoupat po společenském žebříčku?",
-      "options": [
-        "Jeho vzdělání",
-        "Vztahy se ženami",
-        "Jeho bohatství",
-        "Jeho čestnost"
-      ],
+      "question": "Miláček: Co pomáhá Georgesovi stoupat po společenském žebříčku?",
+      "options": ["Jeho vzdělání, Vztahy se ženami, Jeho bohatství, Jeho čestnost"],
       "answer": "Vztahy se ženami"
     },
     {
       "topic": "Miláček – Guy de Maupassant",
-      "question": "Kdo pomůže Georgesovi získat práci v novinách?",
-      "options": [
-        "Madeleine",
-        "Forestier",
-        "Walter",
-        "Clotilde"
-      ],
+      "question": "Miláček: Kdo pomůže Georgesovi získat práci v novinách?",
+      "options": ["Madeleine, Forestier, Walter, Clotilde"],
       "answer": "Forestier"
     },
     {
       "topic": "Miláček – Guy de Maupassant",
-      "question": "Jaký je hlavní cíl Georgese Duroye?",
-      "options": [
-        "Láska",
-        "Moc a bohatství",
-        "Vzdělání",
-        "Pomoc druhým"
-      ],
+      "question": "Miláček: Jaký je hlavní cíl Georgese Duroye?",
+      "options": ["Láska, Moc a bohatství, Vzdělání, Pomoc druhým"],
       "answer": "Moc a bohatství"
     },
     {
       "topic": "Miláček – Guy de Maupassant",
-      "question": "Co Maupassant v románu kritizuje?",
-      "options": [
-        "Korupci a kariérismus",
-        "Náboženství",
-        "Válku",
-        "Umění"
-      ],
+      "question": "Miláček: Co Maupassant v románu kritizuje?",
+      "options": ["Korupci a kariérismus, Náboženství, Válku, Umění"],
       "answer": "Korupci a kariérismus"
     },
     {
       "topic": "Miláček – Guy de Maupassant",
-      "question": "Kde se román odehrává?",
-      "options": [
-        "Paříž",
-        "Londýn",
-        "Řím",
-        "Berlín"
-      ],
+      "question": "Miláček: Kde se román odehrává?",
+      "options": ["Paříž, Londýn, Řím, Berlín"],
       "answer": "Paříž"
     },
     {
       "topic": "Miláček – Guy de Maupassant",
-      "question": "Jaký literární směr román reprezentuje?",
-      "options": [
-        "Romantismus",
-        "Realismus",
-        "Modernismus",
-        "Klasicismus"
-      ],
+      "question": "Miláček: Jaký literární směr román reprezentuje?",
+      "options": ["Romantismus, Realismus, Modernismus, Klasicismus"],
       "answer": "Realismus"
     },
     {
       "topic": "Miláček – Guy de Maupassant",
-      "question": "Kdo je Madeleine v příběhu?",
-      "options": [
-        "Georgesova sestra",
-        "Forestierova žena",
-        "Georgesova dcera",
-        "Novinářka"
-      ],
+      "question": "Miláček: Kdo je Madeleine v příběhu?",
+      "options": ["Georgesova sestra, Forestierova žena, Georgesova dcera, Novinářka"],
       "answer": "Forestierova žena"
     },
     {
       "topic": "Miláček – Guy de Maupassant",
-      "question": "Jaký je časový rámec románu?",
-      "options": [
-        "18. století",
-        "19. století",
-        "20. století",
-        "17. století"
-      ],
+      "question": "Miláček: Jaký je časový rámec románu?",
+      "options": ["18. století, 19. století, 20. století, 17. století"],
       "answer": "19. století"
     },
     {
       "topic": "Miláček – Guy de Maupassant",
-      "question": "Co symbolizuje Georgesův vzestup?",
-      "options": [
-        "Lásku",
-        "Morální úpadek",
-        "Náboženství",
-        "Spravedlnost"
-      ],
+      "question": "Miláček: Co symbolizuje Georgesův vzestup?",
+      "options": ["Lásku, Morální úpadek, Náboženství, Spravedlnost"],
       "answer": "Morální úpadek"
     },
     {
       "topic": "Miláček – Guy de Maupassant",
-      "question": "Jaký jazykový prostředek Maupassant často používá?",
-      "options": [
-        "Ironie",
-        "Rým",
-        "Alegorie",
-        "Eufemismus"
-      ],
+      "question": "Miláček: Jaký jazykový prostředek Maupassant často používá?",
+      "options": ["Ironie, Rým, Alegorie, Eufemismus"],
       "answer": "Ironie"
     },
     {
       "topic": "Miláček – Guy de Maupassant",
-      "question": "Jak končí Georgesův příběh?",
-      "options": [
-        "Zchudne",
-        "Dosáhne bohatství",
-        "Je uvězněn",
-        "Odejde do kláštera"
-      ],
+      "question": "Miláček: Jak končí Georgesův příběh?",
+      "options": ["Zchudne, Dosáhne bohatství, Je uvězněn, Odejde do kláštera"],
       "answer": "Dosáhne bohatství"
     },
     {
       "topic": "Miláček – Guy de Maupassant",
-      "question": "Kdo je Clotilde v příběhu?",
-      "options": [
-        "Georgesova milenka",
-        "Jeho šéfová",
-        "Jeho matka",
-        "Jeho dcera"
-      ],
+      "question": "Miláček: Kdo je Clotilde v příběhu?",
+      "options": ["Georgesova milenka, Jeho šéfová, Jeho matka, Jeho dcera"],
       "answer": "Georgesova milenka"
     },
     {
       "topic": "Miláček – Guy de Maupassant",
-      "question": "Jaký je literární žánr románu?",
-      "options": [
-        "Novela",
-        "Román",
-        "Drama",
-        "Epos"
-      ],
+      "question": "Miláček: Jaký je literární žánr románu?",
+      "options": ["Novela, Román, Drama, Epos"],
       "answer": "Román"
     },
     {
       "topic": "Pianista – Władysław Szpilman",
-      "question": "Kde Szpilman žije na začátku příběhu?",
-      "options": [
-        "Malé ghetto",
-        "Velké ghetto",
-        "Árijská část",
-        "Venkov"
-      ],
+      "question": "Pianista: Kde Szpilman žije na začátku příběhu?",
+      "options": ["Malé ghetto, Velké ghetto, Árijská část, Venkov"],
       "answer": "Malé ghetto"
     },
     {
       "topic": "Pianista – Władysław Szpilman",
-      "question": "Co musí židé nosit podle německých nařízení?",
-      "options": [
-        "Červený šátek",
-        "Davidovu hvězdu",
-        "Modrý náramek",
-        "Žlutý plášť"
-      ],
+      "question": "Pianista: Co musí židé nosit podle německých nařízení?",
+      "options": ["Červený šátek, Davidovu hvězdu, Modrý náramek, Žlutý plášť"],
       "answer": "Davidovu hvězdu"
     },
     {
       "topic": "Pianista – Władysław Szpilman",
-      "question": "Kam jsou židé z ghetta deportováni?",
-      "options": [
-        "Umschlagplatz",
-        "Terezín",
-        "Auschwitz",
-        "Treblinka"
-      ],
+      "question": "Pianista: Kam jsou židé z ghetta deportováni?",
+      "options": ["Umschlagplatz, Terezín, Auschwitz, Treblinka"],
       "answer": "Umschlagplatz"
     },
     {
       "topic": "Pianista – Władysław Szpilman",
-      "question": "Jak Szpilman přežije válku?",
-      "options": [
-        "Ukrývá se",
-        "Přidá se k odboji",
-        "Uteče za hranice",
-        "Je chráněn Němci"
-      ],
+      "question": "Pianista: Jak Szpilman přežije válku?",
+      "options": ["Ukrývá se, Přidá se k odboji, Uteče za hranice, Je chráněn Němci"],
       "answer": "Ukrývá se"
     },
     {
       "topic": "Pianista – Władysław Szpilman",
-      "question": "Kdo pomůže Szpilmanovi přežít v úkrytu?",
-      "options": [
-        "Německý důstojník",
-        "Polský odbojář",
-        "Jeho bratr",
-        "Sousedi"
-      ],
+      "question": "Pianista: Kdo pomůže Szpilmanovi přežít v úkrytu?",
+      "options": ["Německý důstojník, Polský odbojář, Jeho bratr, Sousedi"],
       "answer": "Německý důstojník"
     },
     {
       "topic": "Pianista – Władysław Szpilman",
-      "question": "Jaké je hlavní téma knihy?",
-      "options": [
-        "Láska",
-        "Přežití holocaustu",
-        "Umění",
-        "Politika"
-      ],
+      "question": "Pianista: Jaké je hlavní téma knihy?",
+      "options": ["Láska, Přežití holocaustu, Umění, Politika"],
       "answer": "Přežití holocaustu"
     },
     {
       "topic": "Pianista – Władysław Szpilman",
-      "question": "Kde se příběh odehrává?",
-      "options": [
-        "Krakov",
-        "Varšava",
-        "Lodž",
-        "Gdansk"
-      ],
+      "question": "Pianista: Kde se příběh odehrává?",
+      "options": ["Krakov, Varšava, Lodž, Gdansk"],
       "answer": "Varšava"
     },
     {
       "topic": "Pianista – Władysław Szpilman",
-      "question": "Jaký je literární žánr knihy?",
-      "options": [
-        "Román",
-        "Memoáry",
-        "Novela",
-        "Drama"
-      ],
+      "question": "Pianista: Jaký je literární žánr knihy?",
+      "options": ["Román, Memoáry, Novela, Drama"],
       "answer": "Memoáry"
     },
     {
       "topic": "Pianista – Władysław Szpilman",
-      "question": "Co Szpilman dělá před válkou?",
-      "options": [
-        "Je učitel",
-        "Je hudebník",
-        "Je lékař",
-        "Je novinář"
-      ],
+      "question": "Pianista: Co Szpilman dělá před válkou?",
+      "options": ["Je učitel, Je hudebník, Je lékař, Je novinář"],
       "answer": "Je hudebník"
     },
     {
       "topic": "Pianista – Władysław Szpilman",
-      "question": "Jaký je časový rámec příběhu?",
-      "options": [
-        "1939–1945",
-        "1935–1940",
-        "1945–1950",
-        "1930–1935"
-      ],
+      "question": "Pianista: Jaký je časový rámec příběhu?",
+      "options": ["1939–1945, 1935–1940, 1945–1950, 1930–1935"],
       "answer": "1939–1945"
     },
     {
       "topic": "Pianista – Władysław Szpilman",
-      "question": "Co symbolizuje hudba v příběhu?",
-      "options": [
-        "Náboženství",
-        "Nádej",
-        "Moc",
-        "Pomsta"
-      ],
-      "answer": "Nádej"
+      "question": "Pianista: Co symbolizuje hudba v příběhu?",
+      "options": ["Náboženství, Naději, Moc, Pomstu"],
+      "answer": "Naději"
     },
     {
       "topic": "Pianista – Władysław Szpilman",
-      "question": "Jaký jazykový prostředek Szpilman používá?",
-      "options": [
-        "Ironie",
-        "Popisnost",
-        "Alegorie",
-        "Hyperbola"
-      ],
+      "question": "Pianista: Jaký jazykový prostředek Szpilman používá?",
+      "options": ["Ironie, Popisnost, Alegorie, Hyperbola"],
       "answer": "Popisnost"
     },
     {
       "topic": "Pianista – Władysław Szpilman",
-      "question": "Co odděluje ghetto od árijské části?",
-      "options": [
-        "Řeka",
-        "Zeď",
-        "Plot",
-        "Stráže"
-      ],
+      "question": "Pianista: Co odděluje ghetto od árijské části?",
+      "options": ["Řeka, Zeď, Plot, Stráže"],
       "answer": "Zeď"
     },
     {
       "topic": "Pianista – Władysław Szpilman",
-      "question": "Jaký je osud Szpilmanovy rodiny?",
-      "options": [
-        "Přežijí",
-        "Jsou deportováni",
-        "Utečou",
-        "Přidají se k odboji"
-      ],
+      "question": "Pianista: Jaký je osud Szpilmanovy rodiny?",
+      "options": ["Přežijí, Jsou deportováni, Utečou, Přidají se k odboji"],
       "answer": "Jsou deportováni"
+    },
+        {
+      "topic": "Pianista – Władysław Szpilman",
+      "question": "Pianista: Jak Szpilman popisuje život v ghettu?",
+      "options": ["Jako pohodlný, Jako krutý, Jako romantický, Jako dobrodružný"],
+      "answer": "Jako krutý"
     },
     {
       "topic": "Pianista – Władysław Szpilman",
-      "question": "Co Szpilman kritizuje v knize?",
-      "options": [
-        "Německou okupaci",
-        "Polskou vládu",
-        "Umění",
-        "Náboženství"
-      ],
-      "answer": "Německou okupaci"
+      "question": "Pianista: Jak Szpilman přežívá po varšavském povstání?",
+      "options": ["V ruinách města, V táboře, U přátel, V nemocnici"],
+      "answer": "V ruinách města"
     },
     {
+      "topic": "Pianista – Władysław Szpilman",
+      "question": "Pianista: Kdo je německý důstojník, který pomáhá Szpilmanovi?",
+      "options": ["Wilm Hosenfeld, Hans Frank, Heinrich Himmler, Adolf Eichmann"],
+      "answer": "Wilm Hosenfeld"
+    },
+    {
+      "topic": "Pianista – Władysław Szpilman",
+      "question": "Pianista: Jak Szpilman udržuje svou duševní rovnováhu?",
+      "options": ["Hraním na piano v duchu, Čtením knih, Psaním deníku, Malováním"],
+      "answer": "Hraním na piano v duchu"
+    },
+    {
+      "topic": "Pianista – Władysław Szpilman",
+      "question": "Pianista: Jaký je význam Szpilmanova setkání s Hosenfeldem?",
+      "options": ["Ukázka lidskosti, Politická dohoda, Náboženský akt, Finanční pomoc"],
+      "answer": "Ukázka lidskosti"
+    },
+    {
+      "topic": "Pianista – Władysław Szpilman",
+      "question": "Pianista: Jak končí Szpilmanův příběh?",
+      "options": ["Vrátí se k hudbě, Emigruje, Stane se vojákem, Zůstane v ústraní"],
+      "answer": "Vrátí se k hudbě"
+    },
+        {
       "topic": "1984 – George Orwell",
-      "question": "Kdo je hlavní postavou románu?",
-      "options": [
-        "Winston Smith",
-        "O’Brien",
-        "Julia",
-        "Velký Bratr"
-      ],
+      "question": "1984: Kdo je hlavní postavou románu?",
+      "options": ["Winston Smith, O’Brien, Julia, Velký Bratr"],
       "answer": "Winston Smith"
     },
     {
       "topic": "1984 – George Orwell",
-      "question": "Co Winston začíná psát proti Straně?",
-      "options": [
-        "Dopis",
-        "Deník",
-        "Manifest",
-        "Článek"
-      ],
+      "question": "1984: Co Winston začíná psát proti Straně?",
+      "options": ["Dopis, Deník, Manifest, Článek"],
       "answer": "Deník"
     },
     {
       "topic": "1984 – George Orwell",
-      "question": "Kdo sleduje občany v románu?",
-      "options": [
-        "Ideopolicie",
-        "Vojsko",
-        "Soudci",
-        "Sousedi"
-      ],
+      "question": "1984: Kdo sleduje občany v románu?",
+      "options": ["Ideopolicie, Vojsko, Soudci, Sousedi"],
       "answer": "Ideopolicie"
     },
     {
       "topic": "1984 – George Orwell",
-      "question": "Kdo je Julia v příběhu?",
-      "options": [
-        "Winstonova sestra",
-        "Winstonova milenka",
-        "Winstonova šéfka",
-        "Winstonova matka"
-      ],
+      "question": "1984: Kdo je Julia v příběhu?",
+      "options": ["Winstonova sestra, Winstonova milenka, Winstonova šéfka, Winstonova matka"],
       "answer": "Winstonova milenka"
     },
     {
       "topic": "1984 – George Orwell",
-      "question": "Co je hlavní téma románu?",
-      "options": [
-        "Láska",
-        "Totalita",
-        "Válka",
-        "Náboženství"
-      ],
+      "question": "1984: Co je hlavní téma románu?",
+      "options": ["Láska, Totalita, Válka, Náboženství"],
       "answer": "Totalita"
     },
     {
       "topic": "1984 – George Orwell",
-      "question": "Kde se Winston s Julií schází?",
-      "options": [
-        "V parku",
-        "V obchodě",
-        "V pronajaté místnosti",
-        "V chrámu"
-      ],
+      "question": "1984: Kde se Winston s Julií schází?",
+      "options": ["V parku, V obchodě, V pronajaté místnosti, V chrámu"],
       "answer": "V pronajaté místnosti"
     },
     {
       "topic": "1984 – George Orwell",
-      "question": "Kdo zradí Winstona a Julii?",
-      "options": [
-        "Velký Bratr",
-        "O’Brien",
-        "Starozitnik",
-        "Ideopolicie"
-      ],
+      "question": "1984: Kdo zradí Winstona a Julii?",
+      "options": ["Velký Bratr, O’Brien, Starozitnik, Ideopolicie"],
       "answer": "O’Brien"
     },
     {
       "topic": "1984 – George Orwell",
-      "question": "Jaký literární žánr je 1984?",
-      "options": [
-        "Komedie",
-        "Dystopie",
-        "Novela",
-        "Epos"
-      ],
+      "question": "1984: Jaký literární žánr je 1984?",
+      "options": ["Komedie, Dystopie, Novela, Epos"],
       "answer": "Dystopie"
     },
     {
       "topic": "1984 – George Orwell",
-      "question": "Co Orwell kritizuje v románu?",
-      "options": [
-        "Totalitní režimy",
-        "Náboženství",
-        "Umění",
-        "Ekonomiku"
-      ],
+      "question": "1984: Co Orwell kritizuje v románu?",
+      "options": ["Totalitní režimy, Náboženství, Umění, Ekonomiku"],
       "answer": "Totalitní režimy"
     },
     {
       "topic": "1984 – George Orwell",
-      "question": "Jaký je časový rámec příběhu?",
-      "options": [
-        "1984",
-        "1949",
-        "2000",
-        "1900"
-      ],
+      "question": "1984: Jaký je časový rámec příběhu?",
+      "options": ["1984, 1949, 2000, 1900"],
       "answer": "1984"
     },
     {
       "topic": "1984 – George Orwell",
-      "question": "Co symbolizuje Velký Bratr?",
-      "options": [
-        "Lásku",
-        "Dozor",
-        "Náboženství",
-        "Spravedlnost"
-      ],
+      "question": "1984: Co symbolizuje Velký Bratr?",
+      "options": ["Lásku, Dozor, Náboženství, Spravedlnost"],
       "answer": "Dozor"
     },
     {
       "topic": "1984 – George Orwell",
-      "question": "Jaký jazykový prostředek Orwell používá?",
-      "options": [
-        "Alegorie",
-        "Rým",
-        "Eufemismus",
-        "Personifikace"
-      ],
+      "question": "1984: Jaký jazykový prostředek Orwell používá?",
+      "options": ["Alegorie, Rým, Eufemismus, Personifikace"],
       "answer": "Alegorie"
     },
     {
       "topic": "1984 – George Orwell",
-      "question": "Co je účelem přepisování historie?",
-      "options": [
-        "Vzdělávání",
-        "Udržení moci Strany",
-        "Zábava",
-        "Ochrana lidí"
-      ],
+      "question": "1984: Co je účelem přepisování historie?",
+      "options": ["Vzdělávání, Udržení moci Strany, Zábava, Ochrana lidí"],
       "answer": "Udržení moci Strany"
     },
     {
       "topic": "1984 – George Orwell",
-      "question": "Jaký je osud Winstona na konci?",
-      "options": [
-        "Uteče",
-        "Je převychován",
-        "Stane se vůdcem",
-        "Zůstane v odboji"
-      ],
+      "question": "1984: Jaký je osud Winstona na konci?",
+      "options": ["Uteče, Je převychován, Stane se vůdcem, Zůstane v odboji"],
       "answer": "Je převychován"
     },
     {
       "topic": "1984 – George Orwell",
-      "question": "Kde se román odehrává?",
-      "options": [
-        "Londýn",
-        "New York",
-        "Moskva",
-        "Paříž"
-      ],
+      "question": "1984: Kde se román odehrává?",
+      "options": ["Londýn, New York, Moskva, Paříž"],
       "answer": "Londýn"
     },
     {
       "topic": "Spalovač mrtvol – Ladislav Fuks",
-      "question": "Kdo je hlavní postavou románu?",
-      "options": [
-        "Karel Kopfrkingl",
-        "Willi Reinke",
-        "Lakmé",
-        "Dvořák"
-      ],
+      "question": "Spalovač mrtvol: Kdo je hlavní postavou románu?",
+      "options": ["Karel Kopfrkingl, Willi Reinke, Lakmé, Dvořák"],
       "answer": "Karel Kopfrkingl"
     },
     {
       "topic": "Spalovač mrtvol – Ladislav Fuks",
-      "question": "Kde Kopfrkingl pracuje?",
-      "options": [
-        "V nemocnici",
-        "V krematoriu",
-        "V továrně",
-        "V úřadu"
-      ],
+      "question": "Spalovač mrtvol: Kde Kopfrkingl pracuje?",
+      "options": ["V nemocnici, V krematoriu, V továrně, V úřadu"],
       "answer": "V krematoriu"
     },
     {
       "topic": "Spalovač mrtvol – Ladislav Fuks",
-      "question": "Jak se Kopfrkingl mění pod vlivem nacismu?",
-      "options": [
-        "Stává se odbojářem",
-        "Ztrácí morálku",
-        "Pomáhá židům",
-        "Odmítá spolupracovat"
-      ],
+      "question": "Spalovač mrtvol: Jak se Kopfrkingl mění pod vlivem nacismu?",
+      "options": ["Stává se odbojářem, Ztrácí morálku, Pomáhá židům, Odmítá spolupracovat"],
       "answer": "Ztrácí morálku"
     },
     {
       "topic": "Spalovač mrtvol – Ladislav Fuks",
-      "question": "Kdo je Willi Reinke?",
-      "options": [
-        "Kopfrkinglův přítel",
-        "Jeho šéf",
-        "Jeho soused",
-        "Jeho syn"
-      ],
+      "question": "Spalovač mrtvol: Kdo je Willi Reinke?",
+      "options": ["Kopfrkinglův přítel, Jeho šéf, Jeho soused, Jeho syn"],
       "answer": "Kopfrkinglův přítel"
     },
     {
       "topic": "Spalovač mrtvol – Ladislav Fuks",
-      "question": "Co Kopfrkingl udělá se svou rodinou?",
-      "options": [
-        "Zachrání ji",
-        "Zradí ji",
-        "Ochrání ji",
-        "Opustí ji"
-      ],
+      "question": "Spalovač mrtvol: Co Kopfrkingl udělá se svou rodinou?",
+      "options": ["Zachrání ji, Zradí ji, Ochrání ji, Opustí ji"],
       "answer": "Zradí ji"
     },
     {
       "topic": "Spalovač mrtvol – Ladislav Fuks",
-      "question": "Jaké je hlavní téma románu?",
-      "options": [
-        "Láska",
-        "Zlo nacismu",
-        "Umění",
-        "Náboženství"
-      ],
+      "question": "Spalovač mrtvol: Jaké je hlavní téma románu?",
+      "options": ["Láska, Zlo nacismu, Umění, Náboženství"],
       "answer": "Zlo nacismu"
     },
     {
       "topic": "Spalovač mrtvol – Ladislav Fuks",
-      "question": "Kde se příběh odehrává?",
-      "options": [
-        "Brno",
-        "Praha",
-        "Plzeň",
-        "Ostrava"
-      ],
+      "question": "Spalovač mrtvol: Kde se příběh odehrává?",
+      "options": ["Brno, Praha, Plzeň, Ostrava"],
       "answer": "Praha"
     },
     {
       "topic": "Spalovač mrtvol – Ladislav Fuks",
-      "question": "Jaký literární žánr je román?",
-      "options": [
-        "Komedie",
-        "Psychologický román",
-        "Epos",
-        "Novela"
-      ],
+      "question": "Spalovač mrtvol: Jaký literární žánr je román?",
+      "options": ["Komedie, Psychologický román, Epos, Novela"],
       "answer": "Psychologický román"
     },
     {
       "topic": "Spalovač mrtvol – Ladislav Fuks",
-      "question": "Co Fuks kritizuje v románu?",
-      "options": [
-        "Nacismus",
-        "Kapitalismus",
-        "Náboženství",
-        "Umění"
-      ],
+      "question": "Spalovač mrtvol: Co Fuks kritizuje v románu?",
+      "options": ["Nacismus, Kapitalismus, Náboženství, Umění"],
       "answer": "Nacismus"
     },
     {
       "topic": "Spalovač mrtvol – Ladislav Fuks",
-      "question": "Jaký je časový rámec příběhu?",
-      "options": [
-        "1938–1945",
-        "1945–1950",
-        "1920–1930",
-        "1950–1960"
-      ],
+      "question": "Spalovač mrtvol: Jaký je časový rámec příběhu?",
+      "options": ["1938–1945, 1945–1950, 1920–1930, 1950–1960"],
       "answer": "1938–1945"
     },
     {
       "topic": "Spalovač mrtvol – Ladislav Fuks",
-      "question": "Co symbolizuje krematorium?",
-      "options": [
-        "Lásku",
-        "Zlo",
-        "Náboženství",
-        "Spravedlnost"
-      ],
+      "question": "Spalovač mrtvol: Co symbolizuje krematorium?",
+      "options": ["Lásku, Zlo, Náboženství, Spravedlnost"],
       "answer": "Zlo"
     },
     {
       "topic": "Spalovač mrtvol – Ladislav Fuks",
-      "question": "Jaký jazykový prostředek Fuks často používá?",
-      "options": [
-        "Ironie",
-        "Rým",
-        "Alegorie",
-        "Hyperbola"
-      ],
+      "question": "Spalovač mrtvol: Jaký jazykový prostředek Fuks často používá?",
+      "options": ["Ironie, Rým, Alegorie, Hyperbola"],
       "answer": "Ironie"
     },
     {
       "topic": "Spalovač mrtvol – Ladislav Fuks",
-      "question": "Kdo je Lakmé v příběhu?",
-      "options": [
-        "Kopfrkinglova žena",
-        "Jeho dcera",
-        "Jeho milenka",
-        "Jeho sestra"
-      ],
+      "question": "Spalovač mrtvol: Kdo je Lakmé v příběhu?",
+      "options": ["Kopfrkinglova žena, Jeho dcera, Jeho milenka, Jeho sestra"],
       "answer": "Kopfrkinglova žena"
     },
     {
       "topic": "Spalovač mrtvol – Ladislav Fuks",
-      "question": "Jaký je osud Kopfrkingla na konci?",
-      "options": [
-        "Je uvězněn",
-        "Spáchá sebevraždu",
-        "Pokračuje v práci",
-        "Uteče"
-      ],
+      "question": "Spalovač mrtvol: Jaký je osud Kopfrkingla na konci?",
+      "options": ["Je uvězněn, Spáchá sebevraždu, Pokračuje v práci, Uteče"],
       "answer": "Pokračuje v práci"
     },
     {
       "topic": "Spalovač mrtvol – Ladislav Fuks",
-      "question": "Co ovlivňuje Kopfrkinglovu proměnu?",
-      "options": [
-        "Láska",
-        "Nacistická ideologie",
-        "Rodinné vztahy",
-        "Ekonomická krize"
-      ],
+      "question": "Spalovač mrtvol: Co ovlivňuje Kopfrkinglovu proměnu?",
+      "options": ["Láska, Nacistická ideologie, Rodinné vztahy, Ekonomická krize"],
       "answer": "Nacistická ideologie"
     },
-        {
+    {
       "topic": "Kaligramy – Guillaume Apollinaire",
-      "question": "V jakém roce byla vydána sbírka Kaligramy?",
-      "options": [
-        "1914",
-        "1918",
-        "1920",
-        "1900"
-      ],
+      "question": "Kaligramy: V jakém roce byla vydána sbírka Kaligramy?",
+      "options": ["1914, 1918, 1920, 1900"],
       "answer": "1918"
     },
     {
       "topic": "Kaligramy – Guillaume Apollinaire",
-      "question": "Jaký je hlavní rys kaligramů?",
-      "options": [
-        "Rýmované verše",
-        "Typografické uspořádání do obrazců",
-        "Dlouhé epické básně",
-        "Pravidelný rytmus"
-      ],
+      "question": "Kaligramy: Jaký je hlavní rys kaligramů?",
+      "options": ["Rýmované verše, Typografické uspořádání do obrazců, Dlouhé epické básně, Pravidelný rytmus"],
       "answer": "Typografické uspořádání do obrazců"
     },
     {
       "topic": "Kaligramy – Guillaume Apollinaire",
-      "question": "Jaký literární směr Kaligramy reprezentují?",
-      "options": [
-        "Romantismus",
-        "Surrealismus",
-        "Kubismus",
-        "Realismus"
-      ],
+      "question": "Kaligramy: Jaký literární směr Kaligramy reprezentují?",
+      "options": ["Romantismus, Surrealismus, Kubismus, Realismus"],
       "answer": "Kubismus"
     },
     {
       "topic": "Kaligramy – Guillaume Apollinaire",
-      "question": "Jaké téma se často objevuje v Kaligramech?",
-      "options": [
-        "Válka",
-        "Náboženství",
-        "Historie",
-        "Politika"
-      ],
+      "question": "Kaligramy: Jaké téma se často objevuje v Kaligramech?",
+      "options": ["Válka, Náboženství, Historie, Politika"],
       "answer": "Válka"
     },
     {
       "topic": "Kaligramy – Guillaume Apollinaire",
-      "question": "Jaký jazykový prostředek Apollinaire často používá?",
-      "options": [
-        "Hovorové výrazy",
-        "Rým",
-        "Hyperbola",
-        "Personifikace"
-      ],
+      "question": "Kaligramy: Jaký jazykový prostředek Apollinaire často používá?",
+      "options": ["Hovorové výrazy, Rým, Hyperbola, Personifikace"],
       "answer": "Hovorové výrazy"
     },
     {
       "topic": "Kaligramy – Guillaume Apollinaire",
-      "question": "Co ovlivnilo Apollinairovo psaní Kaligramů?",
-      "options": [
-        "Průmyslová revoluce",
-        "První světová válka",
-        "Francouzská revoluce",
-        "Druhá světová válka"
-      ],
+      "question": "Kaligramy: Co ovlivnilo Apollinairovo psaní Kaligramů?",
+      "options": ["Průmyslová revoluce, První světová válka, Francouzská revoluce, Druhá světová válka"],
       "answer": "První světová válka"
     },
     {
       "topic": "Kaligramy – Guillaume Apollinaire",
-      "question": "Jaký je literární žánr Kaligramů?",
-      "options": [
-        "Epos",
-        "Básnická sbírka",
-        "Drama",
-        "Román"
-      ],
+      "question": "Kaligramy: Jaký je literární žánr Kaligramů?",
+      "options": ["Epos, Básnická sbírka, Drama, Román"],
       "answer": "Básnická sbírka"
     },
     {
       "topic": "Kaligramy – Guillaume Apollinaire",
-      "question": "Jaký motiv se objevuje v Kaligramech?",
-      "options": [
-        "Cestování",
-        "Láska",
-        "Bohatství",
-        "Pomsta"
-      ],
+      "question": "Kaligramy: Jaký motiv se objevuje v Kaligramech?",
+      "options": ["Cestování, Láska, Bohatství, Pomsta"],
       "answer": "Láska"
     },
     {
       "topic": "Kaligramy – Guillaume Apollinaire",
-      "question": "Kde Apollinaire publikoval své básně?",
-      "options": [
-        "Paříž",
-        "Londýn",
-        "Řím",
-        "Berlín"
-      ],
+      "question": "Kaligramy: Kde Apollinaire publikoval své básně?",
+      "options": ["Paříž, Londýn, Řím, Berlín"],
       "answer": "Paříž"
     },
     {
       "topic": "Kaligramy – Guillaume Apollinaire",
-      "question": "Jaký je časový rámec tvorby Kaligramů?",
-      "options": [
-        "1914–1918",
-        "1900–1905",
-        "1920–1925",
-        "1930–1935"
-      ],
+      "question": "Kaligramy: Jaký je časový rámec tvorby Kaligramů?",
+      "options": ["1914–1918, 1900–1905, 1920–1925, 1930–1935"],
       "answer": "1914–1918"
     },
     {
       "topic": "Kaligramy – Guillaume Apollinaire",
-      "question": "Co Apollinaire kritizuje ve svých básních?",
-      "options": [
-        "Válku",
-        "Náboženství",
-        "Kapitalismus",
-        "Umění"
-      ],
+      "question": "Kaligramy: Co Apollinaire kritizuje ve svých básních?",
+      "options": ["Válku, Náboženství, Kapitalismus, Umění"],
       "answer": "Válku"
     },
     {
       "topic": "Kaligramy – Guillaume Apollinaire",
-      "question": "Jaký je způsob vyprávění v Kaligramech?",
-      "options": [
-        "Ich-forma",
-        "Autorská řeč",
-        "Dialogy",
-        "Er-forma"
-      ],
+      "question": "Kaligramy: Jaký je způsob vyprávění v Kaligramech?",
+      "options": ["Ich-forma, Autorská řeč, Dialogy, Er-forma"],
       "answer": "Autorská řeč"
     },
     {
       "topic": "Kaligramy – Guillaume Apollinaire",
-      "question": "Co symbolizuje typografické uspořádání básní?",
-      "options": [
-        "Chaos války",
-        "Předmět básně",
-        "Náboženskou víru",
-        "Společenský řád"
-      ],
+      "question": "Kaligramy: Co symbolizuje typografické uspořádání básní?",
+      "options": ["Chaos války, Předmět básně, Náboženskou víru, Společenský řád"],
       "answer": "Předmět básně"
     },
     {
       "topic": "Kaligramy – Guillaume Apollinaire",
-      "question": "Jaký je Apollinairův styl psaní?",
-      "options": [
-        "Spisovný",
-        "Kombinace spisovného a nespisovného",
-        "Výhradně nespisovný",
-        "Archaismy"
-      ],
+      "question": "Kaligramy: Jaký je Apollinairův styl psaní?",
+      "options": ["Spisovný, Kombinace spisovného a nespisovného, Výhradně nespisovný, Archaismy"],
       "answer": "Kombinace spisovného a nespisovného"
     },
     {
       "topic": "Kaligramy – Guillaume Apollinaire",
-      "question": "Jaký kulturní kontext ovlivnil Kaligramy?",
-      "options": [
-        "Avantgarda",
-        "Baroko",
-        "Klasicismus",
-        "Romantismus"
-      ],
+      "question": "Kaligramy: Jaký kulturní kontext ovlivnil Kaligramy?",
+      "options": ["Avantgarda, Baroko, Klasicismus, Romantismus"],
       "answer": "Avantgarda"
     },
     {
       "topic": "Měsíce – Karel Toman",
-      "question": "V jakém roce byla vydána sbírka Měsíce?",
-      "options": [
-        "1903",
-        "1910",
-        "1920",
-        "1930"
-      ],
+      "question": "Měsíce: V jakém roce byla vydána sbírka Měsíce?",
+      "options": ["1903, 1910, 1920, 1930"],
       "answer": "1903"
     },
     {
       "topic": "Měsíce – Karel Toman",
-      "question": "Jaký je hlavní motiv sbírky Měsíce?",
-      "options": [
-        "Příroda",
-        "Válka",
-        "Náboženství",
-        "Technologie"
-      ],
+      "question": "Měsíce: Jaký je hlavní motiv sbírky Měsíce?",
+      "options": ["Příroda, Válka, Náboženství, Technologie"],
       "answer": "Příroda"
     },
     {
       "topic": "Měsíce – Karel Toman",
-      "question": "Jaký literární směr sbírka reprezentuje?",
-      "options": [
-        "Symbolismus",
-        "Realismus",
-        "Futurismus",
-        "Surrealismus"
-      ],
+      "question": "Měsíce: Jaký literární směr sbírka reprezentuje?",
+      "options": ["Symbolismus, Realismus, Futurismus, Surrealismus"],
       "answer": "Symbolismus"
     },
     {
       "topic": "Měsíce – Karel Toman",
-      "question": "Jaký je literární žánr sbírky?",
-      "options": [
-        "Román",
-        "Básnická sbírka",
-        "Drama",
-        "Epos"
-      ],
+      "question": "Měsíce: Jaký je literární žánr sbírky?",
+      "options": ["Román, Básnická sbírka, Drama, Epos"],
       "answer": "Básnická sbírka"
     },
     {
       "topic": "Měsíce – Karel Toman",
-      "question": "Co je typické pro Tomanovy básně v Měsících?",
-      "options": [
-        "Humor",
-        "Melancholie",
-        "Ironie",
-        "Satira"
-      ],
+      "question": "Měsíce: Co je typické pro Tomanovy básně v Měsících?",
+      "options": ["Humor, Melancholie, Ironie, Satira"],
       "answer": "Melancholie"
     },
     {
       "topic": "Měsíce – Karel Toman",
-      "question": "Jaký jazykový prostředek Toman často používá?",
-      "options": [
-        "Metafora",
-        "Hyperbola",
-        "Rým",
-        "Vulgarismy"
-      ],
+      "question": "Měsíce: Jaký jazykový prostředek Toman často používá?",
+      "options": ["Metafora, Hyperbola, Rým, Vulgarismy"],
       "answer": "Metafora"
     },
     {
       "topic": "Měsíce – Karel Toman",
-      "question": "Jaké téma se prolíná sbírkou?",
-      "options": [
-        "Láska",
-        "Politika",
-        "Válka",
-        "Náboženství"
-      ],
+      "question": "Měsíce: Jaké téma se prolíná sbírkou?",
+      "options": ["Láska, Politika, Válka, Náboženství"],
       "answer": "Láska"
     },
     {
       "topic": "Měsíce – Karel Toman",
-      "question": "Kde se Toman inspiroval pro své básně?",
-      "options": [
-        "Městský život",
-        "Venkovská krajina",
-        "Cestování",
-        "Historie"
-      ],
+      "question": "Měsíce: Kde se Toman inspiroval pro své básně?",
+      "options": ["Městský život, Venkovská krajina, Cestování, Historie"],
       "answer": "Venkovská krajina"
     },
     {
       "topic": "Měsíce – Karel Toman",
-      "question": "Jaký je časový rámec tvorby Měsíců?",
-      "options": [
-        "Konec 19. století",
-        "Začátek 20. století",
-        "Meziválečné období",
-        "Po druhé světové válce"
-      ],
+      "question": "Měsíce: Jaký je časový rámec tvorby Měsíců?",
+      "options": ["Konec 19. století, Začátek 20. století, Meziválečné období, Po druhé světové válce"],
       "answer": "Začátek 20. století"
     },
     {
       "topic": "Měsíce – Karel Toman",
-      "question": "Co Toman oslavuje ve svých básních?",
-      "options": [
-        "Průmysl",
-        "Přírodu",
-        "Válku",
-        "Město"
-      ],
+      "question": "Měsíce: Co Toman oslavuje ve svých básních?",
+      "options": ["Průmysl, Přírodu, Válku, Město"],
       "answer": "Přírodu"
     },
     {
       "topic": "Měsíce – Karel Toman",
-      "question": "Jaký je Tomanův styl psaní?",
-      "options": [
-        "Hovorový",
-        "Lyrický",
-        "Satirický",
-        "Epický"
-      ],
+      "question": "Měsíce: Jaký je Tomanův styl psaní?",
+      "options": ["Hovorový, Lyrický, Satirický, Epický"],
       "answer": "Lyrický"
     },
     {
       "topic": "Měsíce – Karel Toman",
-      "question": "Co symbolizuje měsíc v Tomanových básních?",
-      "options": [
-        "Válku",
-        "Melancholii",
-        "Bohatství",
-        "Spravedlnost"
-      ],
+      "question": "Měsíce: Co symbolizuje měsíc v Tomanových básních?",
+      "options": ["Válku, Melancholii, Bohatství, Spravedlnost"],
       "answer": "Melancholii"
     },
     {
       "topic": "Měsíce – Karel Toman",
-      "question": "Jaký je způsob vyprávění v Měsících?",
-      "options": [
-        "Ich-forma",
-        "Autorská řeč",
-        "Dialogy",
-        "Er-forma"
-      ],
+      "question": "Měsíce: Jaký je způsob vyprávění v Měsících?",
+      "options": ["Ich-forma, Autorská řeč, Dialogy, Er-forma"],
       "answer": "Ich-forma"
     },
     {
       "topic": "Měsíce – Karel Toman",
-      "question": "Jaký kulturní kontext ovlivnil Měsíce?",
-      "options": [
-        "Český modernismus",
-        "Baroko",
-        "Klasicismus",
-        "Avantgarda"
-      ],
+      "question": "Měsíce: Jaký kulturní kontext ovlivnil Měsíce?",
+      "options": ["Český modernismus, Baroko, Klasicismus, Avantgarda"],
       "answer": "Český modernismus"
     },
     {
       "topic": "Měsíce – Karel Toman",
-      "question": "Jaký je veršový styl sbírky?",
-      "options": [
-        "Volný verš",
-        "Rýmovaný verš",
-        "Epický verš",
-        "Kaligram"
-      ],
+      "question": "Měsíce: Jaký je veršový styl sbírky?",
+      "options": ["Volný verš, Rýmovaný verš, Epický verš, Kaligram"],
       "answer": "Rýmovaný verš"
     },
     {
       "topic": "Noc na Karlštejně – Jaroslav Vrchlický",
-      "question": "Kdo je hlavní postavou hry?",
-      "options": [
-        "Karel IV.",
-        "Alena",
-        "Petr",
-        "Eliška"
-      ],
+      "question": "Noc na Karlštejně: Kdo je hlavní postavou hry?",
+      "options": ["Karel IV., Alena, Petr, Eliška"],
       "answer": "Karel IV."
     },
     {
       "topic": "Noc na Karlštejně – Jaroslav Vrchlický",
-      "question": "Jaký je hlavní konflikt hry?",
-      "options": [
-        "Válka",
-        "Láska",
-        "Zákaz žen na hradě",
-        "Politické intriky"
-      ],
+      "question": "Noc na Karlštejně: Jaký je hlavní konflikt hry?",
+      "options": ["Válka, Láska, Zákaz žen na hradě, Politické intriky"],
       "answer": "Zákaz žen na hradě"
     },
     {
       "topic": "Noc na Karlštejně – Jaroslav Vrchlický",
-      "question": "Jaký literární žánr hra představuje?",
-      "options": [
-        "Tragédie",
-        "Komedie",
-        "Epos",
-        "Novela"
-      ],
+      "question": "Noc na Karlštejně: Jaký literární žánr hra představuje?",
+      "options": ["Tragédie, Komedie, Epos, Novela"],
       "answer": "Komedie"
     },
     {
       "topic": "Noc na Karlštejně – Jaroslav Vrchlický",
-      "question": "Kdo se převléká za muže, aby vstoupil na hrad?",
-      "options": [
-        "Eliška",
-        "Alena",
-        "Marie",
-        "Zuzana"
-      ],
+      "question": "Noc na Karlštejně: Kdo se převléká za muže, aby vstoupil na hrad?",
+      "options": ["Eliška, Alena, Marie, Zuzana"],
       "answer": "Alena"
     },
     {
       "topic": "Noc na Karlštejně – Jaroslav Vrchlický",
-      "question": "Jaký je časový rámec příběhu?",
-      "options": [
-        "14. století",
-        "16. století",
-        "18. století",
-        "19. století"
-      ],
+      "question": "Noc na Karlštejně: Jaký je časový rámec příběhu?",
+      "options": ["14. století, 16. století, 18. století, 19. století"],
       "answer": "14. století"
     },
     {
       "topic": "Noc na Karlštejně – Jaroslav Vrchlický",
-      "question": "Jaký literární směr hra reprezentuje?",
-      "options": [
-        "Romantismus",
-        "Realismus",
-        "Symbolismus",
-        "Klasicismus"
-      ],
+      "question": "Noc na Karlštejně: Jaký literární směr hra reprezentuje?",
+      "options": ["Romantismus, Realismus, Symbolismus, Klasicismus"],
       "answer": "Romantismus"
     },
     {
       "topic": "Noc na Karlštejně – Jaroslav Vrchlický",
-      "question": "Jaký jazykový prostředek Vrchlický často používá?",
-      "options": [
-        "Ironie",
-        "Metafora",
-        "Vulgarismy",
-        "Hyperbola"
-      ],
+      "question": "Noc na Karlštejně: Jaký jazykový prostředek Vrchlický často používá?",
+      "options": ["Ironie, Metafora, Vulgarismy, Hyperbola"],
       "answer": "Metafora"
     },
     {
       "topic": "Noc na Karlštejně – Jaroslav Vrchlický",
-      "question": "Kde se hra odehrává?",
-      "options": [
-        "Praha",
-        "Karlštejn",
-        "Kutná Hora",
-        "Český Krumlov"
-      ],
+      "question": "Noc na Karlštejně: Kde se hra odehrává?",
+      "options": ["Praha, Karlštejn, Kutná Hora, Český Krumlov"],
       "answer": "Karlštejn"
     },
     {
       "topic": "Noc na Karlštejně – Jaroslav Vrchlický",
-      "question": "Co je hlavní téma hry?",
-      "options": [
-        "Láska a čest",
-        "Válka",
-        "Náboženství",
-        "Politika"
-      ],
+      "question": "Noc na Karlštejně: Co je hlavní téma hry?",
+      "options": ["Láska a čest, Válka, Náboženství, Politika"],
       "answer": "Láska a čest"
     },
     {
       "topic": "Noc na Karlštejně – Jaroslav Vrchlický",
-      "question": "Kdo je Eliška v příběhu?",
-      "options": [
-        "Karelova manželka",
-        "Alenina sestra",
-        "Karelova dcera",
-        "Služebná"
-      ],
+      "question": "Noc na Karlštejně: Kdo je Eliška v příběhu?",
+      "options": ["Karelova manželka, Alenina sestra, Karelova dcera, Služebná"],
       "answer": "Karelova manželka"
     },
     {
       "topic": "Noc na Karlštejně – Jaroslav Vrchlický",
-      "question": "Jaký je závěr hry?",
-      "options": [
-        "Tragický",
-        "Šťastný",
-        "Otevřený",
-        "Ironický"
-      ],
+      "question": "Noc na Karlštejně: Jaký je závěr hry?",
+      "options": ["Tragický, Šťastný, Otevřený, Ironický"],
       "answer": "Šťastný"
     },
     {
       "topic": "Noc na Karlštejně – Jaroslav Vrchlický",
-      "question": "Co symbolizuje hrad Karlštejn?",
-      "options": [
-        "Lásku",
-        "Čest",
-        "Válku",
-        "Náboženství"
-      ],
+      "question": "Noc na Karlštejně: Co symbolizuje hrad Karlštejn?",
+      "options": ["Lásku, Čest, Válku, Náboženství"],
       "answer": "Čest"
     },
     {
       "topic": "Noc na Karlštejně – Jaroslav Vrchlický",
-      "question": "Jaký je styl psaní hry?",
-      "options": [
-        "Hovorový",
-        "Veršovaný",
-        "Satirický",
-        "Epický"
-      ],
+      "question": "Noc na Karlštejně: Jaký je styl psaní hry?",
+      "options": ["Hovorový, Veršovaný, Satirický, Epický"],
       "answer": "Veršovaný"
     },
     {
       "topic": "Noc na Karlštejně – Jaroslav Vrchlický",
-      "question": "Co Vrchlický oslavuje v díle?",
-      "options": [
-        "Historii",
-        "Přírodu",
-        "Válku",
-        "Modernitu"
-      ],
+      "question": "Noc na Karlštejně: Co Vrchlický oslavuje v díle?",
+      "options": ["Historii, Přírodu, Válku, Modernitu"],
       "answer": "Historii"
     },
     {
       "topic": "Noc na Karlštejně – Jaroslav Vrchlický",
-      "question": "Jaký kulturní kontext ovlivnil hru?",
-      "options": [
-        "Národní obrození",
-        "Avantgarda",
-        "Baroko",
-        "Modernismus"
-      ],
+      "question": "Noc na Karlštejně: Jaký kulturní kontext ovlivnil hru?",
+      "options": ["Národní obrození, Avantgarda, Baroko, Modernismus"],
       "answer": "Národní obrození"
     },
     {
       "topic": "Smrt krásných srnců – Ota Pavel",
-      "question": "Jaký je literární žánr knihy?",
-      "options": [
-        "Román",
-        "Povídková sbírka",
-        "Epos",
-        "Drama"
-      ],
+      "question": "Smrt krásných srnců: Jaký je literární žánr knihy?",
+      "options": ["Román, Povídková sbírka, Epos, Drama"],
       "answer": "Povídková sbírka"
     },
     {
       "topic": "Smrt krásných srnců – Ota Pavel",
-      "question": "Jaké je hlavní téma knihy?",
-      "options": [
-        "Válka",
-        "Rodinný život",
-        "Politika",
-        "Náboženství"
-      ],
+      "question": "Smrt krásných srnců: Jaké je hlavní téma knihy?",
+      "options": ["Válka, Rodinný život, Politika, Náboženství"],
       "answer": "Rodinný život"
     },
     {
       "topic": "Smrt krásných srnců – Ota Pavel",
-      "question": "Kdo je hlavní vypravěč povídek?",
-      "options": [
-        "Ota Pavel",
-        "Jeho otec",
-        "Jeho bratr",
-        "Jeho matka"
-      ],
+      "question": "Smrt krásných srnců: Kdo je hlavní vypravěč povídek?",
+      "options": ["Ota Pavel, Jeho otec, Jeho bratr, Jeho matka"],
       "answer": "Ota Pavel"
     },
     {
       "topic": "Smrt krásných srnců – Ota Pavel",
-      "question": "Jaký motiv se prolíná povídkami?",
-      "options": [
-        "Rybolov",
-        "Válka",
-        "Cestování",
-        "Bohatství"
-      ],
+      "question": "Smrt krásných srnců: Jaký motiv se prolíná povídkami?",
+      "options": ["Rybolov, Válka, Cestování, Bohatství"],
       "answer": "Rybolov"
     },
     {
       "topic": "Smrt krásných srnců – Ota Pavel",
-      "question": "Jaký je časový rámec příběhů?",
-      "options": [
-        "1930–1945",
-        "1950–1960",
-        "1900–1910",
-        "1970–1980"
-      ],
+      "question": "Smrt krásných srnců: Jaký je časový rámec příběhů?",
+      "options": ["1930–1945, 1950–1960, 1900–1910, 1970–1980"],
       "answer": "1930–1945"
     },
     {
       "topic": "Smrt krásných srnců – Ota Pavel",
-      "question": "Jaký literární směr kniha reprezentuje?",
-      "options": [
-        "Realismus",
-        "Surrealismus",
-        "Romantismus",
-        "Modernismus"
-      ],
+      "question": "Smrt krásných srnců: Jaký literární směr kniha reprezentuje?",
+      "options": ["Realismus, Surrealismus, Romantismus, Modernismus"],
       "answer": "Realismus"
     },
     {
       "topic": "Smrt krásných srnců – Ota Pavel",
-      "question": "Jaký jazykový prostředek Pavel často používá?",
-      "options": [
-        "Humor",
-        "Ironie",
-        "Vulgarismy",
-        "Alegorie"
-      ],
+      "question": "Smrt krásných srnců: Jaký jazykový prostředek Pavel často používá?",
+      "options": ["Humor, Ironie, Vulgarismy, Alegorie"],
       "answer": "Humor"
     },
     {
       "topic": "Smrt krásných srnců – Ota Pavel",
-      "question": "Kde se povídky odehrávají?",
-      "options": [
-        "Praha a Berounsko",
-        "Brno",
-        "Plzeň",
-        "Ostrava"
-      ],
+      "question": "Smrt krásných srnců: Kde se povídky odehrávají?",
+      "options": ["Praha a Berounsko, Brno, Plzeň, Ostrava"],
       "answer": "Praha a Berounsko"
     },
     {
       "topic": "Smrt krásných srnců – Ota Pavel",
-      "question": "Co symbolizují krásní srnci?",
-      "options": [
-        "Lásku",
-        "Ztrátu nevinnosti",
-        "Bohatství",
-        "Válku"
-      ],
+      "question": "Smrt krásných srnců: Co symbolizují krásní srnci?",
+      "options": ["Lásku, Ztrátu nevinnosti, Bohatství, Válku"],
       "answer": "Ztrátu nevinnosti"
     },
     {
       "topic": "Smrt krásných srnců – Ota Pavel",
-      "question": "Co ovlivnilo Pavlovo psaní?",
-      "options": [
-        "Druhá světová válka",
-        "Průmyslová revoluce",
-        "Národní obrození",
-        "Avantgarda"
-      ],
+      "question": "Smrt krásných srnců: Co ovlivnilo Pavlovo psaní?",
+      "options": ["Druhá světová válka, Průmyslová revoluce, Národní obrození, Avantgarda"],
       "answer": "Druhá světová válka"
     },
     {
       "topic": "Smrt krásných srnců – Ota Pavel",
-      "question": "Jaký je styl psaní povídek?",
-      "options": [
-        "Hovorový",
-        "Epický",
-        "Satirický",
-        "Symbolický"
-      ],
+      "question": "Smrt krásných srnců: Jaký je styl psaní povídek?",
+      "options": ["Hovorový, Epický, Satirický, Symbolický"],
       "answer": "Hovorový"
     },
     {
       "topic": "Smrt krásných srnců – Ota Pavel",
-      "question": "Co Pavel kritizuje v knize?",
-      "options": [
-        "Nacismus",
-        "Kapitalismus",
-        "Náboženství",
-        "Umění"
-      ],
+      "question": "Smrt krásných srnců: Co Pavel kritizuje v knize?",
+      "options": ["Nacismus, Kapitalismus, Náboženství, Umění"],
       "answer": "Nacismus"
     },
     {
       "topic": "Smrt krásných srnců – Ota Pavel",
-      "question": "Kdo je otec v povídkách?",
-      "options": [
-        "Leo Popper",
-        "Jan Pavel",
-        "Karel Prošek",
-        "František Novák"
-      ],
+      "question": "Smrt krásných srnců: Kdo je otec v povídkách?",
+      "options": ["Leo Popper, Jan Pavel, Karel Prošek, František Novák"],
       "answer": "Leo Popper"
     },
     {
       "topic": "Smrt krásných srnců – Ota Pavel",
-      "question": "Jaký je osud rodiny během války?",
-      "options": [
-        "Uteče",
-        "Je deportována",
-        "Přežije",
-        "Přidá se k odboji"
-      ],
+      "question": "Smrt krásných srnců: Jaký je osud rodiny během války?",
+      "options": ["Uteče, Je deportována, Přežije, Přidá se k odboji"],
       "answer": "Je deportována"
     },
     {
       "topic": "Smrt krásných srnců – Ota Pavel",
-      "question": "Jaký kulturní kontext ovlivnil knihu?",
-      "options": [
-        "Česká literatura 20. století",
-        "Baroko",
-        "Klasicismus",
-        "Romantismus"
-      ],
+      "question": "Smrt krásných srnců: Jaký kulturní kontext ovlivnil knihu?",
+      "options": ["Česká literatura 20. století, Baroko, Klasicismus, Romantismus"],
       "answer": "Česká literatura 20. století"
     },
     {
       "topic": "Petr a Lucie – Romain Rolland",
-      "question": "Kdo je hlavní postavou novely?",
-      "options": [
-        "Petr Aubier",
-        "Lucie Dumont",
-        "Petrův otec",
-        "Petrův bratr"
-      ],
+      "question": "Petr a Lucie: Kdo je hlavní postavou novely?",
+      "options": ["Petr Aubier, Lucie Dumont, Petrův otec, Petrův bratr"],
       "answer": "Petr Aubier"
     },
     {
       "topic": "Petr a Lucie – Romain Rolland",
-      "question": "Kde se Petr poprvé setká s Lucií?",
-      "options": [
-        "V parku",
-        "V podzemní dráze",
-        "V kavárně",
-        "Na ulici"
-      ],
+      "question": "Petr a Lucie: Kde se Petr poprvé setká s Lucií?",
+      "options": ["V parku, V podzemní dráze, V kavárně, Na ulici"],
       "answer": "V podzemní dráze"
     },
     {
       "topic": "Petr a Lucie – Romain Rolland",
-      "question": "Jaké je hlavní téma novely?",
-      "options": [
-        "Válka",
-        "Tragická láska",
-        "Politika",
-        "Náboženství"
-      ],
+      "question": "Petr a Lucie: Jaké je hlavní téma novely?",
+      "options": ["Válka, Tragická láska, Politika, Náboženství"],
       "answer": "Tragická láska"
     },
     {
       "topic": "Petr a Lucie – Romain Rolland",
-      "question": "Jaký je literární žánr díla?",
-      "options": [
-        "Román",
-        "Novela",
-        "Drama",
-        "Epos"
-      ],
+      "question": "Petr a Lucie: Jaký je literární žánr díla?",
+      "options": ["Román, Novela, Drama, Epos"],
       "answer": "Novela"
     },
     {
       "topic": "Petr a Lucie – Romain Rolland",
-      "question": "Kde se příběh odehrává?",
-      "options": [
-        "Paříž",
-        "Londýn",
-        "Řím",
-        "Berlín"
-      ],
+      "question": "Petr a Lucie: Kde se příběh odehrává?",
+      "options": ["Paříž, Londýn, Řím, Berlín"],
       "answer": "Paříž"
     },
     {
       "topic": "Petr a Lucie – Romain Rolland",
-      "question": "Jaký je časový rámec příběhu?",
-      "options": [
-        "1918",
-        "1900",
-        "1930",
-        "1945"
-      ],
+      "question": "Petr a Lucie: Jaký je časový rámec příběhu?",
+      "options": ["1918, 1900, 1930, 1945"],
       "answer": "1918"
     },
     {
       "topic": "Petr a Lucie – Romain Rolland",
-      "question": "Co Petr kritizuje v příběhu?",
-      "options": [
-        "Válku",
-        "Náboženství",
-        "Kapitalismus",
-        "Umění"
-      ],
+      "question": "Petr a Lucie: Co Petr kritizuje v příběhu?",
+      "options": ["Válku, Náboženství, Kapitalismus, Umění"],
       "answer": "Válku"
     },
     {
       "topic": "Petr a Lucie – Romain Rolland",
-      "question": "Jaký literární směr novela reprezentuje?",
-      "options": [
-        "Realismus",
-        "Romantismus",
-        "Surrealismus",
-        "Modernismus"
-      ],
+      "question": "Petr a Lucie: Jaký literární směr novela reprezentuje?",
+      "options": ["Realismus, Romantismus, Surrealismus, Modernismus"],
       "answer": "Realismus"
     },
     {
       "topic": "Petr a Lucie – Romain Rolland",
-      "question": "Jaký jazykový prostředek Rolland často používá?",
-      "options": [
-        "Symbolismus",
-        "Ironie",
-        "Humor",
-        "Vulgarismy"
-      ],
+      "question": "Petr a Lucie: Jaký jazykový prostředek Rolland často používá?",
+      "options": ["Symbolismus, Ironie, Humor, Vulgarismy"],
       "answer": "Symbolismus"
     },
     {
       "topic": "Petr a Lucie – Romain Rolland",
-      "question": "Co se stane během náletu na Paříž?",
-      "options": [
-        "Petr uteče",
-        "Petr a Lucie se setkají",
-        "Petr je zraněn",
-        "Lucie odjíždí"
-      ],
+      "question": "Petr a Lucie: Co se stane během náletu na Paříž?",
+      "options": ["Petr uteče, Petr a Lucie se setkají, Petr je zraněn, Lucie odjíždí"],
       "answer": "Petr a Lucie se setkají"
     },
     {
       "topic": "Petr a Lucie – Romain Rolland",
-      "question": "Jaký je osud Petra a Lucie?",
-      "options": [
-        "Přežijí",
-        "Zemřou při náletu",
-        "Rozdělí se",
-        "Utečou z Paříže"
-      ],
+      "question": "Petr a Lucie: Jaký je osud Petra a Lucie?",
+      "options": ["Přežijí, Zemřou při náletu, Rozdělí se, Utečou z Paříže"],
       "answer": "Zemřou při náletu"
     },
     {
       "topic": "Petr a Lucie – Romain Rolland",
-      "question": "Co symbolizuje jejich láska?",
-      "options": [
-        "Nádej",
-        "Ztrátu",
-        "Válku",
-        "Bohatství"
-      ],
+      "question": "Petr a Lucie: Co symbolizuje jejich láska?",
+      "options": ["Nádej, Ztrátu, Válku, Bohatství"],
       "answer": "Nádej"
     },
     {
       "topic": "Petr a Lucie – Romain Rolland",
-      "question": "Jaký je styl psaní novely?",
-      "options": [
-        "Hovorový",
-        "Lyrický",
-        "Satirický",
-        "Epický"
-      ],
+      "question": "Petr a Lucie: Jaký je styl psaní novely?",
+      "options": ["Hovorový, Lyrický, Satirický, Epický"],
       "answer": "Lyrický"
     },
     {
       "topic": "Petr a Lucie – Romain Rolland",
-      "question": "Co ovlivnilo Rollandovo psaní?",
-      "options": [
-        "První světová válka",
-        "Francouzská revoluce",
-        "Druhá světová válka",
-        "Průmyslová revoluce"
-      ],
+      "question": "Petr a Lucie: Co ovlivnilo Rollandovo psaní?",
+      "options": ["První světová válka, Francouzská revoluce, Druhá světová válka, Průmyslová revoluce"],
       "answer": "První světová válka"
     },
     {
       "topic": "Petr a Lucie – Romain Rolland",
-      "question": "Jaký kulturní kontext ovlivnil novelu?",
-      "options": [
-        "Evropská literatura 20. století",
-        "Baroko",
-        "Klasicismus",
-        "Romantismus"
-      ],
+      "question": "Petr a Lucie: Jaký kulturní kontext ovlivnil novelu?",
+      "options": ["Evropská literatura 20. století, Baroko, Klasicismus, Romantismus"],
       "answer": "Evropská literatura 20. století"
     }
 ]
