@@ -823,5 +823,830 @@
         "Jeho konec"
       ],
       "answer": "Jeho zbytečnost"
+    },
+        {
+      "topic": "Krysař – Viktor Dyk",
+      "question": "Proč Krysař přichází do města Hammeln?",
+      "options": [
+        "Hledat lásku",
+        "Vyhánět krysy",
+        "Založit rodinu",
+        "Ukrást poklad"
+      ],
+      "answer": "Vyhánět krysy"
+    },
+    {
+      "topic": "Krysař – Viktor Dyk",
+      "question": "Co způsobí, že měšťané odmítnou Krysaři zaplatit?",
+      "options": [
+        "Jeho láska k Agnes",
+        "Jeho podvod",
+        "Jejich lakota",
+        "Jeho odjezd"
+      ],
+      "answer": "Jejich lakota"
+    },
+    {
+      "topic": "Krysař – Viktor Dyk",
+      "question": "Kdo je Agnes v příběhu?",
+      "options": [
+        "Krysařova sestra",
+        "Krysařova milá",
+        "Městská konšelka",
+        "Rybářova dcera"
+      ],
+      "answer": "Krysařova milá"
+    },
+    {
+      "topic": "Krysař – Viktor Dyk",
+      "question": "Co se stane s Agnes po návratu Kristiána?",
+      "options": [
+        "Skočí do propasti",
+        "Odejde s Krysařem",
+        "Vezme si Kristiána",
+        "Stane se královnou"
+      ],
+      "answer": "Skočí do propasti"
+    },
+    {
+      "topic": "Krysař – Viktor Dyk",
+      "question": "Jak Krysař potrestá měšťany?",
+      "options": [
+        "Ukradne jejich peníze",
+        "Spálí město",
+        "Přiláká je píšťalou",
+        "Zavolá vojsko"
+      ],
+      "answer": "Přiláká je píšťalou"
+    },
+    {
+      "topic": "Krysař – Viktor Dyk",
+      "question": "Kdo jediný přežije Krysařovu pomstu?",
+      "options": [
+        "Agnes",
+        "Kristián",
+        "Sepp Jörgen",
+        "Městský konšel"
+      ],
+      "answer": "Sepp Jörgen"
+    },
+    {
+      "topic": "Krysař – Viktor Dyk",
+      "question": "Proč na Seppa Jörgena nepůsobí píšťala?",
+      "options": [
+        "Slyší pláč dítěte",
+        "Je hluchý",
+        "Je mimo město",
+        "Má kouzlo"
+      ],
+      "answer": "Slyší pláč dítěte"
+    },
+    {
+      "topic": "Krysař – Viktor Dyk",
+      "question": "Jaké je hlavní téma novely?",
+      "options": [
+        "Bohatství a moc",
+        "Láska a smysl života",
+        "Válka a mír",
+        "Náboženství"
+      ],
+      "answer": "Láska a smysl života"
+    },
+    {
+      "topic": "Krysař – Viktor Dyk",
+      "question": "Jaký literární žánr představuje Krysař?",
+      "options": [
+        "Drama",
+        "Novela",
+        "Báseň",
+        "Komedie"
+      ],
+      "answer": "Novela"
+    },
+    {
+      "topic": "Krysař – Viktor Dyk",
+      "question": "Co kritizuje Dyk v příběhu?",
+      "options": [
+        "Měšťanskou morálku",
+        "Královskou moc",
+        "Náboženskou víru",
+        "Vojenskou strategii"
+      ],
+      "answer": "Měšťanskou morálku"
+    },
+    {
+      "topic": "Krysař – Viktor Dyk",
+      "question": "Jaký jazykový prostředek Dyk často používá?",
+      "options": [
+        "Personifikace",
+        "Rým",
+        "Alegorie",
+        "Eufemismus"
+      ],
+      "answer": "Personifikace"
+    },
+    {
+      "topic": "Krysař – Viktor Dyk",
+      "question": "Kde se příběh odehrává?",
+      "options": [
+        "Paříž",
+        "Hammeln",
+        "Petrohrad",
+        "Praha"
+      ],
+      "answer": "Hammeln"
+    },
+    {
+      "topic": "Krysař – Viktor Dyk",
+      "question": "Co symbolizuje píšťala v příběhu?",
+      "options": [
+        "Lásku",
+        "Pomstu",
+        "Bohatství",
+        "Moc"
+      ],
+      "answer": "Pomstu"
+    },
+    {
+      "topic": "Krysař – Viktor Dyk",
+      "question": "Jaký je časový rámec příběhu?",
+      "options": [
+        "Středověk",
+        "19. století",
+        "Renesance",
+        "20. století"
+      ],
+      "answer": "Středověk"
+    },
+    {
+      "topic": "Krysař – Viktor Dyk",
+      "question": "Jak ovlivnil Dykovu tvorbu Masaryk?",
+      "options": [
+        "Učil ho práva",
+        "Pomohl mu s odchodem",
+        "Psal s ním novely",
+        "Financoval jeho díla"
+      ],
+      "answer": "Pomohl mu s odchodem"
+    },
+    {
+      "topic": "Lakomec – Molière",
+      "question": "Kdo je hlavní postavou Lakomce?",
+      "options": [
+        "Kleant",
+        "Harpagon",
+        "Valér",
+        "Anselm"
+      ],
+      "answer": "Harpagon"
+    },
+    {
+      "topic": "Lakomec – Molière",
+      "question": "Co chce Harpagon s Marianou?",
+      "options": [
+        "Vzít si ji",
+        "Provdat ji za Valéra",
+        "Zaměstnat ji",
+        "Vyhnat ji"
+      ],
+      "answer": "Vzít si ji"
+    },
+    {
+      "topic": "Lakomec – Molière",
+      "question": "Kdo je lichvářem v příběhu?",
+      "options": [
+        "Čipera",
+        "Harpagon",
+        "Anselm",
+        "Kleant"
+      ],
+      "answer": "Harpagon"
+    },
+    {
+      "topic": "Lakomec – Molière",
+      "question": "Co udělá Čipera s Harpagonovou pokladnicí?",
+      "options": [
+        "Schová ji",
+        "Ukradne ji",
+        "Prodej ji",
+        "Rozdá ji"
+      ],
+      "answer": "Schová ji"
+    },
+    {
+      "topic": "Lakomec – Molière",
+      "question": "Kdo je otcem Valéra a Mariany?",
+      "options": [
+        "Harpagon",
+        "Anselm",
+        "Čipera",
+        "Kleant"
+      ],
+      "answer": "Anselm"
+    },
+    {
+      "topic": "Lakomec – Molière",
+      "question": "Jaké je hlavní téma hry?",
+      "options": [
+        "Láska",
+        "Peníze",
+        "Pomsta",
+        "Vlast"
+      ],
+      "answer": "Peníze"
+    },
+    {
+      "topic": "Lakomec – Molière",
+      "question": "Jaký literární žánr je Lakomec?",
+      "options": [
+        "Tragédie",
+        "Komedie",
+        "Epos",
+        "Novela"
+      ],
+      "answer": "Komedie"
+    },
+    {
+      "topic": "Lakomec – Molière",
+      "question": "Co Molière kritizuje v hře?",
+      "options": [
+        "Lakotu",
+        "Náboženství",
+        "Válku",
+        "Politiku"
+      ],
+      "answer": "Lakotu"
+    },
+    {
+      "topic": "Lakomec – Molière",
+      "question": "Kde se hra odehrává?",
+      "options": [
+        "Paříž",
+        "Londýn",
+        "Řím",
+        "Moskva"
+      ],
+      "answer": "Paříž"
+    },
+    {
+      "topic": "Lakomec – Molière",
+      "question": "Jaký jazykový prostředek Molière používá?",
+      "options": [
+        "Sarkasmus",
+        "Rým",
+        "Alegorie",
+        "Eufemismus"
+      ],
+      "answer": "Sarkasmus"
+    },
+    {
+      "topic": "Lakomec – Molière",
+      "question": "Co je epizeuxis v hře?",
+      "options": [
+        "Opakování slova",
+        "Zjemnění výrazu",
+        "Přímá řeč",
+        "Personifikace"
+      ],
+      "answer": "Opakování slova"
+    },
+    {
+      "topic": "Lakomec – Molière",
+      "question": "Kdo je Eliška v příběhu?",
+      "options": [
+        "Harpagonova dcera",
+        "Harpagonova žena",
+        "Harpagonova služka",
+        "Harpagonova sestra"
+      ],
+      "answer": "Harpagonova dcera"
+    },
+    {
+      "topic": "Lakomec – Molière",
+      "question": "Jak končí hra?",
+      "options": [
+        "Harpagon zchudne",
+        "Svatby dvou párů",
+        "Harpagon uteče",
+        "Harpagon zemře"
+      ],
+      "answer": "Svatby dvou párů"
+    },
+    {
+      "topic": "Lakomec – Molière",
+      "question": "Co symbolizuje pokladnice?",
+      "options": [
+        "Lásku",
+        "Lakotu",
+        "Moc",
+        "Svobodu"
+      ],
+      "answer": "Lakotu"
+    },
+    {
+      "topic": "Lakomec – Molière",
+      "question": "Jaký je časový rámec hry?",
+      "options": [
+        "17. století",
+        "18. století",
+        "19. století",
+        "20. století"
+      ],
+      "answer": "17. století"
+    },
+    {
+      "topic": "Revizor – Nikolaj Vasiljevič Gogol",
+      "question": "Kdo je považován za revizora?",
+      "options": [
+        "Hejtman",
+        "Chlestakov",
+        "Osip",
+        "Poštmistr"
+      ],
+      "answer": "Chlestakov"
+    },
+    {
+      "topic": "Revizor – Nikolaj Vasiljevič Gogol",
+      "question": "Proč se měšťané bojí revizora?",
+      "options": [
+        "Berou úplatky",
+        "Chystají revoluci",
+        "Nemají peníze",
+        "Jsou nemocní"
+      ],
+      "answer": "Berou úplatky"
+    },
+    {
+      "topic": "Revizor – Nikolaj Vasiljevič Gogol",
+      "question": "Co Chlestakov dělá, když pochopí omyl?",
+      "options": [
+        "Uteče",
+        "Využije situace",
+        "Přizná se",
+        "Zavolá stráže"
+      ],
+      "answer": "Využije situace"
+    },
+    {
+      "topic": "Revizor – Nikolaj Vasiljevič Gogol",
+      "question": "Kdo odhalí Chlestakovův podvod?",
+      "options": [
+        "Hejtman",
+        "Poštmistr",
+        "Osip",
+        "Strážnik"
+      ],
+      "answer": "Poštmistr"
+    },
+    {
+      "topic": "Revizor – Nikolaj Vasiljevič Gogol",
+      "question": "Jaké je hlavní téma hry?",
+      "options": [
+        "Láska",
+        "Korupce",
+        "Válka",
+        "Náboženství"
+      ],
+      "answer": "Korupce"
+    },
+    {
+      "topic": "Revizor – Nikolaj Vasiljevič Gogol",
+      "question": "Kde se hra odehrává?",
+      "options": [
+        "Petrohrad",
+        "Malé ruské město",
+        "Moskva",
+        "Kyjev"
+      ],
+      "answer": "Malé ruské město"
+    },
+    {
+      "topic": "Revizor – Nikolaj Vasiljevič Gogol",
+      "question": "Jaký literární žánr je Revizor?",
+      "options": [
+        "Tragédie",
+        "Komedie",
+        "Epos",
+        "Novela"
+      ],
+      "answer": "Komedie"
+    },
+    {
+      "topic": "Revizor – Nikolaj Vasiljevič Gogol",
+      "question": "Co Gogol kritizuje v hře?",
+      "options": [
+        "Byrokracii",
+        "Náboženství",
+        "Vojsko",
+        "Umění"
+      ],
+      "answer": "Byrokracii"
+    },
+    {
+      "topic": "Revizor – Nikolaj Vasiljevič Gogol",
+      "question": "Kdo je Osip v příběhu?",
+      "options": [
+        "Hejtman",
+        "Chlestakovův sluha",
+        "Poštmistr",
+        "Statkář"
+      ],
+      "answer": "Chlestakovův sluha"
+    },
+    {
+      "topic": "Revizor – Nikolaj Vasiljevič Gogol",
+      "question": "Co Chlestakov tvrdí o sobě?",
+      "options": [
+        "Je spisovatel",
+        "Je král",
+        "Je voják",
+        "Je lékař"
+      ],
+      "answer": "Je spisovatel"
+    },
+    {
+      "topic": "Revizor – Nikolaj Vasiljevič Gogol",
+      "question": "Jaký jazykový prostředek Gogol používá?",
+      "options": [
+        "Hyperbola",
+        "Rým",
+        "Alegorie",
+        "Eufemismus"
+      ],
+      "answer": "Hyperbola"
+    },
+    {
+      "topic": "Revizor – Nikolaj Vasiljevič Gogol",
+      "question": "Co se stane na konci hry?",
+      "options": [
+        "Přijede skutečný revizor",
+        "Chlestakov se vrátí",
+        "Hejtman zemře",
+        "Město zbohatne"
+      ],
+      "answer": "Přijede skutečný revizor"
+    },
+    {
+      "topic": "Revizor – Nikolaj Vasiljevič Gogol",
+      "question": "Jaký je časový rámec hry?",
+      "options": [
+        "18. století",
+        "19. století",
+        "20. století",
+        "17. století"
+      ],
+      "answer": "19. století"
+    },
+    {
+      "topic": "Revizor – Nikolaj Vasiljevič Gogol",
+      "question": "Kdo inspiruje Gogola?",
+      "options": [
+        "Puškin",
+        "Dostojevskij",
+        "Čechov",
+        "Tolstoj"
+      ],
+      "answer": "Puškin"
+    },
+    {
+      "topic": "Revizor – Nikolaj Vasiljevič Gogol",
+      "question": "Co symbolizuje Chlestakovův podvod?",
+      "options": [
+        "Lásku",
+        "Korupci",
+        "Odpor",
+        "Moc"
+      ],
+      "answer": "Korupci"
+    },
+    {
+      "topic": "Bílá nemoc – Karel Čapek",
+      "question": "Co je bílá nemoc?",
+      "options": [
+        "Chřipka",
+        "Malomocenství",
+        "Rakovina",
+        "Cholera"
+      ],
+      "answer": "Malomocenství"
+    },
+    {
+      "topic": "Bílá nemoc – Karel Čapek",
+      "question": "Koho postihuje bílá nemoc?",
+      "options": [
+        "Děti",
+        "Starší nad 40 let",
+        "Muže",
+        "Ženy"
+      ],
+      "answer": "Starší nad 40 let"
+    },
+    {
+      "topic": "Bílá nemoc – Karel Čapek",
+      "question": "Kdo objeví lék na bílou nemoc?",
+      "options": [
+        "Sigelius",
+        "Galén",
+        "Novinář",
+        "Asistent"
+      ],
+      "answer": "Galén"
+    },
+    {
+      "topic": "Bílá nemoc – Karel Čapek",
+      "question": "Proč Sigelius zpočátku Galénovi nevěří?",
+      "options": [
+        "Jeho nízké vzdělání",
+        "Jeho neznámý původ",
+        "Jeho chování",
+        "Jeho bohatství"
+      ],
+      "answer": "Jeho neznámý původ"
+    },
+    {
+      "topic": "Bílá nemoc – Karel Čapek",
+      "question": "Co Galén odmítne léčit?",
+      "options": [
+        "Chudé pacienty",
+        "Sigeliova pacienta",
+        "Děti",
+        "Vojáky"
+      ],
+      "answer": "Sigeliova pacienta"
+    },
+    {
+      "topic": "Bílá nemoc – Karel Čapek",
+      "question": "Jaké je hlavní téma hry?",
+      "options": [
+        "Láska",
+        "Morálka a válka",
+        "Bohatství",
+        "Umění"
+      ],
+      "answer": "Morálka a válka"
+    },
+    {
+      "topic": "Bílá nemoc – Karel Čapek",
+      "question": "Jaký literární žánr je Bílá nemoc?",
+      "options": [
+        "Komedie",
+        "Drama",
+        "Epos",
+        "Novela"
+      ],
+      "answer": "Drama"
+    },
+    {
+      "topic": "Bílá nemoc – Karel Čapek",
+      "question": "Co Čapek kritizuje v hře?",
+      "options": [
+        "Totalitu",
+        "Náboženství",
+        "Umění",
+        "Vědu"
+      ],
+      "answer": "Totalitu"
+    },
+    {
+      "topic": "Bílá nemoc – Karel Čapek",
+      "question": "Kde se hra odehrává?",
+      "options": [
+        "Nemocnice",
+        "Hrad",
+        "Město",
+        "Les"
+      ],
+      "answer": "Nemocnice"
+    },
+    {
+      "topic": "Bílá nemoc – Karel Čapek",
+      "question": "Co symbolizuje bílá nemoc?",
+      "options": [
+        "Lásku",
+        "Strach z války",
+        "Bohatství",
+        "Smrt"
+      ],
+      "answer": "Strach z války"
+    },
+    {
+      "topic": "Bílá nemoc – Karel Čapek",
+      "question": "Jaký je časový rámec hry?",
+      "options": [
+        "19. století",
+        "20. století",
+        "18. století",
+        "17. století"
+      ],
+      "answer": "20. století"
+    },
+    {
+      "topic": "Bílá nemoc – Karel Čapek",
+      "question": "Kdo je Sigelius v příběhu?",
+      "options": [
+        "Lékař",
+        "Dvorní rada",
+        "Novinář",
+        "Pacient"
+      ],
+      "answer": "Dvorní rada"
+    },
+    {
+      "topic": "Bílá nemoc – Karel Čapek",
+      "question": "Co asistent nabídne Sigeliovu pacientovi?",
+      "options": [
+        "Falešnou léčbu",
+        "Pravý lék",
+        "Operaci",
+        "Očkování"
+      ],
+      "answer": "Falešnou léčbu"
+    },
+    {
+      "topic": "Bílá nemoc – Karel Čapek",
+      "question": "Jaký jazykový prostředek Čapek používá?",
+      "options": [
+        "Alegorie",
+        "Rým",
+        "Eufemismus",
+        "Hyperbola"
+      ],
+      "answer": "Alegorie"
+    },
+    {
+      "topic": "Bílá nemoc – Karel Čapek",
+      "question": "Co ovlivňuje Čapkovu tvorbu?",
+      "options": [
+        "První světová válka",
+        "Druhá světová válka",
+        "Francouzská revoluce",
+        "Ruské revoluce"
+      ],
+      "answer": "Druhá světová válka"
+    },
+    {
+      "topic": "Ostře sledované vlaky – Bohumil Hrabal",
+      "question": "Kdo je hlavní postavou knihy?",
+      "options": [
+        "Miloš Hrma",
+        "Hubička",
+        "Viktorka",
+        "Ladislav"
+      ],
+      "answer": "Miloš Hrma"
+    },
+    {
+      "topic": "Ostře sledované vlaky – Bohumil Hrabal",
+      "question": "Co je Milošovým povoláním?",
+      "options": [
+        "Voják",
+        "Výpravčí",
+        "Lékař",
+        "Učitel"
+      ],
+      "answer": "Výpravčí"
+    },
+    {
+      "topic": "Ostře sledované vlaky – Bohumil Hrabal",
+      "question": "Jaký je hlavní konflikt Miloše?",
+      "options": [
+        "Láska a odboj",
+        "Bohatství",
+        "Politika",
+        "Náboženství"
+      ],
+      "answer": "Láska a odboj"
+    },
+    {
+      "topic": "Ostře sledované vlaky – Bohumil Hrabal",
+      "question": "Kdo je Viktorka v příběhu?",
+      "options": [
+        "Milošova milá",
+        "Milošova sestra",
+        "Německá vojačka",
+        "Milošova matka"
+      ],
+      "answer": "Milošova milá"
+    },
+    {
+      "topic": "Ostře sledované vlaky – Bohumil Hrabal",
+      "question": "Co Miloš plánuje proti Němcům?",
+      "options": [
+        "Sábotáž vlaku",
+        "Útěk",
+        "Diplomacie",
+        "Vraždu"
+      ],
+      "answer": "Sábotáž vlaku"
+    },
+    {
+      "topic": "Ostře sledované vlaky – Bohumil Hrabal",
+      "question": "Jaký osobní problém trápí Miloše?",
+      "options": [
+        "Strach z války",
+        "Neschopnost v lásce",
+        "Chudoba",
+        "Nemoc"
+      ],
+      "answer": "Neschopnost v lásce"
+    },
+    {
+      "topic": "Ostře sledované vlaky – Bohumil Hrabal",
+      "question": "Co inspiruje Miloše k odboji?",
+      "options": [
+        "Láska k Viktorce",
+        "Hubičkovo chování",
+        "Německá krutost",
+        "Rodinná tradice"
+      ],
+      "answer": "Hubičkovo chování"
+    },
+    {
+      "topic": "Ostře sledované vlaky – Bohumil Hrabal",
+      "question": "Jaký je význam postavy Máši?",
+      "options": [
+        "Milošova láska",
+        "Milošova nepřítelkyně",
+        "Německá špionka",
+        "Milošova šéfka"
+      ],
+      "answer": "Milošova láska"
+    },
+    {
+      "topic": "Ostře sledované vlaky – Bohumil Hrabal",
+      "question": "Co symbolizuje Milošův pokus o sebevraždu?",
+      "options": [
+        "Zbabelost",
+        "Zoufalství",
+        "Hrdinství",
+        "Nenávist"
+      ],
+      "answer": "Zoufalství"
+    },
+    {
+      "topic": "Ostře sledované vlaky – Bohumil Hrabal",
+      "question": "Jak Hrabal kombinuje humor a tragédii?",
+      "options": [
+        "Přeháněním válečných scén",
+        "Ironií v běžných situacích",
+        "Romantickými dialogy",
+        "Náboženskými motivy"
+      ],
+      "answer": "Ironií v běžných situacích"
+    },
+    {
+      "topic": "Ostře sledované vlaky – Bohumil Hrabal",
+      "question": "Co je role přednosty stanice?",
+      "options": [
+        "Milošův rádce",
+        "Komická postava",
+        "Německý kolaborant",
+        "Hlavní hrdina"
+      ],
+      "answer": "Komická postava"
+    },
+    {
+      "topic": "Ostře sledované vlaky – Bohumil Hrabal",
+      "question": "Jaký význam má nádraží v příběhu?",
+      "options": [
+        "Místo lásky",
+        "Symbol okupace",
+        "Místo odpočinku",
+        "Symbol bohatství"
+      ],
+      "answer": "Symbol okupace"
+    },
+    {
+      "topic": "Ostře sledované vlaky – Bohumil Hrabal",
+      "question": "Jaký literární směr Hrabal reprezentuje?",
+      "options": [
+        "Romantismus",
+        "Realismus",
+        "Modernismus",
+        "Klasicismus"
+      ],
+      "answer": "Modernismus"
+    },
+    {
+      "topic": "Ostře sledované vlaky – Bohumil Hrabal",
+      "question": "Co ovlivňuje Milošovo rozhodnutí sabotovat vlak?",
+      "options": [
+        "Touha po slávě",
+        "Ztráta Máši",
+        "Národní hrdost",
+        "Strach z trestu"
+      ],
+      "answer": "Národní hrdost"
+    },
+    {
+      "topic": "Ostře sledované vlaky – Bohumil Hrabal",
+      "question": "Jaký je tón závěru knihy?",
+      "options": [
+        "Optimistický",
+        "Tragický",
+        "Humorný",
+        "Romantický"
+      ],
+      "answer": "Tragický"
     }
 ]
