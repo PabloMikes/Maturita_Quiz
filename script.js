@@ -188,12 +188,35 @@ function promptForCertificate() {
 
 function generateCertificate(name) {
   const percent = ((correctCount / totalCount) * 100).toFixed(1);
+  
+  // Determine the subject name based on currentCategory
+  let subjectName;
+  switch(currentCategory) {
+    case 'site':
+      subjectName = 'SÍTĚ';
+      break;
+    case 'java':
+      subjectName = 'JAVA';
+      case 'cestina':
+      subjectName = 'ČEŠTINA';
+      break;
+    default:
+      subjectName = 'TEST';
+  }
+  
+  // Get selected topics if available
+  const selectedTopics = [...document.querySelectorAll('.topic-btn.selected')]
+    .map(btn => btn.dataset.topic)
+    .join(', ');
+
   const certificateHTML = `
     <div class="certificate">
       <div class="certificate-border">
         <h1>Certifikát o úspěšném absolvování</h1>
         <div class="certificate-body">
-          <p>Uživatel <strong>${name}</strong> úspěšně dokončil test s výsledkem:</p>
+          <p>Uživatel <strong>${name}</strong> úspěšně dokončil:</p>
+          <div class="certificate-subject">${subjectName}</div>
+          ${selectedTopics ? `<p>Témata: ${selectedTopics}</p>` : ''}
           <div class="certificate-score">${correctCount}/${totalCount} (${percent}%)</div>
           <p>Datum: ${new Date().toLocaleDateString('cs-CZ')}</p>
           <div class="certificate-stamp"></div>
