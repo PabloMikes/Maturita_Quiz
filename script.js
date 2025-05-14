@@ -7,11 +7,10 @@ let currentCategory = '';
 function showTopicSelection() {
   const topicButtons = document.getElementById('topic-buttons');
   topicButtons.innerHTML = '';
-  
   const topics = [...new Set(questions.map(q => q.topic))];
   topics.forEach(topic => {
     const button = document.createElement('button');
-    button.className = 'topic-btn selected';
+    button.className = 'topic-btn'; // No 'selected' class initially
     button.textContent = topic;
     button.dataset.topic = topic;
     button.addEventListener('click', function() {
@@ -20,6 +19,7 @@ function showTopicSelection() {
     topicButtons.appendChild(button);
   });
 }
+
 async function loadCategory(category) {
   currentCategory = category;
   const file = 
@@ -93,7 +93,6 @@ function startQuiz(selectedQuestions) {
   document.getElementById('topic-selection').classList.add('hidden');
   renderQuestions();
 }
-
 
 function renderQuestions() {
   const quiz = document.getElementById('quiz');

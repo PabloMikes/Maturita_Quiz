@@ -12,47 +12,102 @@
     },
     {
       "topic": "1. Molière",
-      "question": "V jakém literárním období Molière tvořil?",
+      "question": "V jakém století Molière tvořil?",
       "options": [
-        "Renesance",
-        "Francouzský klasicismus",
+        "16. století",
+        "17. století",
+        "18. století",
+        "19. století"
+      ],
+      "answer": "17. století"
+    },
+    {
+      "topic": "1. Molière",
+      "question": "Jaký literární směr reprezentuje Molièrova tvorba?",
+      "options": [
         "Romantismus",
-        "Baroko"
+        "Baroko",
+        "Klasicismus",
+        "Realismus"
       ],
-      "answer": "Francouzský klasicismus"
+      "answer": "Klasicismus"
     },
     {
       "topic": "1. Molière",
-      "question": "Co bylo charakteristické pro Molièrovy hry?",
+      "question": "Co bylo hlavním cílem Molièrových her?",
       "options": [
-        "Historické eposy",
-        "Satira lidských neřestí",
-        "Romantické příběhy",
-        "Náboženská témata"
+        "Oslava královské moci",
+        "Kritika lidských neřestí a společnosti",
+        "Náboženská propaganda",
+        "Historické rekonstrukce"
       ],
-      "answer": "Satira lidských neřestí"
+      "answer": "Kritika lidských neřestí a společnosti"
     },
     {
       "topic": "1. Molière",
-      "question": "Které Molièrovo dílo kritizuje náboženské pokrytectví?",
+      "question": "Které Molièrovo dílo se zabývá tématem lásky a svobody?",
+      "options": [
+        "Tartuffe",
+        "Don Juan",
+        "Misantrop",
+        "Lakomec"
+      ],
+      "answer": "Don Juan"
+    },
+    {
+      "topic": "1. Molière",
+      "question": "Kdo byl významným současníkem Molièra a autorem díla *Cid*?",
+      "options": [
+        "Jean Racine",
+        "Pierre Corneille",
+        "Voltaire",
+        "François Rabelais"
+      ],
+      "answer": "Pierre Corneille"
+    },
+    {
+      "topic": "1. Molière",
+      "question": "Jaký vliv měl Ludvík XIV. na Molièrovu tvorbu?",
+      "options": [
+        "Zakázal jeho hry",
+        "Podporoval jeho divadelní soubor",
+        "Napsal pro něj hry",
+        "Ignoroval jeho tvorbu"
+      ],
+      "answer": "Podporoval jeho divadelní soubor"
+    },
+    {
+      "topic": "1. Molière",
+      "question": "Které dílo Molièra vyvolalo kontroverzi kvůli kritice pokrytectví?",
       "options": [
         "Lakomec",
         "Tartuffe",
-        "Don Juan",
-        "Misantrop"
+        "Misantrop",
+        "Don Juan"
       ],
       "answer": "Tartuffe"
     },
     {
       "topic": "1. Molière",
-      "question": "Kdo byl významným současníkem Molièra?",
+      "question": "Jaký styl jazyka Molière často používal ve svých hrách?",
       "options": [
-        "Victor Hugo",
-        "Pierre Corneille",
-        "Voltaire",
-        "Gustave Flaubert"
+        "Vědecký a odborný",
+        "Ironický a satirický",
+        "Lyrický a poetický",
+        "Archaisující"
       ],
-      "answer": "Pierre Corneille"
+      "answer": "Ironický a satirický"
+    },
+    {
+      "topic": "1. Molière",
+      "question": "Co odlišovalo Molièrovy hry od tragédií jeho doby?",
+      "options": [
+        "Zaměření na komedii",
+        "Historická přesnost",
+        "Náboženská tematika",
+        "Dlouhé monology"
+      ],
+      "answer": "Zaměření na komedii"
     },
     {
       "topic": "2. Lakomec",
@@ -67,17 +122,6 @@
     },
     {
       "topic": "2. Lakomec",
-      "question": "Co je hlavním tématem *Lakomce*?",
-      "options": [
-        "Válečné hrdinství",
-        "Chamtivost a rodinné konflikty",
-        "Náboženská víra",
-        "Cestování a dobrodružství"
-      ],
-      "answer": "Chamtivost a rodinné konflikty"
-    },
-    {
-      "topic": "2. Lakomec",
       "question": "Kdo je hlavní postavou *Lakomce*?",
       "options": [
         "Cléante",
@@ -89,14 +133,14 @@
     },
     {
       "topic": "2. Lakomec",
-      "question": "Co je klíčovým momentem v ději *Lakomce*?",
+      "question": "Co je hlavním tématem *Lakomce*?",
       "options": [
-        "Odhalení Harpagonovy skrýše s penězi",
-        "Útěk Cléanta z domova",
-        "Smrt Harpagona",
-        "Příchod krále"
+        "Válečné hrdinství",
+        "Chamtivost a rodinné konflikty",
+        "Náboženská víra",
+        "Cestování a dobrodružství"
       ],
-      "answer": "Odhalení Harpagonovy skrýše s penězi"
+      "answer": "Chamtivost a rodinné konflikty"
     },
     {
       "topic": "2. Lakomec",
@@ -108,6 +152,72 @@
         "Náboženská oběť"
       ],
       "answer": "Společenská kritika"
+    },
+    {
+      "topic": "2. Lakomec",
+      "question": "Která postava je Harpagonovou dcerou v *Lakomci*?",
+      "options": [
+        "Mariana",
+        "Frosine",
+        "Élise",
+        "Cléante"
+      ],
+      "answer": "Élise"
+    },
+    {
+      "topic": "2. Lakomec",
+      "question": "Co Harpagon v *Lakomci* považuje za svůj největší poklad?",
+      "options": [
+        "Rodinné vztahy",
+        "Skrýš s penězi",
+        "Umělecké sbírky",
+        "Věrnost přátel"
+      ],
+      "answer": "Skrýš s penězi"
+    },
+    {
+      "topic": "2. Lakomec",
+      "question": "Jak končí děj *Lakomce*?",
+      "options": [
+        "Harpagon ztrácí své bohatství",
+        "Sňatkem mladých milenců",
+        "Smrtí Harpagona",
+        "Útěkem Cléanta"
+      ],
+      "answer": "Sňatkem mladých milenců"
+    },
+    {
+      "topic": "2. Lakomec",
+      "question": "Která postava v *Lakomci* se snaží zprostředkovat sňatek Harpagona s Marianou?",
+      "options": [
+        "Valér",
+        "Frosine",
+        "Élise",
+        "Cléante"
+      ],
+      "answer": "Frosine"
+    },
+    {
+      "topic": "2. Lakomec",
+      "question": "Jaký je časoprostor *Lakomce*?",
+      "options": [
+        "19. století, venkov",
+        "17. století, Paříž",
+        "18. století, Londýn",
+        "16. století, Florencie"
+      ],
+      "answer": "17. století, Paříž"
+    },
+    {
+      "topic": "2. Lakomec",
+      "question": "Jaký jazykový styl je typický pro *Lakomce*?",
+      "options": [
+        "Poetický a lyrický",
+        "Ironický a satirický",
+        "Vědecký a odborný",
+        "Mystický a symbolický"
+      ],
+      "answer": "Ironický a satirický"
     },
     {
       "topic": "3. Nikolaj Vasiljevič Gogol",
@@ -122,29 +232,73 @@
     },
     {
       "topic": "3. Nikolaj Vasiljevič Gogol",
-      "question": "V jakém literárním období Gogol převážně tvořil?",
+      "question": "V jakém století Gogol tvořil?",
       "options": [
-        "Renesance",
-        "Ruské osvícenství",
+        "18. století",
+        "19. století",
+        "20. století",
+        "17. století"
+      ],
+      "answer": "19. století"
+    },
+    {
+      "topic": "3. Nikolaj Vasiljevič Gogol",
+      "question": "Jaký literární směr ovlivnil Gogolovu tvorbu?",
+      "options": [
+        "Klasicismus",
         "Realismus a romantismus",
+        "Symbolismus",
         "Modernismus"
       ],
       "answer": "Realismus a romantismus"
     },
     {
       "topic": "3. Nikolaj Vasiljevič Gogol",
-      "question": "Co bylo charakteristické pro Gogolovy literární texty?",
+      "question": "Co kritizoval Gogol ve svých dílech?",
       "options": [
-        "Romantické příběhy lásky",
-        "Satira a groteska kritizující společnost",
-        "Náboženská tematika",
-        "Vědecké eseje"
+        "Vědecký pokrok",
+        "Korupci a byrokracii",
+        "Romantickou lásku",
+        "Náboženské instituce"
       ],
-      "answer": "Satira a groteska kritizující společnost"
+      "answer": "Korupci a byrokracii"
     },
     {
       "topic": "3. Nikolaj Vasiljevič Gogol",
-      "question": "Které Gogolovo dílo je sbírkou povídek inspirovaných ukrajinským folklórem?",
+      "question": "Které Gogolovo dílo je satirickým románem?",
+      "options": [
+        "Revizor",
+        "Mrtvé duše",
+        "Večery na samotě u Dikaňky",
+        "Plášť"
+      ],
+      "answer": "Mrtvé duše"
+    },
+    {
+      "topic": "3. Nikolaj Vasiljevič Gogol",
+      "question": "Kdo byl významným současníkem Gogola a autorem *Evžena Oněgina*?",
+      "options": [
+        "Fjodor Dostojevskij",
+        "Alexandr Puškin",
+        "Lev Tolstoj",
+        "Anton Čechov"
+      ],
+      "answer": "Alexandr Puškin"
+    },
+    {
+      "topic": "3. Nikolaj Vasiljevič Gogol",
+      "question": "Jaký styl je typický pro Gogolova díla?",
+      "options": [
+        "Poetický a lyrický",
+        "Satirický a groteskní",
+        "Vědecký a analytický",
+        "Mystický a náboženský"
+      ],
+      "answer": "Satirický a groteskní"
+    },
+    {
+      "topic": "3. Nikolaj Vasiljevič Gogol",
+      "question": "Které dílo Gogola čerpá z ukrajinského folklóru?",
       "options": [
         "Mrtvé duše",
         "Revizor",
@@ -155,14 +309,25 @@
     },
     {
       "topic": "3. Nikolaj Vasiljevič Gogol",
-      "question": "Kdo byl významným současníkem Gogola?",
+      "question": "Co charakterizuje Gogolovy dramatické texty?",
       "options": [
-        "Fjordor Dostojevskij",
-        "Alexandr Puškin",
-        "Lev Tolstoj",
-        "Anton Čechov"
+        "Romantické konflikty",
+        "Ironie a absurdita",
+        "Historická věrnost",
+        "Náboženská hloubka"
       ],
-      "answer": "Alexandr Puškin"
+      "answer": "Ironie a absurdita"
+    },
+    {
+      "topic": "3. Nikolaj Vasiljevič Gogol",
+      "question": "Jaký aspekt ruské společnosti Gogol často zobrazoval?",
+      "options": [
+        "Vědecký pokrok",
+        "Provinční život a byrokracii",
+        "Náboženskou víru",
+        "Vojenskou slávu"
+      ],
+      "answer": "Provinční život a byrokracii"
     },
     {
       "topic": "4. Revizor",
@@ -188,7 +353,7 @@
     },
     {
       "topic": "4. Revizor",
-      "question": "Kdo je hlavní postavou, která je mylně považována za revizora?",
+      "question": "Kdo je hlavní postavou *Revizora*?",
       "options": [
         "Anton Antonovič",
         "Chlestakov",
@@ -199,18 +364,7 @@
     },
     {
       "topic": "4. Revizor",
-      "question": "Co je klíčovým momentem závěru *Revizora*?",
-      "options": [
-        "Svatba Chlestakova",
-        "Příchod skutečného revizora",
-        "Odhalení Chlestakovovy totožnosti",
-        "Útěk starosty"
-      ],
-      "answer": "Příchod skutečného revizora"
-    },
-    {
-      "topic": "4. Revizor",
-      "question": "Jaký motiv dominuje v *Revizoru*?",
+      "question": "Jaký motiv je ústřední v *Revizoru*?",
       "options": [
         "Záměna identity",
         "Příroda a ekologie",
@@ -220,8 +374,74 @@
       "answer": "Záměna identity"
     },
     {
+      "topic": "4. Revizor",
+      "question": "Která postava je starostou města v *Revizoru*?",
+      "options": [
+        "Chlestakov",
+        "Osip",
+        "Anton Antonovič",
+        "Zemský úředník"
+      ],
+      "answer": "Anton Antonovič"
+    },
+    {
+      "topic": "4. Revizor",
+      "question": "Co odhaluje závěr *Revizora*?",
+      "options": [
+        "Svatbu Chlestakova",
+        "Příchod skutečného revizora",
+        "Smrt starosty",
+        "Útěk Chlestakova"
+      ],
+      "answer": "Příchod skutečného revizora"
+    },
+    {
+      "topic": "4. Revizor",
+      "question": "Jaký je časoprostor *Revizora*?",
+      "options": [
+        "18. století, Petrohrad",
+        "19. století, provinční město",
+        "20. století, Moskva",
+        "17. století, Kyjev"
+      ],
+      "answer": "19. století, provinční město"
+    },
+    {
+      "topic": "4. Revizor",
+      "question": "Která postava je Chlestakovovým sluhou?",
+      "options": [
+        "Osip",
+        "Anton Antonovič",
+        "Zemský úředník",
+        "Starosta"
+      ],
+      "answer": "Osip"
+    },
+    {
+      "topic": "4. Revizor",
+      "question": "Jaký jazykový styl je typický pro *Revizora*?",
+      "options": [
+        "Poetický a lyrický",
+        "Satirický a groteskní",
+        "Vědecký a odborný",
+        "Mystický a symbolický"
+      ],
+      "answer": "Satirický a groteskní"
+    },
+    {
+      "topic": "4. Revizor",
+      "question": "Co motivuje úředníky v *Revizoru* k podlézání Chlestakovi?",
+      "options": [
+        "Láska k němu",
+        "Strach z odhalení korupce",
+        "Touha po slávě",
+        "Náboženská víra"
+      ],
+      "answer": "Strach z odhalení korupce"
+    },
+    {
       "topic": "5. Bohumil Hrabal",
-      "question": "Jaké povolání Bohumil Hrabal vykonával před svou spisovatelskou kariérou?",
+      "question": "Jaké povolání Bohumil Hrabal vykonával před spisovatelskou kariérou?",
       "options": [
         "Lékař a vědec",
         "Výpravčí, skladník a balič papíru",
@@ -243,36 +463,91 @@
     },
     {
       "topic": "5. Bohumil Hrabal",
-      "question": "Co je charakteristické pro Hrabalovu literární tvorbu?",
+      "question": "Co inspirovalo Hrabalovu tvorbu?",
       "options": [
-        "Náboženská tematika",
-        "Inspirace každodenním životem a humorem",
-        "Vědecké eseje",
-        "Historické eposy"
+        "Náboženské motivy",
+        "Každodenní život a humor",
+        "Vědecké objevy",
+        "Historické události"
       ],
-      "answer": "Inspirace každodenním životem a humorem"
+      "answer": "Každodenní život a humor"
     },
     {
       "topic": "5. Bohumil Hrabal",
-      "question": "Které Hrabalovo dílo je inspirováno jeho zážitky z venkovského prostředí?",
+      "question": "Které Hrabalovo dílo reflektuje život v pohostinství?",
       "options": [
-        "Ostře sledované vlaky",
         "Postřižiny",
         "Obsluhoval jsem anglického krále",
+        "Ostře sledované vlaky",
         "Příliš hlučná samota"
       ],
-      "answer": "Postřižiny"
+      "answer": "Obsluhoval jsem anglického krále"
     },
     {
       "topic": "5. Bohumil Hrabal",
-      "question": "Kdo byl významným současníkem Bohumila Hrabala?",
+      "question": "Kdo byl významným současníkem Hrabala a autorem *Zbabělců*?",
       "options": [
         "Karel Čapek",
         "Josef Škvorecký",
         "Viktor Dyk",
-        "Fráňa Šrámek"
+        "Ladislav Fuks"
       ],
       "answer": "Josef Škvorecký"
+    },
+    {
+      "topic": "5. Bohumil Hrabal",
+      "question": "Jaký jazykový styl je typický pro Hrabalova díla?",
+      "options": [
+        "Vědecký a analytický",
+        "Poetický a humorný",
+        "Satirický a groteskní",
+        "Archaisující"
+      ],
+      "answer": "Poetický a humorný"
+    },
+    {
+      "topic": "5. Bohumil Hrabal",
+      "question": "Jaký režim ovlivnil Hrabalovu tvorbu po druhé světové válce?",
+      "options": [
+        "Monarchie",
+        "Komunistický režim",
+        "Fascismus",
+        "Kapitalismus"
+      ],
+      "answer": "Komunistický režim"
+    },
+    {
+      "topic": "5. Bohumil Hrabal",
+      "question": "Které Hrabalovo dílo bylo zfilmováno pod režijním vedením Jiřího Menzela?",
+      "options": [
+        "Postřižiny",
+        "Ostře sledované vlaky",
+        "Příliš hlučná samota",
+        "Obsluhoval jsem anglického krále"
+      ],
+      "answer": "Ostře sledované vlaky"
+    },
+    {
+      "topic": "5. Bohumil Hrabal",
+      "question": "Co odlišuje Hrabalovy postavy od klasických literárních hrdinů?",
+      "options": [
+        "Heroické činy",
+        "Obyčejnost a lidskost",
+        "Náboženská víra",
+        "Vědecké objevy"
+      ],
+      "answer": "Obyčejnost a lidskost"
+    },
+    {
+      "topic": "5. Bohumil Hrabal",
+      "question": "Jaké téma často prolíná Hrabalovou tvorbou?",
+      "options": [
+        "Vědecký pokrok",
+        "Lidská odolnost a absurdita",
+        "Náboženská reforma",
+        "Vojenská sláva"
+      ],
+      "answer": "Lidská odolnost a absurdita"
     },
     {
       "topic": "6. Ostře sledované vlaky",
@@ -287,17 +562,6 @@
     },
     {
       "topic": "6. Ostře sledované vlaky",
-      "question": "Co je hlavním tématem *Ostře sledovaných vlaků*?",
-      "options": [
-        "Dospívání a válka",
-        "Náboženská reforma",
-        "Vědecký pokrok",
-        "Rodinné vztahy"
-      ],
-      "answer": "Dospívání a válka"
-    },
-    {
-      "topic": "6. Ostře sledované vlaky",
       "question": "Kdo je hlavní postavou *Ostře sledovaných vlaků*?",
       "options": [
         "Hubička",
@@ -309,14 +573,14 @@
     },
     {
       "topic": "6. Ostře sledované vlaky",
-      "question": "Co je klíčovým momentem závěru *Ostře sledovaných vlaků*?",
+      "question": "Co je hlavním tématem *Ostře sledovaných vlaků*?",
       "options": [
-        "Milošova svatba",
-        "Milošova sabotáž vojenského vlaku",
-        "Útěk ze stanice",
-        "Příchod německé armády"
+        "Dospívání a válka",
+        "Náboženská reforma",
+        "Vědecký pokrok",
+        "Rodinné vztahy"
       ],
-      "answer": "Milošova sabotáž vojenského vlaku"
+      "answer": "Dospívání a válka"
     },
     {
       "topic": "6. Ostře sledované vlaky",
@@ -328,6 +592,72 @@
         "Náboženská víra"
       ],
       "answer": "Absurdita války"
+    },
+    {
+      "topic": "6. Ostře sledované vlaky",
+      "question": "Která postava je telegrafistkou v *Ostře sledovaných vlacích*?",
+      "options": [
+        "Zdenička Svatá",
+        "Hubička",
+        "Miloš Hrma",
+        "Přednosta stanice"
+      ],
+      "answer": "Zdenička Svatá"
+    },
+    {
+      "topic": "6. Ostře sledované vlaky",
+      "question": "Jaký je časoprostor *Ostře sledovaných vlaků*?",
+      "options": [
+        "První světová válka, Praha",
+        "Druhá světová válka, železniční stanice",
+        "Meziválečné období, Brno",
+        "Studená válka, venkov"
+      ],
+      "answer": "Druhá světová válka, železniční stanice"
+    },
+    {
+      "topic": "6. Ostře sledované vlaky",
+      "question": "Co vede Miloše Hrmu k pokusu o sebevraždu?",
+      "options": [
+        "Ztráta zaměstnání",
+        "Milostný neúspěch",
+        "Smrt přítele",
+        "Nátlak nacistů"
+      ],
+      "answer": "Milostný neúspěch"
+    },
+    {
+      "topic": "6. Ostře sledované vlaky",
+      "question": "Jak končí děj *Ostře sledovaných vlaků*?",
+      "options": [
+        "Miloš přežije a ožení se",
+        "Miloš obětuje život při sabotáži",
+        "Miloš uteče z protektorátu",
+        "Miloš se stane přednostou stanice"
+      ],
+      "answer": "Miloš obětuje život při sabotáži"
+    },
+    {
+      "topic": "6. Ostře sledované vlaky",
+      "question": "Která postava ztělesňuje lehkomyslnost v *Ostře sledovaných vlacích*?",
+      "options": [
+        "Miloš Hrma",
+        "Hubička",
+        "Přednosta stanice",
+        "Zdenička Svatá"
+      ],
+      "answer": "Hubička"
+    },
+    {
+      "topic": "6. Ostře sledované vlaky",
+      "question": "Jaký jazykový styl je typický pro *Ostře sledované vlaky*?",
+      "options": [
+        "Satirický a groteskní",
+        "Humorný a tragický",
+        "Vědecký a odborný",
+        "Mystický a symbolický"
+      ],
+      "answer": "Humorný a tragický"
     },
     {
       "topic": "7. Viktor Dyk",
@@ -353,7 +683,18 @@
     },
     {
       "topic": "7. Viktor Dyk",
-      "question": "S kterým časopisem Viktor Dyk spolupracoval jako anarchističtý buřič?",
+      "question": "V jakém literárním hnutí působil Viktor Dyk?",
+      "options": [
+        "Lumírovci",
+        "Anarchističtí buřiči",
+        "Česká moderna",
+        "Devětsil"
+      ],
+      "answer": "Anarchističtí buřiči"
+    },
+    {
+      "topic": "7. Viktor Dyk",
+      "question": "S kterým časopisem Dyk spolupracoval jako buřič?",
       "options": [
         "Květy",
         "Nový kult",
@@ -364,29 +705,73 @@
     },
     {
       "topic": "7. Viktor Dyk",
-      "question": "Které téma je typické pro Dykovu tvorbu v rámci anarchističtých buřičů?",
+      "question": "Jaké téma dominuje Dykově tvorbě?",
       "options": [
         "Romantická láska",
-        "Antimilitarismus a odpor k válce",
+        "Antimilitarismus a svoboda",
         "Vědecký pokrok",
         "Náboženská víra"
       ],
-      "answer": "Antimilitarismus a odpor k válce"
+      "answer": "Antimilitarismus a svoboda"
     },
     {
       "topic": "7. Viktor Dyk",
-      "question": "Které Dykovo dílo patří mezi jeho dramatickou tvorbu?",
+      "question": "Které Dykovo dílo je součástí jeho válečné trilogie?",
       "options": [
+        "Krysař",
         "Satiry a sarkasmy",
         "Zmoudření Dona Quijota",
-        "Válečná trilogie",
-        "Krysař"
+        "Polednice"
       ],
-      "answer": "Zmoudření Dona Quijota"
+      "answer": "Satiry a sarkasmy"
+    },
+    {
+      "topic": "7. Viktor Dyk",
+      "question": "Jakou politickou stranu Dyk později podporoval?",
+      "options": [
+        "Komunistická strana",
+        "Národní demokracie",
+        "Sociální demokracie",
+        "Agrární strana"
+      ],
+      "answer": "Národní demokracie"
+    },
+    {
+      "topic": "7. Viktor Dyk",
+      "question": "Které Dykovo dílo je satirickou povídkou?",
+      "options": [
+        "Krysař",
+        "Zmrzlinář",
+        "Zmoudření Dona Quijota",
+        "Polednice"
+      ],
+      "answer": "Zmrzlinář"
+    },
+    {
+      "topic": "7. Viktor Dyk",
+      "question": "Co charakterizuje Dykův literární styl?",
+      "options": [
+        "Vědecká přesnost",
+        "Pesimismus a skepticismus",
+        "Romantická idealizace",
+        "Humor a nadsázka"
+      ],
+      "answer": "Pesimismus a skepticismus"
+    },
+    {
+      "topic": "7. Viktor Dyk",
+      "question": "S kterým dalším časopisem Dyk spolupracoval?",
+      "options": [
+        "Lumír",
+        "Přítomnost",
+        "Květy",
+        "Lidové noviny"
+      ],
+      "answer": "Lumír"
     },
     {
       "topic": "8. Krysař",
-      "question": "Jaký je literární žánr novely *Krysař*?",
+      "question": "Jaký je literární žánr *Krysaře*?",
       "options": [
         "Báseň",
         "Novela",
@@ -408,7 +793,7 @@
     },
     {
       "topic": "8. Krysař",
-      "question": "Kdo je hlavní postavou novely *Krysař*?",
+      "question": "Kdo je hlavní postavou *Krysaře*?",
       "options": [
         "Agnes",
         "Kristián",
@@ -419,7 +804,7 @@
     },
     {
       "topic": "8. Krysař",
-      "question": "Co symbolizuje Krysařovo hraní na píšťalu v novele?",
+      "question": "Co symbolizuje Krysařovo hraní na píšťalu?",
       "options": [
         "Lásku a harmonii",
         "Pomstu a moc umění",
@@ -440,8 +825,63 @@
       "answer": "Spáchá sebevraždu"
     },
     {
+      "topic": "8. Krysař",
+      "question": "Která postava je v *Krysaři* vyděděncem a prostoduchem?",
+      "options": [
+        "Krysař",
+        "Agnes",
+        "Sepp Jörgen",
+        "Kristián"
+      ],
+      "answer": "Sepp Jörgen"
+    },
+    {
+      "topic": "8. Krysař",
+      "question": "Jaký je časoprostor *Krysaře*?",
+      "options": [
+        "19. století, Praha",
+        "Není definován, Hameln",
+        "18. století, Vídeň",
+        "20. století, venkov"
+      ],
+      "answer": "Není definován, Hameln"
+    },
+    {
+      "topic": "8. Krysař",
+      "question": "Co motivuje Krysaře k pomstě v *Krysaři*?",
+      "options": [
+        "Ztráta lásky",
+        "Odmítnutí zaplatit za služby",
+        "Náboženský fanatismus",
+        "Touha po moci"
+      ],
+      "answer": "Odmítnutí zaplatit za služby"
+    },
+    {
+      "topic": "8. Krysař",
+      "question": "Jaký motiv je vedle pomsty klíčový v *Krysaři*?",
+      "options": [
+        "Válka",
+        "Láska",
+        "Vědecký pokrok",
+        "Náboženství"
+      ],
+      "answer": "Láska"
+    },
+    {
+      "topic": "8. Krysař",
+      "question": "Jak končí děj *Krysaře*?",
+      "options": [
+        "Krysař zachrání město",
+        "Krysař odvede obyvatele k záhubě",
+        "Krysař se usmíří s měšťany",
+        "Krysař se ožení s Agnes"
+      ],
+      "answer": "Krysař odvede obyvatele k záhubě"
+    },
+    {
       "topic": "9. Karel Čapek",
-      "question": "V jakém literárním proudu meziválečné doby Karel Čapek převážně tvořil?",
+      "question": "V jakém literárním proudu meziválečné doby Čapek tvořil?",
       "options": [
         "Psychologická próza",
         "Demokratický proud",
@@ -452,18 +892,18 @@
     },
     {
       "topic": "9. Karel Čapek",
-      "question": "Co silně ovlivnilo Čapkovu tvorbu v meziválečném období?",
+      "question": "Co ovlivnilo Čapkovu tvorbu v meziválečném období?",
       "options": [
         "Romantická láska",
-        "Nástup fašismu a ohrožení demokracie",
+        "Nástup fašismu",
         "Průmyslová revoluce",
         "Náboženské reformy"
       ],
-      "answer": "Nástup fašismu a ohrožení demokracie"
+      "answer": "Nástup fašismu"
     },
     {
       "topic": "9. Karel Čapek",
-      "question": "Který termín zavedl Karel Čapek ve svém díle *R.U.R.*?",
+      "question": "Který termín Čapek zavedl v *R.U.R.*?",
       "options": [
         "Kybernetika",
         "Robot",
@@ -474,25 +914,80 @@
     },
     {
       "topic": "9. Karel Čapek",
-      "question": "Které Čapkovo dílo je satirickým románem o společenských a politických hrozbách?",
+      "question": "Jaké ideály Čapek prosazoval?",
       "options": [
-        "Bílá nemoc",
-        "Válka s mloky",
-        "Krakatit",
-        "Matka"
+        "Nacionalismus",
+        "Humanismus a spravedlnost",
+        "Kapitalismus",
+        "Náboženskou víru"
       ],
-      "answer": "Válka s mloky"
+      "answer": "Humanismus a spravedlnost"
     },
     {
       "topic": "9. Karel Čapek",
-      "question": "Jaké ideály Čapek ve své tvorbě prosazoval?",
+      "question": "Které Čapkovo dílo je satirou na technologický pokrok?",
       "options": [
-        "Nacionalismus a militarismus",
-        "Humanismus a sociální spravedlnost",
-        "Kapitalismus a individualismus",
-        "Náboženskou víru"
+        "Bílá nemoc",
+        "Továrna na absolutno",
+        "Válka s mloky",
+        "Matka"
       ],
-      "answer": "Humanismus a sociální spravedlnost"
+      "answer": "Továrna na absolutno"
+    },
+    {
+      "topic": "9. Karel Čapek",
+      "question": "V jakém století Čapek tvořil?",
+      "options": [
+        "19. století",
+        "20. století",
+        "18. století",
+        "17. století"
+      ],
+      "answer": "20. století"
+    },
+    {
+      "topic": "9. Karel Čapek",
+      "question": "Které Čapkovo dílo se zabývá nebezpečím vědeckého objevu?",
+      "options": [
+        "Válka s mloky",
+        "Krakatit",
+        "Bílá nemoc",
+        "R.U.R."
+      ],
+      "answer": "Krakatit"
+    },
+    {
+      "topic": "9. Karel Čapek",
+      "question": "Jaký žánr dominuje Čapkově tvorbě?",
+      "options": [
+        "Poezie",
+        "Próza a drama",
+        "Epos",
+        "Báseň"
+      ],
+      "answer": "Próza a drama"
+    },
+    {
+      "topic": "9. Karel Čapek",
+      "question": "Co Čapek kritizoval v *Bílé nemoci*?",
+      "options": [
+        "Náboženský fanatismus",
+        "Militarismus a diktaturu",
+        "Ekologické problémy",
+        "Romantickou lásku"
+      ],
+      "answer": "Militarismus a diktaturu"
+    },
+    {
+      "topic": "9. Karel Čapek",
+      "question": "Který autor byl Čapkovým současníkem v meziválečné literatuře?",
+      "options": [
+        "Viktor Dyk",
+        "Vladislav Vančura",
+        "Bohumil Hrabal",
+        "Fráňa Šrámek"
+      ],
+      "answer": "Vladislav Vančura"
     },
     {
       "topic": "10. Bílá nemoc",
@@ -529,17 +1024,6 @@
     },
     {
       "topic": "10. Bílá nemoc",
-      "question": "Co je klíčovým momentem závěru *Bílé nemoci*?",
-      "options": [
-        "Galénova svatba",
-        "Ušlapání Dr. Galéna davem",
-        "Uzavření míru",
-        "Objevení nového léku"
-      ],
-      "answer": "Ušlapání Dr. Galéna davem"
-    },
-    {
-      "topic": "10. Bílá nemoc",
       "question": "Jaký motiv dominuje v *Bílé nemoci*?",
       "options": [
         "Touha po moci",
@@ -548,5 +1032,71 @@
         "Technologický pokrok"
       ],
       "answer": "Touha po moci"
+    },
+    {
+      "topic": "10. Bílá nemoc",
+      "question": "Která postava je diktátorem v *Bílé nemoci*?",
+      "options": [
+        "Dr. Galén",
+        "Zbrojař Krug",
+        "Maršál",
+        "Dav"
+      ],
+      "answer": "Maršál"
+    },
+    {
+      "topic": "10. Bílá nemoc",
+      "question": "Co je podmínkou Dr. Galéna pro vydání léku?",
+      "options": [
+        "Zastavení války",
+        "Získání bohatství",
+        "Svatba s dcerou Kruga",
+        "Vědecké uznání"
+      ],
+      "answer": "Zastavení války"
+    },
+    {
+      "topic": "10. Bílá nemoc",
+      "question": "Jaký je časoprostor *Bílé nemoci*?",
+      "options": [
+        "19. století, Praha",
+        "Před druhou světovou válkou, nemocnice",
+        "18. století, Paříž",
+        "20. století, venkov"
+      ],
+      "answer": "Před druhou světovou válkou, nemocnice"
+    },
+    {
+      "topic": "10. Bílá nemoc",
+      "question": "Co symbolizuje smrt Dr. Galéna v *Bílé nemoci*?",
+      "options": [
+        "Vítězství války",
+        "Zmar naděje na mír",
+        "Lásku a oběť",
+        "Technologický pokrok"
+      ],
+      "answer": "Zmar naděje na mír"
+    },
+    {
+      "topic": "10. Bílá nemoc",
+      "question": "Která postava vlastní továrnu na zbraně v *Bílé nemoci*?",
+      "options": [
+        "Dr. Galén",
+        "Maršál",
+        "Zbrojař Krug",
+        "Dav"
+      ],
+      "answer": "Zbrojař Krug"
+    },
+    {
+      "topic": "10. Bílá nemoc",
+      "question": "Jaký je závěr *Bílé nemoci*?",
+      "options": [
+        "Galén zachrání svět",
+        "Galén je ušlapán davem",
+        "Maršál zastaví válku",
+        "Krug rozdá své bohatství"
+      ],
+      "answer": "Galén je ušlapán davem"
     }
 ]
