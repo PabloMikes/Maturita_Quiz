@@ -341,4 +341,4 @@ setInterval(() => {
   if (Math.random() < 0.3) {
     createSpaceCat();
   }
-}, 1000);
+}, 850);
