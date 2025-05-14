@@ -482,5 +482,225 @@
         "word5"
       ],
       "answer": "word4"
-    }
+    },
+    {
+    "topic": "9. OOP",
+    "question": "Co je hlavním principem objektově orientovaného programování (OOP)?",
+    "options": [
+      "Práce s procedurami a funkcemi",
+      "Vytváření objektů obsahujících data a metody",
+      "Optimalizace výkonu programu",
+      "Použití globálních proměnných"
+    ],
+    "answer": "Vytváření objektů obsahujících data a metody"
+  },
+  {
+    "topic": "9. OOP",
+    "question": "Která z následujících vlastností není charakteristická pro OOP?",
+    "options": [
+      "Zapouzdření",
+      "Dědičnost",
+      "Polymorfismus",
+      "Sekvenční programování"
+    ],
+    "answer": "Sekvenční programování"
+  },
+  {
+    "topic": "9. OOP",
+    "question": "Co označuje klíčové slovo 'static' v Javě?",
+    "options": [
+      "Metoda nebo proměnná patří instanci třídy",
+      "Metoda nebo proměnná patří třídě, nikoli instanci",
+      "Proměnná je neměnná",
+      "Metoda je abstraktní"
+    ],
+    "answer": "Metoda nebo proměnná patří třídě, nikoli instanci"
+  },
+  {
+    "topic": "9. OOP",
+    "question": "Jaký je účel klíčového slova 'final' u třídy?",
+    "options": [
+      "Třída může být zděděna",
+      "Třída nemůže být zděděna",
+      "Třída je abstraktní",
+      "Třída je automaticky inicializována"
+    ],
+    "answer": "Třída nemůže být zděděna"
+  },
+  {
+    "topic": "9. OOP",
+    "question": "Co dělá klíčové slovo 'super' v Javě?",
+    "options": [
+      "Odkazuje na aktuální instanci třídy",
+      "Vytváří novou instanci třídy",
+      "Odkazuje na rodičovskou třídu",
+      "Ukončuje běh programu"
+    ],
+    "answer": "Odkazuje na rodičovskou třídu"
+  },
+  {
+    "topic": "10. Interface",
+    "question": "Co definuje rozhraní (interface) v Javě?",
+    "options": [
+      "Kompletní implementaci třídy",
+      "Abstraktní metody, které třída musí implementovat",
+      "Statické proměnné třídy",
+      "Privátní metody třídy"
+    ],
+    "answer": "Abstraktní metody, které třída musí implementovat"
+  },
+  {
+    "topic": "10. Interface",
+    "question": "Jaký je hlavní rozdíl mezi rozhraním a abstraktní třídou?",
+    "options": [
+      "Rozhraní může obsahovat atributy, abstraktní třída ne",
+      "Třída může implementovat více rozhraní, ale dědit pouze jednu abstraktní třídu",
+      "Rozhraní může mít konkrétní metody, abstraktní třída ne",
+      "Abstraktní třída nemůže být instancována, rozhraní ano"
+    ],
+    "answer": "Třída může implementovat více rozhraní, ale dědit pouze jednu abstraktní třídu"
+  },
+  {
+    "topic": "10. Interface",
+    "question": "Co označuje klíčové slovo 'implements'?",
+    "options": [
+      "Dědičnost mezi třídami",
+      "Implementaci rozhraní třídou",
+      "Vytvoření nového rozhraní",
+      "Přepsání metody rodičovské třídy"
+    ],
+    "answer": "Implementaci rozhraní třídou"
+  },
+  {
+    "topic": "10. Interface",
+    "question": "Co je marker interface?",
+    "options": [
+      "Rozhraní s jednou metodou",
+      "Rozhraní bez metod sloužící k označení třídy",
+      "Rozhraní s výchozími metodami",
+      "Rozhraní obsahující pouze konstanty"
+    ],
+    "answer": "Rozhraní bez metod sloužící k označení třídy"
+  },
+  {
+    "topic": "10. Interface",
+    "question": "K čemu slouží anotace '@Override'?",
+    "options": [
+      "Označuje zastaralou metodu",
+      "Potlačuje varování kompilátoru",
+      "Označuje, že metoda přepisuje rodičovskou metodu",
+      "Definuje funkční rozhraní"
+    ],
+    "answer": "Označuje, že metoda přepisuje rodičovskou metodu"
+  },
+  {
+    "topic": "11. Enum",
+    "question": "Co je výč nestsý typ (enum) v Javě?",
+    "options": [
+      "Třída s dynamickými hodnotami",
+      "Omezená množina konstant",
+      "Rozhraní s abstraktními metodami",
+      "Třída pro práci s čísly"
+    ],
+    "answer": "Omezená množina konstant"
+  },
+  {
+    "topic": "11. Enum",
+    "question": "Mohou výčtové typy v Javě obsahovat metody?",
+    "options": [
+      "Ne, pouze konstanty",
+      "Ano, stejně jako běžné třídy",
+      "Pouze abstraktní metody",
+      "Pouze statické metody"
+    ],
+    "answer": "Ano, stejně jako běžné třídy"
+  },
+  {
+    "topic": "11. Enum",
+    "question": "Co umožňuje implementace rozhraní výčtovým typem?",
+    "options": [
+      "Přidání dynamických hodnot",
+      "Přidání funkčnosti prostřednictvím metod rozhraní",
+      "Změnu hodnot výčtového typu",
+      "Vytvoření nového výčtového typu"
+    ],
+    "answer": "Přidání funkčnosti prostřednictvím metod rozhraní"
+  },
+  {
+    "topic": "11. Enum",
+    "question": "Jaký je příklad použití výčtového typu?",
+    "options": [
+      "Správa databázových připojení",
+      "Reprezentace dnů v týdnu",
+      "Vytvoření uživatelského rozhraní",
+      "Zpracování vstupu od uživatele"
+    ],
+    "answer": "Reprezentace dnů v týdnu"
+  },
+  {
+    "topic": "11. Enum",
+    "question": "Co zajišťuje typová bezpečnost výčtového typu?",
+    "options": [
+      "Možnost přiřadit libovolnou hodnotu",
+      "Omezení na předem definované konstanty",
+      "Automatickou konverzi hodnot",
+      "Dynamické přidávání hodnot"
+    ],
+    "answer": "Omezení na předem definované konstanty"
+  },
+  {
+    "topic": "12. Návrhové vzory",
+    "question": "Co je hlavním cílem návrhového vzoru MVC?",
+    "options": [
+      "Zajištění jedné instance třídy",
+      "Oddělení logiky aplikace od uživatelského rozhraní",
+      "Vytvoření objektů bez použití konstruktoru",
+      "Krok za krokem vytváření složitých objektů"
+    ],
+    "answer": "Oddělení logiky aplikace od uživatelského rozhraní"
+  },
+  {
+    "topic": "12. Návrhové vzory",
+    "question": "Který návrhový vzor zajišťuje, že třída má pouze jednu instanci?",
+    "options": [
+      "Factory",
+      "Builder",
+      "Singleton",
+      "MVC"
+    ],
+    "answer": "Singleton"
+  },
+  {
+    "topic": "12. Návrhové vzory",
+    "question": "Co umožňuje návrhový vzor Factory?",
+    "options": [
+      "Vytvoření jedné instance třídy",
+      "Flexibilní vytváření objektů bez explicitního použití 'new'",
+      "Oddělení logiky od uživatelského rozhraní",
+      "Vytváření objektů krok za krokem"
+    ],
+    "answer": "Flexibilní vytváření objektů bez explicitního použití 'new'"
+  },
+  {
+    "topic": "12. Návrhové vzory",
+    "question": "K čemu slouží návrhový vzor Builder?",
+    "options": [
+      "Zajištění jedné instance třídy",
+      "Vytváření složitých objektů krok za krokem",
+      "Správa databázových připojení",
+      "Oddělení logiky od zobrazení"
+    ],
+    "answer": "Vytváření složitých objektů krok za krokem"
+  },
+  {
+    "topic": "12. Návrhové vzory",
+    "question": "Který z následujících je příkladem použití vzoru Singleton?",
+    "options": [
+      "Vytvoření různých typů vozidel",
+      "Správa konfigurace aplikace",
+      "Zobrazení dat v uživatelském rozhraní",
+      "Vytvoření komplexního objektu s mnoha atributy"
+    ],
+    "answer": "Správa konfigurace aplikace"
+  }
 ]
