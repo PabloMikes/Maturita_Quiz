@@ -1648,5 +1648,830 @@
         "Romantický"
       ],
       "answer": "Tragický"
+    },
+    {
+      "topic": "Romeo, Julie a tma – Jan Otčenášek",
+      "question": "Kde se Pavel poprvé setká s Ester?",
+      "options": [
+        "V krejčovské dílně",
+        "V parku na lavičce",
+        "V terezínském transportu",
+        "V činžovním domě"
+      ],
+      "answer": "V parku na lavičce"
+    },
+    {
+      "topic": "Romeo, Julie a tma – Jan Otčenášek",
+      "question": "Proč Ester nenastoupí do terezínského transportu?",
+      "options": [
+        "Chce se přidat k odboji",
+        "Nemá odvahu",
+        "Je nemocná",
+        "Pavel ji přesvědčí"
+      ],
+      "answer": "Nemá odvahu"
+    },
+    {
+      "topic": "Romeo, Julie a tma – Jan Otčenášek",
+      "question": "Kde Pavel ukrývá Ester?",
+      "options": [
+        "V podkroví svého domu",
+        "V otcově krejčovské dílně",
+        "V parku",
+        "V sousedním domě"
+      ],
+      "answer": "V otcově krejčovské dílně"
+    },
+    {
+      "topic": "Romeo, Julie a tma – Jan Otčenášek",
+      "question": "Co dělá Pavelův otec, když zjistí, že Pavel nosí jídlo Ester?",
+      "options": [
+        "Zakáže mu to",
+        "Přidá jídlo",
+        "Udá Ester",
+        "Ignoruje to"
+      ],
+      "answer": "Přidá jídlo"
+    },
+    {
+      "topic": "Romeo, Julie a tma – Jan Otčenášek",
+      "question": "Kdo odhalí, že Pavel ukrývá Ester?",
+      "options": [
+        "Pavlova matka",
+        "Udavač Rejsek",
+        "Německá hlídka",
+        "Sousedi"
+      ],
+      "answer": "Udavač Rejsek"
+    },
+    {
+      "topic": "Romeo, Julie a tma – Jan Otčenášek",
+      "question": "Proč Ester utíká z úkrytu?",
+      "options": [
+        "Chce se vzdát Němcům",
+        "Bojí se o Pavlův život",
+        "Hledá rodinu",
+        "Není tam jídlo"
+      ],
+      "answer": "Bojí se o Pavlův život"
+    },
+    {
+      "topic": "Romeo, Julie a tma – Jan Otčenášek",
+      "question": "Jaký je osud Ester na konci příběhu?",
+      "options": [
+        "Je zachráněna",
+        "Je zastřelena hlídkou",
+        "Odjíždí do Terezína",
+        "Zůstane v úkrytu"
+      ],
+      "answer": "Je zastřelena hlídkou"
+    },
+    {
+      "topic": "Romeo, Julie a tma – Jan Otčenášek",
+      "question": "Jaké je hlavní téma novely?",
+      "options": [
+        "Válečná strategie",
+        "Tragická láska",
+        "Sociální nerovnost",
+        "Náboženská víra"
+      ],
+      "answer": "Tragická láska"
+    },
+    {
+      "topic": "Romeo, Julie a tma – Jan Otčenášek",
+      "question": "Kde se příběh odehrává?",
+      "options": [
+        "Brno",
+        "Praha",
+        "Plzeň",
+        "Ostrava"
+      ],
+      "answer": "Praha"
+    },
+    {
+      "topic": "Romeo, Julie a tma – Jan Otčenášek",
+      "question": "Jaký literární žánr představuje novela?",
+      "options": [
+        "Komedie",
+        "Novela",
+        "Drama",
+        "Epos"
+      ],
+      "answer": "Novela"
+    },
+    {
+      "topic": "Romeo, Julie a tma – Jan Otčenášek",
+      "question": "Jaký motiv je v příběhu klíčový?",
+      "options": [
+        "Obětování",
+        "Bohatství",
+        "Pomsta",
+        "Cestování"
+      ],
+      "answer": "Obětování"
+    },
+    {
+      "topic": "Romeo, Julie a tma – Jan Otčenášek",
+      "question": "Jaký je časový rámec příběhu?",
+      "options": [
+        "1942",
+        "1938",
+        "1945",
+        "1939"
+      ],
+      "answer": "1942"
+    },
+    {
+      "topic": "Romeo, Julie a tma – Jan Otčenášek",
+      "question": "Jaký jazykový prostředek Otčenášek často používá?",
+      "options": [
+        "Ironie",
+        "Symbolismus",
+        "Hyperbola",
+        "Rým"
+      ],
+      "answer": "Symbolismus"
+    },
+    {
+      "topic": "Romeo, Julie a tma – Jan Otčenášek",
+      "question": "Co symbolizuje tma v názvu knihy?",
+      "options": [
+        "Lásku",
+        "Okupaci",
+        "Náboženství",
+        "Moc"
+      ],
+      "answer": "Okupaci"
+    },
+    {
+      "topic": "Romeo, Julie a tma – Jan Otčenášek",
+      "question": "Jaká je kompoziční výstavba příběhu?",
+      "options": [
+        "Nelineární",
+        "Chronologická",
+        "Epizodická",
+        "Cyklická"
+      ],
+      "answer": "Chronologická"
+    },
+    {
+      "topic": "Miláček – Guy de Maupassant",
+      "question": "Kdo je hlavní postavou románu?",
+      "options": [
+        "Georges Duroy",
+        "Charles Forestier",
+        "Madeleine",
+        "Clotilde"
+      ],
+      "answer": "Georges Duroy"
+    },
+    {
+      "topic": "Miláček – Guy de Maupassant",
+      "question": "Jaké je povolání Georgese Duroye na začátku příběhu?",
+      "options": [
+        "Novinář",
+        "Úředník",
+        "Voják",
+        "Učitel"
+      ],
+      "answer": "Úředník"
+    },
+    {
+      "topic": "Miláček – Guy de Maupassant",
+      "question": "Co pomáhá Georgesovi stoupat po společenském žebříčku?",
+      "options": [
+        "Jeho vzdělání",
+        "Vztahy se ženami",
+        "Jeho bohatství",
+        "Jeho čestnost"
+      ],
+      "answer": "Vztahy se ženami"
+    },
+    {
+      "topic": "Miláček – Guy de Maupassant",
+      "question": "Kdo pomůže Georgesovi získat práci v novinách?",
+      "options": [
+        "Madeleine",
+        "Forestier",
+        "Walter",
+        "Clotilde"
+      ],
+      "answer": "Forestier"
+    },
+    {
+      "topic": "Miláček – Guy de Maupassant",
+      "question": "Jaký je hlavní cíl Georgese Duroye?",
+      "options": [
+        "Láska",
+        "Moc a bohatství",
+        "Vzdělání",
+        "Pomoc druhým"
+      ],
+      "answer": "Moc a bohatství"
+    },
+    {
+      "topic": "Miláček – Guy de Maupassant",
+      "question": "Co Maupassant v románu kritizuje?",
+      "options": [
+        "Korupci a kariérismus",
+        "Náboženství",
+        "Válku",
+        "Umění"
+      ],
+      "answer": "Korupci a kariérismus"
+    },
+    {
+      "topic": "Miláček – Guy de Maupassant",
+      "question": "Kde se román odehrává?",
+      "options": [
+        "Paříž",
+        "Londýn",
+        "Řím",
+        "Berlín"
+      ],
+      "answer": "Paříž"
+    },
+    {
+      "topic": "Miláček – Guy de Maupassant",
+      "question": "Jaký literární směr román reprezentuje?",
+      "options": [
+        "Romantismus",
+        "Realismus",
+        "Modernismus",
+        "Klasicismus"
+      ],
+      "answer": "Realismus"
+    },
+    {
+      "topic": "Miláček – Guy de Maupassant",
+      "question": "Kdo je Madeleine v příběhu?",
+      "options": [
+        "Georgesova sestra",
+        "Forestierova žena",
+        "Georgesova dcera",
+        "Novinářka"
+      ],
+      "answer": "Forestierova žena"
+    },
+    {
+      "topic": "Miláček – Guy de Maupassant",
+      "question": "Jaký je časový rámec románu?",
+      "options": [
+        "18. století",
+        "19. století",
+        "20. století",
+        "17. století"
+      ],
+      "answer": "19. století"
+    },
+    {
+      "topic": "Miláček – Guy de Maupassant",
+      "question": "Co symbolizuje Georgesův vzestup?",
+      "options": [
+        "Lásku",
+        "Morální úpadek",
+        "Náboženství",
+        "Spravedlnost"
+      ],
+      "answer": "Morální úpadek"
+    },
+    {
+      "topic": "Miláček – Guy de Maupassant",
+      "question": "Jaký jazykový prostředek Maupassant často používá?",
+      "options": [
+        "Ironie",
+        "Rým",
+        "Alegorie",
+        "Eufemismus"
+      ],
+      "answer": "Ironie"
+    },
+    {
+      "topic": "Miláček – Guy de Maupassant",
+      "question": "Jak končí Georgesův příběh?",
+      "options": [
+        "Zchudne",
+        "Dosáhne bohatství",
+        "Je uvězněn",
+        "Odejde do kláštera"
+      ],
+      "answer": "Dosáhne bohatství"
+    },
+    {
+      "topic": "Miláček – Guy de Maupassant",
+      "question": "Kdo je Clotilde v příběhu?",
+      "options": [
+        "Georgesova milenka",
+        "Jeho šéfová",
+        "Jeho matka",
+        "Jeho dcera"
+      ],
+      "answer": "Georgesova milenka"
+    },
+    {
+      "topic": "Miláček – Guy de Maupassant",
+      "question": "Jaký je literární žánr románu?",
+      "options": [
+        "Novela",
+        "Román",
+        "Drama",
+        "Epos"
+      ],
+      "answer": "Román"
+    },
+    {
+      "topic": "Pianista – Władysław Szpilman",
+      "question": "Kde Szpilman žije na začátku příběhu?",
+      "options": [
+        "Malé ghetto",
+        "Velké ghetto",
+        "Árijská část",
+        "Venkov"
+      ],
+      "answer": "Malé ghetto"
+    },
+    {
+      "topic": "Pianista – Władysław Szpilman",
+      "question": "Co musí židé nosit podle německých nařízení?",
+      "options": [
+        "Červený šátek",
+        "Davidovu hvězdu",
+        "Modrý náramek",
+        "Žlutý plášť"
+      ],
+      "answer": "Davidovu hvězdu"
+    },
+    {
+      "topic": "Pianista – Władysław Szpilman",
+      "question": "Kam jsou židé z ghetta deportováni?",
+      "options": [
+        "Umschlagplatz",
+        "Terezín",
+        "Auschwitz",
+        "Treblinka"
+      ],
+      "answer": "Umschlagplatz"
+    },
+    {
+      "topic": "Pianista – Władysław Szpilman",
+      "question": "Jak Szpilman přežije válku?",
+      "options": [
+        "Ukrývá se",
+        "Přidá se k odboji",
+        "Uteče za hranice",
+        "Je chráněn Němci"
+      ],
+      "answer": "Ukrývá se"
+    },
+    {
+      "topic": "Pianista – Władysław Szpilman",
+      "question": "Kdo pomůže Szpilmanovi přežít v úkrytu?",
+      "options": [
+        "Německý důstojník",
+        "Polský odbojář",
+        "Jeho bratr",
+        "Sousedi"
+      ],
+      "answer": "Německý důstojník"
+    },
+    {
+      "topic": "Pianista – Władysław Szpilman",
+      "question": "Jaké je hlavní téma knihy?",
+      "options": [
+        "Láska",
+        "Přežití holocaustu",
+        "Umění",
+        "Politika"
+      ],
+      "answer": "Přežití holocaustu"
+    },
+    {
+      "topic": "Pianista – Władysław Szpilman",
+      "question": "Kde se příběh odehrává?",
+      "options": [
+        "Krakov",
+        "Varšava",
+        "Lodž",
+        "Gdansk"
+      ],
+      "answer": "Varšava"
+    },
+    {
+      "topic": "Pianista – Władysław Szpilman",
+      "question": "Jaký je literární žánr knihy?",
+      "options": [
+        "Román",
+        "Memoáry",
+        "Novela",
+        "Drama"
+      ],
+      "answer": "Memoáry"
+    },
+    {
+      "topic": "Pianista – Władysław Szpilman",
+      "question": "Co Szpilman dělá před válkou?",
+      "options": [
+        "Je učitel",
+        "Je hudebník",
+        "Je lékař",
+        "Je novinář"
+      ],
+      "answer": "Je hudebník"
+    },
+    {
+      "topic": "Pianista – Władysław Szpilman",
+      "question": "Jaký je časový rámec příběhu?",
+      "options": [
+        "1939–1945",
+        "1935–1940",
+        "1945–1950",
+        "1930–1935"
+      ],
+      "answer": "1939–1945"
+    },
+    {
+      "topic": "Pianista – Władysław Szpilman",
+      "question": "Co symbolizuje hudba v příběhu?",
+      "options": [
+        "Náboženství",
+        "Nádej",
+        "Moc",
+        "Pomsta"
+      ],
+      "answer": "Nádej"
+    },
+    {
+      "topic": "Pianista – Władysław Szpilman",
+      "question": "Jaký jazykový prostředek Szpilman používá?",
+      "options": [
+        "Ironie",
+        "Popisnost",
+        "Alegorie",
+        "Hyperbola"
+      ],
+      "answer": "Popisnost"
+    },
+    {
+      "topic": "Pianista – Władysław Szpilman",
+      "question": "Co odděluje ghetto od árijské části?",
+      "options": [
+        "Řeka",
+        "Zeď",
+        "Plot",
+        "Stráže"
+      ],
+      "answer": "Zeď"
+    },
+    {
+      "topic": "Pianista – Władysław Szpilman",
+      "question": "Jaký je osud Szpilmanovy rodiny?",
+      "options": [
+        "Přežijí",
+        "Jsou deportováni",
+        "Utečou",
+        "Přidají se k odboji"
+      ],
+      "answer": "Jsou deportováni"
+    },
+    {
+      "topic": "Pianista – Władysław Szpilman",
+      "question": "Co Szpilman kritizuje v knize?",
+      "options": [
+        "Německou okupaci",
+        "Polskou vládu",
+        "Umění",
+        "Náboženství"
+      ],
+      "answer": "Německou okupaci"
+    },
+    {
+      "topic": "1984 – George Orwell",
+      "question": "Kdo je hlavní postavou románu?",
+      "options": [
+        "Winston Smith",
+        "O’Brien",
+        "Julia",
+        "Velký Bratr"
+      ],
+      "answer": "Winston Smith"
+    },
+    {
+      "topic": "1984 – George Orwell",
+      "question": "Co Winston začíná psát proti Straně?",
+      "options": [
+        "Dopis",
+        "Deník",
+        "Manifest",
+        "Článek"
+      ],
+      "answer": "Deník"
+    },
+    {
+      "topic": "1984 – George Orwell",
+      "question": "Kdo sleduje občany v románu?",
+      "options": [
+        "Ideopolicie",
+        "Vojsko",
+        "Soudci",
+        "Sousedi"
+      ],
+      "answer": "Ideopolicie"
+    },
+    {
+      "topic": "1984 – George Orwell",
+      "question": "Kdo je Julia v příběhu?",
+      "options": [
+        "Winstonova sestra",
+        "Winstonova milenka",
+        "Winstonova šéfka",
+        "Winstonova matka"
+      ],
+      "answer": "Winstonova milenka"
+    },
+    {
+      "topic": "1984 – George Orwell",
+      "question": "Co je hlavní téma románu?",
+      "options": [
+        "Láska",
+        "Totalita",
+        "Válka",
+        "Náboženství"
+      ],
+      "answer": "Totalita"
+    },
+    {
+      "topic": "1984 – George Orwell",
+      "question": "Kde se Winston s Julií schází?",
+      "options": [
+        "V parku",
+        "V obchodě",
+        "V pronajaté místnosti",
+        "V chrámu"
+      ],
+      "answer": "V pronajaté místnosti"
+    },
+    {
+      "topic": "1984 – George Orwell",
+      "question": "Kdo zradí Winstona a Julii?",
+      "options": [
+        "Velký Bratr",
+        "O’Brien",
+        "Starozitnik",
+        "Ideopolicie"
+      ],
+      "answer": "O’Brien"
+    },
+    {
+      "topic": "1984 – George Orwell",
+      "question": "Jaký literární žánr je 1984?",
+      "options": [
+        "Komedie",
+        "Dystopie",
+        "Novela",
+        "Epos"
+      ],
+      "answer": "Dystopie"
+    },
+    {
+      "topic": "1984 – George Orwell",
+      "question": "Co Orwell kritizuje v románu?",
+      "options": [
+        "Totalitní režimy",
+        "Náboženství",
+        "Umění",
+        "Ekonomiku"
+      ],
+      "answer": "Totalitní režimy"
+    },
+    {
+      "topic": "1984 – George Orwell",
+      "question": "Jaký je časový rámec příběhu?",
+      "options": [
+        "1984",
+        "1949",
+        "2000",
+        "1900"
+      ],
+      "answer": "1984"
+    },
+    {
+      "topic": "1984 – George Orwell",
+      "question": "Co symbolizuje Velký Bratr?",
+      "options": [
+        "Lásku",
+        "Dozor",
+        "Náboženství",
+        "Spravedlnost"
+      ],
+      "answer": "Dozor"
+    },
+    {
+      "topic": "1984 – George Orwell",
+      "question": "Jaký jazykový prostředek Orwell používá?",
+      "options": [
+        "Alegorie",
+        "Rým",
+        "Eufemismus",
+        "Personifikace"
+      ],
+      "answer": "Alegorie"
+    },
+    {
+      "topic": "1984 – George Orwell",
+      "question": "Co je účelem přepisování historie?",
+      "options": [
+        "Vzdělávání",
+        "Udržení moci Strany",
+        "Zábava",
+        "Ochrana lidí"
+      ],
+      "answer": "Udržení moci Strany"
+    },
+    {
+      "topic": "1984 – George Orwell",
+      "question": "Jaký je osud Winstona na konci?",
+      "options": [
+        "Uteče",
+        "Je převychován",
+        "Stane se vůdcem",
+        "Zůstane v odboji"
+      ],
+      "answer": "Je převychován"
+    },
+    {
+      "topic": "1984 – George Orwell",
+      "question": "Kde se román odehrává?",
+      "options": [
+        "Londýn",
+        "New York",
+        "Moskva",
+        "Paříž"
+      ],
+      "answer": "Londýn"
+    },
+    {
+      "topic": "Spalovač mrtvol – Ladislav Fuks",
+      "question": "Kdo je hlavní postavou románu?",
+      "options": [
+        "Karel Kopfrkingl",
+        "Willi Reinke",
+        "Lakmé",
+        "Dvořák"
+      ],
+      "answer": "Karel Kopfrkingl"
+    },
+    {
+      "topic": "Spalovač mrtvol – Ladislav Fuks",
+      "question": "Kde Kopfrkingl pracuje?",
+      "options": [
+        "V nemocnici",
+        "V krematoriu",
+        "V továrně",
+        "V úřadu"
+      ],
+      "answer": "V krematoriu"
+    },
+    {
+      "topic": "Spalovač mrtvol – Ladislav Fuks",
+      "question": "Jak se Kopfrkingl mění pod vlivem nacismu?",
+      "options": [
+        "Stává se odbojářem",
+        "Ztrácí morálku",
+        "Pomáhá židům",
+        "Odmítá spolupracovat"
+      ],
+      "answer": "Ztrácí morálku"
+    },
+    {
+      "topic": "Spalovač mrtvol – Ladislav Fuks",
+      "question": "Kdo je Willi Reinke?",
+      "options": [
+        "Kopfrkinglův přítel",
+        "Jeho šéf",
+        "Jeho soused",
+        "Jeho syn"
+      ],
+      "answer": "Kopfrkinglův přítel"
+    },
+    {
+      "topic": "Spalovač mrtvol – Ladislav Fuks",
+      "question": "Co Kopfrkingl udělá se svou rodinou?",
+      "options": [
+        "Zachrání ji",
+        "Zradí ji",
+        "Ochrání ji",
+        "Opustí ji"
+      ],
+      "answer": "Zradí ji"
+    },
+    {
+      "topic": "Spalovač mrtvol – Ladislav Fuks",
+      "question": "Jaké je hlavní téma románu?",
+      "options": [
+        "Láska",
+        "Zlo nacismu",
+        "Umění",
+        "Náboženství"
+      ],
+      "answer": "Zlo nacismu"
+    },
+    {
+      "topic": "Spalovač mrtvol – Ladislav Fuks",
+      "question": "Kde se příběh odehrává?",
+      "options": [
+        "Brno",
+        "Praha",
+        "Plzeň",
+        "Ostrava"
+      ],
+      "answer": "Praha"
+    },
+    {
+      "topic": "Spalovač mrtvol – Ladislav Fuks",
+      "question": "Jaký literární žánr je román?",
+      "options": [
+        "Komedie",
+        "Psychologický román",
+        "Epos",
+        "Novela"
+      ],
+      "answer": "Psychologický román"
+    },
+    {
+      "topic": "Spalovač mrtvol – Ladislav Fuks",
+      "question": "Co Fuks kritizuje v románu?",
+      "options": [
+        "Nacismus",
+        "Kapitalismus",
+        "Náboženství",
+        "Umění"
+      ],
+      "answer": "Nacismus"
+    },
+    {
+      "topic": "Spalovač mrtvol – Ladislav Fuks",
+      "question": "Jaký je časový rámec příběhu?",
+      "options": [
+        "1938–1945",
+        "1945–1950",
+        "1920–1930",
+        "1950–1960"
+      ],
+      "answer": "1938–1945"
+    },
+    {
+      "topic": "Spalovač mrtvol – Ladislav Fuks",
+      "question": "Co symbolizuje krematorium?",
+      "options": [
+        "Lásku",
+        "Zlo",
+        "Náboženství",
+        "Spravedlnost"
+      ],
+      "answer": "Zlo"
+    },
+    {
+      "topic": "Spalovač mrtvol – Ladislav Fuks",
+      "question": "Jaký jazykový prostředek Fuks často používá?",
+      "options": [
+        "Ironie",
+        "Rým",
+        "Alegorie",
+        "Hyperbola"
+      ],
+      "answer": "Ironie"
+    },
+    {
+      "topic": "Spalovač mrtvol – Ladislav Fuks",
+      "question": "Kdo je Lakmé v příběhu?",
+      "options": [
+        "Kopfrkinglova žena",
+        "Jeho dcera",
+        "Jeho milenka",
+        "Jeho sestra"
+      ],
+      "answer": "Kopfrkinglova žena"
+    },
+    {
+      "topic": "Spalovač mrtvol – Ladislav Fuks",
+      "question": "Jaký je osud Kopfrkingla na konci?",
+      "options": [
+        "Je uvězněn",
+        "Spáchá sebevraždu",
+        "Pokračuje v práci",
+        "Uteče"
+      ],
+      "answer": "Pokračuje v práci"
+    },
+    {
+      "topic": "Spalovač mrtvol – Ladislav Fuks",
+      "question": "Co ovlivňuje Kopfrkinglovu proměnu?",
+      "options": [
+        "Láska",
+        "Nacistická ideologie",
+        "Rodinné vztahy",
+        "Ekonomická krize"
+      ],
+      "answer": "Nacistická ideologie"
     }
 ]
