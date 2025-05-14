@@ -2473,5 +2473,830 @@
         "Ekonomická krize"
       ],
       "answer": "Nacistická ideologie"
+    },
+        {
+      "topic": "Kaligramy – Guillaume Apollinaire",
+      "question": "V jakém roce byla vydána sbírka Kaligramy?",
+      "options": [
+        "1914",
+        "1918",
+        "1920",
+        "1900"
+      ],
+      "answer": "1918"
+    },
+    {
+      "topic": "Kaligramy – Guillaume Apollinaire",
+      "question": "Jaký je hlavní rys kaligramů?",
+      "options": [
+        "Rýmované verše",
+        "Typografické uspořádání do obrazců",
+        "Dlouhé epické básně",
+        "Pravidelný rytmus"
+      ],
+      "answer": "Typografické uspořádání do obrazců"
+    },
+    {
+      "topic": "Kaligramy – Guillaume Apollinaire",
+      "question": "Jaký literární směr Kaligramy reprezentují?",
+      "options": [
+        "Romantismus",
+        "Surrealismus",
+        "Kubismus",
+        "Realismus"
+      ],
+      "answer": "Kubismus"
+    },
+    {
+      "topic": "Kaligramy – Guillaume Apollinaire",
+      "question": "Jaké téma se často objevuje v Kaligramech?",
+      "options": [
+        "Válka",
+        "Náboženství",
+        "Historie",
+        "Politika"
+      ],
+      "answer": "Válka"
+    },
+    {
+      "topic": "Kaligramy – Guillaume Apollinaire",
+      "question": "Jaký jazykový prostředek Apollinaire často používá?",
+      "options": [
+        "Hovorové výrazy",
+        "Rým",
+        "Hyperbola",
+        "Personifikace"
+      ],
+      "answer": "Hovorové výrazy"
+    },
+    {
+      "topic": "Kaligramy – Guillaume Apollinaire",
+      "question": "Co ovlivnilo Apollinairovo psaní Kaligramů?",
+      "options": [
+        "Průmyslová revoluce",
+        "První světová válka",
+        "Francouzská revoluce",
+        "Druhá světová válka"
+      ],
+      "answer": "První světová válka"
+    },
+    {
+      "topic": "Kaligramy – Guillaume Apollinaire",
+      "question": "Jaký je literární žánr Kaligramů?",
+      "options": [
+        "Epos",
+        "Básnická sbírka",
+        "Drama",
+        "Román"
+      ],
+      "answer": "Básnická sbírka"
+    },
+    {
+      "topic": "Kaligramy – Guillaume Apollinaire",
+      "question": "Jaký motiv se objevuje v Kaligramech?",
+      "options": [
+        "Cestování",
+        "Láska",
+        "Bohatství",
+        "Pomsta"
+      ],
+      "answer": "Láska"
+    },
+    {
+      "topic": "Kaligramy – Guillaume Apollinaire",
+      "question": "Kde Apollinaire publikoval své básně?",
+      "options": [
+        "Paříž",
+        "Londýn",
+        "Řím",
+        "Berlín"
+      ],
+      "answer": "Paříž"
+    },
+    {
+      "topic": "Kaligramy – Guillaume Apollinaire",
+      "question": "Jaký je časový rámec tvorby Kaligramů?",
+      "options": [
+        "1914–1918",
+        "1900–1905",
+        "1920–1925",
+        "1930–1935"
+      ],
+      "answer": "1914–1918"
+    },
+    {
+      "topic": "Kaligramy – Guillaume Apollinaire",
+      "question": "Co Apollinaire kritizuje ve svých básních?",
+      "options": [
+        "Válku",
+        "Náboženství",
+        "Kapitalismus",
+        "Umění"
+      ],
+      "answer": "Válku"
+    },
+    {
+      "topic": "Kaligramy – Guillaume Apollinaire",
+      "question": "Jaký je způsob vyprávění v Kaligramech?",
+      "options": [
+        "Ich-forma",
+        "Autorská řeč",
+        "Dialogy",
+        "Er-forma"
+      ],
+      "answer": "Autorská řeč"
+    },
+    {
+      "topic": "Kaligramy – Guillaume Apollinaire",
+      "question": "Co symbolizuje typografické uspořádání básní?",
+      "options": [
+        "Chaos války",
+        "Předmět básně",
+        "Náboženskou víru",
+        "Společenský řád"
+      ],
+      "answer": "Předmět básně"
+    },
+    {
+      "topic": "Kaligramy – Guillaume Apollinaire",
+      "question": "Jaký je Apollinairův styl psaní?",
+      "options": [
+        "Spisovný",
+        "Kombinace spisovného a nespisovného",
+        "Výhradně nespisovný",
+        "Archaismy"
+      ],
+      "answer": "Kombinace spisovného a nespisovného"
+    },
+    {
+      "topic": "Kaligramy – Guillaume Apollinaire",
+      "question": "Jaký kulturní kontext ovlivnil Kaligramy?",
+      "options": [
+        "Avantgarda",
+        "Baroko",
+        "Klasicismus",
+        "Romantismus"
+      ],
+      "answer": "Avantgarda"
+    },
+    {
+      "topic": "Měsíce – Karel Toman",
+      "question": "V jakém roce byla vydána sbírka Měsíce?",
+      "options": [
+        "1903",
+        "1910",
+        "1920",
+        "1930"
+      ],
+      "answer": "1903"
+    },
+    {
+      "topic": "Měsíce – Karel Toman",
+      "question": "Jaký je hlavní motiv sbírky Měsíce?",
+      "options": [
+        "Příroda",
+        "Válka",
+        "Náboženství",
+        "Technologie"
+      ],
+      "answer": "Příroda"
+    },
+    {
+      "topic": "Měsíce – Karel Toman",
+      "question": "Jaký literární směr sbírka reprezentuje?",
+      "options": [
+        "Symbolismus",
+        "Realismus",
+        "Futurismus",
+        "Surrealismus"
+      ],
+      "answer": "Symbolismus"
+    },
+    {
+      "topic": "Měsíce – Karel Toman",
+      "question": "Jaký je literární žánr sbírky?",
+      "options": [
+        "Román",
+        "Básnická sbírka",
+        "Drama",
+        "Epos"
+      ],
+      "answer": "Básnická sbírka"
+    },
+    {
+      "topic": "Měsíce – Karel Toman",
+      "question": "Co je typické pro Tomanovy básně v Měsících?",
+      "options": [
+        "Humor",
+        "Melancholie",
+        "Ironie",
+        "Satira"
+      ],
+      "answer": "Melancholie"
+    },
+    {
+      "topic": "Měsíce – Karel Toman",
+      "question": "Jaký jazykový prostředek Toman často používá?",
+      "options": [
+        "Metafora",
+        "Hyperbola",
+        "Rým",
+        "Vulgarismy"
+      ],
+      "answer": "Metafora"
+    },
+    {
+      "topic": "Měsíce – Karel Toman",
+      "question": "Jaké téma se prolíná sbírkou?",
+      "options": [
+        "Láska",
+        "Politika",
+        "Válka",
+        "Náboženství"
+      ],
+      "answer": "Láska"
+    },
+    {
+      "topic": "Měsíce – Karel Toman",
+      "question": "Kde se Toman inspiroval pro své básně?",
+      "options": [
+        "Městský život",
+        "Venkovská krajina",
+        "Cestování",
+        "Historie"
+      ],
+      "answer": "Venkovská krajina"
+    },
+    {
+      "topic": "Měsíce – Karel Toman",
+      "question": "Jaký je časový rámec tvorby Měsíců?",
+      "options": [
+        "Konec 19. století",
+        "Začátek 20. století",
+        "Meziválečné období",
+        "Po druhé světové válce"
+      ],
+      "answer": "Začátek 20. století"
+    },
+    {
+      "topic": "Měsíce – Karel Toman",
+      "question": "Co Toman oslavuje ve svých básních?",
+      "options": [
+        "Průmysl",
+        "Přírodu",
+        "Válku",
+        "Město"
+      ],
+      "answer": "Přírodu"
+    },
+    {
+      "topic": "Měsíce – Karel Toman",
+      "question": "Jaký je Tomanův styl psaní?",
+      "options": [
+        "Hovorový",
+        "Lyrický",
+        "Satirický",
+        "Epický"
+      ],
+      "answer": "Lyrický"
+    },
+    {
+      "topic": "Měsíce – Karel Toman",
+      "question": "Co symbolizuje měsíc v Tomanových básních?",
+      "options": [
+        "Válku",
+        "Melancholii",
+        "Bohatství",
+        "Spravedlnost"
+      ],
+      "answer": "Melancholii"
+    },
+    {
+      "topic": "Měsíce – Karel Toman",
+      "question": "Jaký je způsob vyprávění v Měsících?",
+      "options": [
+        "Ich-forma",
+        "Autorská řeč",
+        "Dialogy",
+        "Er-forma"
+      ],
+      "answer": "Ich-forma"
+    },
+    {
+      "topic": "Měsíce – Karel Toman",
+      "question": "Jaký kulturní kontext ovlivnil Měsíce?",
+      "options": [
+        "Český modernismus",
+        "Baroko",
+        "Klasicismus",
+        "Avantgarda"
+      ],
+      "answer": "Český modernismus"
+    },
+    {
+      "topic": "Měsíce – Karel Toman",
+      "question": "Jaký je veršový styl sbírky?",
+      "options": [
+        "Volný verš",
+        "Rýmovaný verš",
+        "Epický verš",
+        "Kaligram"
+      ],
+      "answer": "Rýmovaný verš"
+    },
+    {
+      "topic": "Noc na Karlštejně – Jaroslav Vrchlický",
+      "question": "Kdo je hlavní postavou hry?",
+      "options": [
+        "Karel IV.",
+        "Alena",
+        "Petr",
+        "Eliška"
+      ],
+      "answer": "Karel IV."
+    },
+    {
+      "topic": "Noc na Karlštejně – Jaroslav Vrchlický",
+      "question": "Jaký je hlavní konflikt hry?",
+      "options": [
+        "Válka",
+        "Láska",
+        "Zákaz žen na hradě",
+        "Politické intriky"
+      ],
+      "answer": "Zákaz žen na hradě"
+    },
+    {
+      "topic": "Noc na Karlštejně – Jaroslav Vrchlický",
+      "question": "Jaký literární žánr hra představuje?",
+      "options": [
+        "Tragédie",
+        "Komedie",
+        "Epos",
+        "Novela"
+      ],
+      "answer": "Komedie"
+    },
+    {
+      "topic": "Noc na Karlštejně – Jaroslav Vrchlický",
+      "question": "Kdo se převléká za muže, aby vstoupil na hrad?",
+      "options": [
+        "Eliška",
+        "Alena",
+        "Marie",
+        "Zuzana"
+      ],
+      "answer": "Alena"
+    },
+    {
+      "topic": "Noc na Karlštejně – Jaroslav Vrchlický",
+      "question": "Jaký je časový rámec příběhu?",
+      "options": [
+        "14. století",
+        "16. století",
+        "18. století",
+        "19. století"
+      ],
+      "answer": "14. století"
+    },
+    {
+      "topic": "Noc na Karlštejně – Jaroslav Vrchlický",
+      "question": "Jaký literární směr hra reprezentuje?",
+      "options": [
+        "Romantismus",
+        "Realismus",
+        "Symbolismus",
+        "Klasicismus"
+      ],
+      "answer": "Romantismus"
+    },
+    {
+      "topic": "Noc na Karlštejně – Jaroslav Vrchlický",
+      "question": "Jaký jazykový prostředek Vrchlický často používá?",
+      "options": [
+        "Ironie",
+        "Metafora",
+        "Vulgarismy",
+        "Hyperbola"
+      ],
+      "answer": "Metafora"
+    },
+    {
+      "topic": "Noc na Karlštejně – Jaroslav Vrchlický",
+      "question": "Kde se hra odehrává?",
+      "options": [
+        "Praha",
+        "Karlštejn",
+        "Kutná Hora",
+        "Český Krumlov"
+      ],
+      "answer": "Karlštejn"
+    },
+    {
+      "topic": "Noc na Karlštejně – Jaroslav Vrchlický",
+      "question": "Co je hlavní téma hry?",
+      "options": [
+        "Láska a čest",
+        "Válka",
+        "Náboženství",
+        "Politika"
+      ],
+      "answer": "Láska a čest"
+    },
+    {
+      "topic": "Noc na Karlštejně – Jaroslav Vrchlický",
+      "question": "Kdo je Eliška v příběhu?",
+      "options": [
+        "Karelova manželka",
+        "Alenina sestra",
+        "Karelova dcera",
+        "Služebná"
+      ],
+      "answer": "Karelova manželka"
+    },
+    {
+      "topic": "Noc na Karlštejně – Jaroslav Vrchlický",
+      "question": "Jaký je závěr hry?",
+      "options": [
+        "Tragický",
+        "Šťastný",
+        "Otevřený",
+        "Ironický"
+      ],
+      "answer": "Šťastný"
+    },
+    {
+      "topic": "Noc na Karlštejně – Jaroslav Vrchlický",
+      "question": "Co symbolizuje hrad Karlštejn?",
+      "options": [
+        "Lásku",
+        "Čest",
+        "Válku",
+        "Náboženství"
+      ],
+      "answer": "Čest"
+    },
+    {
+      "topic": "Noc na Karlštejně – Jaroslav Vrchlický",
+      "question": "Jaký je styl psaní hry?",
+      "options": [
+        "Hovorový",
+        "Veršovaný",
+        "Satirický",
+        "Epický"
+      ],
+      "answer": "Veršovaný"
+    },
+    {
+      "topic": "Noc na Karlštejně – Jaroslav Vrchlický",
+      "question": "Co Vrchlický oslavuje v díle?",
+      "options": [
+        "Historii",
+        "Přírodu",
+        "Válku",
+        "Modernitu"
+      ],
+      "answer": "Historii"
+    },
+    {
+      "topic": "Noc na Karlštejně – Jaroslav Vrchlický",
+      "question": "Jaký kulturní kontext ovlivnil hru?",
+      "options": [
+        "Národní obrození",
+        "Avantgarda",
+        "Baroko",
+        "Modernismus"
+      ],
+      "answer": "Národní obrození"
+    },
+    {
+      "topic": "Smrt krásných srnců – Ota Pavel",
+      "question": "Jaký je literární žánr knihy?",
+      "options": [
+        "Román",
+        "Povídková sbírka",
+        "Epos",
+        "Drama"
+      ],
+      "answer": "Povídková sbírka"
+    },
+    {
+      "topic": "Smrt krásných srnců – Ota Pavel",
+      "question": "Jaké je hlavní téma knihy?",
+      "options": [
+        "Válka",
+        "Rodinný život",
+        "Politika",
+        "Náboženství"
+      ],
+      "answer": "Rodinný život"
+    },
+    {
+      "topic": "Smrt krásných srnců – Ota Pavel",
+      "question": "Kdo je hlavní vypravěč povídek?",
+      "options": [
+        "Ota Pavel",
+        "Jeho otec",
+        "Jeho bratr",
+        "Jeho matka"
+      ],
+      "answer": "Ota Pavel"
+    },
+    {
+      "topic": "Smrt krásných srnců – Ota Pavel",
+      "question": "Jaký motiv se prolíná povídkami?",
+      "options": [
+        "Rybolov",
+        "Válka",
+        "Cestování",
+        "Bohatství"
+      ],
+      "answer": "Rybolov"
+    },
+    {
+      "topic": "Smrt krásných srnců – Ota Pavel",
+      "question": "Jaký je časový rámec příběhů?",
+      "options": [
+        "1930–1945",
+        "1950–1960",
+        "1900–1910",
+        "1970–1980"
+      ],
+      "answer": "1930–1945"
+    },
+    {
+      "topic": "Smrt krásných srnců – Ota Pavel",
+      "question": "Jaký literární směr kniha reprezentuje?",
+      "options": [
+        "Realismus",
+        "Surrealismus",
+        "Romantismus",
+        "Modernismus"
+      ],
+      "answer": "Realismus"
+    },
+    {
+      "topic": "Smrt krásných srnců – Ota Pavel",
+      "question": "Jaký jazykový prostředek Pavel často používá?",
+      "options": [
+        "Humor",
+        "Ironie",
+        "Vulgarismy",
+        "Alegorie"
+      ],
+      "answer": "Humor"
+    },
+    {
+      "topic": "Smrt krásných srnců – Ota Pavel",
+      "question": "Kde se povídky odehrávají?",
+      "options": [
+        "Praha a Berounsko",
+        "Brno",
+        "Plzeň",
+        "Ostrava"
+      ],
+      "answer": "Praha a Berounsko"
+    },
+    {
+      "topic": "Smrt krásných srnců – Ota Pavel",
+      "question": "Co symbolizují krásní srnci?",
+      "options": [
+        "Lásku",
+        "Ztrátu nevinnosti",
+        "Bohatství",
+        "Válku"
+      ],
+      "answer": "Ztrátu nevinnosti"
+    },
+    {
+      "topic": "Smrt krásných srnců – Ota Pavel",
+      "question": "Co ovlivnilo Pavlovo psaní?",
+      "options": [
+        "Druhá světová válka",
+        "Průmyslová revoluce",
+        "Národní obrození",
+        "Avantgarda"
+      ],
+      "answer": "Druhá světová válka"
+    },
+    {
+      "topic": "Smrt krásných srnců – Ota Pavel",
+      "question": "Jaký je styl psaní povídek?",
+      "options": [
+        "Hovorový",
+        "Epický",
+        "Satirický",
+        "Symbolický"
+      ],
+      "answer": "Hovorový"
+    },
+    {
+      "topic": "Smrt krásných srnců – Ota Pavel",
+      "question": "Co Pavel kritizuje v knize?",
+      "options": [
+        "Nacismus",
+        "Kapitalismus",
+        "Náboženství",
+        "Umění"
+      ],
+      "answer": "Nacismus"
+    },
+    {
+      "topic": "Smrt krásných srnců – Ota Pavel",
+      "question": "Kdo je otec v povídkách?",
+      "options": [
+        "Leo Popper",
+        "Jan Pavel",
+        "Karel Prošek",
+        "František Novák"
+      ],
+      "answer": "Leo Popper"
+    },
+    {
+      "topic": "Smrt krásných srnců – Ota Pavel",
+      "question": "Jaký je osud rodiny během války?",
+      "options": [
+        "Uteče",
+        "Je deportována",
+        "Přežije",
+        "Přidá se k odboji"
+      ],
+      "answer": "Je deportována"
+    },
+    {
+      "topic": "Smrt krásných srnců – Ota Pavel",
+      "question": "Jaký kulturní kontext ovlivnil knihu?",
+      "options": [
+        "Česká literatura 20. století",
+        "Baroko",
+        "Klasicismus",
+        "Romantismus"
+      ],
+      "answer": "Česká literatura 20. století"
+    },
+    {
+      "topic": "Petr a Lucie – Romain Rolland",
+      "question": "Kdo je hlavní postavou novely?",
+      "options": [
+        "Petr Aubier",
+        "Lucie Dumont",
+        "Petrův otec",
+        "Petrův bratr"
+      ],
+      "answer": "Petr Aubier"
+    },
+    {
+      "topic": "Petr a Lucie – Romain Rolland",
+      "question": "Kde se Petr poprvé setká s Lucií?",
+      "options": [
+        "V parku",
+        "V podzemní dráze",
+        "V kavárně",
+        "Na ulici"
+      ],
+      "answer": "V podzemní dráze"
+    },
+    {
+      "topic": "Petr a Lucie – Romain Rolland",
+      "question": "Jaké je hlavní téma novely?",
+      "options": [
+        "Válka",
+        "Tragická láska",
+        "Politika",
+        "Náboženství"
+      ],
+      "answer": "Tragická láska"
+    },
+    {
+      "topic": "Petr a Lucie – Romain Rolland",
+      "question": "Jaký je literární žánr díla?",
+      "options": [
+        "Román",
+        "Novela",
+        "Drama",
+        "Epos"
+      ],
+      "answer": "Novela"
+    },
+    {
+      "topic": "Petr a Lucie – Romain Rolland",
+      "question": "Kde se příběh odehrává?",
+      "options": [
+        "Paříž",
+        "Londýn",
+        "Řím",
+        "Berlín"
+      ],
+      "answer": "Paříž"
+    },
+    {
+      "topic": "Petr a Lucie – Romain Rolland",
+      "question": "Jaký je časový rámec příběhu?",
+      "options": [
+        "1918",
+        "1900",
+        "1930",
+        "1945"
+      ],
+      "answer": "1918"
+    },
+    {
+      "topic": "Petr a Lucie – Romain Rolland",
+      "question": "Co Petr kritizuje v příběhu?",
+      "options": [
+        "Válku",
+        "Náboženství",
+        "Kapitalismus",
+        "Umění"
+      ],
+      "answer": "Válku"
+    },
+    {
+      "topic": "Petr a Lucie – Romain Rolland",
+      "question": "Jaký literární směr novela reprezentuje?",
+      "options": [
+        "Realismus",
+        "Romantismus",
+        "Surrealismus",
+        "Modernismus"
+      ],
+      "answer": "Realismus"
+    },
+    {
+      "topic": "Petr a Lucie – Romain Rolland",
+      "question": "Jaký jazykový prostředek Rolland často používá?",
+      "options": [
+        "Symbolismus",
+        "Ironie",
+        "Humor",
+        "Vulgarismy"
+      ],
+      "answer": "Symbolismus"
+    },
+    {
+      "topic": "Petr a Lucie – Romain Rolland",
+      "question": "Co se stane během náletu na Paříž?",
+      "options": [
+        "Petr uteče",
+        "Petr a Lucie se setkají",
+        "Petr je zraněn",
+        "Lucie odjíždí"
+      ],
+      "answer": "Petr a Lucie se setkají"
+    },
+    {
+      "topic": "Petr a Lucie – Romain Rolland",
+      "question": "Jaký je osud Petra a Lucie?",
+      "options": [
+        "Přežijí",
+        "Zemřou při náletu",
+        "Rozdělí se",
+        "Utečou z Paříže"
+      ],
+      "answer": "Zemřou při náletu"
+    },
+    {
+      "topic": "Petr a Lucie – Romain Rolland",
+      "question": "Co symbolizuje jejich láska?",
+      "options": [
+        "Nádej",
+        "Ztrátu",
+        "Válku",
+        "Bohatství"
+      ],
+      "answer": "Nádej"
+    },
+    {
+      "topic": "Petr a Lucie – Romain Rolland",
+      "question": "Jaký je styl psaní novely?",
+      "options": [
+        "Hovorový",
+        "Lyrický",
+        "Satirický",
+        "Epický"
+      ],
+      "answer": "Lyrický"
+    },
+    {
+      "topic": "Petr a Lucie – Romain Rolland",
+      "question": "Co ovlivnilo Rollandovo psaní?",
+      "options": [
+        "První světová válka",
+        "Francouzská revoluce",
+        "Druhá světová válka",
+        "Průmyslová revoluce"
+      ],
+      "answer": "První světová válka"
+    },
+    {
+      "topic": "Petr a Lucie – Romain Rolland",
+      "question": "Jaký kulturní kontext ovlivnil novelu?",
+      "options": [
+        "Evropská literatura 20. století",
+        "Baroko",
+        "Klasicismus",
+        "Romantismus"
+      ],
+      "answer": "Evropská literatura 20. století"
     }
 ]
