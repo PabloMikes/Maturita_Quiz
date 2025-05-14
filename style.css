@@ -639,3 +639,30 @@ h2 {
   text-transform: uppercase;
   letter-spacing: 2px;
 }
+
+.certificate-topics {
+  margin: 15px 0;
+  text-align: left;
+  width: 100%;
+}
+
+.certificate-topics h3 {
+  color: var(--primary);
+  margin-bottom: 10px;
+  font-size: 1.2rem;
+}
+
+.certificate-topics ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  gap: 5px;
+}
+
+.certificate-topics li {
+  padding: 5px;
+  border-left: 2px solid var(--tertiary);
+  margin-left: 10px;
+}

@@ -197,17 +197,32 @@ function generateCertificate(name) {
       break;
     case 'java':
       subjectName = 'JAVA';
-      case 'cestina':
-      subjectName = 'ČEŠTINA';
+      break;
+    case 'cestina':
+      subjectName = 'CEŠTINA'; // Změněno na obecnější název
       break;
     default:
       subjectName = 'TEST';
   }
   
-  // Get selected topics if available
-  const selectedTopics = [...document.querySelectorAll('.topic-btn.selected')]
-    .map(btn => btn.dataset.topic)
-    .join(', ');
+  // Get selected topics - upraveno pro lepší formátování
+  const selectedButtons = document.querySelectorAll('.topic-btn.selected');
+  let topicsText = '';
+  
+  if (selectedButtons.length > 0) {
+    const topics = Array.from(selectedButtons).map(btn => {
+      // Pro českou literaturu zobrazíme pouze název díla (pokud obsahuje číslo a tečku na začátku)
+      if (currentCategory === 'cestina') {
+        return btn.textContent.replace(/^\d+\.\s*/, ''); // Odstraní číslo a tečku na začátku
+      }
+      return btn.textContent;
+    });
+    
+    topicsText = `<div class="certificate-topics">
+      <h3>Probraná témata:</h3>
+      <ul>${topics.map(topic => `<li>${topic}</li>`).join('')}</ul>
+    </div>`;
+  }
 
   const certificateHTML = `
     <div class="certificate">
@@ -216,7 +231,7 @@ function generateCertificate(name) {
         <div class="certificate-body">
           <p>Uživatel <strong>${name}</strong> úspěšně dokončil:</p>
           <div class="certificate-subject">${subjectName}</div>
-          ${selectedTopics ? `<p>Témata: ${selectedTopics}</p>` : ''}
+          ${topicsText}
           <div class="certificate-score">${correctCount}/${totalCount} (${percent}%)</div>
           <p>Datum: ${new Date().toLocaleDateString('cs-CZ')}</p>
           <div class="certificate-stamp"></div>
