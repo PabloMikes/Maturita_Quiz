@@ -702,5 +702,225 @@
       "Vytvoření komplexního objektu s mnoha atributy"
     ],
     "answer": "Správa konfigurace aplikace"
+  },
+  {
+    "topic": "13. Datum a čas",
+    "question": "Která třída v Javě slouží k získání aktuálního data bez času?",
+    "options": [
+      "LocalDateTime",
+      "ZonedDateTime",
+      "LocalDate",
+      "LocalTime"
+    ],
+    "answer": "LocalDate"
+  },
+  {
+    "topic": "13. Datum a čas",
+    "question": "Jaká metoda se používá k formátování data a času v Javě?",
+    "options": [
+      "DateTimeFormatter.format()",
+      "LocalDate.parse()",
+      "ZonedDateTime.now()",
+      "ChronoUnit.between()"
+    ],
+    "answer": "DateTimeFormatter.format()"
+  },
+  {
+    "topic": "13. Datum a čas",
+    "question": "K čemu slouží metoda ChronoUnit.between()?",
+    "options": [
+      "Vytvoření nového data",
+      "Výpočet rozdílu mezi dvěma datumy",
+      "Formátování data do řetězce",
+      "Přidání času k datu"
+    ],
+    "answer": "Výpočet rozdílu mezi dvěma datumy"
+  },
+  {
+    "topic": "13. Datum a čas",
+    "question": "Která třída umožňuje práci s časovou zónou?",
+    "options": [
+      "LocalDate",
+      "LocalTime",
+      "ZonedDateTime",
+      "DateTimeFormatter"
+    ],
+    "answer": "ZonedDateTime"
+  },
+  {
+    "topic": "13. Datum a čas",
+    "question": "Jaký formát by měl výstup metody DateTimeFormatter.ofPattern('yyyy-MM-dd')?",
+    "options": [
+      "2025/12/31",
+      "31-12-2025",
+      "2025-12-31",
+      "12-31-2025"
+    ],
+    "answer": "2025-12-31"
+  },
+  {
+    "topic": "14. Práce se soubory",
+    "question": "Která metoda třídy File vytvoří nový soubor?",
+    "options": [
+      "writeString()",
+      "createNewFile()",
+      "readAllLines()",
+      "createDirectories()"
+    ],
+    "answer": "createNewFile()"
+  },
+  {
+    "topic": "14. Práce se soubory",
+    "question": "Co je hlavní výhodou formátu CSV oproti JSON?",
+    "options": [
+      "Podpora vnořených struktur",
+      "Jednoduchý formát a malá velikost",
+      "Podpora různých datových typů",
+      "Možnost přidávat komentáře"
+    ],
+    "answer": "Jednoduchý formát a malá velikost"
+  },
+  {
+    "topic": "14. Práce se soubory",
+    "question": "Která třída z JavaFX slouží k výběru souboru v grafickém rozhraní?",
+    "options": [
+      "FileWriter",
+      "FileChooser",
+      "BufferedReader",
+      "Files"
+    ],
+    "answer": "FileChooser"
+  },
+  {
+    "topic": "14. Práce se soubory",
+    "question": "K čemu slouží metoda Files.writeString() v balíčku java.nio?",
+    "options": [
+      "Čtení souboru po řádcích",
+      "Zápis řetězce do souboru",
+      "Vytvoření adresáře",
+      "Kopírování souboru"
+    ],
+    "answer": "Zápis řetězce do souboru"
+  },
+  {
+    "topic": "14. Práce se soubory",
+    "question": "Která výjimka může být vyvolána při čtení neexistujícího souboru?",
+    "options": [
+      "IOException",
+      "FileNotFoundException",
+      "NullPointerException",
+      "ArithmeticException"
+    ],
+    "answer": "FileNotFoundException"
+  },
+  {
+    "topic": "15. Kolekce",
+    "question": "Co je hlavní vlastností kolekce typu Set?",
+    "options": [
+      "Udržuje pořadí prvků",
+      "Neumožňuje duplicitní prvky",
+      "Pracuje na principu LIFO",
+      "Ukládá páry klíč-hodnota"
+    ],
+    "answer": "Neumožňuje duplicitní prvky"
+  },
+  {
+    "topic": "15. Kolekce",
+    "question": "Která kolekce je nejvhodnější pro rychlý přístup k prvkům podle indexu?",
+    "options": [
+      "LinkedList",
+      "HashSet",
+      "ArrayList",
+      "HashMap"
+    ],
+    "answer": "ArrayList"
+  },
+  {
+    "topic": "15. Kolekce",
+    "question": "Co je výhodou použití generických kolekcí?",
+    "options": [
+      "Možnost ukládat libovolné typy objektů",
+      "Zajištění typové bezpečnosti",
+      "Rychlejší zpracování dat",
+      "Menší nároky na paměť"
+    ],
+    "answer": "Zajištění typové bezpečnosti"
+  },
+  {
+    "topic": "15. Kolekce",
+    "question": "Která kolekce pracuje na principu LIFO (Last In, First Out)?",
+    "options": [
+      "Queue",
+      "Stack",
+      "ArrayList",
+      "HashSet"
+    ],
+    "answer": "Stack"
+  },
+  {
+    "topic": "15. Kolekce",
+    "question": "Jaká je hlavní vlastnost HashMap?",
+    "options": [
+      "Udržuje pořadí prvků",
+      "Umožňuje duplicitní klíče",
+      "Rychlé vyhledávání podle klíče",
+      "Pracuje na principu FIFO"
+    ],
+    "answer": "Rychlé vyhledávání podle klíče"
+  },
+  {
+    "topic": "16. Výjimky a ladění",
+    "question": "K čemu slouží blok try v Javě?",
+    "options": [
+      "Ukončení programu",
+      "Ošetření potenciálních výjimek",
+      "Inicializace proměnných",
+      "Vytvoření nové výjimky"
+    ],
+    "answer": "Ošetření potenciálních výjimek"
+  },
+  {
+    "topic": "16. Výjimky a ladění",
+    "question": "Který typ výjimky musí být vždy ošetřen nebo deklarován?",
+    "options": [
+      "Unchecked Exception",
+      "Checked Exception",
+      "Error",
+      "RuntimeException"
+    ],
+    "answer": "Checked Exception"
+  },
+  {
+    "topic": "16. Výjimky a ladění",
+    "question": "Co je nutné pro vytvoření vlastní výjimky?",
+    "options": [
+      "Dědění od třídy Exception nebo RuntimeException",
+      "Implementace rozhraní Throwable",
+      "Vytvoření statické metody",
+      "Přepsání metody toString()"
+    ],
+    "answer": "Dědění od třídy Exception nebo RuntimeException"
+  },
+  {
+    "topic": "16. Výjimky a ladění",
+    "question": "K čemu slouží debugger v IDE?",
+    "options": [
+      "Automatické generování kódu",
+      "Sledování a ladění programu krok za krokem",
+      "Kompilace programu",
+      "Správa paměti"
+    ],
+    "answer": "Sledování a ladění programu krok za krokem"
+  },
+  {
+    "topic": "16. Výjimky a ladění",
+    "question": "Který příklad je nekontrolovanou výjimkou?",
+    "options": [
+      "IOException",
+      "SQLException",
+      "NullPointerException",
+      "FileNotFoundException"
+    ],
+    "answer": "NullPointerException"
   }
 ]
