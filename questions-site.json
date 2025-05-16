@@ -1413,10 +1413,10 @@
       "options": [
         "TCP",
         "UDP",
-        "Oba",
+        "TCP UDP",
         "ICMP"
       ],
-      "answer": "Oba"
+      "answer": "TCP UDP"
     },
     {
       "topic": "9. Transportní vrstva",
