@@ -2418,5 +2418,445 @@
       "Aby se zjednodušila správa schránek"
     ],
     "answer": "Aby mohl být zneužit k neautorizovanému odesílání pošty"
+  },
+  {
+    "topic": "17. IIS",
+    "question": "Co je Internet Information Services (IIS)?",
+    "options": [
+      "Systém pro správu e-mailových schránek",
+      "Webová služba pro provoz webových stránek pod Windows Serverem",
+      "Nástroj pro konfiguraci sítě",
+      "Protokol pro šifrování dat"
+    ],
+    "answer": "Webová služba pro provoz webových stránek pod Windows Serverem"
+  },
+  {
+    "topic": "17. IIS",
+    "question": "Jak se instaluje IIS na Windows Serveru?",
+    "options": [
+      "Přes příkazový řádek příkazem 'install iis'",
+      "Přes Add Roles and Features -> Server Roles -> Web Server (IIS)",
+      "Automaticky při instalaci Windows Serveru",
+      "Přes nástroj Group Policy Management"
+    ],
+    "answer": "Přes Add Roles and Features -> Server Roles -> Web Server (IIS)"
+  },
+  {
+    "topic": "17. IIS",
+    "question": "Co charakterizuje dynamické webové stránky na IIS?",
+    "options": [
+      "Obsah je vždy stejný pro všechny uživatele",
+      "Obsah se mění podle interakce uživatele",
+      "Nepodporují PHP ani ASP.NET",
+      "Jsou omezeny na HTML kód"
+    ],
+    "answer": "Obsah se mění podle interakce uživatele"
+  },
+  {
+    "topic": "17. IIS",
+    "question": "Jak je podpora PHP zajištěna na IIS?",
+    "options": [
+      "Přes rozšíření CGI nebo ISAPI",
+      "Automaticky bez další konfigurace",
+      "Přes instalaci Apache serveru",
+      "Přes Active Directory"
+    ],
+    "answer": "Přes rozšíření CGI nebo ISAPI"
+  },
+  {
+    "topic": "17. IIS",
+    "question": "Který port používá protokol HTTPS?",
+    "options": [
+      "80",
+      "110",
+      "443",
+      "993"
+    ],
+    "answer": "443"
+  },
+  {
+    "topic": "17. IIS",
+    "question": "Která HTTP metoda slouží k odeslání dat na server, například z formuláře?",
+    "options": [
+      "GET",
+      "POST",
+      "HEAD",
+      "DELETE"
+    ],
+    "answer": "POST"
+  },
+  {
+    "topic": "17. IIS",
+    "question": "Co označuje HTTP stavový kód 404?",
+    "options": [
+      "Úspěšné vyřízení požadavku",
+      "Chyba na straně serveru",
+      "Stránka nenalezena",
+      "Přesměrování požadavku"
+    ],
+    "answer": "Stránka nenalezena"
+  },
+  {
+    "topic": "17. IIS",
+    "question": "Jaký protokol zajišťuje šifrování při použití HTTPS?",
+    "options": [
+      "TCP",
+      "SSL/TLS",
+      "UDP",
+      "MIME"
+    ],
+    "answer": "SSL/TLS"
+  },
+  {
+    "topic": "17. IIS",
+    "question": "Která verze HTTP protokolu přinesla podporu binární podoby dat?",
+    "options": [
+      "HTTP/0.9",
+      "HTTP/1.0",
+      "HTTP/1.1",
+      "HTTP/2"
+    ],
+    "answer": "HTTP/2"
+  },
+  {
+    "topic": "17. IIS",
+    "question": "Co je účelem cookies v HTTP protokolu?",
+    "options": [
+      "Přenos binárních souborů",
+      "Uchovávání stavových informací",
+      "Šifrování dat",
+      "Správa DNS záznamů"
+    ],
+    "answer": "Uchovávání stavových informací"
+  },
+  {
+    "topic": "18. Konfigurace síťových rozhraní",
+    "question": "Co označuje výchozí směr v routovací tabulce?",
+    "options": [
+      "Cílovou adresu 255.255.255.255",
+      "Cílovou adresu 0.0.0.0",
+      "Lokální adresu rozhraní",
+      "Adresu DNS serveru"
+    ],
+    "answer": "Cílovou adresu 0.0.0.0"
+  },
+  {
+    "topic": "18. Konfigurace síťových rozhraní",
+    "question": "Kde se v Debianu nachází konfigurační soubor pro síťová rozhraní?",
+    "options": [
+      "/etc/hosts",
+      "/etc/network/interfaces",
+      "/etc/resolv.conf",
+      "/etc/sysctl.conf"
+    ],
+    "answer": "/etc/network/interfaces"
+  },
+  {
+    "topic": "18. Konfigurace síťových rozhraní",
+    "question": "K čemu slouží soubor /etc/hosts?",
+    "options": [
+      "Nastavení priority DNS serverů",
+      "Mapování jmen na IP adresy v malých sítích",
+      "Konfigurace routování",
+      "Správa síťových rozhraní"
+    ],
+    "answer": "Mapování jmen na IP adresy v malých sítích"
+  },
+  {
+    "topic": "18. Konfigurace síťových rozhraní",
+    "question": "Který příkaz v Linuxu zobrazí routovací tabulku?",
+    "options": [
+      "ifconfig",
+      "ip route",
+      "ping",
+      "tracert"
+    ],
+    "answer": "ip route"
+  },
+  {
+    "topic": "18. Konfigurace síťových rozhraní",
+    "question": "Co je nutné povolit v souboru /etc/sysctl.conf pro fungování routeru?",
+    "options": [
+      "net.ipv4.ip_forward=1",
+      "net.ipv4.dns_enable=1",
+      "net.ipv4.route_add=1",
+      "net.ipv4.interface_up=1"
+    ],
+    "answer": "net.ipv4.ip_forward=1"
+  },
+  {
+    "topic": "18. Konfigurace síťových rozhraní",
+    "question": "Který nástroj slouží k diagnostice cesty packetu v Linuxu?",
+    "options": [
+      "ifconfig",
+      "ping",
+      "traceroute",
+      "ip addr"
+    ],
+    "answer": "traceroute"
+  },
+  {
+    "topic": "18. Konfigurace síťových rozhraní",
+    "question": "Co určuje soubor /etc/resolv.conf?",
+    "options": [
+      "Konfiguraci síťových rozhraní",
+      "IP adresy DNS serverů",
+      "Routovací tabulku",
+      "Mapování jmen na IP adresy"
+    ],
+    "answer": "IP adresy DNS serverů"
+  },
+  {
+    "topic": "18. Konfigurace síťových rozhraní",
+    "question": "Co znamená direktiva 'auto' v souboru /etc/network/interfaces?",
+    "options": [
+      "Rozhraní se spustí při zapojení kabelu",
+      "Rozhraní se spustí při startu systému",
+      "Rozhraní se vypne při restartu",
+      "Rozhraní ignoruje DNS"
+    ],
+    "answer": "Rozhraní se spustí při startu systému"
+  },
+  {
+    "topic": "18. Konfigurace síťových rozhraní",
+    "question": "Který příkaz v Linuxu vypne síťové rozhraní?",
+    "options": [
+      "ifup",
+      "ifdown",
+      "ip addr",
+      "route add"
+    ],
+    "answer": "ifdown"
+  },
+  {
+    "topic": "18. Konfigurace síťových rozhraní",
+    "question": "Jaký příkaz přidá dočasný směr v routovací tabulce?",
+    "options": [
+      "route add",
+      "ip addr",
+      "ifconfig",
+      "post-up"
+    ],
+    "answer": "route add"
+  },
+  {
+    "topic": "19. DHCP server – Linux",
+    "question": "Otázka 1 k DHCP serveru na Linuxu",
+    "options": [
+      "Možnost A",
+      "Možnost B",
+      "Možnost C",
+      "Možnost D"
+    ],
+    "answer": "Možnost A"
+  },
+  {
+    "topic": "19. DHCP server – Linux",
+    "question": "Otázka 2 k DHCP serveru na Linuxu",
+    "options": [
+      "Možnost A",
+      "Možnost B",
+      "Možnost C",
+      "Možnost D"
+    ],
+    "answer": "Možnost A"
+  },
+  {
+    "topic": "19. DHCP server – Linux",
+    "question": "Otázka 3 k DHCP serveru na Linuxu",
+    "options": [
+      "Možnost A",
+      "Možnost B",
+      "Možnost C",
+      "Možnost D"
+    ],
+    "answer": "Možnost A"
+  },
+  {
+    "topic": "19. DHCP server – Linux",
+    "question": "Otázka 4 k DHCP serveru na Linuxu",
+    "options": [
+      "Možnost A",
+      "Možnost B",
+      "Možnost C",
+      "Možnost D"
+    ],
+    "answer": "Možnost A"
+  },
+  {
+    "topic": "19. DHCP server – Linux",
+    "question": "Otázka 5 k DHCP serveru na Linuxu",
+    "options": [
+      "Možnost A",
+      "Možnost B",
+      "Možnost C",
+      "Možnost D"
+    ],
+    "answer": "Možnost A"
+  },
+  {
+    "topic": "19. DHCP server – Linux",
+    "question": "Otázka 6 k DHCP serveru na Linuxu",
+    "options": [
+      "Možnost A",
+      "Možnost B",
+      "Možnost C",
+      "Možnost D"
+    ],
+    "answer": "Možnost A"
+  },
+  {
+    "topic": "19. DHCP server – Linux",
+    "question": "Otázka 7 k DHCP serveru na Linuxu",
+    "options": [
+      "Možnost A",
+      "Možnost B",
+      "Možnost C",
+      "Možnost D"
+    ],
+    "answer": "Možnost A"
+  },
+  {
+    "topic": "19. DHCP server – Linux",
+    "question": "Otázka 8 k DHCP serveru na Linuxu",
+    "options": [
+      "Možnost A",
+      "Možnost B",
+      "Možnost C",
+      "Možnost D"
+    ],
+    "answer": "Možnost A"
+  },
+  {
+    "topic": "19. DHCP server – Linux",
+    "question": "Otázka 9 k DHCP serveru na Linuxu",
+    "options": [
+      "Možnost A",
+      "Možnost B",
+      "Možnost C",
+      "Možnost D"
+    ],
+    "answer": "Možnost A"
+  },
+  {
+    "topic": "19. DHCP server – Linux",
+    "question": "Otázka 10 k DHCP serveru na Linuxu",
+    "options": [
+      "Možnost A",
+      "Možnost B",
+      "Možnost C",
+      "Možnost D"
+    ],
+    "answer": "Možnost A"
+  },
+  {
+    "topic": "20. DNS server – Linux",
+    "question": "Otázka 1 k DNS serveru na Linuxu",
+    "options": [
+      "Možnost A",
+      "Možnost B",
+      "Možnost C",
+      "Možnost D"
+    ],
+    "answer": "Možnost A"
+  },
+  {
+    "topic": "20. DNS server – Linux",
+    "question": "Otázka 2 k DNS serveru na Linuxu",
+    "options": [
+      "Možnost A",
+      "Možnost B",
+      "Možnost C",
+      "Možnost D"
+    ],
+    "answer": "Možnost A"
+  },
+  {
+    "topic": "20. DNS server – Linux",
+    "question": "Otázka 3 k DNS serveru na Linuxu",
+    "options": [
+      "Možnost A",
+      "Možnost B",
+      "Možnost C",
+      "Možnost D"
+    ],
+    "answer": "Možnost A"
+  },
+  {
+    "topic": "20. DNS server – Linux",
+    "question": "Otázka 4 k DNS serveru na Linuxu",
+    "options": [
+      "Možnost A",
+      "Možnost B",
+      "Možnost C",
+      "Možnost D"
+    ],
+    "answer": "Možnost A"
+  },
+  {
+    "topic": "20. DNS server – Linux",
+    "question": "Otázka 5 k DNS serveru na Linuxu",
+    "options": [
+      "Možnost A",
+      "Možnost B",
+      "Možnost C",
+      "Možnost D"
+    ],
+    "answer": "Možnost A"
+  },
+  {
+    "topic": "20. DNS server – Linux",
+    "question": "Otázka 6 k DNS serveru na Linuxu",
+    "options": [
+      "Možnost A",
+      "Možnost B",
+      "Možnost C",
+      "Možnost D"
+    ],
+    "answer": "Možnost A"
+  },
+  {
+    "topic": "20. DNS server – Linux",
+    "question": "Otázka 7 k DNS serveru na Linuxu",
+    "options": [
+      "Možnost A",
+      "Možnost B",
+      "Možnost C",
+      "Možnost D"
+    ],
+    "answer": "Možnost A"
+  },
+  {
+    "topic": "20. DNS server – Linux",
+    "question": "Otázka 8 k DNS serveru na Linuxu",
+    "options": [
+      "Možnost A",
+      "Možnost B",
+      "Možnost C",
+      "Možnost D"
+    ],
+    "answer": "Možnost A"
+  },
+  {
+    "topic": "20. DNS server – Linux",
+    "question": "Otázka 9 k DNS serveru na Linuxu",
+    "options": [
+      "Možnost A",
+      "Možnost B",
+      "Možnost C",
+      "Možnost D"
+    ],
+    "answer": "Možnost A"
+  },
+  {
+    "topic": "20. DNS server – Linux",
+    "question": "Otázka 10 k DNS serveru na Linuxu",
+    "options": [
+      "Možnost A",
+      "Možnost B",
+      "Možnost C",
+      "Možnost D"
+    ],
+    "answer": "Možnost A"
   }
 ]
