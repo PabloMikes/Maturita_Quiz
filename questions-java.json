@@ -922,5 +922,225 @@
       "FileNotFoundException"
     ],
     "answer": "NullPointerException"
+  },
+  {
+    "topic": "17. Komentáře, dokumentace, konvence",
+    "question": "Který typ komentáře se používá pro jednořádkové poznámky?",
+    "options": [
+      "/* */",
+      "//",
+      "/** */",
+      "#"
+    ],
+    "answer": "//"
+  },
+  {
+    "topic": "17. Komentáře, dokumentace, konvence",
+    "question": "K čemu slouží JavaDoc komentáře?",
+    "options": [
+      "Pro krátké poznámky k řádkům kódu",
+      "Pro generování HTML dokumentace",
+      "Pro označení zastaralého kódu",
+      "Pro ukládání konstant"
+    ],
+    "answer": "Pro generování HTML dokumentace"
+  },
+  {
+    "topic": "17. Komentáře, dokumentace, konvence",
+    "question": "Jak se podle konvence pojmenovávají proměnné v Javě?",
+    "options": [
+      "UPPER_SNAKE_CASE",
+      "camelCase",
+      "PascalCase",
+      "kebab-case"
+    ],
+    "answer": "camelCase"
+  },
+  {
+    "topic": "17. Komentáře, dokumentace, konvence",
+    "question": "Jak se pojmenovávají konstanty v Javě?",
+    "options": [
+      "camelCase",
+      "UPPER_SNAKE_CASE",
+      "PascalCase",
+      "lowercase"
+    ],
+    "answer": "UPPER_SNAKE_CASE"
+  },
+  {
+    "topic": "17. Komentáře, dokumentace, konvence",
+    "question": "Který JavaDoc tag popisuje parametr metody?",
+    "options": [
+      "@return",
+      "@throws",
+      "@param",
+      "@author"
+    ],
+    "answer": "@param"
+  },
+  {
+    "topic": "18. Okenní aplikace v JavaFX",
+    "question": "Co reprezentuje třída Stage v JavaFX?",
+    "options": [
+      "Kořenový uzel scény",
+      "Hlavní okno aplikace",
+      "Grafickou komponentu",
+      "Rozvržení prvků"
+    ],
+    "answer": "Hlavní okno aplikace"
+  },
+  {
+    "topic": "18. Okenní aplikace v JavaFX",
+    "question": "Která metoda je přepsána v JavaFX aplikaci pro inicializaci okna?",
+    "options": [
+      "main()",
+      "start()",
+      "init()",
+      "run()"
+    ],
+    "answer": "start()"
+  },
+  {
+    "topic": "18. Okenní aplikace v JavaFX",
+    "question": "K čemu slouží Scene Builder?",
+    "options": [
+      "K vykreslování 2D grafiky",
+      "K vytváření FXML souborů pro rozhraní",
+      "K čtení vstupů od uživatele",
+      "K správě událostí myši"
+    ],
+    "answer": "K vytváření FXML souborů pro rozhraní"
+  },
+  {
+    "topic": "18. Okenní aplikace v JavaFX",
+    "question": "Která JavaFX komponenta slouží k zadávání jednořádkového textu?",
+    "options": [
+      "TextArea",
+      "Label",
+      "TextField",
+      "Button"
+    ],
+    "answer": "TextField"
+  },
+  {
+    "topic": "18. Okenní aplikace v JavaFX",
+    "question": "Který kontejner uspořádá prvky vertikálně?",
+    "options": [
+      "HBox",
+      "VBox",
+      "GridPane",
+      "StackPane"
+    ],
+    "answer": "VBox"
+  },
+  {
+    "topic": "19. Vstupy od uživatele",
+    "question": "Která třída se používá pro čtení vstupů z konzole?",
+    "options": [
+      "BufferedReader",
+      "Scanner",
+      "InputStream",
+      "KeyEvent"
+    ],
+    "answer": "Scanner"
+  },
+  {
+    "topic": "19. Vstupy od uživatele",
+    "question": "Který typ události KeyEvent je vyvolán při stisknutí klávesy?",
+    "options": [
+      "KEY_TYPED",
+      "KEY_PRESSED",
+      "KEY_RELEASED",
+      "KEY_MOVED"
+    ],
+    "answer": "KEY_PRESSED"
+  },
+  {
+    "topic": "19. Vstupy od uživatele",
+    "question": "Který typ MouseEvent je vyvolán při kliknutí myší?",
+    "options": [
+      "MOUSE_MOVED",
+      "MOUSE_CLICKED",
+      "MOUSE_ENTERED",
+      "MOUSE_DRAGGED"
+    ],
+    "answer": "MOUSE_CLICKED"
+  },
+  {
+    "topic": "19. Vstupy od uživatele",
+    "question": "K čemu slouží ActionEvent v JavaFX?",
+    "options": [
+      "Zachycení pohybu myši",
+      "Zpracování kliknutí na tlačítko",
+      "Čtení textu z konzole",
+      "Vykreslování grafiky"
+    ],
+    "answer": "Zpracování kliknutí na tlačítko"
+  },
+  {
+    "topic": "19. Vstupy od uživatele",
+    "question": "Která komponenta je vhodná pro výběr jedné možnosti z rozbalovacího seznamu?",
+    "options": [
+      "CheckBox",
+      "RadioButton",
+      "ComboBox",
+      "Slider"
+    ],
+    "answer": "ComboBox"
+  },
+  {
+    "topic": "20. Práce s grafikou",
+    "question": "K čemu slouží třída Canvas v JavaFX?",
+    "options": [
+      "K vykreslování 2D grafiky",
+      "K vytváření textových polí",
+      "K správě událostí klávesnice",
+      "K načítání FXML souborů"
+    ],
+    "answer": "K vykreslování 2D grafiky"
+  },
+  {
+    "topic": "20. Práce s grafikou",
+    "question": "Která metoda třídy Canvas vrací objekt pro kreslení?",
+    "options": [
+      "getGraphicsContext2D()",
+      "setWidth()",
+      "drawShape()",
+      "setFill()"
+    ],
+    "answer": "getGraphicsContext2D()"
+  },
+  {
+    "topic": "20. Práce s grafikou",
+    "question": "Která podtřída třídy Shape reprezentuje kruh?",
+    "options": [
+      "Rectangle",
+      "Line",
+      "Circle",
+      "Polygon"
+    ],
+    "answer": "Circle"
+  },
+  {
+    "topic": "20. Práce s grafikou",
+    "question": "Co nastavuje metoda setFill() u třídy Shape?",
+    "options": [
+      "Šířku obrysu",
+      "Výplň tvaru",
+      "Tloušťku čáry",
+      "Polohu tvaru"
+    ],
+    "answer": "Výplň tvaru"
+  },
+  {
+    "topic": "20. Práce s grafikou",
+    "question": "Která metoda třídy Shape zjistí, zda bod leží uvnitř tvaru?",
+    "options": [
+      "intersects()",
+      "contains()",
+      "setStroke()",
+      "draw()"
+    ],
+    "answer": "contains()"
   }
 ]
