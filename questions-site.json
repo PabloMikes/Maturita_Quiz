@@ -2641,222 +2641,112 @@
   },
   {
     "topic": "19. DHCP server – Linux",
-    "question": "Otázka 1 k DHCP serveru na Linuxu",
+    "question": "Který soubor je nutné upravit na Linuxu pro povolení routování na DHCP serveru?",
     "options": [
-      "Možnost A",
-      "Možnost B",
-      "Možnost C",
-      "Možnost D"
+      "/etc/resolv.conf",
+      "/etc/hosts",
+      "/etc/sysctl.conf",
+      "/etc/network/interfaces"
     ],
-    "answer": "Možnost A"
+    "answer": "/etc/sysctl.conf"
   },
   {
     "topic": "19. DHCP server – Linux",
-    "question": "Otázka 2 k DHCP serveru na Linuxu",
+    "question": "Co je třeba nastavit v souboru /etc/sysctl.conf pro povolení routování na DHCP serveru?",
     "options": [
-      "Možnost A",
-      "Možnost B",
-      "Možnost C",
-      "Možnost D"
+      "net.ipv4.dns_enable=1",
+      "net.ipv4.ip_forward=1",
+      "net.ipv4.route_add=1",
+      "net.ipv4.interface_up=1"
     ],
-    "answer": "Možnost A"
+    "answer": "net.ipv4.ip_forward=1"
   },
   {
     "topic": "19. DHCP server – Linux",
-    "question": "Otázka 3 k DHCP serveru na Linuxu",
+    "question": "Jaký příkaz nastaví trvalou routu pro DHCP klienta na PC1 směřující na síť 192.168.0.0/24?",
     "options": [
-      "Možnost A",
-      "Možnost B",
-      "Možnost C",
-      "Možnost D"
+      "route add -net 192.168.0.0 netmask 255.255.255.0 gw 10.0.0.1 eth0",
+      "post-up ip route add 192.168.0.0/24 via 10.0.0.1 dev eth0",
+      "ip addr add 192.168.0.0/24 dev eth0",
+      "ifdown eth0"
     ],
-    "answer": "Možnost A"
+    "answer": "post-up ip route add 192.168.0.0/24 via 10.0.0.1 dev eth0"
   },
   {
     "topic": "19. DHCP server – Linux",
-    "question": "Otázka 4 k DHCP serveru na Linuxu",
+    "question": "Který příkaz smaže trvalou routu pro síť 192.168.0.0/24 na PC1?",
     "options": [
-      "Možnost A",
-      "Možnost B",
-      "Možnost C",
-      "Možnost D"
+      "post-down ip route del 192.168.0.0/24 via 10.0.0.1 dev eth0",
+      "route del -net 192.168.0.0 netmask 255.255.255.0 gw 10.0.0.1 eth0",
+      "ifup eth0",
+      "ip addr del 192.168.0.0/24 dev eth0"
     ],
-    "answer": "Možnost A"
+    "answer": "post-down ip route del 192.168.0.0/24 via 10.0.0.1 dev eth0"
   },
   {
     "topic": "19. DHCP server – Linux",
-    "question": "Otázka 5 k DHCP serveru na Linuxu",
+    "question": "Jaká IP adresa by měla být nastavena na rozhraní eth0 routeru pro síť 10.0.0.0/24?",
     "options": [
-      "Možnost A",
-      "Možnost B",
-      "Možnost C",
-      "Možnost D"
+      "192.168.0.1",
+      "10.0.0.1",
+      "15.0.0.2",
+      "192.168.0.2"
     ],
-    "answer": "Možnost A"
-  },
-  {
-    "topic": "19. DHCP server – Linux",
-    "question": "Otázka 6 k DHCP serveru na Linuxu",
-    "options": [
-      "Možnost A",
-      "Možnost B",
-      "Možnost C",
-      "Možnost D"
-    ],
-    "answer": "Možnost A"
-  },
-  {
-    "topic": "19. DHCP server – Linux",
-    "question": "Otázka 7 k DHCP serveru na Linuxu",
-    "options": [
-      "Možnost A",
-      "Možnost B",
-      "Možnost C",
-      "Možnost D"
-    ],
-    "answer": "Možnost A"
-  },
-  {
-    "topic": "19. DHCP server – Linux",
-    "question": "Otázka 8 k DHCP serveru na Linuxu",
-    "options": [
-      "Možnost A",
-      "Možnost B",
-      "Možnost C",
-      "Možnost D"
-    ],
-    "answer": "Možnost A"
-  },
-  {
-    "topic": "19. DHCP server – Linux",
-    "question": "Otázka 9 k DHCP serveru na Linuxu",
-    "options": [
-      "Možnost A",
-      "Možnost B",
-      "Možnost C",
-      "Možnost D"
-    ],
-    "answer": "Možnost A"
-  },
-  {
-    "topic": "19. DHCP server – Linux",
-    "question": "Otázka 10 k DHCP serveru na Linuxu",
-    "options": [
-      "Možnost A",
-      "Možnost B",
-      "Možnost C",
-      "Možnost D"
-    ],
-    "answer": "Možnost A"
+    "answer": "10.0.0.1"
   },
   {
     "topic": "20. DNS server – Linux",
-    "question": "Otázka 1 k DNS serveru na Linuxu",
+    "question": "Který soubor na Linuxu obsahuje IP adresy DNS serverů pro konfiguraci klienta?",
     "options": [
-      "Možnost A",
-      "Možnost B",
-      "Možnost C",
-      "Možnost D"
+      "/etc/hosts",
+      "/etc/nsswitch.conf",
+      "/etc/resolv.conf",
+      "/etc/sysctl.conf"
     ],
-    "answer": "Možnost A"
+    "answer": "/etc/resolv.conf"
   },
   {
     "topic": "20. DNS server – Linux",
-    "question": "Otázka 2 k DNS serveru na Linuxu",
+    "question": "Co určuje direktiva 'nameserver' v souboru /etc/resolv.conf?",
     "options": [
-      "Možnost A",
-      "Možnost B",
-      "Možnost C",
-      "Možnost D"
+      "Lokální doménu",
+      "Seznam prohledávaných domén",
+      "Prioritu DNS serverů",
+      "IP adresu jmenného serveru"
     ],
-    "answer": "Možnost A"
+    "answer": "IP adresu jmenného serveru"
   },
   {
     "topic": "20. DNS server – Linux",
-    "question": "Otázka 3 k DNS serveru na Linuxu",
+    "question": "Který soubor určuje prioritu mezi DNS a hosts pro překlad jmen?",
     "options": [
-      "Možnost A",
-      "Možnost B",
-      "Možnost C",
-      "Možnost D"
+      "/etc/resolv.conf",
+      "/etc/nsswitch.conf",
+      "/etc/hosts",
+      "/etc/network/interfaces"
     ],
-    "answer": "Možnost A"
+    "answer": "/etc/nsswitch.conf"
   },
   {
     "topic": "20. DNS server – Linux",
-    "question": "Otázka 4 k DNS serveru na Linuxu",
+    "question": "Jaký software je typicky používán pro instalaci DNS serveru na Debianu?",
     "options": [
-      "Možnost A",
-      "Možnost B",
-      "Možnost C",
-      "Možnost D"
+      "Apache",
+      "NGINX",
+      "BIND",
+      "ISC DHCP"
     ],
-    "answer": "Možnost A"
+    "answer": "BIND"
   },
   {
     "topic": "20. DNS server – Linux",
-    "question": "Otázka 5 k DNS serveru na Linuxu",
+    "question": "Který soubor by měl být použit pro mapování jmen na IP adresy v malé síti bez DNS serveru?",
     "options": [
-      "Možnost A",
-      "Možnost B",
-      "Možnost C",
-      "Možnost D"
+      "/etc/resolv.conf",
+      "/etc/nsswitch.conf",
+      "/etc/hosts",
+      "/etc/sysctl.conf"
     ],
-    "answer": "Možnost A"
-  },
-  {
-    "topic": "20. DNS server – Linux",
-    "question": "Otázka 6 k DNS serveru na Linuxu",
-    "options": [
-      "Možnost A",
-      "Možnost B",
-      "Možnost C",
-      "Možnost D"
-    ],
-    "answer": "Možnost A"
-  },
-  {
-    "topic": "20. DNS server – Linux",
-    "question": "Otázka 7 k DNS serveru na Linuxu",
-    "options": [
-      "Možnost A",
-      "Možnost B",
-      "Možnost C",
-      "Možnost D"
-    ],
-    "answer": "Možnost A"
-  },
-  {
-    "topic": "20. DNS server – Linux",
-    "question": "Otázka 8 k DNS serveru na Linuxu",
-    "options": [
-      "Možnost A",
-      "Možnost B",
-      "Možnost C",
-      "Možnost D"
-    ],
-    "answer": "Možnost A"
-  },
-  {
-    "topic": "20. DNS server – Linux",
-    "question": "Otázka 9 k DNS serveru na Linuxu",
-    "options": [
-      "Možnost A",
-      "Možnost B",
-      "Možnost C",
-      "Možnost D"
-    ],
-    "answer": "Možnost A"
-  },
-  {
-    "topic": "20. DNS server – Linux",
-    "question": "Otázka 10 k DNS serveru na Linuxu",
-    "options": [
-      "Možnost A",
-      "Možnost B",
-      "Možnost C",
-      "Možnost D"
-    ],
-    "answer": "Možnost A"
+    "answer": "/etc/hosts"
   }
 ]
