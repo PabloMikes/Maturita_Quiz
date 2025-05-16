@@ -2641,112 +2641,222 @@
   },
   {
     "topic": "19. DHCP server – Linux",
-    "question": "Který soubor je nutné upravit na Linuxu pro povolení routování na DHCP serveru?",
+    "question": "Který balíček je třeba nainstalovat pro nastavení DHCP serveru na Debianu?",
+    "options": [
+      "bind9",
+      "kea-dhcp4-server",
+      "apache2",
+      "nginx"
+    ],
+    "answer": "kea-dhcp4-server"
+  },
+  {
+    "topic": "19. DHCP server – Linux",
+    "question": "Který soubor obsahuje konfiguraci DHCP serveru na Debianu podle obrázku?",
     "options": [
       "/etc/resolv.conf",
+      "/etc/kea/kea-dhcp4.conf",
       "/etc/hosts",
-      "/etc/sysctl.conf",
-      "/etc/network/interfaces"
+      "/etc/sysctl.conf"
     ],
-    "answer": "/etc/sysctl.conf"
+    "answer": "/etc/kea/kea-dhcp4.conf"
   },
   {
     "topic": "19. DHCP server – Linux",
-    "question": "Co je třeba nastavit v souboru /etc/sysctl.conf pro povolení routování na DHCP serveru?",
+    "question": "Jaký rozsah IP adres je definován pro přidělování klientům v konfiguraci DHCP v rozsahu 10.0.0.0/24?",
     "options": [
-      "net.ipv4.dns_enable=1",
-      "net.ipv4.ip_forward=1",
-      "net.ipv4.route_add=1",
-      "net.ipv4.interface_up=1"
+      "10.0.0.10 - 10.0.0.200",
+      "25.0.0.100 - 25.0.0.200",
+      "192.168.0.10 - 192.168.0.100",
+      "15.0.0.1 - 15.0.0.255"
     ],
-    "answer": "net.ipv4.ip_forward=1"
+    "answer": "10.0.0.10 - 10.0.0.200"
   },
   {
     "topic": "19. DHCP server – Linux",
-    "question": "Jaký příkaz nastaví trvalou routu pro DHCP klienta na PC1 směřující na síť 192.168.0.0/24?",
+    "question": "Která hodnota je nastavena jako výchozí brána (router) v DHCP konfiguraci?",
     "options": [
-      "route add -net 192.168.0.0 netmask 255.255.255.0 gw 10.0.0.1 eth0",
-      "post-up ip route add 192.168.0.0/24 via 10.0.0.1 dev eth0",
-      "ip addr add 192.168.0.0/24 dev eth0",
-      "ifdown eth0"
-    ],
-    "answer": "post-up ip route add 192.168.0.0/24 via 10.0.0.1 dev eth0"
-  },
-  {
-    "topic": "19. DHCP server – Linux",
-    "question": "Který příkaz smaže trvalou routu pro síť 192.168.0.0/24 na PC1?",
-    "options": [
-      "post-down ip route del 192.168.0.0/24 via 10.0.0.1 dev eth0",
-      "route del -net 192.168.0.0 netmask 255.255.255.0 gw 10.0.0.1 eth0",
-      "ifup eth0",
-      "ip addr del 192.168.0.0/24 dev eth0"
-    ],
-    "answer": "post-down ip route del 192.168.0.0/24 via 10.0.0.1 dev eth0"
-  },
-  {
-    "topic": "19. DHCP server – Linux",
-    "question": "Jaká IP adresa by měla být nastavena na rozhraní eth0 routeru pro síť 10.0.0.0/24?",
-    "options": [
-      "192.168.0.1",
+      "10.0.0.2",
       "10.0.0.1",
-      "15.0.0.2",
-      "192.168.0.2"
+      "192.168.0.1",
+      "127.0.0.1"
+    ],
+    "answer": "10.0.0.1"
+  },
+  {
+    "topic": "19. DHCP server – Linux",
+    "question": "Který parametr v DHCP konfiguraci určuje dobu platnosti lease v sekundách?",
+    "options": [
+      "renew-timer",
+      "valid-lifetime",
+      "lease-database",
+      "persist"
+    ],
+    "answer": "valid-lifetime"
+  },
+  {
+    "topic": "19. DHCP server – Linux",
+    "question": "Který příkaz se používá k restartu DHCP serveru po změně konfigurace?",
+    "options": [
+      "systemctl restart bind9",
+      "systemctl restart kea",
+      "systemctl status kea",
+      "apt update"
+    ],
+    "answer": "systemctl restart kea"
+  },
+  {
+    "topic": "19. DHCP server – Linux",
+    "question": "Kde jsou ukládány informace o přidělených lease v DHCP serveru?",
+    "options": [
+      "/var/lib/kea/kea-leases4.csv",
+      "/etc/kea/kea-dhcp4.conf",
+      "/var/log/kea.log",
+      "/etc/resolv.conf"
+    ],
+    "answer": "/var/lib/kea/kea-leases4.csv"
+  },
+  {
+    "topic": "19. DHCP server – Linux",
+    "question": "Který parametr v konfiguraci DHCP určuje, zda je server autoritativní?",
+    "options": [
+      "authoritative",
+      "interface",
+      "subnet",
+      "pool"
+    ],
+    "answer": "authoritative"
+  },
+  {
+    "topic": "19. DHCP server – Linux",
+    "question": "Jaká hodnota je nastavena pro renew-timer v konfiguraci DHCP?",
+    "options": [
+      "3600",
+      "900",
+      "1800",
+      "7200"
+    ],
+    "answer": "900"
+  },
+  {
+    "topic": "19. DHCP server – Linux",
+    "question": "Který interface je povolen pro DHCP server podle konfigurace?",
+    "options": [
+      "eth0",
+      "enp0s3",
+      "lo",
+      "wlan0"
+    ],
+    "answer": "enp0s3"
+  },
+  {
+    "topic": "20. DNS server – Linux",
+    "question": "Který balíček je třeba nainstalovat pro nastavení DNS serveru BIND na Debianu?",
+    "options": [
+      "kea-dhcp4-server",
+      "bind9",
+      "apache2",
+      "nginx"
+    ],
+    "answer": "bind9"
+  },
+  {
+    "topic": "20. DNS server – Linux",
+    "question": "Který soubor obsahuje hlavní konfiguraci DNS serveru BIND?",
+    "options": [
+      "/etc/resolv.conf",
+      "/etc/bind/named.conf",
+      "/etc/hosts",
+      "/etc/sysctl.conf"
+    ],
+    "answer": "/etc/bind/named.conf"
+  },
+  {
+    "topic": "20. DNS server – Linux",
+    "question": "Který soubor definuje zónové soubory pro doménu pavel.internal?",
+    "options": [
+      "/etc/bind/db.pavel.internal",
+      "/etc/resolv.conf",
+      "/etc/bind/named.conf.local",
+      "/var/cache/bind"
+    ],
+    "answer": "/etc/bind/db.pavel.internal"
+  },
+  {
+    "topic": "20. DNS server – Linux",
+    "question": "Který soubor obsahuje konfiguraci pro reverzní zónu 10.0.0.0?",
+    "options": [
+      "/etc/bind/db.10.0.0.0",
+      "/etc/bind/db.pavel.internal",
+      "/etc/bind/named.conf.options",
+      "/etc/hosts"
+    ],
+    "answer": "/etc/bind/db.10.0.0.0"
+  },
+  {
+    "topic": "20. DNS server – Linux",
+    "question": "Který příkaz se používá k restartu DNS serveru BIND?",
+    "options": [
+      "systemctl restart kea",
+      "systemctl restart bind9",
+      "systemctl status bind9",
+      "apt update"
+    ],
+    "answer": "systemctl restart bind9"
+  },
+  {
+    "topic": "20. DNS server – Linux",
+    "question": "Který parametr v named.conf.options určuje adresy DNS forwarderů?",
+    "options": [
+      "directory",
+      "forwarders",
+      "listen-on",
+      "allow-transfer"
+    ],
+    "answer": "forwarders"
+  },
+  {
+    "topic": "20. DNS server – Linux",
+    "question": "Která adresa je nastavena jako primární nameserver v zónovém souboru db.pavel.internal?",
+    "options": [
+      "10.0.0.2",
+      "10.0.0.1",
+      "127.0.0.1",
+      "192.168.0.1"
     ],
     "answer": "10.0.0.1"
   },
   {
     "topic": "20. DNS server – Linux",
-    "question": "Který soubor na Linuxu obsahuje IP adresy DNS serverů pro konfiguraci klienta?",
+    "question": "Co určuje direktiva 'directory' v named.conf.options?",
     "options": [
-      "/etc/hosts",
-      "/etc/nsswitch.conf",
+      "Adresy forwarderů",
+      "Cestu k cache adresáři",
+      "Seznam povolených IP adres",
+      "Konfiguraci zón"
+    ],
+    "answer": "Cestu k cache adresáři"
+  },
+  {
+    "topic": "20. DNS server – Linux",
+    "question": "Který soubor je třeba upravit pro přidání místní domény v BIND?",
+    "options": [
+      "/etc/bind/named.conf.local",
       "/etc/resolv.conf",
-      "/etc/sysctl.conf"
-    ],
-    "answer": "/etc/resolv.conf"
-  },
-  {
-    "topic": "20. DNS server – Linux",
-    "question": "Co určuje direktiva 'nameserver' v souboru /etc/resolv.conf?",
-    "options": [
-      "Lokální doménu",
-      "Seznam prohledávaných domén",
-      "Prioritu DNS serverů",
-      "IP adresu jmenného serveru"
-    ],
-    "answer": "IP adresu jmenného serveru"
-  },
-  {
-    "topic": "20. DNS server – Linux",
-    "question": "Který soubor určuje prioritu mezi DNS a hosts pro překlad jmen?",
-    "options": [
-      "/etc/resolv.conf",
-      "/etc/nsswitch.conf",
       "/etc/hosts",
-      "/etc/network/interfaces"
+      "/etc/bind/db.10.0.0.0"
     ],
-    "answer": "/etc/nsswitch.conf"
+    "answer": "/etc/bind/named.conf.local"
   },
   {
     "topic": "20. DNS server – Linux",
-    "question": "Jaký software je typicky používán pro instalaci DNS serveru na Debianu?",
+    "question": "Která hodnota je nastavena jako TTL v zónovém souboru db.pavel.internal?",
     "options": [
-      "Apache",
-      "NGINX",
-      "BIND",
-      "ISC DHCP"
+      "86400",
+      "3600",
+      "864400",
+      "2419200"
     ],
-    "answer": "BIND"
-  },
-  {
-    "topic": "20. DNS server – Linux",
-    "question": "Který soubor by měl být použit pro mapování jmen na IP adresy v malé síti bez DNS serveru?",
-    "options": [
-      "/etc/resolv.conf",
-      "/etc/nsswitch.conf",
-      "/etc/hosts",
-      "/etc/sysctl.conf"
-    ],
-    "answer": "/etc/hosts"
+    "answer": "86400"
   }
 ]
