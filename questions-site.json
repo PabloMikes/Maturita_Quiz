@@ -1978,5 +1978,445 @@
         "Nastaví DNS server"
       ],
       "answer": "Připojí sdílenou složku jako síťový disk"
-    }
+    },
+  {
+    "topic": "13. Instalace a konfigurace DNS – Windows",
+    "question": "K čemu primárně slouží kořenové servery v systému DNS?",
+    "options": [
+      "Překládají doménová jména na IP adresy",
+      "Ukládají záznamy o konkrétních doménách",
+      "Poskytují informace o doménových serverech pro TLD",
+      "Spravují zpětné zóny pro IPv6"
+    ],
+    "answer": "Poskytují informace o doménových serverech pro TLD"
+  },
+  {
+    "topic": "13. Instalace a konfigurace DNS – Windows",
+    "question": "Kolik je logických kořenových serverů a jak jsou označeny?",
+    "options": [
+      "12, čísly 1 až 12",
+      "13, písmeny A až M",
+      "10, písmeny A až J",
+      "15, čísly 1 až 15"
+    ],
+    "answer": "13, písmeny A až M"
+  },
+  {
+    "topic": "13. Instalace a konfigurace DNS – Windows",
+    "question": "Který protokol a port používá DNS pro dotazy mezi serverem a uživatelem?",
+    "options": [
+      "TCP, port 53",
+      "UDP, port 53",
+      "TCP, port 110",
+      "UDP, port 143"
+    ],
+    "answer": "UDP, port 53"
+  },
+  {
+    "topic": "13. Instalace a konfigurace DNS – Windows",
+    "question": "Co je hlavním účelem dopředné zóny v DNS?",
+    "options": [
+      "Překlad IP adres na doménová jména",
+      "Překlad doménových jmen na IP adresy",
+      "Správa kořenových serverů",
+      "Ukládání e-mailových záznamů"
+    ],
+    "answer": "Překlad doménových jmen na IP adresy"
+  },
+  {
+    "topic": "13. Instalace a konfigurace DNS – Windows",
+    "question": "Který typ DNS záznamu mapuje IP adresu na doménové jméno ve zpětné zóně?",
+    "options": [
+      "A",
+      "MX",
+      "PTR",
+      "CNAME"
+    ],
+    "answer": "PTR"
+  },
+  {
+    "topic": "13. Instalace a konfigurace DNS – Windows",
+    "question": "Co obsahuje SOA záznam v DNS zóně?",
+    "options": [
+      "Prioritu e-mailového serveru",
+      "Jméno primárního serveru a e-mail správce",
+      "Alias pro jiný záznam",
+      "IP adresu kořenového serveru"
+    ],
+    "answer": "Jméno primárního serveru a e-mail správce"
+  },
+  {
+    "topic": "13. Instalace a konfigurace DNS – Windows",
+    "question": "K čemu slouží rekurzivní DNS servery?",
+    "options": [
+      "Spravují konkrétní část DNS stromu",
+      "Provádějí dotazy v DNS stromu a ukládají výsledky do cache",
+      "Překládají pouze IPv6 adresy",
+      "Umožňují přenos zón mezi servery"
+    ],
+    "answer": "Provádějí dotazy v DNS stromu a ukládají výsledky do cache"
+  },
+  {
+    "topic": "13. Instalace a konfigurace DNS – Windows",
+    "question": "Jaký je význam pole 'refresh' v SOA záznamu?",
+    "options": [
+      "Čas platnosti negativní TTL cache",
+      "Jak často se obnovují data na podřízených serverech",
+      "Čas po kterém je server nedostupný",
+      "Sériové číslo zóny"
+    ],
+    "answer": "Jak často se obnovují data na podřízených serverech"
+  },
+  {
+    "topic": "13. Instalace a konfigurace DNS – Windows",
+    "question": "Který příkaz lze použít pro získávání informací z DNS stromu?",
+    "options": [
+      "ping",
+      "tracert",
+      "nslookup",
+      "netstat"
+    ],
+    "answer": "nslookup"
+  },
+  {
+    "topic": "13. Instalace a konfigurace DNS – Windows",
+    "question": "Co zajišťuje technologie anycast u kořenových serverů?",
+    "options": [
+      "Přenos zón mezi servery",
+      "Vyrovnávání zátěže směrováním na nejbližší server",
+      "Rekurzivní vyhledávání v DNS stromu",
+      "Správu zpětných zón"
+    ],
+    "answer": "Vyrovnávání zátěže směrováním na nejbližší server"
+  },
+  {
+    "topic": "14. Instalace a konfigurace DHCP – Windows",
+    "question": "K čemu slouží DHCP server?",
+    "options": [
+      "Překládá doménová jména na IP adresy",
+      "Přiděluje IP adresy a síťové parametry klientům",
+      "Spravuje e-mailové schránky",
+      "Nastavuje politiky pro uživatele"
+    ],
+    "answer": "Přiděluje IP adresy a síťové parametry klientům"
+  },
+  {
+    "topic": "14. Instalace a konfigurace DHCP – Windows",
+    "question": "Jaký je první krok při konfiguraci DHCP serveru?",
+    "options": [
+      "Nastavení pevné IP adresy a DNS na serveru",
+      "Vytvoření zpětné zóny",
+      "Instalace Active Directory",
+      "Nastavení GPO politik"
+    ],
+    "answer": "Nastavení pevné IP adresy a DNS na serveru"
+  },
+  {
+    "topic": "14. Instalace a konfigurace DHCP – Windows",
+    "question": "Co je obor adres v DHCP?",
+    "options": [
+      "Rozsah IP adres přidělovaných klientům",
+      "Seznam doménových jmen",
+      "Seznam rezervovaných MAC adres",
+      "Konfigurace DNS zón"
+    ],
+    "answer": "Rozsah IP adres přidělovaných klientům"
+  },
+  {
+    "topic": "14. Instalace a konfigurace DHCP – Windows",
+    "question": "Jak se nazývá proces přidělení IP adresy v DHCP?",
+    "options": [
+      "SOA",
+      "DORA",
+      "AXFR",
+      "WMI"
+    ],
+    "answer": "DORA"
+  },
+  {
+    "topic": "14. Instalace a konfigurace DHCP – Windows",
+    "question": "Co obsahuje zpráva DHCPOFFER od serveru?",
+    "options": [
+      "Potvrzení přidělení adresy",
+      "Nabídku IP adresy, MAC adresu klienta a masku sítě",
+      "Zamítnutí požadavku klienta",
+      "Informaci o uvolnění adresy"
+    ],
+    "answer": "Nabídku IP adresy, MAC adresu klienta a masku sítě"
+  },
+  {
+    "topic": "14. Instalace a konfigurace DHCP – Windows",
+    "question": "K čemu slouží výjimky v DHCP?",
+    "options": [
+      "Určení pevné IP adresy pro konkrétní zařízení",
+      "Vyloučení adres z přidělování",
+      "Nastavení doby zapůjčení adresy",
+      "Správa DNS záznamů"
+    ],
+    "answer": "Vyloučení adres z přidělování"
+  },
+  {
+    "topic": "14. Instalace a konfigurace DHCP – Windows",
+    "question": "Kdy se provádí rezervace v DHCP?",
+    "options": [
+      "Když nechceme přidělovat určitou adresu",
+      "Když chceme přidělit stejnou adresu konkrétnímu zařízení",
+      "Když klient uvolní adresu",
+      "Když server zamítne požadavek"
+    ],
+    "answer": "Když chceme přidělit stejnou adresu konkrétnímu zařízení"
+  },
+  {
+    "topic": "14. Instalace a konfigurace DHCP – Windows",
+    "question": "Co je doba zapůjčení v DHCP?",
+    "options": [
+      "Doba, po kterou je adresa trvale přidělena",
+      "Doba, po kterou je adresa propůjčena klientovi",
+      "Čas obnovy DNS záznamů",
+      "Čas platnosti SOA záznamu"
+    ],
+    "answer": "Doba, po kterou je adresa propůjčena klientovi"
+  },
+  {
+    "topic": "14. Instalace a konfigurace DHCP – Windows",
+    "question": "K čemu slouží Superscope v DHCP?",
+    "options": [
+      "Sdružuje více oborů adres do logických celků",
+      "Vytváří zpětné zóny",
+      "Nastavuje pevné IP adresy",
+      "Spravuje GPO politiky"
+    ],
+    "answer": "Sdružuje více oborů adres do logických celků"
+  },
+  {
+    "topic": "14. Instalace a konfigurace DHCP – Windows",
+    "question": "Co znamená zpráva DHCPNAK od serveru?",
+    "options": [
+      "Potvrzení přidělení adresy",
+      "Nabídka nové IP adresy",
+      "Zamítnutí požadavku klienta",
+      "Uvolnění adresy klientem"
+    ],
+    "answer": "Zamítnutí požadavku klienta"
+  },
+  {
+    "topic": "15. Politiky GPO",
+    "question": "Co jsou GPO (Group Policy Objects)?",
+    "options": [
+      "Nástroje pro správu DNS serverů",
+      "Objekty pro hromadnou správu nastavení v Active Directory",
+      "Protokoly pro přenos e-mailů",
+      "Záznamy pro překlad IP adres"
+    ],
+    "answer": "Objekty pro hromadnou správu nastavení v Active Directory"
+  },
+  {
+    "topic": "15. Politiky GPO",
+    "question": "Kde jsou GPO ukládány?",
+    "options": [
+      "C:\\Windows\\System32\\GPO",
+      "C:\\Windows\\SYSVOL\\sysvol\\domena.local\\Policies",
+      "C:\\Program Files\\GPO",
+      "C:\\Users\\Policies"
+    ],
+    "answer": "C:\\Windows\\SYSVOL\\sysvol\\domena.local\\Policies"
+  },
+  {
+    "topic": "15. Politiky GPO",
+    "question": "Co je Default Domain Policy?",
+    "options": [
+      "Výchozí politika pro doménové řadiče",
+      "Výchozí politika pro celou AD doménu",
+      "Politika pro správu DNS serverů",
+      "Politika pro instalaci softwaru"
+    ],
+    "answer": "Výchozí politika pro celou AD doménu"
+  },
+  {
+    "topic": "15. Politiky GPO",
+    "question": "Kterým nástrojem se spravují GPO?",
+    "options": [
+      "DNS Manager",
+      "Group Policy Management",
+      "Server Manager",
+      "Exchange Admin Center"
+    ],
+    "answer": "Group Policy Management"
+  },
+  {
+    "topic": "15. Politiky GPO",
+    "question": "Na jaké objekty se mohou GPO vázat?",
+    "options": [
+      "Uživatele a počítače",
+      "Domény, organizační jednotky a sajty",
+      "DNS zóny a servery",
+      "E-mailové schránky"
+    ],
+    "answer": "Domény, organizační jednotky a sajty"
+  },
+  {
+    "topic": "15. Politiky GPO",
+    "question": "V jakém pořadí se vyhodnocují GPO?",
+    "options": [
+      "Od nejvyšší priority k nejnižší",
+      "Od nejnižší priority k nejvyšší",
+      "Náhodně podle ID politiky",
+      "Podle abecedního pořadí názvu"
+    ],
+    "answer": "Od nejnižší priority k nejvyšší"
+  },
+  {
+    "topic": "15. Politiky GPO",
+    "question": "Co znamená nastavení 'Enforced' u GPO?",
+    "options": [
+      "Politika se aplikuje pouze na uživatele",
+      "Politika je nepřepisovatelná zděděnými politikami",
+      "Politika se aplikuje pouze na počítače",
+      "Politika se obnovuje každých 90 minut"
+    ],
+    "answer": "Politika je nepřepisovatelná zděděnými politikami"
+  },
+  {
+    "topic": "15. Politiky GPO",
+    "question": "Kdy se aplikuje politika pro uživatele?",
+    "options": [
+      "Bez ohledu na počítač, na kterém se uživatel přihlásí",
+      "Pouze na konkrétním počítači",
+      "Pouze při restartu počítače",
+      "Pouze při instalaci softwaru"
+    ],
+    "answer": "Bez ohledu na počítač, na kterém se uživatel přihlásí"
+  },
+  {
+    "topic": "15. Politiky GPO",
+    "question": "K čemu slouží Group Policy Modeling?",
+    "options": [
+      "Ověření, zda se politika aplikovala",
+      "Simulace dopadu nastavení politiky",
+      "Správa DNS záznamů",
+      "Konfigurace e-mailových schránek"
+    ],
+    "answer": "Simulace dopadu nastavení politiky"
+  },
+  {
+    "topic": "15. Politiky GPO",
+    "question": "Jak lze vynutit okamžitou aplikaci GPO?",
+    "options": [
+      "Příkazem nslookup",
+      "Příkazem gpupdate /force",
+      "Restartem serveru",
+      "Příkazem dnscmd"
+    ],
+    "answer": "Příkazem gpupdate /force"
+  },
+  {
+    "topic": "16. Exchange server",
+    "question": "Co je hlavní funkcí MS Exchange Serveru?",
+    "options": [
+      "Správa DNS záznamů",
+      "Provoz groupwarových služeb, např. e-mailu a kalendáře",
+      "Přidělování IP adres klientům",
+      "Nastavování GPO politik"
+    ],
+    "answer": "Provoz groupwarových služeb, např. e-mailu a kalendáře"
+  },
+  {
+    "topic": "16. Exchange server",
+    "question": "Jaký operační systém je minimálním požadavkem pro Exchange Server 2013?",
+    "options": [
+      "Windows Server 2003",
+      "Windows Server 2008 R2",
+      "Windows Server 2012",
+      "Windows 10"
+    ],
+    "answer": "Windows Server 2008 R2"
+  },
+  {
+    "topic": "16. Exchange server",
+    "question": "Která role Exchange Serveru spravuje e-mailové schránky?",
+    "options": [
+      "Client Access Role",
+      "Mailbox Role",
+      "Edge Transport Role",
+      "Hub Transport Role"
+    ],
+    "answer": "Mailbox Role"
+  },
+  {
+    "topic": "16. Exchange server",
+    "question": "Jaký protokol používá Exchange Server pro přístup z mobilních zařízení?",
+    "options": [
+      "IMAP4",
+      "POP3",
+      "Exchange Active Sync",
+      "SMTP"
+    ],
+    "answer": "Exchange Active Sync"
+  },
+  {
+    "topic": "16. Exchange server",
+    "question": "K čemu slouží SMTP protokol v Exchange Serveru?",
+    "options": [
+      "Stažení e-mailů do klienta",
+      "Komunikace mezi poštovními servery",
+      "Správa kalendářů",
+      "Překlad doménových jmen"
+    ],
+    "answer": "Komunikace mezi poštovními servery"
+  },
+  {
+    "topic": "16. Exchange server",
+    "question": "Co je Outlook Web Access?",
+    "options": [
+      "Desktopový e-mailový klient",
+      "Webový e-mailový klient od Microsoftu",
+      "Protokol pro přenos e-mailů",
+      "Nástroj pro správu GPO"
+    ],
+    "answer": "Webový e-mailový klient od Microsoftu"
+  },
+  {
+    "topic": "16. Exchange server",
+    "question": "Který port používá IMAP4 pro zabezpečený přenos?",
+    "options": [
+      "110",
+      "143",
+      "993",
+      "995"
+    ],
+    "answer": "993"
+  },
+  {
+    "topic": "16. Exchange server",
+    "question": "Co je SMTP relay v kontextu Exchange Serveru?",
+    "options": [
+      "Předávání pošty k dalšímu SMTP serveru",
+      "Stažení e-mailů z poštovní schránky",
+      "Správa DNS záznamů",
+      "Nastavení GPO politik"
+    ],
+    "answer": "Předávání pošty k dalšímu SMTP serveru"
+  },
+  {
+    "topic": "16. Exchange server",
+    "question": "Který protokol je u Microsoftu využíván pro komunikaci mezi Exchange a Outlookem?",
+    "options": [
+      "POP3",
+      "IMAP4",
+      "MAPI",
+      "SMTP"
+    ],
+    "answer": "MAPI"
+  },
+  {
+    "topic": "16. Exchange server",
+    "question": "Proč by SMTP server neměl být nakonfigurován jako open relay?",
+    "options": [
+      "Aby se šetřila paměť serveru",
+      "Aby mohl být zneužit k neautorizovanému odesílání pošty",
+      "Aby byla zajištěna rychlejší komunikace",
+      "Aby se zjednodušila správa schránek"
+    ],
+    "answer": "Aby mohl být zneužit k neautorizovanému odesílání pošty"
+  }
 ]

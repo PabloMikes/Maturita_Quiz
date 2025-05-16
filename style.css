@@ -40,6 +40,16 @@ body {
   text-align: center;
   margin-bottom: 3rem;
   position: relative;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.neon-header:hover {
+  transform: scale(1.02);
+}
+
+.neon-header:active {
+  transform: scale(0.98);
 }
 
 .neon-header h1 {
@@ -243,7 +253,7 @@ body {
   color: var(--text-light);
 }
 
-/* Background Effects */
+/* Enhanced Background Effects */
 .cyber-bg-effects {
   position: fixed;
   top: 0;
@@ -252,6 +262,7 @@ body {
   height: 100%;
   z-index: 1;
   pointer-events: none;
+  overflow: hidden;
 }
 
 .grid-lines {
@@ -265,8 +276,81 @@ body {
     linear-gradient(90deg, rgba(5, 240, 165, 0.1) 1px, transparent 1px);
   background-size: 30px 30px;
   opacity: 0.3;
+  animation: gridShift 20s linear infinite;
 }
 
+@keyframes gridShift {
+  0% { background-position: 0 0; }
+  100% { background-position: 30px 30px; }
+}
+
+/* Abstract Shapes */
+.abstract-shapes {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+}
+
+.abstract-shape {
+  position: absolute;
+  opacity: 0.15;
+  animation: float 15s ease-in-out infinite;
+  pointer-events: none;
+}
+
+.abstract-shape.poly1 {
+  width: 150px;
+  height: 150px;
+  background: linear-gradient(45deg, var(--primary), transparent);
+  clip-path: polygon(50% 0%, 100% 50%, 50% 100%, 0% 50%);
+  top: 10%;
+  left: 15%;
+  animation-duration: 18s;
+}
+
+.abstract-shape.poly2 {
+  width: 200px;
+  height: 200px;
+  background: radial-gradient(circle, var(--secondary), transparent);
+  clip-path: polygon(30% 10%, 90% 30%, 70% 90%, 20% 80%);
+  top: 60%;
+  left: 70%;
+  animation-duration: 22s;
+  animation-delay: -5s;
+}
+
+.abstract-shape.orb1 {
+  width: 100px;
+  height: 100px;
+  background: radial-gradient(circle, var(--tertiary), transparent);
+  border-radius: 50%;
+  top: 30%;
+  left: 40%;
+  animation-duration: 12s;
+  animation-delay: -2s;
+  filter: blur(20px);
+}
+
+.abstract-shape.line1 {
+  width: 300px;
+  height: 2px;
+  background: linear-gradient(90deg, transparent, var(--primary), transparent);
+  top: 80%;
+  left: 10%;
+  animation-duration: 25s;
+  animation-delay: -10s;
+}
+
+@keyframes float {
+  0% { transform: translate(0, 0) rotate(0deg); opacity: 0.15; }
+  50% { transform: translate(50px, -30px) rotate(180deg); opacity: 0.25; }
+  100% { transform: translate(0, 0) rotate(360deg); opacity: 0.15; }
+}
+
+/* Enhanced Particles */
 .particles {
   position: absolute;
   top: 0;
@@ -286,6 +370,7 @@ body {
   background: radial-gradient(circle, var(--tertiary), transparent 70%);
   filter: blur(30px);
   opacity: 0.2;
+  animation: pulse 10s ease-in-out infinite;
 }
 
 .particles::after {
@@ -299,6 +384,14 @@ body {
   background: radial-gradient(circle, var(--secondary), transparent 70%);
   filter: blur(40px);
   opacity: 0.1;
+  animation: pulse 15s ease-in-out infinite;
+  animation-delay: -5s;
+}
+
+@keyframes pulse {
+  0% { transform: scale(1); opacity: 0.1; }
+  50% { transform: scale(1.2); opacity: 0.2; }
+  100% { transform: scale(1); opacity: 0.1; }
 }
 
 /* Animations */
@@ -324,6 +417,10 @@ body {
   
   .cyber-button {
     width: 220px;
+  }
+
+  .abstract-shape {
+    transform: scale(0.7);
   }
 }
 
@@ -352,13 +449,13 @@ body {
   position: absolute;
   width: 40px;
   height: 40px;
-  font-size: 30px; /* Pro emoji */
+  font-size: 30px;
   color: var(--primary);
   text-shadow: 0 0 5px var(--primary), 0 0 10px var(--primary);
   cursor: pointer;
   pointer-events: auto;
   transition: transform 0.2s ease;
-  z-index: 3; /* Nad částicemi, ale pod obsahem */
+  z-index: 3;
 }
 
 .space-cat:hover {
@@ -383,8 +480,7 @@ body {
   100% { opacity: 0; transform: scale(0); }
 }
 
-/* Přidejte tyto styly k existujícímu CSS */
-
+/* Topic selection buttons */
 .topic-grid {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
@@ -410,7 +506,7 @@ body {
   font-size: 0.9rem;
 }
 
-/* Add this to your style.css file */
+/* H2 Styling */
 h2 {
   font-family: 'Orbitron', sans-serif;
   color: var(--primary);
@@ -427,6 +523,7 @@ h2 {
   text-align: center;
   width: 100%;
   padding: 0 20px;
+  animation: h2-flicker 3s infinite alternate;
 }
 
 h2::before, h2::after {
@@ -444,7 +541,6 @@ h2::before, h2::after {
   max-width: 100px;
 }
 
-/* Animation for the h2 */
 @keyframes h2-flicker {
   0%, 19%, 21%, 23%, 25%, 54%, 56%, 100% {
     text-shadow: 
@@ -457,37 +553,7 @@ h2::before, h2::after {
   }
 }
 
-h2 {
-  animation: h2-flicker 3s infinite alternate;
-
-}
-
-/* Responsive adjustments */
-@media screen and (max-width: 768px) {
-  h2 {
-    padding: 0 10px;
-    font-size: 1.2rem;
-  }
-  h2::before, h2::after {
-    margin: 0 8px;
-    max-width: 50px;
-  }
-}
-
-.neon-header {
-  cursor: pointer;
-  transition: all 0.3s ease;
-}
-
-.neon-header:hover {
-  transform: scale(1.02);
-}
-
-.neon-header:active {
-  transform: scale(0.98);
-}
-
-
+/* Certificate Styling */
 .certificate {
   background-color: #0d0221;
   color: white;
@@ -553,28 +619,44 @@ h2 {
   font-weight: bold;
 }
 
-@media print {
-  body * {
-    visibility: hidden;
-  }
-  #certificate, #certificate * {
-    visibility: visible;
-  }
-  #certificate {
-    position: absolute;
-    left: 0;
-    top: 0;
-    width: 100%;
-    height: 100%;
-    background-color: white;
-    color: black;
-  }
-  .cyber-button {
-    display: none;
-  }
+.certificate-subject {
+  font-size: 1.8rem;
+  color: var(--primary);
+  margin: 15px 0;
+  font-family: 'Orbitron', sans-serif;
+  text-shadow: 0 0 10px var(--primary);
+  text-transform: uppercase;
+  letter-spacing: 2px;
 }
 
-/* Topic selection buttons */
+.certificate-topics {
+  margin: 15px 0;
+  text-align: left;
+  width: 100%;
+}
+
+.certificate-topics h3 {
+  color: var(--primary);
+  margin-bottom: 10px;
+  font-size: 1.2rem;
+}
+
+.certificate-topics ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  gap: 5px;
+}
+
+.certificate-topics li {
+  padding: 5px;
+  border-left: 2px solid var(--tertiary);
+  margin-left: 10px;
+}
+
+/* Topic Buttons */
 .topic-buttons-grid {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
@@ -630,39 +712,36 @@ h2 {
   transform: translateX(100%);
 }
 
-.certificate-subject {
-  font-size: 1.8rem;
-  color: var(--primary);
-  margin: 15px 0;
-  font-family: 'Orbitron', sans-serif;
-  text-shadow: 0 0 10px var(--primary);
-  text-transform: uppercase;
-  letter-spacing: 2px;
+/* Print Styles */
+@media print {
+  body * {
+    visibility: hidden;
+  }
+  #certificate, #certificate * {
+    visibility: visible;
+  }
+  #certificate {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background-color: white;
+    color: black;
+  }
+  .cyber-button {
+    display: none;
+  }
 }
 
-.certificate-topics {
-  margin: 15px 0;
-  text-align: left;
-  width: 100%;
-}
-
-.certificate-topics h3 {
-  color: var(--primary);
-  margin-bottom: 10px;
-  font-size: 1.2rem;
-}
-
-.certificate-topics ul {
-  list-style-type: none;
-  padding: 0;
-  margin: 0;
-  display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
-  gap: 5px;
-}
-
-.certificate-topics li {
-  padding: 5px;
-  border-left: 2px solid var(--tertiary);
-  margin-left: 10px;
+/* Responsive adjustments */
+@media screen and (max-width: 768px) {
+  h2 {
+    padding: 0 10px;
+    font-size: 1.2rem;
+  }
+  h2::before, h2::after {
+    margin: 0 8px;
+    max-width: 50px;
+  }
 }

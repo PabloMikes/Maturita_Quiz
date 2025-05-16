@@ -1798,5 +1798,1000 @@
       "question": "Petr a Lucie: Jaký kulturní kontext ovlivnil novelu?",
       "options": ["Evropská literatura 20. století", "Baroko", "Klasicismus", "Romantismus"],
       "answer": "Evropská literatura 20. století"
-    }
+    },
+  {
+    "topic": "Balada z hadrů – Voskovec & Werich",
+    "question": "Jaké je hlavní téma Balady z hadrů?",
+    "options": ["Láska mezi chudými", "Konflikt mezi uměleckou integritou a pokrytectvím", "Politická revoluce", "Vzestup průmyslu"],
+    "answer": "Konflikt mezi uměleckou integritou a pokrytectvím"
+  },
+  {
+    "topic": "Balada z hadrů – Voskovec & Werich",
+    "question": "Která postava v Baladě z hadrů symbolizuje čisté umění?",
+    "options": ["Stewer", "Matt", "Policejní komisař", "Děvka"],
+    "answer": "Matt"
+  },
+  {
+    "topic": "Balada z hadrů – Voskovec & Werich",
+    "question": "Co reprezentuje oheň v Baladě z hadrů?",
+    "options": ["Bídu", "Revoluci", "Pokrytectví", "Umění"],
+    "answer": "Revoluci"
+  },
+  {
+    "topic": "Balada z hadrů – Voskovec & Werich",
+    "question": "Jaký žánr převažuje v Baladě z hadrů?",
+    "options": ["Historický román", "Poetická sociální balada", "Vědeckofantastická novela", "Romantická komedie"],
+    "answer": "Poetická sociální balada"
+  },
+  {
+    "topic": "Balada z hadrů – Voskovec & Werich",
+    "question": "Kdo je symbolem pokrytecké moci v Baladě z hadrů?",
+    "options": ["Matt", "Stewer", "Děvka", "Policejní komisař"],
+    "answer": "Stewer"
+  },
+  {
+    "topic": "Balada z hadrů – Voskovec & Werich",
+    "question": "V jakém kontextu Balada z hadrů vznikla?",
+    "options": ["Hospodářská krize 30. let", "Druhá světová válka", "První světová válka", "Období socialismu"],
+    "answer": "Hospodářská krize 30. let"
+  },
+  {
+    "topic": "Balada z hadrů – Voskovec & Werich",
+    "question": "Jaký jazykový prvek je v Baladě z hadrů nejčastější?",
+    "options": ["Metafory a symboly", "Vulgární jazyk", "Technické termíny", "Archaismy"],
+    "answer": "Metafory a symboly"
+  },
+  {
+    "topic": "Balada z hadrů – Voskovec & Werich",
+    "question": "Co Matt v závěru Balady z hadrů pálí?",
+    "options": ["Své verše", "Peníze od Stewera", "Své oblečení", "Policejní záznamy"],
+    "answer": "Své verše"
+  },
+  {
+    "topic": "Balada z hadrů – Voskovec & Werich",
+    "question": "Která postava představuje chudinu v Baladě z hadrů?",
+    "options": ["Stewer", "Matt", "Děvka", "Policejní komisař"],
+    "answer": "Děvka"
+  },
+  {
+    "topic": "Balada z hadrů – Voskovec & Werich",
+    "question": "Jaký je hlavní literární druh Balady z hadrů?",
+    "options": ["Epika", "Lyrika", "Drama", "Publicistika"],
+    "answer": "Drama"
+  },
+  {
+    "topic": "Balada z hadrů – Voskovec & Werich",
+    "question": "Co kritizuje Balada z hadrů?",
+    "options": ["Společenské nerovnosti", "Technologický pokrok", "Náboženské dogmata", "Akademické vzdělávání"],
+    "answer": "Společenské nerovnosti"
+  },
+  {
+    "topic": "Balada z hadrů – Voskovec & Werich",
+    "question": "Jaký je význam hadrů v Baladě z hadrů?",
+    "options": ["Symbol bohatství", "Symbol bídy", "Symbol revoluce", "Symbol umění"],
+    "answer": "Symbol bídy"
+  },
+  {
+    "topic": "Balada z hadrů – Voskovec & Werich",
+    "question": "Co je hlavní myšlenkou Balady z hadrů?",
+    "options": ["Síla lásky", "Víra v pravdivé umění", "Nutnost politické reformy", "Důležitost bohatství"],
+    "answer": "Víra v pravdivé umění"
+  },
+  {
+    "topic": "Balada z hadrů – Voskovec & Werich",
+    "question": "Jaký je styl dialogů v Baladě z hadrů?",
+    "options": ["Satirický", "Romantický", "Filozofický", "Technický"],
+    "answer": "Satirický"
+  },
+  {
+    "topic": "Balada z hadrů – Voskovec & Werich",
+    "question": "Proti čemu Balada z hadrů varuje?",
+    "options": ["Zneužití umění k manipulaci", "Nízké vzdělání", "Přílišné svobody", "Náboženskému fanatismu"],
+    "answer": "Zneužití umění k manipulaci"
+  },
+
+  {
+    "topic": "Sbohem, armádo – Ernest Hemingway",
+    "question": "Jaký je hlavní motiv románu Sbohem, armádo?",
+    "options": ["Vzpoura proti autoritám", "Láska a válka", "Hledání bohatství", "Náboženská víra"],
+    "answer": "Láska a válka"
+  },
+  {
+    "topic": "Sbohem, armádo – Ernest Hemingway",
+    "question": "Kde se odehrává děj románu Sbohem, armádo?",
+    "options": ["Francouzská fronta", "Italská fronta", "Ruské bojiště", "Americké pole"],
+    "answer": "Italská fronta"
+  },
+  {
+    "topic": "Sbohem, armádo – Ernest Hemingway",
+    "question": "Jaký je jazykový styl Hemingwayova románu Sbohem, armádo?",
+    "options": ["Poetický a květnatý", "Strohý a přímý", "Satirický a ironický", "Symbolický a abstraktní"],
+    "answer": "Strohý a přímý"
+  },
+  {
+    "topic": "Sbohem, armádo – Ernest Hemingway",
+    "question": "Kdo je hlavní ženskou postavou v Sbohem, armádo?",
+    "options": ["Catherine Barkleyová", "Anna Doušová", "Lenka", "Děvka"],
+    "answer": "Catherine Barkleyová"
+  },
+  {
+    "topic": "Sbohem, armádo – Ernest Hemingway",
+    "question": "Co je hlavní myšlenkou Sbohem, armádo?",
+    "options": ["Válka ničí lásku a život", "Láska překoná vše", "Válka je hrdinská", "Příroda léčí duši"],
+    "answer": "Válka ničí lásku a život"
+  },
+  {
+    "topic": "Sbohem, armádo – Ernest Hemingway",
+    "question": "Která postava v Sbohem, armádo představuje otázky víry?",
+    "options": ["Frederic Henry", "Rinaldi", "Kněz", "Catherine Barkleyová"],
+    "answer": "Kněz"
+  },
+  {
+    "topic": "Sbohem, armádo – Ernest Hemingway",
+    "question": "Jak končí román Sbohem, armádo?",
+    "options": ["Frederic a Catherine žijí šťastně", "Catherine umírá při porodu", "Frederic se vrací do armády", "Catherine opouští Frederica"],
+    "answer": "Catherine umírá při porodu"
+  },
+  {
+    "topic": "Sbohem, armádo – Ernest Hemingway",
+    "question": "Které období ovlivnilo Hemingwayovu tvorbu?",
+    "options": ["Ztracená generace", "Romantismus", "Renesance", "Socialismus"],
+    "answer": "Ztracená generace"
+  },
+  {
+    "topic": "Sbohem, armádo – Ernest Hemingway",
+    "question": "Co Frederic Henry v Sbohem, armádo dělá?",
+    "options": ["Je novinářem", "Je zdravotníkem", "Je knězem", "Je generálem"],
+    "answer": "Je zdravotníkem"
+  },
+  {
+    "topic": "Sbohem, armádo – Ernest Hemingway",
+    "question": "Jaký literární druh je Sbohem, armádo?",
+    "options": ["Drama", "Epika", "Lyrika", "Eseje"],
+    "answer": "Epika"
+  },
+  {
+    "topic": "Sbohem, armádo – Ernest Hemingway",
+    "question": "Který motiv není v Sbohem, armádo přítomen?",
+    "options": ["Válka", "Láska", "Technologický pokrok", "Smrt"],
+    "answer": "Technologický pokrok"
+  },
+  {
+    "topic": "Sbohem, armádo – Ernest Hemingway",
+    "question": "Kam Frederic a Catherine utíkají v Sbohem, armádo?",
+    "options": ["Do Francie", "Do Švýcarska", "Do Anglie", "Do Ameriky"],
+    "answer": "Do Švýcarska"
+  },
+  {
+    "topic": "Sbohem, armádo – Ernest Hemingway",
+    "question": "Jaký je vztah mezi Fredericem a Rinaldim?",
+    "options": ["Jsou nepřátelé", "Jsou přátelé", "Jsou bratři", "Jsou kolegové"],
+    "answer": "Jsou přátelé"
+  },
+  {
+    "topic": "Sbohem, armádo – Ernest Hemingway",
+    "question": "Co Frederic v Sbohem, armádo udělá, aby unikl válce?",
+    "options": ["Dezertuje", "Stane se knězem", "Přestrojí se", "Emigruje do Ameriky"],
+    "answer": "Dezertuje"
+  },
+  {
+    "topic": "Sbohem, armádo – Ernest Hemingway",
+    "question": "Jaký je časový rámec Sbohem, armádo?",
+    "options": ["Druhá světová válka", "První světová válka", "Americká občanská válka", "Studená válka"],
+    "answer": "První světová válka"
+  },
+
+  {
+    "topic": "Stříbrný vítr – Fráňa Šrámek",
+    "question": "Co symbolizuje stříbrný vítr v románu Fráni Šrámka?",
+    "options": ["Lásku", "Svobodu", "Konvence", "Autority"],
+    "answer": "Svobodu"
+  },
+  {
+    "topic": "Stříbrný vítr – Fráňa Šrámek",
+    "question": "Která postava v Stříbrném větru představuje konzervativní hodnoty?",
+    "options": ["Jan Ratkin", "Lenka", "Otec Ratkin", "Profesor Váňa"],
+    "answer": "Otec Ratkin"
+  },
+  {
+    "topic": "Stříbrný vítr – Fráňa Šrámek",
+    "question": "Jaký literární styl je typický pro Stříbrný vítr?",
+    "options": ["Realistický", "Impresionistický", "Naturalistický", "Expresionistický"],
+    "answer": "Impresionistický"
+  },
+  {
+    "topic": "Stříbrný vítr – Fráňa Šrámek",
+    "question": "Co je hlavním tématem Stříbrného větru?",
+    "options": ["Válka", "Dospívání a svoboda", "Politická revoluce", "Náboženská víra"],
+    "answer": "Dospívání a svoboda"
+  },
+  {
+    "topic": "Stříbrný vítr – Fráňa Šrámek",
+    "question": "Kdo je hlavním hrdinou Stříbrného větru?",
+    "options": ["Otec Ratkin", "Jan Ratkin", "Profesor Váňa", "Lenka"],
+    "answer": "Jan Ratkin"
+  },
+  {
+    "topic": "Stříbrný vítr – Fráňa Šrámek",
+    "question": "Jaký motiv je v Stříbrném větru klíčový?",
+    "options": ["Konflikt generací", "Technologický pokrok", "Náboženská reforma", "Vojenská strategie"],
+    "answer": "Konflikt generací"
+  },
+  {
+    "topic": "Stříbrný vítr – Fráňa Šrámek",
+    "question": "Kde se odehrává děj Stříbrného větru?",
+    "options": ["Velké město", "Malé město a příroda", "Vesnice", "Hrad"],
+    "answer": "Malé město a příroda"
+  },
+  {
+    "topic": "Stříbrný vítr – Fráňa Šrámek",
+    "question": "Co Jan Ratkin hledá v Stříbrném větru?",
+    "options": ["Bohatství", "Smysl života", "Vojenskou kariéru", "Náboženskou víru"],
+    "answer": "Smysl života"
+  },
+  {
+    "topic": "Stříbrný vítr – Fráňa Šrámek",
+    "question": "Která postava podporuje Janovy sny v Stříbrném větru?",
+    "options": ["Otec Ratkin", "Lenka", "Profesor Váňa", "Janova matka"],
+    "answer": "Profesor Váňa"
+  },
+  {
+    "topic": "Stříbrný vítr – Fráňa Šrámek",
+    "question": "Jaký je časový rámec Stříbrného větru?",
+    "options": ["Konec 19. století", "Počátek 20. století", "Středověk", "Druhá světová válka"],
+    "answer": "Konec 19. století"
+  },
+  {
+    "topic": "Stříbrný vítr – Fráňa Šrámek",
+    "question": "Co symbolizuje Lenka v Stříbrném větru?",
+    "options": ["Autority", "Nevinnost a lásku", "Revoluci", "Pokrytectví"],
+    "answer": "Nevinnost a lásku"
+  },
+  {
+    "topic": "Stříbrný vítr – Fráňa Šrámek",
+    "question": "Jaký je hlavní literární druh Stříbrného větru?",
+    "options": ["Drama", "Epika", "Lyrika", "Eseje"],
+    "answer": "Epika"
+  },
+  {
+    "topic": "Stříbrný vítr – Fráňa Šrámek",
+    "question": "Jak končí Stříbrný vítr?",
+    "options": ["Jan se smíří s otcem", "Jan odchází hledat svobodu", "Jan se ožení s Lenkou", "Jan se stane učitelem"],
+    "answer": "Jan odchází hledat svobodu"
+  },
+  {
+    "topic": "Stříbrný vítr – Fráňa Šrámek",
+    "question": "Jaký je vztah Jana a jeho otce v Stříbrném větru?",
+    "options": ["Harmonický", "Konfliktní", "Lhostejný", "Podporující"],
+    "answer": "Konfliktní"
+  },
+  {
+    "topic": "Stříbrný vítr – Fráňa Šrámek",
+    "question": "Co je hlavní myšlenkou Stříbrného větru?",
+    "options": ["Touha po svobodě a konflikty mládí", "Důležitost poslušnosti", "Síla náboženství", "Význam bohatství"],
+    "answer": "Touha po svobodě a konflikty mládí"
+  },
+
+  {
+    "topic": "Farma zvířat – George Orwell",
+    "question": "Která postava ve Farmě zvířat symbolizuje diktátora?",
+    "options": ["Kuliš", "Napoleon", "Boxer", "Pištík"],
+    "answer": "Napoleon"
+  },
+  {
+    "topic": "Farma zvířat – George Orwell",
+    "question": "Co je hlavním žánrem Farmy zvířat?",
+    "options": ["Historický román", "Alegorická bajka", "Romantická novela", "Vědeckofantastický příběh"],
+    "answer": "Alegorická bajka"
+  },
+  {
+    "topic": "Farma zvířat – George Orwell",
+    "question": "Který motiv je ve Farmě zvířat nejvíce zdůrazněn?",
+    "options": ["Láska", "Moc a její zneužití", "Příroda", "Náboženství"],
+    "answer": "Moc a její zneužití"
+  },
+  {
+    "topic": "Farma zvířat – George Orwell",
+    "question": "Kdo je symbolem dělnické třídy ve Farmě zvířat?",
+    "options": ["Napoleon", "Kuliš", "Boxer", "Pištík"],
+    "answer": "Boxer"
+  },
+  {
+    "topic": "Farma zvířat – George Orwell",
+    "question": "Co je hlavní myšlenkou Farmy zvířat?",
+    "options": ["Kritika totalitních režimů", "Oslava revoluce", "Důležitost přírody", "Síla lásky"],
+    "answer": "Kritika totalitních režimů"
+  },
+  {
+    "topic": "Farma zvířat – George Orwell",
+    "question": "Jaký je jazykový styl Farmy zvířat?",
+    "options": ["Poetický", "Jednoduchý a ironický", "Technický", "Květnatý"],
+    "answer": "Jednoduchý a ironický"
+  },
+  {
+    "topic": "Farma zvířat – George Orwell",
+    "question": "Co se stane s Kulišem ve Farmě zvířat?",
+    "options": ["Stane se vůdcem", "Je vyhnán Napoleonem", "Zůstane na farmě", "Pomáhá lidem"],
+    "answer": "Je vyhnán Napoleonem"
+  },
+  {
+    "topic": "Farma zvířat – George Orwell",
+    "question": "Co farma v Orwellově díle symbolizuje?",
+    "options": ["Společnost", "Přírodu", "Náboženství", "Technologii"],
+    "answer": "Společnost"
+  },
+  {
+    "topic": "Farma zvířat – George Orwell",
+    "question": "Jaký historický proces Farma zvířat alegoricky zobrazuje?",
+    "options": ["Francouzskou revoluci", "Ruskou revoluci", "Americkou revoluci", "Průmyslovou revoluci"],
+    "answer": "Ruskou revoluci"
+  },
+  {
+    "topic": "Farma zvířat – George Orwell",
+    "question": "Která postava je propagandistou ve Farmě zvířat?",
+    "options": ["Napoleon", "Kuliš", "Boxer", "Pištík"],
+    "answer": "Pištík"
+  },
+  {
+    "topic": "Farma zvířat – George Orwell",
+    "question": "Jak končí Farma zvířat?",
+    "options": ["Zvířata obnoví rovnost", "Prasata se neliší od lidí", "Farma je zničena", "Boxer se stane vůdcem"],
+    "answer": "Prasata se neliší od lidí"
+  },
+  {
+    "topic": "Farma zvířat – George Orwell",
+    "question": "Co inspiruje zvířata k revoluci ve Farmě zvířat?",
+    "options": ["Vidina rovnosti", "Touha po bohatství", "Náboženská víra", "Technologický pokrok"],
+    "answer": "Vidina rovnosti"
+  },
+  {
+    "topic": "Farma zvířat – George Orwell",
+    "question": "Jaký je hlavní literární druh Farmy zvířat?",
+    "options": ["Drama", "Epika", "Lyrika", "Eseje"],
+    "answer": "Epika"
+  },
+  {
+    "topic": "Farma zvířat – George Orwell",
+    "question": "Které období ovlivnilo Orwellovu tvorbu?",
+    "options": ["Renesance", "Vzestup fašismu a komunismu", "Romantismus", "Středověk"],
+    "answer": "Vzestup fašismu a komunismu"
+  },
+  {
+    "topic": "Farma zvířat – George Orwell",
+    "question": "Co je hlavním cílem Orwellovy Farmy zvířat?",
+    "options": ["Varování před zneužitím moci", "Oslava revoluce", "Podpora socialismu", "Propaganda demokracie"],
+    "answer": "Varování před zneužitím moci"
+  },
+
+  {
+    "topic": "Hlídač č. 47 – Josef Kopta",
+    "question": "Jaké je hlavní téma románu Hlídač č. 47?",
+    "options": ["Láska a vášeň", "Válečné trauma a izolace", "Hledání bohatství", "Politická satira"],
+    "answer": "Válečné trauma a izolace"
+  },
+  {
+    "topic": "Hlídač č. 47 – Josef Kopta",
+    "question": "Proč František Douša v Hlídači č. 47 předstírá hluchotu?",
+    "options": ["Aby získal důchod a vyhnul se pomluvám", "Aby se stal slavným", "Aby unikl trestu", "Aby pomohl své ženě"],
+    "answer": "Aby získal důchod a vyhnul se pomluvám"
+  },
+  {
+    "topic": "Hlídač č. 47 – Josef Kopta",
+    "question": "Který motiv je v Hlídači č. 47 klíčový?",
+    "options": ["Cestování", "Trauma", "Technologický pokrok", "Romantická láska"],
+    "answer": "Trauma"
+  },
+  {
+    "topic": "Hlídač č. 47 – Josef Kopta",
+    "question": "Kdo je hlavním hrdinou Hlídače č. 47?",
+    "options": ["Ferda", "Anna Doušová", "František Douša", "Policejní komisař"],
+    "answer": "František Douša"
+  },
+  {
+    "topic": "Hlídač č. 47 – Josef Kopta",
+    "question": "Jaký je hlavní literární žánr Hlídače č. 47?",
+    "options": ["Alegorická bajka", "Psychologická próza", "Romantická novela", "Historický román"],
+    "answer": "Psychologická próza"
+  },
+  {
+    "topic": "Hlídač č. 47 – Josef Kopta",
+    "question": "Kde se odehrává děj Hlídače č. 47?",
+    "options": ["Český venkov", "Velké město", "Válečná fronta", "Italské město"],
+    "answer": "Český venkov"
+  },
+  {
+    "topic": "Hlídač č. 47 – Josef Kopta",
+    "question": "Co je hlavní myšlenkou Hlídače č. 47?",
+    "options": ["Dopady války na psychiku", "Síla lásky", "Důležitost bohatství", "Nutnost revoluce"],
+    "answer": "Dopady války na psychiku"
+  },
+  {
+    "topic": "Hlídač č. 47 – Josef Kopta",
+    "question": "Která postava podporuje Františka Doušu v Hlídači č. 47?",
+    "options": ["Ferda", "Anna Doušová", "Policejní komisař", "Nikdo"],
+    "answer": "Anna Doušová"
+  },
+  {
+    "topic": "Hlídač č. 47 – Josef Kopta",
+    "question": "Jaký je časový rámec Hlídače č. 47?",
+    "options": ["Po druhé světové válce", "Po první světové válce", "Před první světovou válkou", "Během středověku"],
+    "answer": "Po první světové válce"
+  },
+  {
+    "topic": "Hlídač č. 47 – Josef Kopta",
+    "question": "Co František Douša v Hlídači č. 47 hledá?",
+    "options": ["Bohatství", "Klid a únik od tlaku", "Slávu", "Lásku"],
+    "answer": "Klid a únik od tlaku"
+  },
+  {
+    "topic": "Hlídač č. 47 – Josef Kopta",
+    "question": "Jaký je vztah Františka Douši a Ferdy v Hlídači č. 47?",
+    "options": ["Přátelský", "Nepřátelský", "Lhostejný", "Rodinný"],
+    "answer": "Nepřátelský"
+  },
+  {
+    "topic": "Hlídač č. 47 – Josef Kopta",
+    "question": "Jaký literární druh je Hlídač č. 47?",
+    "options": ["Drama", "Epika", "Lyrika", "Eseje"],
+    "answer": "Epika"
+  },
+  {
+    "topic": "Hlídač č. 47 – Josef Kopta",
+    "question": "Co izoluje Františka Doušu od společnosti v Hlídači č. 47?",
+    "options": ["Jeho bohatství", "Jeho přetvářka hluchoty", "Jeho sláva", "Jeho láska"],
+    "answer": "Jeho přetvářka hluchoty"
+  },
+  {
+    "topic": "Hlídač č. 47 – Josef Kopta",
+    "question": "K jakému literárnímu směru Hlídač č. 47 patří?",
+    "options": ["Legionářská literatura", "Romantismus", "Surrealismus", "Avantgarda"],
+    "answer": "Legionářská literatura"
+  },
+  {
+    "topic": "Hlídač č. 47 – Josef Kopta",
+    "question": "Jak končí příběh Hlídače č. 47?",
+    "options": ["František Douša najde klid", "František Douša má tragický konec", "František Douša se stane hrdinou", "František Douša opustí venkov"],
+    "answer": "František Douša má tragický konec"
+  },
+  {
+    "topic": "Strakonický dudák – Josef Kajetán Tyl",
+    "question": "Jaké je hlavní téma Strakonického dudáka?",
+    "options": ["Láska a válka", "Konflikt mezi láskou, povinností a vlastenectvím", "Hledání bohatství", "Náboženská víra"],
+    "answer": "Konflikt mezi láskou, povinností a vlastenectvím"
+  },
+  {
+    "topic": "Strakonický dudák – Josef Kajetán Tyl",
+    "question": "Kdo je hlavním hrdinou Strakonického dudáka?",
+    "options": ["Vocilka", "Švanda", "Kalafuna", "Dorotka"],
+    "answer": "Švanda"
+  },
+  {
+    "topic": "Strakonický dudák – Josef Kajetán Tyl",
+    "question": "Co symbolizuje Dorotka v Strakonickém dudákovi?",
+    "options": ["Chamtivost", "Čistotu a oddanost", "Zradu", "Moc"],
+    "answer": "Čistotu a oddanost"
+  },
+  {
+    "topic": "Strakonický dudák – Josef Kajetán Tyl",
+    "question": "Jaký literární žánr je Strakonický dudák?",
+    "options": ["Romantická poema", "Divadelní hra s pohádkovými prvky", "Historický román", "Satirická novela"],
+    "answer": "Divadelní hra s pohádkovými prvky"
+  },
+  {
+    "topic": "Strakonický dudák – Josef Kajetán Tyl",
+    "question": "Kdo je Rosava v Strakonickém dudákovi?",
+    "options": ["Švandova láska", "Lesní víla a Švandova matka", "Zlá čarodějnice", "Královna cizí země"],
+    "answer": "Lesní víla a Švandova matka"
+  },
+  {
+    "topic": "Strakonický dudák – Josef Kajetán Tyl",
+    "question": "V jakém kontextu Strakonický dudák vznikl?",
+    "options": ["České národní obrození", "Druhá světová válka", "Romantismus", "Socialismus"],
+    "answer": "České národní obrození"
+  },
+  {
+    "topic": "Strakonický dudák – Josef Kajetán Tyl",
+    "question": "Jaký motiv je v Strakonickém dudákovi klíčový?",
+    "options": ["Technologický pokrok", "Vlastenectví", "Náboženská reforma", "Cestování"],
+    "answer": "Vlastenectví"
+  },
+  {
+    "topic": "Strakonický dudák – Josef Kajetán Tyl",
+    "question": "Co svádí Švandu k chamtivosti v Strakonickém dudákovi?",
+    "options": ["Dorotka", "Vocilka", "Rosava", "Kalafuna"],
+    "answer": "Vocilka"
+  },
+  {
+    "topic": "Strakonický dudák – Josef Kajetán Tyl",
+    "question": "Jaký je jazykový styl Strakonického dudáka?",
+    "options": ["Spisovná čeština s lidovými prvky", "Moderní hovorový jazyk", "Archaický jazyk", "Technický jazyk"],
+    "answer": "Spisovná čeština s lidovými prvky"
+  },
+  {
+    "topic": "Strakonický dudák – Josef Kajetán Tyl",
+    "question": "Jak končí Strakonický dudák?",
+    "options": ["Švanda zůstává v cizině", "Švanda se vrací a smiřuje", "Švanda umírá", "Švanda se ožení s Rosavou"],
+    "answer": "Švanda se vrací a smiřuje"
+  },
+  {
+    "topic": "Strakonický dudák – Josef Kajetán Tyl",
+    "question": "Kdo je Kalafuna v Strakonickém dudákovi?",
+    "options": ["Zloduch", "Švandův přítel", "Král cizí země", "Lesní víla"],
+    "answer": "Švandův přítel"
+  },
+  {
+    "topic": "Strakonický dudák – Josef Kajetán Tyl",
+    "question": "Co je hlavní myšlenkou Strakonického dudáka?",
+    "options": ["Osud a morální hodnoty", "Síla bohatství", "Důležitost války", "Náboženská víra"],
+    "answer": "Osud a morální hodnoty"
+  },
+  {
+    "topic": "Strakonický dudák – Josef Kajetán Tyl",
+    "question": "Kde se odehrává děj Strakonického dudáka?",
+    "options": ["Praha", "Strakonice a les", "Brno", "Vídni"],
+    "answer": "Strakonice a les"
+  },
+  {
+    "topic": "Strakonický dudák – Josef Kajetán Tyl",
+    "question": "Jaký literární druh je Strakonický dudák?",
+    "options": ["Epika", "Lyrika", "Drama", "Eseje"],
+    "answer": "Drama"
+  },
+  {
+    "topic": "Strakonický dudák – Josef Kajetán Tyl",
+    "question": "Co Švanda opouští kvůli slávě v Strakonickém dudákovi?",
+    "options": ["Svoji rodinu", "Dorotku a domov", "Svoji víru", "Svoji práci"],
+    "answer": "Dorotku a domov"
+  },
+  {
+    "topic": "Máj – Karel Hynek Mácha",
+    "question": "Jaký je hlavní literární žánr Máje?",
+    "options": ["Historický román", "Romantická poema", "Satirická novela", "Realistická povídka"],
+    "answer": "Romantická poema"
+  },
+  {
+    "topic": "Máj – Karel Hynek Mácha",
+    "question": "Kdo je hlavním hrdinou Máje?",
+    "options": ["Hynek", "Vilém", "Jarmila", "Tybalt"],
+    "answer": "Vilém"
+  },
+  {
+    "topic": "Máj – Karel Hynek Mácha",
+    "question": "Co je hlavním tématem Máje?",
+    "options": ["Láska a zrada", "Válka", "Politická revoluce", "Technologický pokrok"],
+    "answer": "Láska a zrada"
+  },
+  {
+    "topic": "Máj – Karel Hynek Mácha",
+    "question": "Jaký je osud Jarmily v Máji?",
+    "options": ["Ožení se s Vilémem", "Spáchá sebevraždu", "Stane se královnou", "Odjede do ciziny"],
+    "answer": "Spáchá sebevraždu"
+  },
+  {
+    "topic": "Máj – Karel Hynek Mácha",
+    "question": "Jaký básnický prostředek je typický pro Máj?",
+    "options": ["Oxymóron", "Rým", "Asonance", "Epiteton"],
+    "answer": "Oxymóron"
+  },
+  {
+    "topic": "Máj – Karel Hynek Mácha",
+    "question": "Co symbolizuje jezero v Máji?",
+    "options": ["Věčnost", "Chamtivost", "Válku", "Bohatství"],
+    "answer": "Věčnost"
+  },
+  {
+    "topic": "Máj – Karel Hynek Mácha",
+    "question": "V jakém období Máj vznikl?",
+    "options": ["Renesance", "Český romantismus", "Národní obrození", "Socialismus"],
+    "answer": "Český romantismus"
+  },
+  {
+    "topic": "Máj – Karel Hynek Mácha",
+    "question": "Kdo je Hynek v Máji?",
+    "options": ["Vilémův bratr", "Vypravěč a alter ego autora", "Jarmilin otec", "Vůdce loupežníků"],
+    "answer": "Vypravěč a alter ego autora"
+  },
+  {
+    "topic": "Máj – Karel Hynek Mácha",
+    "question": "Jaký je typický verš Máje?",
+    "options": ["Alexandrín", "Jamb", "Trochej", "Daktyl"],
+    "answer": "Jamb"
+  },
+  {
+    "topic": "Máj – Karel Hynek Mácha",
+    "question": "Co je vrcholem děje Máje?",
+    "options": ["Vilémova svatba", "Poprava Viléma", "Jarmilina záchrana", "Hynekovo putování"],
+    "answer": "Poprava Viléma"
+  },
+  {
+    "topic": "Máj – Karel Hynek Mácha",
+    "question": "Jaký motiv není v Máji přítomen?",
+    "options": ["Láska", "Vina", "Technologický pokrok", "Smrt"],
+    "answer": "Technologický pokrok"
+  },
+  {
+    "topic": "Máj – Karel Hynek Mácha",
+    "question": "Co reflektuje epilog Máje?",
+    "options": ["Pomíjivost života", "Sílu lásky", "Vítězství dobra", "Náboženskou víru"],
+    "answer": "Pomíjivost života"
+  },
+  {
+    "topic": "Máj – Karel Hynek Mácha",
+    "question": "Jaký je literární druh Máje?",
+    "options": ["Epika", "Lyriko-epická báseň", "Drama", "Eseje"],
+    "answer": "Lyriko-epická báseň"
+  },
+  {
+    "topic": "Máj – Karel Hynek Mácha",
+    "question": "Co je symbolem kontrastu v Máji?",
+    "options": ["Májová příroda", "Město", "Hora", "Moře"],
+    "answer": "Májová příroda"
+  },
+  {
+    "topic": "Máj – Karel Hynek Mácha",
+    "question": "Jak bylo Máj přijato po vydání?",
+    "options": ["S nadšením", "S nepochopením", "S kritikou cenzury", "S lhostejností"],
+    "answer": "S nepochopením"
+  },
+  {
+    "topic": "Slezské písně – Petr Bezruč",
+    "question": "Jaké je hlavní téma Slezských písní?",
+    "options": ["Láska a příroda", "Národní a sociální útlak", "Válka", "Technologický pokrok"],
+    "answer": "Národní a sociální útlak"
+  },
+  {
+    "topic": "Slezské písně – Petr Bezruč",
+    "question": "Kdo je Maryčka Magdonová v Slezských písních?",
+    "options": ["Vlastenecká učitelka", "Dívka, která spáchá sebevraždu", "Vůdkyně revoluce", "Bohatá šlechtična"],
+    "answer": "Dívka, která spáchá sebevraždu"
+  },
+  {
+    "topic": "Slezské písně – Petr Bezruč",
+    "question": "Co symbolizuje Bernard Žár v Slezských písních?",
+    "options": ["Pokoru", "Vzdor a pomstu", "Lásku", "Bohatství"],
+    "answer": "Vzdor a pomstu"
+  },
+  {
+    "topic": "Slezské písně – Petr Bezruč",
+    "question": "Jaký je literární žánr Slezských písní?",
+    "options": ["Romantická novela", "Sociální balady a vlastenecké básně", "Historický román", "Sci-fi"],
+    "answer": "Sociální balady a vlastenecké básně"
+  },
+  {
+    "topic": "Slezské písně – Petr Bezruč",
+    "question": "Kde se odehrávají Slezské písně?",
+    "options": ["Praha", "Ostravsko a Těšínsko", "Brno", "Plzeň"],
+    "answer": "Ostravsko a Těšínsko"
+  },
+  {
+    "topic": "Slezské písně – Petr Bezruč",
+    "question": "Co kritizují Slezské písně?",
+    "options": ["Sociální nerovnosti", "Náboženská dogmata", "Uměleckou avantgardu", "Vědecký pokrok"],
+    "answer": "Sociální nerovnosti"
+  },
+  {
+    "topic": "Slezské písně – Petr Bezruč",
+    "question": "Kdo je Kantor Halfar v Slezských písních?",
+    "options": ["Horník", "Učitel a vlastenec", "Revolucionář", "Kněz"],
+    "answer": "Učitel a vlastenec"
+  },
+  {
+    "topic": "Slezské písně – Petr Bezruč",
+    "question": "Jaký je jazykový styl Slezských písní?",
+    "options": ["Poetický a jemný", "Expresivní a drsný", "Technický", "Humoristický"],
+    "answer": "Expresivní a drsný"
+  },
+  {
+    "topic": "Slezské písně – Petr Bezruč",
+    "question": "Jaký motiv je v Slezských písních klíčový?",
+    "options": ["Láska", "Vzpoura", "Cestování", "Náboženství"],
+    "answer": "Vzpoura"
+  },
+  {
+    "topic": "Slezské písně – Petr Bezruč",
+    "question": "V jakém období Slezské písně vznikly?",
+    "options": ["Konec 19. století", "Druhá světová válka", "Renesance", "Socialismus"],
+    "answer": "Konec 19. století"
+  },
+  {
+    "topic": "Slezské písně – Petr Bezruč",
+    "question": "Co je hlavní myšlenkou Slezských písní?",
+    "options": ["Hrdost a vzdor slezského lidu", "Síla lásky", "Důležitost bohatství", "Náboženská víra"],
+    "answer": "Hrdost a vzdor slezského lidu"
+  },
+  {
+    "topic": "Slezské písně – Petr Bezruč",
+    "question": "Kdo jsou kolektivní hrdinové Slezských písní?",
+    "options": ["Šlechtici", "Horníci a dělníci", "Umělci", "Vojáci"],
+    "answer": "Horníci a dělníci"
+  },
+  {
+    "topic": "Slezské písně – Petr Bezruč",
+    "question": "Co je Ostrava v Slezských písních?",
+    "options": ["Přístav", "Symbol průmyslové zkáz", "Královské město", "Místo lásky"],
+    "answer": "Symbol průmyslové zkáz"
+  },
+  {
+    "topic": "Slezské písně – Petr Bezruč",
+    "question": "Jaký je literární druh Slezských písní?",
+    "options": ["Drama", "Lyricko-epická poezie", "Epika", "Eseje"],
+    "answer": "Lyricko-epická poezie"
+  },
+  {
+    "topic": "Slezské písně – Petr Bezruč",
+    "question": "Co ovlivnilo Bezručovu tvorbu?",
+    "options": ["Národnostní útlak ve Slezsku", "Romantismus", "Technologický pokrok", "Cestování"],
+    "answer": "Národnostní útlak ve Slezsku"
+  },
+  {
+    "topic": "451° Fahrenheita – Ray Bradbury",
+    "question": "Jaké je hlavní téma 451° Fahrenheita?",
+    "options": ["Cenzura a ničení knih", "Láska", "Válka", "Náboženství"],
+    "answer": "Cenzura a ničení knih"
+  },
+  {
+    "topic": "451° Fahrenheita – Ray Bradbury",
+    "question": "Kdo je hlavním hrdinou 451° Fahrenheita?",
+    "options": ["Clarisse McClellanová", "Guy Montag", "Kapitán Beatty", "Mildred Montagová"],
+    "answer": "Guy Montag"
+  },
+  {
+    "topic": "451° Fahrenheita – Ray Bradbury",
+    "question": "Co symbolizuje ničení knih v 451° Fahrenheita?",
+    "options": ["Pokrok", "Potlačování svobodného myšlení", "Lásku", "Bohatství"],
+    "answer": "Potlačování svobodného myšlení"
+  },
+  {
+    "topic": "451° Fahrenheita – Ray Bradbury",
+    "question": "Jaký je literární žánr 451° Fahrenheita?",
+    "options": ["Historický román", "Dystopický román", "Romantická novela", "Fantasy"],
+    "answer": "Dystopický román"
+  },
+  {
+    "topic": "451° Fahrenheita – Ray Bradbury",
+    "question": "Kdo otevře Montagovi oči v 451° Fahrenheita?",
+    "options": ["Mildred Montagová", "Kapitán Beatty", "Clarisse McClellanová", "Intelektuálové"],
+    "answer": "Clarisse McClellanová"
+  },
+  {
+    "topic": "451° Fahrenheita – Ray Bradbury",
+    "question": "Co je hlavní myšlenkou 451° Fahrenheita?",
+    "options": ["Ztráta lidskosti bez svobody myšlení", "Síla technologií", "Důležitost války", "Náboženská víra"],
+    "answer": "Ztráta lidskosti bez svobody myšlení"
+  },
+  {
+    "topic": "451° Fahrenheita – Ray Bradbury",
+    "question": "Co dělají hasiči v 451° Fahrenheita?",
+    "options": ["Hasí požáry", "Pálí knihy", "Učí děti", "Staví domy"],
+    "answer": "Pálí knihy"
+  },
+  {
+    "topic": "451° Fahrenheita – Ray Bradbury",
+    "question": "Jak končí 451° Fahrenheita?",
+    "options": ["Montag je zatčen", "Montag se připojí k intelektuálům", "Montag se vrací k Mildred", "Montag zničí město"],
+    "answer": "Montag se připojí k intelektuálům"
+  },
+  {
+    "topic": "451° Fahrenheita – Ray Bradbury",
+    "question": "Kdo udá Montaga v 451° Fahrenheita?",
+    "options": ["Clarisse", "Mildred", "Beatty", "Intelektuálové"],
+    "answer": "Mildred"
+  },
+  {
+    "topic": "451° Fahrenheita – Ray Bradbury",
+    "question": "Jaký motiv je v 451° Fahrenheita klíčový?",
+    "options": ["Rebelie a svoboda", "Láska", "Náboženství", "Cestování"],
+    "answer": "Rebelie a svoboda"
+  },
+  {
+    "topic": "451° Fahrenheita – Ray Bradbury",
+    "question": "V jakém období 451° Fahrenheita vzniklo?",
+    "options": ["Renesance", "Po druhé světové válce", "Romantismus", "Středověk"],
+    "answer": "Po druhé světové válce"
+  },
+  {
+    "topic": "451° Fahrenheita – Ray Bradbury",
+    "question": "Jaký je jazykový styl 451° Fahrenheita?",
+    "options": ["Symbolický a metaforický", "Humoristický", "Technický", "Archaický"],
+    "answer": "Symbolický a metaforický"
+  },
+  {
+    "topic": "451° Fahrenheita – Ray Bradbury",
+    "question": "Co reprezentuje Mildred v 451° Fahrenheita?",
+    "options": ["Svobodu", "Povrchní zábavu", "Vzdor", "Umění"],
+    "answer": "Povrchní zábavu"
+  },
+  {
+    "topic": "451° Fahrenheita – Ray Bradbury",
+    "question": "Jaký je literární druh 451° Fahrenheita?",
+    "options": ["Drama", "Epika", "Lyrika", "Eseje"],
+    "answer": "Epika"
+  },
+  {
+    "topic": "451° Fahrenheita – Ray Bradbury",
+    "question": "Co ovlivnilo Bradburyho při psaní 451° Fahrenheita?",
+    "options": ["Obavy z cenzury", "Náboženská víra", "Romantismus", "Válka"],
+    "answer": "Obavy z cenzury"
+  },
+  {
+    "topic": "O myších a lidech – John Steinbeck",
+    "question": "Jaké je hlavní téma O myších a lidech?",
+    "options": ["Osamělost a přátelství", "Válka", "Láska", "Náboženství"],
+    "answer": "Osamělost a přátelství"
+  },
+  {
+    "topic": "O myších a lidech – John Steinbeck",
+    "question": "Kdo je hlavním hrdinou O myších a lidech?",
+    "options": ["Curley", "George Milton", "Candy", "Lennie Small"],
+    "answer": "George Milton"
+  },
+  {
+    "topic": "O myších a lidech – John Steinbeck",
+    "question": "Co je hlavní myšlenkou O myších a lidech?",
+    "options": ["Kritika sociálních podmínek", "Síla lásky", "Důležitost bohatství", "Náboženská víra"],
+    "answer": "Kritika sociálních podmínek"
+  },
+  {
+    "topic": "O myších a lidech – John Steinbeck",
+    "question": "Jaký je literární žánr O myších a lidech?",
+    "options": ["Novela s prvky tragédie", "Romantická novela", "Historický román", "Sci-fi"],
+    "answer": "Novela s prvky tragédie"
+  },
+  {
+    "topic": "O myších a lidech – John Steinbeck",
+    "question": "Co sní George a Lennie v O myších a lidech?",
+    "options": ["O vlastní farmě", "O slávě", "O cestování", "O bohatství"],
+    "answer": "O vlastní farmě"
+  },
+  {
+    "topic": "O myších a lidech – John Steinbeck",
+    "question": "Kdo je Lennie Small v O myších a lidech?",
+    "options": ["Chytrý rančer", "Mentálně postižený muž", "Majitel ranče", "Georgeův nepřítel"],
+    "answer": "Mentálně postižený muž"
+  },
+  {
+    "topic": "O myších a lidech – John Steinbeck",
+    "question": "Jak končí O myších a lidech?",
+    "options": ["George a Lennie koupí farmu", "George zabije Lennieho", "Lennie uteče", "Curley zabije Lennieho"],
+    "answer": "George zabije Lennieho"
+  },
+  {
+    "topic": "O myších a lidech – John Steinbeck",
+    "question": "V jakém období se O myších a lidech odehrává?",
+    "options": ["Velká hospodářská krize", "Druhá světová válka", "Renesance", "Středověk"],
+    "answer": "Velká hospodářská krize"
+  },
+  {
+    "topic": "O myších a lidech – John Steinbeck",
+    "question": "Kdo je Curleyova žena v O myších a lidech?",
+    "options": ["Georgeova sestra", "Osamělá žena toužící po pozornosti", "Lennieho láska", "Majitelka ranče"],
+    "answer": "Osamělá žena toužící po pozornosti"
+  },
+  {
+    "topic": "O myších a lidech – John Steinbeck",
+    "question": "Jaký motiv je klíčový v O myších a lidech?",
+    "options": ["Sen a jeho zničení", "Láska", "Náboženství", "Technologický pokrok"],
+    "answer": "Sen a jeho zničení"
+  },
+  {
+    "topic": "O myších a lidech – John Steinbeck",
+    "question": "Kde se odehrává děj O myších a lidech?",
+    "options": ["New York", "Kalifornie", "Texas", "Florida"],
+    "answer": "Kalifornie"
+  },
+  {
+    "topic": "O myších a lidech – John Steinbeck",
+    "question": "Jaký je jazykový styl O myších a lidech?",
+    "options": ["Jednoduchý a hovorový", "Poetický", "Technický", "Archaický"],
+    "answer": "Jednoduchý a hovorový"
+  },
+  {
+    "topic": "O myších a lidech – John Steinbeck",
+    "question": "Kdo se připojí ke snu George a Lennieho?",
+    "options": ["Curley", "Candy", "Curleyova žena", "Slim"],
+    "answer": "Candy"
+  },
+  {
+    "topic": "O myších a lidech – John Steinbeck",
+    "question": "Jaký je literární druh O myších a lidech?",
+    "options": ["Drama", "Epika", "Lyrika", "Eseje"],
+    "answer": "Epika"
+  },
+  {
+    "topic": "O myších a lidech – John Steinbeck",
+    "question": "Co ovlivnilo Steinbeckovu tvorbu?",
+    "options": ["Velká hospodářská krize", "Romantismus", "Renesance", "Cestování"],
+    "answer": "Velká hospodářská krize"
+  },
+
+  {
+    "topic": "Romeo a Julie – William Shakespeare",
+    "question": "Jaké je hlavní téma Romea a Julie?",
+    "options": ["Osudová láska a nepřátelství", "Válka", "Politická revoluce", "Náboženství"],
+    "answer": "Osudová láska a nepřátelství"
+  },
+  {
+    "topic": "Romeo a Julie – William Shakespeare",
+    "question": "Kdo je hlavní ženskou postavou Romea a Julie?",
+    "options": ["Rosava", "Julie", "Clarisse", "Mildred"],
+    "answer": "Julie"
+  },
+  {
+    "topic": "Romeo a Julie – William Shakespeare",
+    "question": "Co je hlavní myšlenkou Romea a Julie?",
+    "options": ["Konflikt lásky a nenávisti", "Síla bohatství", "Důležitost války", "Náboženská víra"],
+    "answer": "Konflikt lásky a nenávisti"
+  },
+  {
+    "topic": "Romeo a Julie – William Shakespeare",
+    "question": "Jaký je literární žánr Romea a Julie?",
+    "options": ["Komedie", "Tragédie", "Historická hra", "Satira"],
+    "answer": "Tragédie"
+  },
+  {
+    "topic": "Romeo a Julie – William Shakespeare",
+    "question": "Kdo oddá Romea a Julii v tajnosti?",
+    "options": ["Tybalt", "Merkucio", "Otec Lorenzo", "Paris"],
+    "answer": "Otec Lorenzo"
+  },
+  {
+    "topic": "Romeo a Julie – William Shakespeare",
+    "question": "Kde se odehrává děj Romea a Julie?",
+    "options": ["Londýn", "Verona", "Paříž", "Florencie"],
+    "answer": "Verona"
+  },
+  {
+    "topic": "Romeo a Julie – William Shakespeare",
+    "question": "Co způsobí Juliin zdánlivý skon v Romeovi a Julii?",
+    "options": ["Lektvar", "Nemoc", "Jed", "Zranění"],
+    "answer": "Lektvar"
+  },
+  {
+    "topic": "Romeo a Julie – William Shakespeare",
+    "question": "Kdo je Tybalt v Romeovi a Julii?",
+    "options": ["Romeův přítel", "Juliin bratranec", "Kněz", "Král"],
+    "answer": "Juliin bratranec"
+  },
+  {
+    "topic": "Romeo a Julie – William Shakespeare",
+    "question": "Jak končí Romeo a Julie?",
+    "options": ["Romeo a Julie žijí šťastně", "Romeo a Julie zemřou", "Romeo opustí Julii", "Julie se provdá za Parida"],
+    "answer": "Romeo a Julie zemřou"
+  },
+  {
+    "topic": "Romeo a Julie – William Shakespeare",
+    "question": "V jakém období Romeo a Julie vzniklo?",
+    "options": ["Renesance", "Středověk", "Romantismus", "Modernismus"],
+    "answer": "Renesance"
+  },
+  {
+    "topic": "Romeo a Julie – William Shakespeare",
+    "question": "Kdo je Merkucio v Romeovi a Julii?",
+    "options": ["Juliin otec", "Romeův přítel", "Kněz", "Nepřítel Monteků"],
+    "answer": "Romeův přítel"
+  },
+  {
+    "topic": "Romeo a Julie – William Shakespeare",
+    "question": "Jaký motiv je klíčový v Romeovi a Julii?",
+    "options": ["Technologický pokrok", "Osud", "Cestování", "Náboženství"],
+    "answer": "Osud"
+  },
+  {
+    "topic": "Romeo a Julie – William Shakespeare",
+    "question": "Jaký je literární druh Romea a Julie?",
+    "options": ["Epika", "Lyrika", "Drama", "Eseje"],
+    "answer": "Drama"
+  },
+  {
+    "topic": "Romeo a Julie – William Shakespeare",
+    "question": "Co způsobí vyhoštění Romea z Verony?",
+    "options": ["Svatba s Julií", "Zabití Tybalta", "Krádež", "Lži"],
+    "answer": "Zabití Tybalta"
+  },
+  {
+    "topic": "Romeo a Julie – William Shakespeare",
+    "question": "Co ovlivnilo Shakespearovu tvorbu Romea a Julie?",
+    "options": ["Národní obrození", "Anglická renesance", "Velká hospodářská krize", "Cenzura"],
+    "answer": "Anglická renesance"
+  }
 ]
