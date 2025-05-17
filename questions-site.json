@@ -2858,5 +2858,555 @@
       "2419200"
     ],
     "answer": "86400"
+  },
+  {
+    "topic": "21. Nftables",
+    "question": "Co je hlavním rozdílem nftables oproti iptables?",
+    "options": [
+      "Nftables je pomalejší",
+      "Nftables běží na virtual machine a má byte kód",
+      "Nftables nepodporuje NAT",
+      "Nftables vyžaduje netfiltry"
+    ],
+    "answer": "Nftables běží na virtual machine a má byte kód"
+  },
+  {
+    "topic": "21. Nftables",
+    "question": "Který typ firewallu hodnotí stav komunikace?",
+    "options": [
+      "Nestavový",
+      "Stavový",
+      "Aplikační",
+      "Obdélníkový"
+    ],
+    "answer": "Stavový"
+  },
+  {
+    "topic": "21. Nftables",
+    "question": "Co je účelem NAT v síti?",
+    "options": [
+      "Šifrování dat",
+      "Šetření IP adres",
+      "Rychlejší renderování",
+      "Správa vláken"
+    ],
+    "answer": "Šetření IP adres"
+  },
+  {
+    "topic": "21. Nftables",
+    "question": "Který hook zachytává packety před směrováním?",
+    "options": [
+      "postrouting",
+      "prerouting",
+      "input",
+      "output"
+    ],
+    "answer": "prerouting"
+  },
+  {
+    "topic": "21. Nftables",
+    "question": "Která akce pravidla vrací packet s chybovou zprávou?",
+    "options": [
+      "accept",
+      "drop",
+      "reject",
+      "continue"
+    ],
+    "answer": "reject"
+  },
+  {
+    "topic": "21. Nftables",
+    "question": "Co určuje direktiva 'dport' v pravidlech nftables?",
+    "options": [
+      "Zdrojovou adresu",
+      "Cílový port",
+      "Vstupní rozhraní",
+      "Počet packetů"
+    ],
+    "answer": "Cílový port"
+  },
+  {
+    "topic": "21. Nftables",
+    "question": "Která priorita je nastavena pro srcnat hook postrouting?",
+    "options": [
+      "-100",
+      "0",
+      "100",
+      "200"
+    ],
+    "answer": "100"
+  },
+  {
+    "topic": "21. Nftables",
+    "question": "Co je účelem tabulky typu nat?",
+    "options": [
+      "Filtrace packetů",
+      "Provádění operací NAT",
+      "Vykreslování grafiky",
+      "Správa uživatelů"
+    ],
+    "answer": "Provádění operací NAT"
+  },
+  {
+    "topic": "21. Nftables",
+    "question": "Který příkaz vypíše řetězce a pravidla v nftables?",
+    "options": [
+      "add",
+      "delete",
+      "list",
+      "flush"
+    ],
+    "answer": "list"
+  },
+  {
+    "topic": "21. Nftables",
+    "question": "Co je výchozí politika pro řetězec vstup v konfiguraci?",
+    "options": [
+      "accept",
+      "drop",
+      "continue",
+      "reject"
+    ],
+    "answer": "drop"
+  },
+  {
+    "topic": "22. Samba",
+    "question": "K čemu slouží protokol SMB?",
+    "options": [
+      "Šifrování dat",
+      "Sdílení souborů a tiskáren",
+      "Správa firewallů",
+      "Vytvoření databáze"
+    ],
+    "answer": "Sdílení souborů a tiskáren"
+  },
+  {
+    "topic": "22. Samba",
+    "question": "Který démon je odpovědný za registraci jmenných názvů?",
+    "options": [
+      "smbd",
+      "nmbd",
+      "winbindd",
+      "sambad"
+    ],
+    "answer": "nmbd"
+  },
+  {
+    "topic": "22. Samba",
+    "question": "Kde se nachází hlavní konfigurační soubor Samby?",
+    "options": [
+      "/etc/samba/smb.conf",
+      "/etc/hosts",
+      "/var/lib/samba/passdb.tdb",
+      "/etc/resolv.conf"
+    ],
+    "answer": "/etc/samba/smb.conf"
+  },
+  {
+    "topic": "22. Samba",
+    "question": "Která role Samby není doménovým kontrolérem?",
+    "options": [
+      "Standalone server",
+      "Domain Member Server",
+      "Primary Domain Controller",
+      "Backup Domain Controller"
+    ],
+    "answer": "Standalone server"
+  },
+  {
+    "topic": "22. Samba",
+    "question": "Který nástroj otestuje syntaxi konfiguračního souboru smb.conf?",
+    "options": [
+      "smbstatus",
+      "testparm",
+      "smbpasswd",
+      "pdbedit"
+    ],
+    "answer": "testparm"
+  },
+  {
+    "topic": "22. Samba",
+    "question": "Který protokol je Unixově nativní a lze ho použít vedle SMB?",
+    "options": [
+      "NetBios",
+      "NFS",
+      "CIFS",
+      "TCP"
+    ],
+    "answer": "NFS"
+  },
+  {
+    "topic": "22. Samba",
+    "question": "Který démon spravuje sdílení souborů a tiskáren?",
+    "options": [
+      "nmbd",
+      "smbd",
+      "winbindd",
+      "sambad"
+    ],
+    "answer": "smbd"
+  },
+  {
+    "topic": "22. Samba",
+    "question": "Který soubor ukládá hesla v Sambě?",
+    "options": [
+      "/var/lib/samba/private/passdb.tdb",
+      "/var/lib/samba/private/secrets.tdb",
+      "/etc/samba/smb.conf",
+      "/var/log/samba.log"
+    ],
+    "answer": "/var/lib/samba/private/secrets.tdb"
+  },
+  {
+    "topic": "22. Samba",
+    "question": "Který příkaz vypíše seznam uživatelů Samby?",
+    "options": [
+      "smbclient",
+      "smbstatus",
+      "pdbedit -L",
+      "testparm"
+    ],
+    "answer": "pdbedit -L"
+  },
+  {
+    "topic": "22. Samba",
+    "question": "Která sekce smb.conf nastavuje domovské složky uživatelů?",
+    "options": [
+      "[global]",
+      "[homes]",
+      "[printers]",
+      "[verejne]"
+    ],
+    "answer": "[homes]"
+  },
+  {
+    "topic": "23. Web server Apache",
+    "question": "Který parametr v security.conf nastaví Apache na produkční režim?",
+    "options": [
+      "ServerSignature",
+      "ServerTokens",
+      "SSLCipherSuite",
+      "Timeout"
+    ],
+    "answer": "ServerTokens"
+  },
+  {
+    "topic": "23. Web server Apache",
+    "question": "Který příkaz povolí modul SSL v Apache?",
+    "options": [
+      "a2enmod ssl",
+      "systemctl restart apache2",
+      "openssl req",
+      "a2ensite default-ssl.conf"
+    ],
+    "answer": "a2enmod ssl"
+  },
+  {
+    "topic": "23. Web server Apache",
+    "question": "Kde se nachází výchozí kořenový adresář dokumentů v Apache?",
+    "options": [
+      "/var/www",
+      "/etc/apache2",
+      "/usr/share",
+      "/etc/ssl"
+    ],
+    "answer": "/var/www"
+  },
+  {
+    "topic": "23. Web server Apache",
+    "question": "Který parametr v apache2.conf omezuje velikost požadavku na 102400 bajtů?",
+    "options": [
+      "LimitRequestFields",
+      "LimitRequestFieldSize",
+      "LimitRequestBody",
+      "Timeout"
+    ],
+    "answer": "LimitRequestBody"
+  },
+  {
+    "topic": "23. Web server Apache",
+    "question": "Který příkaz vygeneruje certifikát pro SSL v Apache?",
+    "options": [
+      "a2enmod ssl",
+      "openssl req -new -x509 -newkey rsa:4096",
+      "systemctl restart apache2",
+      "a2ensite default-ssl.conf"
+    ],
+    "answer": "openssl req -new -x509 -newkey rsa:4096"
+  },
+  {
+    "topic": "23. Web server Apache",
+    "question": "Který soubor obsahuje konfiguraci SSL v Apache?",
+    "options": [
+      "security.conf",
+      "ssl.conf",
+      "apache2.conf",
+      "000-default.conf"
+    ],
+    "answer": "ssl.conf"
+  },
+  {
+    "topic": "23. Web server Apache",
+    "question": "Co nastaví parametr FileEtag na none na konci apache2.conf?",
+    "options": [
+      "Vypne ETag hlavičky",
+      "Nastaví timeout na 0",
+      "Omezí počet polí v požadavku",
+      "Povolí SSL"
+    ],
+    "answer": "Vypne ETag hlavičky"
+  },
+  {
+    "topic": "23. Web server Apache",
+    "question": "Který příkaz aktivuje konfiguraci default-ssl.conf?",
+    "options": [
+      "a2enmod ssl",
+      "a2ensite default-ssl.conf",
+      "systemctl restart apache2",
+      "openssl req"
+    ],
+    "answer": "a2ensite default-ssl.conf"
+  },
+  {
+    "topic": "23. Web server Apache",
+    "question": "Který uživatel by měl vlastnit adresář /var/www po konfiguraci?",
+    "options": [
+      "root",
+      "www-data",
+      "apache",
+      "user"
+    ],
+    "answer": "www-data"
+  },
+  {
+    "topic": "23. Web server Apache",
+    "question": "Který soubor obsahuje testovací PHP skript index.php?",
+    "options": [
+      "/etc/apache2/index.php",
+      "/var/www/index.php",
+      "/etc/ssl/index.php",
+      "/usr/share/index.php"
+    ],
+    "answer": "/var/www/index.php"
+  },
+  {
+    "topic": "24. Mailový server",
+    "question": "Který balíček je třeba nainstalovat pro mailový server na Debianu?",
+    "options": [
+      "apache2",
+      "exim4-daemon-heavy",
+      "bind9",
+      "samba"
+    ],
+    "answer": "exim4-daemon-heavy"
+  },
+  {
+    "topic": "24. Mailový server",
+    "question": "Který soubor konfiguruje cestu pro lokalní skenování v Exim4?",
+    "options": [
+      "sa-exim.conf",
+      "exim4.conf.template",
+      "10-auth.conf",
+      "10-mail.conf"
+    ],
+    "answer": "exim4.conf.template"
+  },
+  {
+    "topic": "24. Mailový server",
+    "question": "Který parametr se nastavuje na 'no' v souboru 10-auth.conf pro Dovecot?",
+    "options": [
+      "mail_location",
+      "disable_plaintext_auth",
+      "ssl",
+      "auth_mechanisms"
+    ],
+    "answer": "disable_plaintext_auth"
+  },
+  {
+    "topic": "24. Mailový server",
+    "question": "Který nástroj se používá k aktualizaci konfigurace Exim4?",
+    "options": [
+      "systemctl restart exim4",
+      "update-exim4.conf",
+      "dpkg-reconfigure exim4-config",
+      "apt install exim4"
+    ],
+    "answer": "update-exim4.conf"
+  },
+  {
+    "topic": "24. Mailový server",
+    "question": "Kde se nachází složka pro SquirrelMail po rozbalení?",
+    "options": [
+      "/etc/squirrelmail",
+      "/var/www/squirrel",
+      "/usr/share/squirrel",
+      "/etc/apache2/squirrel"
+    ],
+    "answer": "/var/www/squirrel"
+  },
+  {
+    "topic": "24. Mailový server",
+    "question": "Který balíček je třeba nainstalovat pro podporu IMAP a POP3 v Dovecot?",
+    "options": [
+      "dovecot-imapd dovecot-pop3d",
+      "exim4-daemon-heavy",
+      "spamassassin",
+      "sa-exim"
+    ],
+    "answer": "dovecot-imapd dovecot-pop3d"
+  },
+  {
+    "topic": "24. Mailový server",
+    "question": "Který parametr v sa-exim.conf se nastavuje na 1 pro povolení spamu?",
+    "options": [
+      "report_safe",
+      "rewrite_header",
+      "spamc_timeout",
+      "sa_exim_spam"
+    ],
+    "answer": "sa_exim_spam"
+  },
+  {
+    "topic": "24. Mailový server",
+    "question": "Který příkaz restartuje službu Exim4?",
+    "options": [
+      "systemctl restart dovecot",
+      "systemctl restart exim4",
+      "systemctl restart apache2",
+      "update-exim4.conf"
+    ],
+    "answer": "systemctl restart exim4"
+  },
+  {
+    "topic": "24. Mailový server",
+    "question": "Která doména se nastavuje při konfiguraci Exim4?",
+    "options": [
+      "example.com",
+      "opicka.local",
+      "test.local",
+      "mail.local"
+    ],
+    "answer": "opicka.local"
+  },
+  {
+    "topic": "24. Mailový server",
+    "question": "Který adresář obsahuje data a přílohy pro SquirrelMail?",
+    "options": [
+      "/var/local/squirrelmail/data",
+      "/etc/squirrelmail/data",
+      "/var/www/data",
+      "/usr/share/squirrel/data"
+    ],
+    "answer": "/var/local/squirrelmail/data"
+  },
+  {
+    "topic": "25. Zabezpečení dat, základy šifrování",
+    "question": "Co je charakteristickým znakem symetrické šifry?",
+    "options": [
+      "Používá dvojici klíčů",
+      "Používá stejný klíč pro šifrování i dešifrování",
+      "Je jednosměrná",
+      "Nevytváří hash"
+    ],
+    "answer": "Používá stejný klíč pro šifrování i dešifrování"
+  },
+  {
+    "topic": "25. Zabezpečení dat, základy šifrování",
+    "question": "Který klíč se používá k zašifrování dat v asymetrické šifře?",
+    "options": [
+      "Privátní klíč",
+      "Veřejný klíč",
+      "Session klíč",
+      "Hash klíč"
+    ],
+    "answer": "Veřejný klíč"
+  },
+  {
+    "topic": "25. Zabezpečení dat, základy šifrování",
+    "question": "K čemu slouží hash v bezpečnosti?",
+    "options": [
+      "K šifrování dat",
+      "K uložení hesel v nevratné podobě",
+      "K vytvoření certifikátů",
+      "K detekci kolizí"
+    ],
+    "answer": "K uložení hesel v nevratné podobě"
+  },
+  {
+    "topic": "25. Zabezpečení dat, základy šifrování",
+    "question": "Který algoritmus je příkladem asymetrické šifry?",
+    "options": [
+      "AES",
+      "RSA",
+      "MD5",
+      "SHA"
+    ],
+    "answer": "RSA"
+  },
+  {
+    "topic": "25. Zabezpečení dat, základy šifrování",
+    "question": "Co je hlavním účelem elektronického podpisu?",
+    "options": [
+      "Šifrování celé zprávy",
+      "Ověření identity a neporušenosti zprávy",
+      "Vytvoření hash klíče",
+      "Nastavení SSL"
+    ],
+    "answer": "Ověření identity a neporušenosti zprávy"
+  },
+  {
+    "topic": "25. Zabezpečení dat, základy šifrování",
+    "question": "Který klíč se používá k dešifrování elektronického podpisu?",
+    "options": [
+      "Soukromý klíč",
+      "Veřejný klíč",
+      "Session klíč",
+      "Hash klíč"
+    ],
+    "answer": "Veřejný klíč"
+  },
+  {
+    "topic": "25. Zabezpečení dat, základy šifrování",
+    "question": "Kdo vydává certifikáty v PKI?",
+    "options": [
+      "Klient",
+      "Server",
+      "Certifikační autorita",
+      "Firewall"
+    ],
+    "answer": "Certifikační autorita"
+  },
+  {
+    "topic": "25. Zabezpečení dat, základy šifrování",
+    "question": "Co je první krok v handshake protokolu SSL/TLS?",
+    "options": [
+      "Server hello",
+      "Client hello",
+      "Change cipher specs",
+      "Server finished"
+    ],
+    "answer": "Client hello"
+  },
+  {
+    "topic": "25. Zabezpečení dat, základy šifrování",
+    "question": "Co se generuje z Pre-Master key během handshake?",
+    "options": [
+      "Veřejný klíč",
+      "Master key",
+      "Hash",
+      "Privátní klíč"
+    ],
+    "answer": "Master key"
+  },
+  {
+    "topic": "25. Zabezpečení dat, základy šifrování",
+    "question": "Která zpráva ukončuje handshake a zahajuje šifrovanou komunikaci?",
+    "options": [
+      "Client hello",
+      "Server hello done",
+      "Server finished",
+      "Change cipher specs"
+    ],
+    "answer": "Server finished"
   }
 ]
