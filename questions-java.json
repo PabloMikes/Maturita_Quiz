@@ -1142,5 +1142,281 @@
       "draw()"
     ],
     "answer": "contains()"
+  },
+  {
+    "topic": "21. Animace",
+    "question": "K čemu slouží třída Timeline v JavaFX?",
+    "options": [
+      "Ke správě událostí myši",
+      "K vytváření časově řízených animací",
+      "K vykreslování 2D grafiky",
+      "K připojení k databázi"
+    ],
+    "answer": "K vytváření časově řízených animací"
+  },
+  {
+    "topic": "21. Animace",
+    "question": "Co určuje KeyFrame v třídě Timeline?",
+    "options": [
+      "Čas a akci, která se má vykonat",
+      "Velikost objektu",
+      "Barvu pozadí",
+      "Typ události klávesnice"
+    ],
+    "answer": "Čas a akci, která se má vykonat"
+  },
+  {
+    "topic": "21. Animace",
+    "question": "Která třída je vhodná pro animace v reálném čase, například ve hrách?",
+    "options": [
+      "Timeline",
+      "AnimationTimer",
+      "KeyFrame",
+      "Shape"
+    ],
+    "answer": "AnimationTimer"
+  },
+  {
+    "topic": "21. Animace",
+    "question": "Jaký je hlavní rozdíl mezi Timeline a AnimationTimer?",
+    "options": [
+      "Timeline je založena na klíčových snímcích, AnimationTimer na reálném čase",
+      "Timeline je pro hry, AnimationTimer pro databáze",
+      "Timeline je pro statické objekty, AnimationTimer pro dynamické",
+      "Timeline je rozhraní, AnimationTimer je třída"
+    ],
+    "answer": "Timeline je založena na klíčových snímcích, AnimationTimer na reálném čase"
+  },
+  {
+    "topic": "21. Animace",
+    "question": "Pro jaký typ animace je Timeline nejvhodnější?",
+    "options": [
+      "Interaktivní animace ve hrách",
+      "Plynulé přechody s pevným časovým rámcem",
+      "Animace založené na pohybu myši",
+      "Animace založené na databázových datech"
+    ],
+    "answer": "Plynulé přechody s pevným časovým rámcem"
+  },
+  {
+    "topic": "22. Práce s databází",
+    "question": "Jaký příkaz se používá k vytvoření databáze v SQL?",
+    "options": [
+      "CREATE TABLE nazev_databaze;",
+      "CREATE DATABASE nazev_databaze;",
+      "INSERT INTO nazev_databaze;",
+      "SELECT DATABASE nazev_databaze;"
+    ],
+    "answer": "CREATE DATABASE nazev_databaze;"
+  },
+  {
+    "topic": "22. Práce s databází",
+    "question": "Co je JDBC v kontextu Java aplikací?",
+    "options": [
+      "Třída pro animace",
+      "API pro připojení k relačním databázím",
+      "Nástroj pro build aplikací",
+      "Rozhraní pro správu vláken"
+    ],
+    "answer": "API pro připojení k relačním databázím"
+  },
+  {
+    "topic": "22. Práce s databází",
+    "question": "Co znamená zkratka CRUD v práci s databázemi?",
+    "options": [
+      "Create, Read, Update, Delete",
+      "Connect, Retrieve, Upload, Drop",
+      "Calculate, Render, Update, Draw",
+      "Create, Read, Undo, Destroy"
+    ],
+    "answer": "Create, Read, Update, Delete"
+  },
+  {
+    "topic": "22. Práce s databází",
+    "question": "Jaká je výhoda použití JDBC pro připojení k databázi?",
+    "options": [
+      "Podpora pouze MySQL databází",
+      "Není potřeba instalovat ovladače",
+      "Není nezávislé na konkrétní databázi",
+      "Není možné použít ORM nástroje",
+      "Není nezávislé na konkrétní databázi"
+    ],
+    "answer": "Není nezávislé na konkrétní databázi"
+  },
+  {
+    "topic": "22. Práce s databází",
+    "question": "Která operace z CRUD slouží k aktualizaci dat v databázi?",
+    "options": [
+      "Create",
+      "Read",
+      "Update",
+      "Delete"
+    ],
+    "answer": "Update"
+  },
+  {
+    "topic": "23. Základy 2D her",
+    "question": "Co znamená renderování v kontextu 2D her?",
+    "options": [
+      "Připojení k databázi",
+      "Vykreslování grafických objektů na obrazovce",
+      "Správa vláken",
+      "Přidání závislostí v build systému"
+    ],
+    "answer": "Vykreslování grafických objektů na obrazovce"
+  },
+  {
+    "topic": "23. Základy 2D her",
+    "question": "Které klávesy se běžně používají pro pohyb postavy v 2D hrách?",
+    "options": [
+      "QWER",
+      "WASD",
+      "IJKL",
+      "TFGH"
+    ],
+    "answer": "WASD"
+  },
+  {
+    "topic": "23. Základy 2D her",
+    "question": "Co je obdélníková kolize v 2D hrách?",
+    "options": [
+      "Detekce kontaktu porovnáním pixelů",
+      "Detekce kontaktu porovnáním souřadnic obdélníků",
+      "Detekce vzdálenosti mezi středy kruhů",
+      "Detekce pohybu klávesami WASD"
+    ],
+    "answer": "Detekce kontaktu porovnáním souřadnic obdélníků"
+  },
+  {
+    "topic": "23. Základy 2D her",
+    "question": "Která podmínka musí být splněna pro detekci obdélníkové kolize?",
+    "options": [
+      "x1 > x2 + width2",
+      "x1 + width1 > x2",
+      "y1 > y2 + height2",
+      "y1 + height1 < y2"
+    ],
+    "answer": "x1 + width1 > x2"
+  },
+  {
+    "topic": "23. Základy 2D her",
+    "question": "Jaký typ kolize je nejjednodušší pro detekci mezi dvěma objekty?",
+    "options": [
+      "Pixelová kolize",
+      "Kruhová kolize",
+      "Obdélníková kolize",
+      "Trojúhelníková kolize"
+    ],
+    "answer": "Obdélníková kolize"
+  },
+  {
+    "topic": "24. Build systémy Maven/Gradle",
+    "question": "Který soubor obsahuje konfiguraci pro Maven projekt?",
+    "options": [
+      "build.gradle",
+      "pom.xml",
+      "settings.gradle",
+      "config.xml"
+    ],
+    "answer": "pom.xml"
+  },
+  {
+    "topic": "24. Build systémy Maven/Gradle",
+    "question": "Jaký formát má konfigurační soubor Gradle?",
+    "options": [
+      "XML",
+      "JSON",
+      "YAML",
+      "TXT"
+    ],
+    "answer": "JSON"
+  },
+  {
+    "topic": "24. Build systémy Maven/Gradle",
+    "question": "Kde jsou umístěny zdrojové kódy v Maven projektu?",
+    "options": [
+      "src/main/resources",
+      "src/test/java",
+      "src/main/java",
+      "build/main/java"
+    ],
+    "answer": "src/main/java"
+  },
+  {
+    "topic": "24. Build systémy Maven/Gradle",
+    "question": "K čemu slouží build systémy jako Maven a Gradle?",
+    "options": [
+      "K vykreslování grafiky",
+      "K automatizaci kompilace a správy závislostí",
+      "K připojení k databázi",
+      "K správě animací"
+    ],
+    "answer": "K automatizaci kompilace a správy závislostí"
+  },
+  {
+    "topic": "24. Build systémy Maven/Gradle",
+    "question": "Který soubor je třeba upravit pro přidání závislostí v Gradle projektu?",
+    "options": [
+      "pom.xml",
+      "build.gradle",
+      "settings.xml",
+      "config.gradle"
+    ],
+    "answer": "build.gradle"
+  },
+  {
+    "topic": "25. Vlákna",
+    "question": "Co je vlákno v programování?",
+    "options": [
+      "Sekvence instrukcí vykonávaná samostatně v procesu",
+      "Třída pro správu databází",
+      "Metoda pro animace",
+      "Konfigurační soubor"
+    ],
+    "answer": "Sekvence instrukcí vykonávaná samostatně v procesu"
+  },
+  {
+    "topic": "25. Vlákna",
+    "question": "Který stav vlákna nastává po volání metody start()?",
+    "options": [
+      "New",
+      "Runnable",
+      "Not runnable",
+      "Dead"
+    ],
+    "answer": "Runnable"
+  },
+  {
+    "topic": "25. Vlákna",
+    "question": "Která třída je základní pro práci s vlákny v Javě?",
+    "options": [
+      "Runnable",
+      "Thread",
+      "Timeline",
+      "KeyFrame"
+    ],
+    "answer": "Thread"
+  },
+  {
+    "topic": "25. Vlákna",
+    "question": "Co definuje rozhraní Runnable v Javě?",
+    "options": [
+      "Metodu start()",
+      "Metodu run()",
+      "Metodu stop()",
+      "Metodu sleep()"
+    ],
+    "answer": "Metodu run()"
+  },
+  {
+    "topic": "25. Vlákna",
+    "question": "Který stav vlákna nastává po ukončení metody run()?",
+    "options": [
+      "Runnable",
+      "Not runnable",
+      "Dead",
+      "New"
+    ],
+    "answer": "Dead"
   }
 ]
